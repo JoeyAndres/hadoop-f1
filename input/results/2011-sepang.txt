@@ -1,0 +1,24 @@
+2011,sepang,red_bull,vettel,Finished,5859832,1
+2011,sepang,mclaren,button,Finished,5863093,2
+2011,sepang,renault,heidfeld,Finished,5884907,3
+2011,sepang,red_bull,webber,Finished,5886216,4
+2011,sepang,ferrari,massa,Finished,5896790,5
+2011,sepang,ferrari,alonso,Finished,5897080,6
+2011,sepang,sauber,kobayashi,Finished,5926271,7
+2011,sepang,mclaren,hamilton,Finished,5929789,8
+2011,sepang,mercedes,michael_schumacher,Finished,5944728,9
+2011,sepang,force_india,resta,Finished,5951395,10
+2011,sepang,force_india,sutil,+1 Lap,5961211,11
+2011,sepang,mercedes,rosberg,+1 Lap,-1,12
+2011,sepang,toro_rosso,buemi,+1 Lap,-1,13
+2011,sepang,toro_rosso,alguersuari,+1 Lap,-1,14
+2011,sepang,lotus_racing,kovalainen,+1 Lap,-1,15
+2011,sepang,virgin,glock,+2 Laps,-1,16
+2011,sepang,renault,petrov,Accident,-1,17
+2011,sepang,hrt,liuzzi,+10 Laps,-1,18
+2011,sepang,virgin,ambrosio,Accident,-1,19
+2011,sepang,lotus_racing,trulli,Clutch,-1,20
+2011,sepang,sauber,perez,Accident,-1,21
+2011,sepang,williams,barrichello,Gearbox,-1,22
+2011,sepang,hrt,karthikeyan,+42 Laps,-1,23
+2011,sepang,williams,maldonado,Engine misfire,-1,24

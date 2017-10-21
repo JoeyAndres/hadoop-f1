@@ -1,0 +1,23 @@
+1970,brands_hatch,team_lotus,rindt,Finished,7022000,1
+1970,brands_hatch,brabham,jack_brabham,Finished,7054900,2
+1970,brands_hatch,mclaren-ford,hulme,Finished,7076400,3
+1970,brands_hatch,ferrari,regazzoni,Finished,7076800,4
+1970,brands_hatch,march,amon,+1 Lap,-1,5
+1970,brands_hatch,team_lotus,hill,+1 Lap,-1,6
+1970,brands_hatch,march,cevert,+1 Lap,-1,7
+1970,brands_hatch,team_lotus,emerson_fittipaldi,+2 Laps,-1,8
+1970,brands_hatch,march,peterson,+8 Laps,-1,9
+1970,brands_hatch,team_lotus,lovely,Not classified,-1,10
+1970,brands_hatch,mclaren-ford,gurney,Oil pressure,-1,11
+1970,brands_hatch,brm,rodriguez,Accident,-1,12
+1970,brands_hatch,brm,oliver,Engine,-1,13
+1970,brands_hatch,march,stewart,Clutch,-1,14
+1970,brands_hatch,surtees,surtees,Oil pressure,-1,15
+1970,brands_hatch,matra,pescarolo,Accident,-1,16
+1970,brands_hatch,matra,beltoise,Wheel,-1,17
+1970,brands_hatch,march,mario_andretti,Suspension,-1,18
+1970,brands_hatch,march,siffert,Suspension,-1,19
+1970,brands_hatch,team_lotus,miles,Engine,-1,20
+1970,brands_hatch,brm,eaton,Oil pressure,-1,21
+1970,brands_hatch,ferrari,ickx,Transmission,-1,22
+1970,brands_hatch,mclaren-alfa_romeo,adamich,Fuel leak,-1,23

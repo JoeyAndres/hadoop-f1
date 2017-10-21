@@ -1,0 +1,16 @@
+1957,pescara,vanwall,moss,Finished,10762700,1
+1957,pescara,maserati,fangio,Finished,10956600,2
+1957,pescara,maserati,schell,Finished,11169500,3
+1957,pescara,maserati,gregory,Finished,11259200,4
+1957,pescara,vanwall,lewis-evans,+1 Lap,-1,5
+1957,pescara,maserati,scarlatti,+1 Lap,-1,6
+1957,pescara,cooper,jack_brabham,+3 Laps,-1,7
+1957,pescara,ferrari,musso,Oil leak,-1,8
+1957,pescara,maserati,godia,Engine,-1,9
+1957,pescara,maserati,halford,Transmission,-1,10
+1957,pescara,maserati,bonnier,Overheating,-1,11
+1957,pescara,maserati,behra,Oil leak,-1,12
+1957,pescara,cooper,salvadori,Accident,-1,13
+1957,pescara,vanwall,brooks,Engine,-1,14
+1957,pescara,maserati,gould,Accident,-1,15
+1957,pescara,maserati,piotti,Engine,-1,16

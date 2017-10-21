@@ -1,0 +1,20 @@
+2005,magny_cours,renault,alonso,Finished,5482232,1
+2005,magny_cours,mclaren,raikkonen,Finished,5494032,2
+2005,magny_cours,ferrari,michael_schumacher,Finished,5564132,3
+2005,magny_cours,bar,button,+1 Lap,-1,4
+2005,magny_cours,toyota,trulli,+1 Lap,-1,5
+2005,magny_cours,renault,fisichella,+1 Lap,-1,6
+2005,magny_cours,toyota,ralf_schumacher,+1 Lap,-1,7
+2005,magny_cours,sauber,villeneuve,+1 Lap,-1,8
+2005,magny_cours,ferrari,barrichello,+1 Lap,-1,9
+2005,magny_cours,red_bull,coulthard,+1 Lap,-1,10
+2005,magny_cours,bar,sato,+1 Lap,-1,11
+2005,magny_cours,williams,webber,+2 Laps,-1,12
+2005,magny_cours,jordan,monteiro,+3 Laps,-1,13
+2005,magny_cours,williams,heidfeld,+4 Laps,-1,14
+2005,magny_cours,jordan,karthikeyan,+4 Laps,-1,15
+2005,magny_cours,mclaren,montoya,Engine,-1,16
+2005,magny_cours,minardi,albers,Puncture,-1,17
+2005,magny_cours,minardi,friesacher,Puncture,-1,18
+2005,magny_cours,sauber,massa,Hydraulics,-1,19
+2005,magny_cours,red_bull,klien,Fuel pressure,-1,20

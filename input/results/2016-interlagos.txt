@@ -1,0 +1,22 @@
+2016,interlagos,mercedes,hamilton,Finished,10861335,1
+2016,interlagos,mercedes,rosberg,Finished,10872790,2
+2016,interlagos,red_bull,max_verstappen,Finished,10882816,3
+2016,interlagos,force_india,perez,Finished,10886681,4
+2016,interlagos,ferrari,vettel,Finished,10887669,5
+2016,interlagos,toro_rosso,sainz,Finished,10890495,6
+2016,interlagos,force_india,hulkenberg,Finished,10891162,7
+2016,interlagos,red_bull,ricciardo,Finished,10891821,8
+2016,interlagos,sauber,nasr,Finished,10903955,9
+2016,interlagos,mclaren,alonso,Finished,10905767,10
+2016,interlagos,williams,bottas,Finished,10906627,11
+2016,interlagos,manor,ocon,Finished,10907144,12
+2016,interlagos,toro_rosso,kvyat,Finished,10912527,13
+2016,interlagos,renault,kevin_magnussen,Finished,10912890,14
+2016,interlagos,manor,wehrlein,Finished,10921833,15
+2016,interlagos,mclaren,button,Finished,10943329,16
+2016,interlagos,haas,gutierrez,Retired,-1,17
+2016,interlagos,williams,massa,Collision,-1,18
+2016,interlagos,renault,jolyon_palmer,Collision damage,-1,19
+2016,interlagos,ferrari,raikkonen,Collision,-1,20
+2016,interlagos,sauber,ericsson,Collision,-1,21
+2016,interlagos,haas,grosjean,Withdrew,-1,22

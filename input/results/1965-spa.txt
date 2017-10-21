@@ -1,0 +1,19 @@
+1965,spa,lotus-climax,clark,Finished,8614800,1
+1965,spa,brm,stewart,Finished,8659600,2
+1965,spa,cooper-climax,mclaren,+1 Lap,-1,3
+1965,spa,brabham-climax,jack_brabham,+1 Lap,-1,4
+1965,spa,brm,hill,+1 Lap,-1,5
+1965,spa,honda,ginther,+1 Lap,-1,6
+1965,spa,lotus-climax,spence,+1 Lap,-1,7
+1965,spa,brabham-brm,siffert,+1 Lap,-1,8
+1965,spa,ferrari,bandini,+2 Laps,-1,9
+1965,spa,brabham-climax,gurney,+2 Laps,-1,10
+1965,spa,cooper-climax,rindt,+3 Laps,-1,11
+1965,spa,brm,bianchi,+3 Laps,-1,12
+1965,spa,lotus-brm,ireland,+5 Laps,-1,13
+1965,spa,lotus-brm,attwood,Accident,-1,14
+1965,spa,brm,gregory,Fuel pump,-1,15
+1965,spa,brabham-climax,bonnier,Ignition,-1,16
+1965,spa,honda,bucknum,Gearbox,-1,17
+1965,spa,ferrari,surtees,Engine,-1,18
+1965,spa,brabham-brm,gardner,Ignition,-1,19

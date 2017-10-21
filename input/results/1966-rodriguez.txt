@@ -1,0 +1,18 @@
+1966,rodriguez,cooper-maserati,surtees,Finished,7595340,1
+1966,rodriguez,brabham-repco,jack_brabham,Finished,7603220,2
+1966,rodriguez,brabham-repco,hulme,+1 Lap,-1,3
+1966,rodriguez,honda,ginther,+1 Lap,-1,4
+1966,rodriguez,eagle-climax,gurney,+1 Lap,-1,5
+1966,rodriguez,cooper-maserati,bonnier,+2 Laps,-1,6
+1966,rodriguez,lotus-brm,arundell,+4 Laps,-1,7
+1966,rodriguez,honda,bucknum,+5 Laps,-1,8
+1966,rodriguez,lotus-brm,rodriguez,Differential,-1,9
+1966,rodriguez,mclaren-ford,mclaren,Engine,-1,10
+1966,rodriguez,cooper-maserati,siffert,Suspension,-1,11
+1966,rodriguez,cooper-maserati,rindt,Suspension,-1,12
+1966,rodriguez,brm,ireland,Transmission,-1,13
+1966,rodriguez,brm,stewart,Oil leak,-1,14
+1966,rodriguez,eagle-weslake,bondurant,Fuel system,-1,15
+1966,rodriguez,brm,hill,Engine,-1,16
+1966,rodriguez,lotus-brm,clark,Gearbox,-1,17
+1966,rodriguez,cooper-maserati,solana,Overheating,-1,18

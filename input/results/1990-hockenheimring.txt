@@ -1,0 +1,30 @@
+1990,hockenheimring,mclaren,senna,Finished,4847164,1
+1990,hockenheimring,benetton,nannini,Finished,4853684,2
+1990,hockenheimring,mclaren,berger,Finished,4855717,3
+1990,hockenheimring,ferrari,prost,Finished,4892434,4
+1990,hockenheimring,williams,patrese,Finished,4895192,5
+1990,hockenheimring,williams,boutsen,Finished,4928655,6
+1990,hockenheimring,leyton,capelli,+1 Lap,-1,7
+1990,hockenheimring,team_lotus,warwick,+1 Lap,-1,8
+1990,hockenheimring,arrows,caffi,+1 Lap,-1,9
+1990,hockenheimring,ligier,larini,+2 Laps,-1,10
+1990,hockenheimring,tyrrell,alesi,Transmission,-1,11
+1990,hockenheimring,onyx,lehto,Not classified,-1,12
+1990,hockenheimring,larrousse,bernard,Fuel pump,-1,13
+1990,hockenheimring,larrousse,suzuki,Clutch,-1,14
+1990,hockenheimring,tyrrell,satoru_nakajima,Engine,-1,15
+1990,hockenheimring,benetton,piquet,Engine,-1,16
+1990,hockenheimring,minardi,martini,Engine,-1,17
+1990,hockenheimring,onyx,foitek,Spun off,-1,18
+1990,hockenheimring,ferrari,mansell,Broken wing,-1,19
+1990,hockenheimring,leyton,gugelmin,Engine,-1,20
+1990,hockenheimring,brabham,brabham,Engine,-1,21
+1990,hockenheimring,arrows,alboreto,Engine,-1,22
+1990,hockenheimring,team_lotus,donnelly,Clutch,-1,23
+1990,hockenheimring,brabham,modena,Clutch,-1,24
+1990,hockenheimring,dallara,pirro,Collision,-1,25
+1990,hockenheimring,ligier,alliot,Disqualified,-1,26
+1990,hockenheimring,osella,grouillard,Did not qualify,-1,27
+1990,hockenheimring,minardi,barilla,Did not qualify,-1,28
+1990,hockenheimring,ags,dalmas,Did not qualify,-1,29
+1990,hockenheimring,dallara,cesaris,Did not qualify,-1,30

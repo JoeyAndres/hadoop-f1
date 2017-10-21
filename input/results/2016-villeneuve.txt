@@ -1,0 +1,22 @@
+2016,villeneuve,mercedes,hamilton,Finished,5465296,1
+2016,villeneuve,ferrari,vettel,Finished,5470307,2
+2016,villeneuve,williams,bottas,Finished,5511718,3
+2016,villeneuve,red_bull,max_verstappen,Finished,5518316,4
+2016,villeneuve,mercedes,rosberg,Finished,5527389,5
+2016,villeneuve,ferrari,raikkonen,Finished,5528313,6
+2016,villeneuve,red_bull,ricciardo,Finished,5528930,7
+2016,villeneuve,force_india,hulkenberg,+1 Lap,-1,8
+2016,villeneuve,toro_rosso,sainz,+1 Lap,-1,9
+2016,villeneuve,force_india,perez,+1 Lap,-1,10
+2016,villeneuve,mclaren,alonso,+1 Lap,-1,11
+2016,villeneuve,toro_rosso,kvyat,+1 Lap,-1,12
+2016,villeneuve,haas,gutierrez,+2 Laps,-1,13
+2016,villeneuve,haas,grosjean,+2 Laps,-1,14
+2016,villeneuve,sauber,ericsson,+2 Laps,-1,15
+2016,villeneuve,renault,kevin_magnussen,+2 Laps,-1,16
+2016,villeneuve,manor,wehrlein,+2 Laps,-1,17
+2016,villeneuve,sauber,nasr,+2 Laps,-1,18
+2016,villeneuve,manor,haryanto,+2 Laps,-1,19
+2016,villeneuve,williams,massa,Retired,-1,20
+2016,villeneuve,renault,jolyon_palmer,Retired,-1,21
+2016,villeneuve,mclaren,button,Power Unit,-1,22

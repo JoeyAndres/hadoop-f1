@@ -1,0 +1,27 @@
+1984,jacarepagua,mclaren,prost,Finished,6154492,1
+1984,jacarepagua,williams,keke_rosberg,Finished,6195006,2
+1984,jacarepagua,team_lotus,angelis,Finished,6213620,3
+1984,jacarepagua,alfa,cheever,+1 Lap,-1,4
+1984,jacarepagua,renault,tambay,Out of fuel,-1,5
+1984,jacarepagua,arrows,boutsen,+2 Laps,-1,6
+1984,jacarepagua,arrows,surer,+2 Laps,-1,7
+1984,jacarepagua,ram,palmer,+3 Laps,-1,8
+1984,jacarepagua,tyrrell,brundle,Disqualified,-1,9
+1984,jacarepagua,renault,warwick,Suspension,-1,10
+1984,jacarepagua,ligier,cesaris,Gearbox,-1,11
+1984,jacarepagua,alfa,patrese,Gearbox,-1,12
+1984,jacarepagua,mclaren,lauda,Electrical,-1,13
+1984,jacarepagua,team_lotus,mansell,Accident,-1,14
+1984,jacarepagua,brabham,piquet,Engine,-1,15
+1984,jacarepagua,brabham,fabi,Turbo,-1,16
+1984,jacarepagua,ferrari,arnoux,Battery,-1,17
+1984,jacarepagua,osella,ghinzani,Gearbox,-1,18
+1984,jacarepagua,ligier,hesnault,Overheating,-1,19
+1984,jacarepagua,ram,alliot,Battery,-1,20
+1984,jacarepagua,toleman,cecotto,Turbo,-1,21
+1984,jacarepagua,williams,laffite,Electrical,-1,22
+1984,jacarepagua,ferrari,alboreto,Brakes,-1,23
+1984,jacarepagua,spirit,baldi,Distributor,-1,24
+1984,jacarepagua,tyrrell,bellof,Disqualified,-1,25
+1984,jacarepagua,toleman,senna,Turbo,-1,26
+1984,jacarepagua,ats,manfred_winkelhock,Disqualified,-1,27

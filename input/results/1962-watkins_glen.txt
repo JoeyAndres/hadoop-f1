@@ -1,0 +1,20 @@
+1962,watkins_glen,lotus-climax,clark,Finished,7633000,1
+1962,watkins_glen,brm,hill,Finished,7642200,2
+1962,watkins_glen,cooper-climax,mclaren,+1 Lap,-1,3
+1962,watkins_glen,brabham,jack_brabham,+1 Lap,-1,4
+1962,watkins_glen,porsche,gurney,+1 Lap,-1,5
+1962,watkins_glen,lotus-brm,gregory,+1 Lap,-1,6
+1962,watkins_glen,cooper-climax,maggs,+3 Laps,-1,7
+1962,watkins_glen,lotus-climax,ireland,+4 Laps,-1,8
+1962,watkins_glen,lotus-climax,penske,+4 Laps,-1,9
+1962,watkins_glen,lotus-climax,schroeder,+7 Laps,-1,10
+1962,watkins_glen,cooper-climax,sharp,+9 Laps,-1,11
+1962,watkins_glen,lotus-climax,trevor_taylor,+15 Laps,-1,12
+1962,watkins_glen,porsche,bonnier,+21 Laps,-1,13
+1962,watkins_glen,brm,ginther,Engine,-1,14
+1962,watkins_glen,lotus-climax,trintignant,Brakes,-1,15
+1962,watkins_glen,cooper-climax,mayer,Ignition,-1,16
+1962,watkins_glen,lola,surtees,Engine,-1,17
+1962,watkins_glen,porsche,beaufort,Accident,-1,18
+1962,watkins_glen,lola,salvadori,Withdrew,-1,19
+1962,watkins_glen,lotus-climax,hall,Withdrew,-1,20

@@ -1,0 +1,30 @@
+1992,silverstone,williams,mansell,Finished,5142991,1
+1992,silverstone,williams,patrese,Finished,5182085,2
+1992,silverstone,benetton,brundle,Finished,5191386,3
+1992,silverstone,benetton,michael_schumacher,Finished,5196258,4
+1992,silverstone,mclaren,berger,Finished,5198786,5
+1992,silverstone,team_lotus,hakkinen,Finished,5223129,6
+1992,silverstone,footwork,alboreto,+1 Lap,-1,7
+1992,silverstone,ligier,comas,+1 Lap,-1,8
+1992,silverstone,ferrari,capelli,+1 Lap,-1,9
+1992,silverstone,ligier,boutsen,+2 Laps,-1,10
+1992,silverstone,tyrrell,grouillard,+2 Laps,-1,11
+1992,silverstone,footwork,suzuki,+2 Laps,-1,12
+1992,silverstone,dallara,lehto,+2 Laps,-1,13
+1992,silverstone,fondmetal,tarquini,+2 Laps,-1,14
+1992,silverstone,dallara,martini,+3 Laps,-1,15
+1992,silverstone,brabham,damon_hill,+4 Laps,-1,16
+1992,silverstone,minardi,morbidelli,Engine,-1,17
+1992,silverstone,mclaren,senna,Transmission,-1,18
+1992,silverstone,tyrrell,cesaris,Spun off,-1,19
+1992,silverstone,ferrari,alesi,Mechanical,-1,20
+1992,silverstone,jordan,modena,Engine,-1,21
+1992,silverstone,jordan,gugelmin,Engine,-1,22
+1992,silverstone,larrousse,gachot,Wheel,-1,23
+1992,silverstone,team_lotus,herbert,Transmission,-1,24
+1992,silverstone,march,wendlinger,Gearbox,-1,25
+1992,silverstone,larrousse,katayama,Transmission,-1,26
+1992,silverstone,minardi,zanardi,Did not qualify,-1,27
+1992,silverstone,march,belmondo,Did not qualify,-1,28
+1992,silverstone,fondmetal,chiesa,Did not qualify,-1,29
+1992,silverstone,brabham,poele,Withdrew,-1,30

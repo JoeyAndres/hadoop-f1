@@ -1,0 +1,22 @@
+2016,monza,mercedes,rosberg,Finished,4648089,1
+2016,monza,mercedes,hamilton,Finished,4663159,2
+2016,monza,ferrari,vettel,Finished,4669079,3
+2016,monza,ferrari,raikkonen,Finished,4675650,4
+2016,monza,red_bull,ricciardo,Finished,4693384,5
+2016,monza,williams,bottas,Finished,4699104,6
+2016,monza,red_bull,max_verstappen,Finished,4702325,7
+2016,monza,force_india,perez,Finished,4713043,8
+2016,monza,williams,massa,Finished,4713706,9
+2016,monza,force_india,hulkenberg,Finished,4726745,10
+2016,monza,haas,grosjean,+1 Lap,-1,11
+2016,monza,mclaren,button,+1 Lap,-1,12
+2016,monza,haas,gutierrez,+1 Lap,-1,13
+2016,monza,mclaren,alonso,+1 Lap,-1,14
+2016,monza,toro_rosso,sainz,+1 Lap,-1,15
+2016,monza,sauber,ericsson,+1 Lap,-1,16
+2016,monza,renault,kevin_magnussen,+1 Lap,-1,17
+2016,monza,manor,ocon,+2 Laps,-1,18
+2016,monza,toro_rosso,kvyat,Battery,-1,19
+2016,monza,manor,wehrlein,Oil leak,-1,20
+2016,monza,renault,jolyon_palmer,Collision damage,-1,21
+2016,monza,sauber,nasr,Collision damage,-1,22

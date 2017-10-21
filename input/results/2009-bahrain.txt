@@ -1,0 +1,20 @@
+2009,bahrain,brawn,button,Finished,5508182,1
+2009,bahrain,red_bull,vettel,Finished,5515369,2
+2009,bahrain,toyota,trulli,Finished,5517352,3
+2009,bahrain,mclaren,hamilton,Finished,5530278,4
+2009,bahrain,brawn,barrichello,Finished,5545961,5
+2009,bahrain,ferrari,raikkonen,Finished,5550239,6
+2009,bahrain,toyota,glock,Finished,5551062,7
+2009,bahrain,renault,alonso,Finished,5560957,8
+2009,bahrain,williams,rosberg,Finished,5566380,9
+2009,bahrain,renault,piquet_jr,Finished,5573331,10
+2009,bahrain,red_bull,webber,Finished,5575823,11
+2009,bahrain,mclaren,kovalainen,Finished,5586006,12
+2009,bahrain,toro_rosso,bourdais,Finished,5586987,13
+2009,bahrain,ferrari,massa,+1 Lap,-1,14
+2009,bahrain,force_india,fisichella,+1 Lap,-1,15
+2009,bahrain,force_india,sutil,+1 Lap,-1,16
+2009,bahrain,toro_rosso,buemi,+1 Lap,-1,17
+2009,bahrain,bmw_sauber,kubica,+1 Lap,-1,18
+2009,bahrain,bmw_sauber,heidfeld,+1 Lap,-1,19
+2009,bahrain,williams,nakajima,Oil pressure,-1,20

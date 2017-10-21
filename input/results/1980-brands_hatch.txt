@@ -1,0 +1,27 @@
+1980,brands_hatch,williams,jones,Finished,5689228,1
+1980,brands_hatch,brabham,piquet,Finished,5700235,2
+1980,brands_hatch,williams,reutemann,Finished,5702513,3
+1980,brands_hatch,tyrrell,daly,+1 Lap,-1,4
+1980,brands_hatch,tyrrell,jarier,+1 Lap,-1,5
+1980,brands_hatch,mclaren,prost,+1 Lap,-1,6
+1980,brands_hatch,brabham,rebaque,+2 Laps,-1,7
+1980,brands_hatch,mclaren,watson,Engine,-1,8
+1980,brands_hatch,arrows,patrese,+3 Laps,-1,9
+1980,brands_hatch,ferrari,scheckter,+3 Laps,-1,10
+1980,brands_hatch,williams,keegan,+3 Laps,-1,11
+1980,brands_hatch,fittipaldi,emerson_fittipaldi,+4 Laps,-1,12
+1980,brands_hatch,arrows,mass,+7 Laps,-1,13
+1980,brands_hatch,renault,arnoux,Not classified,-1,14
+1980,brands_hatch,ligier,pironi,Tyre,-1,15
+1980,brands_hatch,ats,surer,Engine,-1,16
+1980,brands_hatch,team_lotus,mario_andretti,Gearbox,-1,17
+1980,brands_hatch,alfa,giacomelli,Spun off,-1,18
+1980,brands_hatch,ferrari,gilles_villeneuve,Engine,-1,19
+1980,brands_hatch,ligier,laffite,Tyre,-1,20
+1980,brands_hatch,alfa,depailler,Engine,-1,21
+1980,brands_hatch,osella,cheever,Suspension,-1,22
+1980,brands_hatch,team_lotus,angelis,Suspension,-1,23
+1980,brands_hatch,renault,jabouille,Engine,-1,24
+1980,brands_hatch,ensign,lammers,Did not qualify,-1,25
+1980,brands_hatch,fittipaldi,keke_rosberg,Did not qualify,-1,26
+1980,brands_hatch,williams,desire_wilson,Did not qualify,-1,27

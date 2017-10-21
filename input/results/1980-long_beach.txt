@@ -1,0 +1,27 @@
+1980,long_beach,brabham,piquet,Finished,6619400,1
+1980,long_beach,arrows,patrese,Finished,6668612,2
+1980,long_beach,fittipaldi,emerson_fittipaldi,Finished,6697963,3
+1980,long_beach,mclaren,watson,+1 Lap,-1,4
+1980,long_beach,ferrari,scheckter,+1 Lap,-1,5
+1980,long_beach,ligier,pironi,+1 Lap,-1,6
+1980,long_beach,arrows,mass,+1 Lap,-1,7
+1980,long_beach,tyrrell,daly,+1 Lap,-1,8
+1980,long_beach,renault,arnoux,+2 Laps,-1,9
+1980,long_beach,renault,jabouille,+9 Laps,-1,10
+1980,long_beach,fittipaldi,keke_rosberg,Overheating,-1,11
+1980,long_beach,ensign,regazzoni,Accident,-1,12
+1980,long_beach,alfa,giacomelli,Accident,-1,13
+1980,long_beach,williams,jones,Accident,-1,14
+1980,long_beach,ferrari,gilles_villeneuve,Transmission,-1,15
+1980,long_beach,alfa,depailler,Suspension,-1,16
+1980,long_beach,ligier,laffite,Puncture,-1,17
+1980,long_beach,osella,cheever,Transmission,-1,18
+1980,long_beach,williams,reutemann,Transmission,-1,19
+1980,long_beach,tyrrell,jarier,Accident,-1,20
+1980,long_beach,team_lotus,angelis,Accident,-1,21
+1980,long_beach,ats,lammers,Transmission,-1,22
+1980,long_beach,team_lotus,mario_andretti,Accident,-1,23
+1980,long_beach,brabham,zunino,Accident,-1,24
+1980,long_beach,shadow,kennedy,Did not qualify,-1,25
+1980,long_beach,shadow,lees,Did not qualify,-1,26
+1980,long_beach,mclaren,south,Did not qualify,-1,27

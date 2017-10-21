@@ -1,0 +1,22 @@
+1999,spa,mclaren,coulthard,Finished,5143057,1
+1999,spa,mclaren,hakkinen,Finished,5153526,2
+1999,spa,jordan,frentzen,Finished,5176490,3
+1999,spa,ferrari,irvine,Finished,5188005,4
+1999,spa,williams,ralf_schumacher,Finished,5191124,5
+1999,spa,jordan,damon_hill,Finished,5197973,6
+1999,spa,ferrari,salo,Finished,5199306,7
+1999,spa,williams,zanardi,Finished,5210079,8
+1999,spa,sauber,alesi,Finished,5216905,9
+1999,spa,stewart,barrichello,Finished,5223799,10
+1999,spa,benetton,fisichella,Finished,5235252,11
+1999,spa,prost,trulli,Finished,5239211,12
+1999,spa,prost,panis,Finished,5244600,13
+1999,spa,benetton,wurz,Finished,5260802,14
+1999,spa,bar,villeneuve,+1 Lap,-1,15
+1999,spa,minardi,gene,+1 Lap,-1,16
+1999,spa,arrows,rosa,Transmission,-1,17
+1999,spa,minardi,badoer,Suspension,-1,18
+1999,spa,bar,zonta,Gearbox,-1,19
+1999,spa,stewart,herbert,Brakes,-1,20
+1999,spa,sauber,diniz,Spun off,-1,21
+1999,spa,arrows,takagi,Clutch,-1,22

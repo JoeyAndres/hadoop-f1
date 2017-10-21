@@ -1,0 +1,27 @@
+1980,monaco,williams,reutemann,Finished,6934365,1
+1980,monaco,ligier,laffite,Finished,7007994,2
+1980,monaco,brabham,piquet,Finished,7012091,3
+1980,monaco,arrows,mass,+1 Lap,-1,4
+1980,monaco,ferrari,gilles_villeneuve,+1 Lap,-1,5
+1980,monaco,fittipaldi,emerson_fittipaldi,+2 Laps,-1,6
+1980,monaco,team_lotus,mario_andretti,+3 Laps,-1,7
+1980,monaco,arrows,patrese,+3 Laps,-1,8
+1980,monaco,team_lotus,angelis,Accident,-1,9
+1980,monaco,ats,lammers,Not classified,-1,10
+1980,monaco,ligier,pironi,Accident,-1,11
+1980,monaco,renault,arnoux,Accident,-1,12
+1980,monaco,alfa,depailler,Engine,-1,13
+1980,monaco,ferrari,scheckter,Handling,-1,14
+1980,monaco,renault,jabouille,Gearbox,-1,15
+1980,monaco,williams,jones,Differential,-1,16
+1980,monaco,alfa,giacomelli,Accident,-1,17
+1980,monaco,tyrrell,jarier,Accident,-1,18
+1980,monaco,mclaren,prost,Accident,-1,19
+1980,monaco,tyrrell,daly,Accident,-1,20
+1980,monaco,mclaren,watson,Did not qualify,-1,21
+1980,monaco,osella,cheever,Did not qualify,-1,22
+1980,monaco,shadow,lees,Did not qualify,-1,23
+1980,monaco,fittipaldi,keke_rosberg,Did not qualify,-1,24
+1980,monaco,brabham,zunino,Did not qualify,-1,25
+1980,monaco,ensign,needell,Did not qualify,-1,26
+1980,monaco,shadow,kennedy,Did not qualify,-1,27

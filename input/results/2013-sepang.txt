@@ -1,0 +1,22 @@
+2013,sepang,red_bull,vettel,Finished,5936681,1
+2013,sepang,red_bull,webber,Finished,5940979,2
+2013,sepang,mercedes,hamilton,Finished,5948862,3
+2013,sepang,mercedes,rosberg,Finished,5949321,4
+2013,sepang,ferrari,massa,Finished,5962329,5
+2013,sepang,lotus_f1,grosjean,Finished,5972245,6
+2013,sepang,lotus_f1,raikkonen,Finished,5985160,7
+2013,sepang,sauber,hulkenberg,Finished,5989725,8
+2013,sepang,mclaren,perez,Finished,6009038,9
+2013,sepang,toro_rosso,vergne,Finished,6023805,10
+2013,sepang,williams,bottas,Finished,6025291,11
+2013,sepang,sauber,gutierrez,+1 Lap,-1,12
+2013,sepang,marussia,jules_bianchi,+1 Lap,-1,13
+2013,sepang,caterham,pic,+1 Lap,-1,14
+2013,sepang,caterham,garde,+1 Lap,-1,15
+2013,sepang,marussia,chilton,+2 Laps,-1,16
+2013,sepang,mclaren,button,Withdrew,-1,17
+2013,sepang,toro_rosso,ricciardo,Retired,-1,18
+2013,sepang,williams,maldonado,Retired,-1,19
+2013,sepang,force_india,sutil,Wheel nut,-1,20
+2013,sepang,force_india,resta,Wheel nut,-1,21
+2013,sepang,ferrari,alonso,Collision,-1,22

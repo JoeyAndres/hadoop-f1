@@ -1,0 +1,22 @@
+2000,suzuka,ferrari,michael_schumacher,Finished,5393435,1
+2000,suzuka,mclaren,hakkinen,Finished,5395272,2
+2000,suzuka,mclaren,coulthard,Finished,5463349,3
+2000,suzuka,ferrari,barrichello,Finished,5472626,4
+2000,suzuka,williams,button,Finished,5479129,5
+2000,suzuka,bar,villeneuve,+1 Lap,-1,6
+2000,suzuka,jaguar,herbert,+1 Lap,-1,7
+2000,suzuka,jaguar,irvine,+1 Lap,-1,8
+2000,suzuka,bar,zonta,+1 Lap,-1,9
+2000,suzuka,sauber,salo,+1 Lap,-1,10
+2000,suzuka,sauber,diniz,+1 Lap,-1,11
+2000,suzuka,arrows,rosa,+1 Lap,-1,12
+2000,suzuka,jordan,trulli,+1 Lap,-1,13
+2000,suzuka,benetton,fisichella,+1 Lap,-1,14
+2000,suzuka,minardi,mazzacane,+2 Laps,-1,15
+2000,suzuka,minardi,gene,Engine,-1,16
+2000,suzuka,williams,ralf_schumacher,Spun off,-1,17
+2000,suzuka,prost,heidfeld,Suspension,-1,18
+2000,suzuka,benetton,wurz,Spun off,-1,19
+2000,suzuka,jordan,frentzen,Hydraulics,-1,20
+2000,suzuka,prost,alesi,Engine,-1,21
+2000,suzuka,arrows,verstappen,Electrical,-1,22

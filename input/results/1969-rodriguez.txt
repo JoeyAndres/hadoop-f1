@@ -1,0 +1,17 @@
+1969,rodriguez,mclaren-ford,hulme,Finished,6848800,1
+1969,rodriguez,brabham-ford,ickx,Finished,6851360,2
+1969,rodriguez,brabham-ford,jack_brabham,Finished,6887280,3
+1969,rodriguez,matra-ford,stewart,Finished,6895840,4
+1969,rodriguez,matra-ford,beltoise,Finished,6947320,5
+1969,rodriguez,brm,oliver,+2 Laps,-1,6
+1969,rodriguez,ferrari,rodriguez,+2 Laps,-1,7
+1969,rodriguez,matra-ford,gavin,+2 Laps,-1,8
+1969,rodriguez,lotus-ford,lovely,+3 Laps,-1,9
+1969,rodriguez,brabham-ford,courage,+4 Laps,-1,10
+1969,rodriguez,brabham-ford,moser,Fuel leak,-1,11
+1969,rodriguez,brm,surtees,Gearbox,-1,12
+1969,rodriguez,lotus-ford,rindt,Suspension,-1,13
+1969,rodriguez,brm,eaton,Gearbox,-1,14
+1969,rodriguez,lotus-ford,siffert,Accident,-1,15
+1969,rodriguez,lotus-ford,miles,Fuel pump,-1,16
+1969,rodriguez,mclaren-ford,mclaren,Withdrew,-1,17

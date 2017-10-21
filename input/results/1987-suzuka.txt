@@ -1,0 +1,27 @@
+1987,suzuka,ferrari,berger,Finished,5578072,1
+1987,suzuka,team_lotus,senna,Finished,5595456,2
+1987,suzuka,mclaren,johansson,Finished,5595766,3
+1987,suzuka,ferrari,alboreto,Finished,5658513,4
+1987,suzuka,benetton,boutsen,Finished,5663648,5
+1987,suzuka,team_lotus,satoru_nakajima,Finished,5674551,6
+1987,suzuka,mclaren,prost,+1 Lap,-1,7
+1987,suzuka,tyrrell,palmer,+1 Lap,-1,8
+1987,suzuka,arrows,cheever,Out of fuel,-1,9
+1987,suzuka,arrows,warwick,+1 Lap,-1,10
+1987,suzuka,brabham,patrese,+2 Laps,-1,11
+1987,suzuka,tyrrell,streiff,+2 Laps,-1,12
+1987,suzuka,ligier,ghinzani,+3 Laps,-1,13
+1987,suzuka,larrousse,dalmas,+4 Laps,-1,14
+1987,suzuka,williams,piquet,Engine,-1,15
+1987,suzuka,ligier,arnoux,Out of fuel,-1,16
+1987,suzuka,osella,caffi,Out of fuel,-1,17
+1987,suzuka,ags,moreno,Electrical,-1,18
+1987,suzuka,minardi,nannini,Engine,-1,19
+1987,suzuka,zakspeed,brundle,Engine,-1,20
+1987,suzuka,brabham,cesaris,Engine,-1,21
+1987,suzuka,benetton,fabi,Engine,-1,22
+1987,suzuka,zakspeed,danner,Engine,-1,23
+1987,suzuka,march,capelli,Accident,-1,24
+1987,suzuka,minardi,campos,Engine,-1,25
+1987,suzuka,larrousse,alliot,Accident,-1,26
+1987,suzuka,williams,mansell,Accident,-1,27

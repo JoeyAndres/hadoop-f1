@@ -1,0 +1,30 @@
+1991,suzuka,mclaren,berger,Finished,5530695,1
+1991,suzuka,mclaren,senna,Finished,5531039,2
+1991,suzuka,williams,patrese,Finished,5587426,3
+1991,suzuka,ferrari,prost,Finished,5611456,4
+1991,suzuka,brabham,brundle,+1 Lap,-1,5
+1991,suzuka,tyrrell,modena,+1 Lap,-1,6
+1991,suzuka,benetton,piquet,+1 Lap,-1,7
+1991,suzuka,leyton,gugelmin,+1 Lap,-1,8
+1991,suzuka,ligier,boutsen,+1 Lap,-1,9
+1991,suzuka,footwork,caffi,+2 Laps,-1,10
+1991,suzuka,fondmetal,tarquini,+3 Laps,-1,11
+1991,suzuka,ligier,comas,Alternator,-1,12
+1991,suzuka,minardi,martini,Electrical,-1,13
+1991,suzuka,benetton,michael_schumacher,Engine,-1,14
+1991,suzuka,team_lotus,herbert,Engine,-1,15
+1991,suzuka,tyrrell,satoru_nakajima,Spun off,-1,16
+1991,suzuka,lola,suzuki,Engine,-1,17
+1991,suzuka,minardi,morbidelli,Wheel,-1,18
+1991,suzuka,williams,mansell,Spun off,-1,19
+1991,suzuka,jordan,zanardi,Gearbox,-1,20
+1991,suzuka,team_lotus,hakkinen,Engine,-1,21
+1991,suzuka,jordan,cesaris,Accident,-1,22
+1991,suzuka,dallara,lehto,Accident,-1,23
+1991,suzuka,dallara,pirro,Accident,-1,24
+1991,suzuka,leyton,wendlinger,Accident,-1,25
+1991,suzuka,ferrari,alesi,Engine,-1,26
+1991,suzuka,footwork,alboreto,Did not qualify,-1,27
+1991,suzuka,lambo,larini,Did not qualify,-1,28
+1991,suzuka,lambo,poele,Did not qualify,-1,29
+1991,suzuka,lola,bernard,Did not qualify,-1,30

@@ -1,0 +1,23 @@
+1971,nurburgring,tyrrell,stewart,Finished,5356300,1
+1971,nurburgring,tyrrell,cevert,Finished,5386400,2
+1971,nurburgring,ferrari,regazzoni,Finished,5393400,3
+1971,nurburgring,ferrari,mario_andretti,Finished,5481300,4
+1971,nurburgring,march-ford,peterson,Finished,5505400,5
+1971,nurburgring,brabham,schenken,Finished,5534900,6
+1971,nurburgring,surtees,surtees,Finished,5555300,7
+1971,nurburgring,lotus-ford,wisell,Finished,5748000,8
+1971,nurburgring,brabham,hill,Finished,5753300,9
+1971,nurburgring,surtees,stommelen,+1 Lap,-1,10
+1971,nurburgring,brm,elford,+1 Lap,-1,11
+1971,nurburgring,march-alfa_romeo,galli,+2 Laps,-1,12
+1971,nurburgring,lotus-ford,emerson_fittipaldi,Oil leak,-1,13
+1971,nurburgring,brm,siffert,Disqualified,-1,14
+1971,nurburgring,matra,amon,Accident,-1,15
+1971,nurburgring,march-ford,pescarolo,Suspension,-1,16
+1971,nurburgring,mclaren,gethin,Accident,-1,17
+1971,nurburgring,mclaren,hulme,Fuel leak,-1,18
+1971,nurburgring,march-ford,beuttler,Disqualified,-1,19
+1971,nurburgring,brm,ganley,Engine,-1,20
+1971,nurburgring,march-alfa_romeo,adamich,Injection,-1,21
+1971,nurburgring,ferrari,ickx,Accident,-1,22
+1971,nurburgring,mclaren,bonnier,Did not qualify,-1,23

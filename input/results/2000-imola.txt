@@ -1,0 +1,22 @@
+2000,imola,ferrari,michael_schumacher,Finished,5499776,1
+2000,imola,mclaren,hakkinen,Finished,5500944,2
+2000,imola,mclaren,coulthard,Finished,5550784,3
+2000,imola,ferrari,barrichello,Finished,5589052,4
+2000,imola,bar,villeneuve,+1 Lap,-1,5
+2000,imola,sauber,salo,+1 Lap,-1,6
+2000,imola,jaguar,irvine,+1 Lap,-1,7
+2000,imola,sauber,diniz,+1 Lap,-1,8
+2000,imola,benetton,wurz,+1 Lap,-1,9
+2000,imola,jaguar,herbert,+1 Lap,-1,10
+2000,imola,benetton,fisichella,+1 Lap,-1,11
+2000,imola,bar,zonta,+1 Lap,-1,12
+2000,imola,minardi,mazzacane,+2 Laps,-1,13
+2000,imola,arrows,verstappen,+3 Laps,-1,14
+2000,imola,jordan,trulli,Gearbox,-1,15
+2000,imola,arrows,rosa,Spun off,-1,16
+2000,imola,williams,ralf_schumacher,Fuel system,-1,17
+2000,imola,prost,alesi,Hydraulics,-1,18
+2000,imola,prost,heidfeld,Hydraulics,-1,19
+2000,imola,williams,button,Engine,-1,20
+2000,imola,minardi,gene,Spun off,-1,21
+2000,imola,jordan,frentzen,Gearbox,-1,22

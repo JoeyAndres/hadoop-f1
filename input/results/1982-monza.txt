@@ -1,0 +1,30 @@
+1982,monza,renault,arnoux,Finished,4945734,1
+1982,monza,ferrari,tambay,Finished,4959798,2
+1982,monza,ferrari,mario_andretti,Finished,4994186,3
+1982,monza,mclaren,watson,Finished,5033579,4
+1982,monza,tyrrell,alboreto,+1 Lap,-1,5
+1982,monza,ligier,cheever,+1 Lap,-1,6
+1982,monza,team_lotus,mansell,+1 Lap,-1,7
+1982,monza,williams,keke_rosberg,+2 Laps,-1,8
+1982,monza,ats,salazar,+2 Laps,-1,9
+1982,monza,alfa,cesaris,+2 Laps,-1,10
+1982,monza,fittipaldi,serra,+3 Laps,-1,11
+1982,monza,arrows,baldi,+3 Laps,-1,12
+1982,monza,ensign,guerrero,Not classified,-1,13
+1982,monza,team_lotus,angelis,Throttle,-1,14
+1982,monza,alfa,giacomelli,Handling,-1,15
+1982,monza,arrows,surer,Ignition,-1,16
+1982,monza,renault,prost,Injection,-1,17
+1982,monza,mclaren,lauda,Brakes,-1,18
+1982,monza,osella,jarier,Wheel,-1,19
+1982,monza,brabham,piquet,Engine,-1,20
+1982,monza,brabham,patrese,Clutch,-1,21
+1982,monza,ligier,laffite,Gearbox,-1,22
+1982,monza,toleman,fabi,Engine,-1,23
+1982,monza,williams,daly,Collision,-1,24
+1982,monza,toleman,warwick,Collision,-1,25
+1982,monza,tyrrell,henton,Collision,-1,26
+1982,monza,march,keegan,Did not qualify,-1,27
+1982,monza,ats,manfred_winkelhock,Did not qualify,-1,28
+1982,monza,march,boesel,Did not qualify,-1,29
+1982,monza,theodore,byrne,Did not qualify,-1,30

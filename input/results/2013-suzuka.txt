@@ -1,0 +1,22 @@
+2013,suzuka,red_bull,vettel,Finished,5209301,1
+2013,suzuka,red_bull,webber,Finished,5216430,2
+2013,suzuka,lotus_f1,grosjean,Finished,5219211,3
+2013,suzuka,ferrari,alonso,Finished,5254906,4
+2013,suzuka,lotus_f1,raikkonen,Finished,5256626,5
+2013,suzuka,sauber,hulkenberg,Finished,5260916,6
+2013,suzuka,sauber,gutierrez,Finished,5280931,7
+2013,suzuka,mercedes,rosberg,Finished,5281324,8
+2013,suzuka,mclaren,button,Finished,5290122,9
+2013,suzuka,ferrari,massa,Finished,5298564,10
+2013,suzuka,force_india,resta,Finished,5307873,11
+2013,suzuka,toro_rosso,vergne,+1 Lap,-1,12
+2013,suzuka,toro_rosso,ricciardo,+1 Lap,-1,13
+2013,suzuka,force_india,sutil,+1 Lap,-1,14
+2013,suzuka,mclaren,perez,+1 Lap,-1,15
+2013,suzuka,williams,maldonado,+1 Lap,-1,16
+2013,suzuka,williams,bottas,+1 Lap,-1,17
+2013,suzuka,caterham,pic,+1 Lap,-1,18
+2013,suzuka,marussia,chilton,+1 Lap,-1,19
+2013,suzuka,mercedes,hamilton,Puncture,-1,20
+2013,suzuka,caterham,garde,Accident,-1,21
+2013,suzuka,marussia,jules_bianchi,Accident,-1,22

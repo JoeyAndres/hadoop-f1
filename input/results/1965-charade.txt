@@ -1,0 +1,17 @@
+1965,charade,lotus-climax,clark,Finished,9698400,1
+1965,charade,brm,stewart,Finished,9724700,2
+1965,charade,ferrari,surtees,Finished,9851900,3
+1965,charade,brabham-climax,hulme,Finished,9871500,4
+1965,charade,brm,hill,+1 Lap,-1,5
+1965,charade,brabham-brm,siffert,+1 Lap,-1,6
+1965,charade,lotus-climax,spence,+1 Lap,-1,7
+1965,charade,ferrari,bandini,Accident,-1,8
+1965,charade,brabham-climax,anderson,Fuel system,-1,9
+1965,charade,cooper-climax,mclaren,Suspension,-1,10
+1965,charade,brabham-climax,bonnier,Alternator,-1,11
+1965,charade,lotus-brm,amon,Fuel system,-1,12
+1965,charade,lotus-brm,ireland,Gearbox,-1,13
+1965,charade,brabham-climax,gurney,Engine,-1,14
+1965,charade,honda,ginther,Ignition,-1,15
+1965,charade,honda,bucknum,Ignition,-1,16
+1965,charade,cooper-climax,rindt,Accident,-1,17

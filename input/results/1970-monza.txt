@@ -1,0 +1,27 @@
+1970,monza,ferrari,regazzoni,Finished,5947100,1
+1970,monza,march,stewart,Finished,5952830,2
+1970,monza,matra,beltoise,Finished,5952900,3
+1970,monza,mclaren-ford,hulme,Finished,5953250,4
+1970,monza,brabham,stommelen,Finished,5953510,5
+1970,monza,march,cevert,Finished,6010560,6
+1970,monza,march,amon,+1 Lap,-1,7
+1970,monza,mclaren-alfa_romeo,adamich,+7 Laps,-1,8
+1970,monza,mclaren-ford,gethin,Not classified,-1,9
+1970,monza,brm,oliver,Engine,-1,10
+1970,monza,march,peterson,Engine,-1,11
+1970,monza,brabham,jack_brabham,Accident,-1,12
+1970,monza,ferrari,ickx,Clutch,-1,13
+1970,monza,brm,eaton,Overheating,-1,14
+1970,monza,tomaso,schenken,Engine,-1,15
+1970,monza,ferrari,giunti,Fuel system,-1,16
+1970,monza,matra,pescarolo,Engine,-1,17
+1970,monza,brm,rodriguez,Engine,-1,18
+1970,monza,march,siffert,Engine,-1,19
+1970,monza,surtees,surtees,Electrical,-1,20
+1970,monza,team_lotus,hill,Withdrew,-1,21
+1970,monza,team_lotus,miles,Withdrew,-1,22
+1970,monza,team_lotus,rindt,Fatal accident,-1,23
+1970,monza,mclaren-ford,bonnier,Did not qualify,-1,24
+1970,monza,team_lotus,emerson_fittipaldi,Withdrew,-1,25
+1970,monza,mclaren-alfa_romeo,galli,Did not qualify,-1,26
+1970,monza,bellasi,moser,Did not qualify,-1,27

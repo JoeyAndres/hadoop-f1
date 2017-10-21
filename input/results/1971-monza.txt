@@ -1,0 +1,24 @@
+1971,monza,brm,gethin,Finished,4692600,1
+1971,monza,march-ford,peterson,Finished,4692610,2
+1971,monza,tyrrell,cevert,Finished,4692690,3
+1971,monza,surtees,hailwood,Finished,4692780,4
+1971,monza,brm,ganley,Finished,4693210,5
+1971,monza,matra,amon,Finished,4724960,6
+1971,monza,mclaren,oliver,Finished,4777430,7
+1971,monza,lotus-pw,emerson_fittipaldi,+1 Lap,-1,8
+1971,monza,brm,siffert,+2 Laps,-1,9
+1971,monza,mclaren,bonnier,+4 Laps,-1,10
+1971,monza,brabham,hill,Gearbox,-1,11
+1971,monza,march-ford,jarier,Not classified,-1,12
+1971,monza,march-ford,beuttler,Engine,-1,13
+1971,monza,march-ford,pescarolo,Suspension,-1,14
+1971,monza,march-alfa_romeo,adamich,Engine,-1,15
+1971,monza,ferrari,regazzoni,Engine,-1,16
+1971,monza,ferrari,ickx,Engine,-1,17
+1971,monza,tyrrell,stewart,Engine,-1,18
+1971,monza,march-ford,galli,Electrical,-1,19
+1971,monza,brabham,schenken,Suspension,-1,20
+1971,monza,bellasi,moser,Suspension,-1,21
+1971,monza,brm,marko,Engine,-1,22
+1971,monza,surtees,surtees,Engine,-1,23
+1971,monza,surtees,stommelen,Accident,-1,24

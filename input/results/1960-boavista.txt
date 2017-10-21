@@ -1,0 +1,15 @@
+1960,boavista,cooper-climax,jack_brabham,Finished,8340030,1
+1960,boavista,cooper-climax,mclaren,Finished,8398000,2
+1960,boavista,team_lotus,clark,Finished,8453260,3
+1960,boavista,ferrari,trips,Finished,8458840,4
+1960,boavista,cooper-climax,brooks,+6 Laps,-1,5
+1960,boavista,team_lotus,ireland,+7 Laps,-1,6
+1960,boavista,cooper-climax,gendebien,+9 Laps,-1,7
+1960,boavista,team_lotus,moss,Disqualified,-1,8
+1960,boavista,cooper-maserati,cabral,Accident,-1,9
+1960,boavista,team_lotus,surtees,Radiator,-1,10
+1960,boavista,ferrari,phil_hill,Accident,-1,11
+1960,boavista,brm,gurney,Engine,-1,12
+1960,boavista,cooper-maserati,gregory,Gearbox,-1,13
+1960,boavista,brm,hill,Gearbox,-1,14
+1960,boavista,brm,bonnier,Engine,-1,15

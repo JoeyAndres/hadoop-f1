@@ -1,0 +1,20 @@
+2017,BAK,red_bull,ricciardo,Finished,7435573,1
+2017,BAK,mercedes,bottas,Finished,7439477,2
+2017,BAK,williams,stroll,Finished,7439582,3
+2017,BAK,ferrari,vettel,Finished,7441549,4
+2017,BAK,mercedes,hamilton,Finished,7441761,5
+2017,BAK,force_india,ocon,Finished,7465871,6
+2017,BAK,haas,kevin_magnussen,Finished,7477326,7
+2017,BAK,toro_rosso,sainz,Finished,7484973,8
+2017,BAK,mclaren,alonso,Finished,7495124,9
+2017,BAK,sauber,wehrlein,Finished,7524666,10
+2017,BAK,sauber,ericsson,Finished,7527367,11
+2017,BAK,mclaren,vandoorne,Finished,7527733,12
+2017,BAK,haas,grosjean,+1 Lap,-1,13
+2017,BAK,ferrari,raikkonen,Water pressure,-1,14
+2017,BAK,force_india,perez,Seat,-1,15
+2017,BAK,williams,massa,Suspension,-1,16
+2017,BAK,renault,hulkenberg,Accident,-1,17
+2017,BAK,red_bull,max_verstappen,Oil pressure,-1,18
+2017,BAK,toro_rosso,kvyat,Battery,-1,19
+2017,BAK,renault,jolyon_palmer,Power Unit,-1,20

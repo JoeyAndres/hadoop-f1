@@ -1,0 +1,27 @@
+1976,mosport,mclaren,hunt,Finished,6009626,1
+1976,mosport,tyrrell,depailler,Finished,6015957,2
+1976,mosport,team_lotus,mario_andretti,Finished,6019992,3
+1976,mosport,tyrrell,scheckter,Finished,6029371,4
+1976,mosport,mclaren,mass,Finished,6051437,5
+1976,mosport,ferrari,regazzoni,Finished,6055882,6
+1976,mosport,brabham-alfa_romeo,pace,Finished,6056098,7
+1976,mosport,ferrari,lauda,Finished,6082583,8
+1976,mosport,march,peterson,+1 Lap,-1,9
+1976,mosport,penske,watson,+1 Lap,-1,10
+1976,mosport,shadow,pryce,+1 Lap,-1,11
+1976,mosport,team_lotus,nilsson,+1 Lap,-1,12
+1976,mosport,ensign,ickx,+1 Lap,-1,13
+1976,mosport,march,brambilla,+1 Lap,-1,14
+1976,mosport,surtees,lunger,+2 Laps,-1,15
+1976,mosport,surtees,jones,+2 Laps,-1,16
+1976,mosport,brabham-alfa_romeo,perkins,+2 Laps,-1,17
+1976,mosport,shadow,jarier,+3 Laps,-1,18
+1976,mosport,surtees,pescarolo,+3 Laps,-1,19
+1976,mosport,hesketh,edwards,+5 Laps,-1,20
+1976,mosport,ligier,laffite,Oil pressure,-1,21
+1976,mosport,fittipaldi,emerson_fittipaldi,Exhaust,-1,22
+1976,mosport,march,stuck,Handling,-1,23
+1976,mosport,wolf,merzario,Accident,-1,24
+1976,mosport,hesketh,ertl,Accident,-1,25
+1976,mosport,wolf,amon,Accident,-1,26
+1976,mosport,tyrrell,stuppacher,Did not qualify,-1,27

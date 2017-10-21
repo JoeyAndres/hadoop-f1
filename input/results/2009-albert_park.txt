@@ -1,0 +1,20 @@
+2009,albert_park,brawn,button,Finished,5655784,1
+2009,albert_park,brawn,barrichello,Finished,5656591,2
+2009,albert_park,toyota,trulli,Finished,5657388,3
+2009,albert_park,toyota,glock,Finished,5660219,4
+2009,albert_park,renault,alonso,Finished,5660663,5
+2009,albert_park,williams,rosberg,Finished,5661506,6
+2009,albert_park,toro_rosso,buemi,Finished,5661788,7
+2009,albert_park,toro_rosso,bourdais,Finished,5662082,8
+2009,albert_park,force_india,sutil,Finished,5662119,9
+2009,albert_park,bmw_sauber,heidfeld,Finished,5662869,10
+2009,albert_park,force_india,fisichella,Finished,5663158,11
+2009,albert_park,red_bull,webber,+1 Lap,-1,12
+2009,albert_park,red_bull,vettel,Collision,-1,13
+2009,albert_park,bmw_sauber,kubica,Collision,-1,14
+2009,albert_park,ferrari,raikkonen,Differential,-1,15
+2009,albert_park,ferrari,massa,Suspension,-1,16
+2009,albert_park,renault,piquet_jr,Spun off,-1,17
+2009,albert_park,williams,nakajima,Accident,-1,18
+2009,albert_park,mclaren,kovalainen,Collision,-1,19
+2009,albert_park,mclaren,hamilton,Disqualified,-1,20

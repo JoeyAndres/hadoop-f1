@@ -1,0 +1,30 @@
+1957,indianapolis,epperly,hanks,Finished,13274250,1
+1957,indianapolis,epperly,rathmann,Finished,13295710,2
+1957,indianapolis,kuzma,bryan,Finished,13408220,3
+1957,indianapolis,kurtis_kraft,paul_russo,Finished,13451110,4
+1957,indianapolis,kurtis_kraft,linden,Finished,13468520,5
+1957,indianapolis,kurtis_kraft,boyd,Finished,13549520,6
+1957,indianapolis,kurtis_kraft,teague,Finished,13559830,7
+1957,indianapolis,kurtis_kraft,connor,Finished,13607400,8
+1957,indianapolis,phillips,veith,Finished,13651360,9
+1957,indianapolis,lesovsky,hartley,Finished,13704370,10
+1957,indianapolis,kurtis_kraft,turner,Finished,13750320,11
+1957,indianapolis,kuzma,thomson,+1 Lap,-1,12
+1957,indianapolis,kurtis_kraft,christie,+3 Laps,-1,13
+1957,indianapolis,kuzma,weyant,+4 Laps,-1,14
+1957,indianapolis,kurtis_kraft,bettenhausen,+5 Laps,-1,15
+1957,indianapolis,kurtis_kraft,parsons,+5 Laps,-1,16
+1957,indianapolis,kurtis_kraft,freeland,+8 Laps,-1,17
+1957,indianapolis,kurtis_kraft,reece,Throttle,-1,18
+1957,indianapolis,kurtis_kraft,edmunds,Spun off,-1,19
+1957,indianapolis,kurtis_kraft,tolan,Clutch,-1,20
+1957,indianapolis,dunn,herman,Accident,-1,21
+1957,indianapolis,kurtis_kraft,agabashian,Fuel leak,-1,22
+1957,indianapolis,kuzma,sachs,Fuel leak,-1,23
+1957,indianapolis,kurtis_kraft,magill,Accident,-1,24
+1957,indianapolis,kurtis_kraft,johnson,Wheel bearing,-1,25
+1957,indianapolis,kurtis_kraft,cheesbourg,Fuel leak,-1,26
+1957,indianapolis,kurtis_kraft,keller,Accident,-1,27
+1957,indianapolis,kurtis_kraft,daywalt,Accident,-1,28
+1957,indianapolis,kurtis_kraft,elisian,Retired,-1,29
+1957,indianapolis,lesovsky,ward,Turbo,-1,30

@@ -1,0 +1,26 @@
+1975,ricard,ferrari,lauda,Finished,6018840,1
+1975,ricard,hesketh,hunt,Finished,6020430,2
+1975,ricard,mclaren,mass,Finished,6021150,3
+1975,ricard,mclaren,emerson_fittipaldi,Finished,6058610,4
+1975,ricard,parnelli,mario_andretti,Finished,6080920,5
+1975,ricard,tyrrell,depailler,Finished,6086240,6
+1975,ricard,hill,brise,Finished,6088450,7
+1975,ricard,shadow-ford,jarier,Finished,6098620,8
+1975,ricard,tyrrell,scheckter,Finished,6110520,9
+1975,ricard,team_lotus,peterson,Finished,6114860,10
+1975,ricard,williams,laffite,Finished,6115610,11
+1975,ricard,tyrrell,jabouille,Finished,6115970,12
+1975,ricard,surtees,watson,+1 Lap,-1,13
+1975,ricard,brabham,reutemann,+1 Lap,-1,14
+1975,ricard,ensign,lennep,+1 Lap,-1,15
+1975,ricard,hill,jones,+1 Lap,-1,16
+1975,ricard,brm,evans,+2 Laps,-1,17
+1975,ricard,march,lombardi,+4 Laps,-1,18
+1975,ricard,brabham,pace,Transmission,-1,19
+1975,ricard,team_lotus,ickx,Brakes,-1,20
+1975,ricard,fittipaldi,wilson_fittipaldi,Engine,-1,21
+1975,ricard,march,brambilla,Chassis,-1,22
+1975,ricard,ferrari,regazzoni,Engine,-1,23
+1975,ricard,penske,donohue,Transmission,-1,24
+1975,ricard,shadow-ford,pryce,Transmission,-1,25
+1975,ricard,williams,migault,Withdrew,-1,26

@@ -1,0 +1,20 @@
+2017,silverstone,mercedes,hamilton,Finished,4887430,1
+2017,silverstone,mercedes,bottas,Finished,4901493,2
+2017,silverstone,ferrari,raikkonen,Finished,4924000,3
+2017,silverstone,red_bull,max_verstappen,Finished,4939555,4
+2017,silverstone,red_bull,ricciardo,Finished,4953385,5
+2017,silverstone,renault,hulkenberg,Finished,4955539,6
+2017,silverstone,ferrari,vettel,Finished,4981419,7
+2017,silverstone,force_india,ocon,+1 Lap,-1,8
+2017,silverstone,force_india,perez,+1 Lap,-1,9
+2017,silverstone,williams,massa,+1 Lap,-1,10
+2017,silverstone,mclaren,vandoorne,+1 Lap,-1,11
+2017,silverstone,haas,kevin_magnussen,+1 Lap,-1,12
+2017,silverstone,haas,grosjean,+1 Lap,-1,13
+2017,silverstone,sauber,ericsson,+1 Lap,-1,14
+2017,silverstone,toro_rosso,kvyat,+1 Lap,-1,15
+2017,silverstone,williams,stroll,+1 Lap,-1,16
+2017,silverstone,sauber,wehrlein,+1 Lap,-1,17
+2017,silverstone,mclaren,alonso,Power Unit,-1,18
+2017,silverstone,toro_rosso,sainz,Collision damage,-1,19
+2017,silverstone,renault,jolyon_palmer,Hydraulics,-1,20

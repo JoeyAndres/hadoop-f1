@@ -1,0 +1,22 @@
+2000,monaco,mclaren,coulthard,Finished,6568213,1
+2000,monaco,ferrari,barrichello,Finished,6584102,2
+2000,monaco,benetton,fisichella,Finished,6586735,3
+2000,monaco,jaguar,irvine,Finished,6634137,4
+2000,monaco,sauber,salo,Finished,6648988,5
+2000,monaco,mclaren,hakkinen,+1 Lap,-1,6
+2000,monaco,bar,villeneuve,+1 Lap,-1,7
+2000,monaco,prost,heidfeld,+1 Lap,-1,8
+2000,monaco,jaguar,herbert,+2 Laps,-1,9
+2000,monaco,jordan,frentzen,Spun off,-1,10
+2000,monaco,arrows,verstappen,Spun off,-1,11
+2000,monaco,ferrari,michael_schumacher,Suspension,-1,12
+2000,monaco,bar,zonta,Spun off,-1,13
+2000,monaco,williams,ralf_schumacher,Spun off,-1,14
+2000,monaco,jordan,trulli,Gearbox,-1,15
+2000,monaco,sauber,diniz,Spun off,-1,16
+2000,monaco,prost,alesi,Transmission,-1,17
+2000,monaco,minardi,mazzacane,Spun off,-1,18
+2000,monaco,minardi,gene,Gearbox,-1,19
+2000,monaco,benetton,wurz,Spun off,-1,20
+2000,monaco,williams,button,Engine,-1,21
+2000,monaco,arrows,rosa,Not restarted,-1,22

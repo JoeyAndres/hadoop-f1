@@ -1,0 +1,22 @@
+1998,interlagos,mclaren,hakkinen,Finished,5832200,1
+1998,interlagos,mclaren,coulthard,Finished,5833302,2
+1998,interlagos,ferrari,michael_schumacher,Finished,5892750,3
+1998,interlagos,benetton,wurz,Finished,5899653,4
+1998,interlagos,williams,frentzen,+1 Lap,-1,5
+1998,interlagos,benetton,fisichella,+1 Lap,-1,6
+1998,interlagos,williams,villeneuve,+1 Lap,-1,7
+1998,interlagos,ferrari,irvine,+1 Lap,-1,8
+1998,interlagos,sauber,alesi,+1 Lap,-1,9
+1998,interlagos,stewart,magnussen,+2 Laps,-1,10
+1998,interlagos,sauber,herbert,Injury,-1,11
+1998,interlagos,jordan,damon_hill,Disqualified,-1,12
+1998,interlagos,prost,panis,Engine,-1,13
+1998,interlagos,stewart,barrichello,Gearbox,-1,14
+1998,interlagos,tyrrell,rosset,Gearbox,-1,15
+1998,interlagos,minardi,tuero,Throttle,-1,16
+1998,interlagos,arrows,diniz,Gearbox,-1,17
+1998,interlagos,tyrrell,takagi,Engine,-1,18
+1998,interlagos,arrows,salo,Engine,-1,19
+1998,interlagos,prost,trulli,Fuel pump,-1,20
+1998,interlagos,minardi,nakano,Spun off,-1,21
+1998,interlagos,jordan,ralf_schumacher,Spun off,-1,22

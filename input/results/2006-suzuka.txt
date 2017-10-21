@@ -1,0 +1,22 @@
+2006,suzuka,renault,alonso,Finished,5032413,1
+2006,suzuka,ferrari,massa,Finished,5048564,2
+2006,suzuka,renault,fisichella,Finished,5056366,3
+2006,suzuka,honda,button,Finished,5066514,4
+2006,suzuka,mclaren,raikkonen,Finished,5076009,5
+2006,suzuka,toyota,trulli,Finished,5079130,6
+2006,suzuka,toyota,ralf_schumacher,Finished,5081282,7
+2006,suzuka,bmw_sauber,heidfeld,Finished,5108508,8
+2006,suzuka,bmw_sauber,kubica,Finished,5109345,9
+2006,suzuka,williams,rosberg,+1 Lap,-1,10
+2006,suzuka,mclaren,rosa,+1 Lap,-1,11
+2006,suzuka,honda,barrichello,+1 Lap,-1,12
+2006,suzuka,red_bull,doornbos,+1 Lap,-1,13
+2006,suzuka,toro_rosso,liuzzi,+1 Lap,-1,14
+2006,suzuka,super_aguri,sato,+1 Lap,-1,15
+2006,suzuka,spyker_mf1,monteiro,+2 Laps,-1,16
+2006,suzuka,super_aguri,yamamoto,+3 Laps,-1,17
+2006,suzuka,toro_rosso,speed,Steering,-1,18
+2006,suzuka,williams,webber,Accident,-1,19
+2006,suzuka,ferrari,michael_schumacher,Engine,-1,20
+2006,suzuka,red_bull,coulthard,Gearbox,-1,21
+2006,suzuka,spyker_mf1,albers,Driveshaft,-1,22

@@ -1,0 +1,22 @@
+1998,silverstone,ferrari,michael_schumacher,Finished,6422400,1
+1998,silverstone,mclaren,hakkinen,Finished,6444865,2
+1998,silverstone,ferrari,irvine,Finished,6451599,3
+1998,silverstone,benetton,wurz,+1 Lap,-1,4
+1998,silverstone,benetton,fisichella,+1 Lap,-1,5
+1998,silverstone,jordan,ralf_schumacher,+1 Lap,-1,6
+1998,silverstone,williams,villeneuve,+1 Lap,-1,7
+1998,silverstone,minardi,nakano,+2 Laps,-1,8
+1998,silverstone,tyrrell,takagi,+4 Laps,-1,9
+1998,silverstone,sauber,alesi,Electrical,-1,10
+1998,silverstone,arrows,diniz,Spun off,-1,11
+1998,silverstone,prost,panis,Spun off,-1,12
+1998,silverstone,stewart,barrichello,Spun off,-1,13
+1998,silverstone,stewart,verstappen,Engine,-1,14
+1998,silverstone,mclaren,coulthard,Spun off,-1,15
+1998,silverstone,prost,trulli,Spun off,-1,16
+1998,silverstone,tyrrell,rosset,Spun off,-1,17
+1998,silverstone,minardi,tuero,Spun off,-1,18
+1998,silverstone,sauber,herbert,Spun off,-1,19
+1998,silverstone,arrows,salo,Throttle,-1,20
+1998,silverstone,williams,frentzen,Spun off,-1,21
+1998,silverstone,jordan,damon_hill,Spun off,-1,22

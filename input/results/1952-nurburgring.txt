@@ -1,0 +1,30 @@
+1952,nurburgring,ferrari,ascari,Finished,11173300,1
+1952,nurburgring,ferrari,farina,Finished,11187400,2
+1952,nurburgring,ferrari,fischer,Finished,11603400,3
+1952,nurburgring,ferrari,taruffi,+1 Lap,-1,4
+1952,nurburgring,gordini,behra,+1 Lap,-1,5
+1952,nurburgring,ferrari,laurent,+2 Laps,-1,6
+1952,nurburgring,veritas,riess,+2 Laps,-1,7
+1952,nurburgring,veritas,ulmen,+2 Laps,-1,8
+1952,nurburgring,afm,niedermayr,+3 Laps,-1,9
+1952,nurburgring,hwm,claes,+3 Laps,-1,10
+1952,nurburgring,veritas,klenk,+4 Laps,-1,11
+1952,nurburgring,bmw,klodwig,+4 Laps,-1,12
+1952,nurburgring,gordini,manzon,Accident,-1,13
+1952,nurburgring,afm,heeks,Retired,-1,14
+1952,nurburgring,hwm,gaze,Gearbox,-1,15
+1952,nurburgring,veritas,brudes,Engine,-1,16
+1952,nurburgring,bmw,balsa,Retired,-1,17
+1952,nurburgring,bmw,bechem,Ignition,-1,18
+1952,nurburgring,maserati,cantoni,Axle,-1,19
+1952,nurburgring,bmw,krause,Retired,-1,20
+1952,nurburgring,ferrari,schoeller,Suspension,-1,21
+1952,nurburgring,butterworth,aston,Oil pressure,-1,22
+1952,nurburgring,gordini,trintignant,Accident,-1,23
+1952,nurburgring,veritas,pietsch,Gearbox,-1,24
+1952,nurburgring,maserati,bonetto,Disqualified,-1,25
+1952,nurburgring,hwm,frere,Gearbox,-1,26
+1952,nurburgring,veritas,helfrich,Retired,-1,27
+1952,nurburgring,veritas,peters,Retired,-1,28
+1952,nurburgring,ferrari,carini,Brakes,-1,29
+1952,nurburgring,maserati,bianco,Retired,-1,30

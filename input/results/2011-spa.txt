@@ -1,0 +1,24 @@
+2011,spa,red_bull,vettel,Finished,5204893,1
+2011,spa,red_bull,webber,Finished,5208634,2
+2011,spa,mclaren,button,Finished,5214562,3
+2011,spa,ferrari,alonso,Finished,5217915,4
+2011,spa,mercedes,michael_schumacher,Finished,5252357,5
+2011,spa,mercedes,rosberg,Finished,5253567,6
+2011,spa,force_india,sutil,Finished,5264606,7
+2011,spa,ferrari,massa,Finished,5270969,8
+2011,spa,renault,petrov,Finished,5276810,9
+2011,spa,williams,maldonado,Finished,5282508,10
+2011,spa,force_india,resta,Finished,5288887,11
+2011,spa,sauber,kobayashi,Finished,5296869,12
+2011,spa,renault,bruno_senna,Finished,5297878,13
+2011,spa,lotus_racing,trulli,+1 Lap,-1,14
+2011,spa,lotus_racing,kovalainen,+1 Lap,-1,15
+2011,spa,williams,barrichello,+1 Lap,-1,16
+2011,spa,virgin,ambrosio,+1 Lap,-1,17
+2011,spa,virgin,glock,+1 Lap,-1,18
+2011,spa,hrt,liuzzi,+1 Lap,-1,19
+2011,spa,sauber,perez,Suspension,-1,20
+2011,spa,hrt,ricciardo,Engine,-1,21
+2011,spa,mclaren,hamilton,Collision,-1,22
+2011,spa,toro_rosso,buemi,Rear wing,-1,23
+2011,spa,toro_rosso,alguersuari,Collision,-1,24

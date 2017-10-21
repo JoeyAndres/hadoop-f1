@@ -1,0 +1,22 @@
+1973,montjuic,team_lotus,emerson_fittipaldi,Finished,6498700,1
+1973,montjuic,tyrrell,cevert,Finished,6541400,2
+1973,montjuic,shadow,follmer,Finished,6571800,3
+1973,montjuic,mclaren,revson,+1 Lap,-1,4
+1973,montjuic,brm,beltoise,+1 Lap,-1,5
+1973,montjuic,mclaren,hulme,+1 Lap,-1,6
+1973,montjuic,march,beuttler,+1 Lap,-1,7
+1973,montjuic,march,pescarolo,+2 Laps,-1,8
+1973,montjuic,brm,regazzoni,+6 Laps,-1,9
+1973,montjuic,brabham,wilson_fittipaldi,+6 Laps,-1,10
+1973,montjuic,iso_marlboro,galli,+6 Laps,-1,11
+1973,montjuic,ferrari,ickx,+6 Laps,-1,12
+1973,montjuic,brabham,reutemann,Halfshaft,-1,13
+1973,montjuic,iso_marlboro,ganley,Out of fuel,-1,14
+1973,montjuic,team_lotus,peterson,Gearbox,-1,15
+1973,montjuic,tyrrell,stewart,Brakes,-1,16
+1973,montjuic,brm,lauda,Tyre,-1,17
+1973,montjuic,shadow,hill,Brakes,-1,18
+1973,montjuic,surtees,hailwood,Oil leak,-1,19
+1973,montjuic,shadow,oliver,Engine,-1,20
+1973,montjuic,brabham,adamich,Wheel,-1,21
+1973,montjuic,surtees,pace,Halfshaft,-1,22

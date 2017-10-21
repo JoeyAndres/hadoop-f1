@@ -1,0 +1,22 @@
+2006,shanghai,ferrari,michael_schumacher,Finished,5852747,1
+2006,shanghai,renault,alonso,Finished,5855868,2
+2006,shanghai,renault,fisichella,Finished,5896944,3
+2006,shanghai,honda,button,Finished,5924803,4
+2006,shanghai,mclaren,rosa,Finished,5929884,5
+2006,shanghai,honda,barrichello,Finished,5931878,6
+2006,shanghai,bmw_sauber,heidfeld,Finished,5944726,7
+2006,shanghai,williams,webber,Finished,5956335,8
+2006,shanghai,red_bull,coulthard,Finished,5956543,9
+2006,shanghai,toro_rosso,liuzzi,+1 Lap,-1,10
+2006,shanghai,williams,rosberg,+1 Lap,-1,11
+2006,shanghai,red_bull,doornbos,+1 Lap,-1,12
+2006,shanghai,bmw_sauber,kubica,+1 Lap,-1,13
+2006,shanghai,toro_rosso,speed,+1 Lap,-1,14
+2006,shanghai,spyker_mf1,albers,+3 Laps,-1,15
+2006,shanghai,super_aguri,yamamoto,+4 Laps,-1,16
+2006,shanghai,toyota,ralf_schumacher,Oil pressure,-1,17
+2006,shanghai,ferrari,massa,Collision,-1,18
+2006,shanghai,toyota,trulli,Pneumatics,-1,19
+2006,shanghai,spyker_mf1,monteiro,Spun off,-1,20
+2006,shanghai,mclaren,raikkonen,Throttle,-1,21
+2006,shanghai,super_aguri,sato,Disqualified,-1,22

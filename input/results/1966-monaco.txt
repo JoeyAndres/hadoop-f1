@@ -1,0 +1,16 @@
+1966,monaco,brm,stewart,Finished,9190500,1
+1966,monaco,ferrari,bandini,Finished,9230700,2
+1966,monaco,brm,hill,+1 Lap,-1,3
+1966,monaco,brm,bondurant,+5 Laps,-1,4
+1966,monaco,cooper-maserati,ginther,Transmission,-1,5
+1966,monaco,cooper-maserati,ligier,Not classified,-1,6
+1966,monaco,cooper-maserati,bonnier,Not classified,-1,7
+1966,monaco,lotus-climax,clark,Suspension,-1,8
+1966,monaco,cooper-maserati,rindt,Engine,-1,9
+1966,monaco,brabham-brm,siffert,Clutch,-1,10
+1966,monaco,lotus-brm,spence,Suspension,-1,11
+1966,monaco,brabham-repco,jack_brabham,Gearbox,-1,12
+1966,monaco,ferrari,surtees,Transmission,-1,13
+1966,monaco,brabham-climax,hulme,Transmission,-1,14
+1966,monaco,mclaren-ford,mclaren,Oil leak,-1,15
+1966,monaco,brabham-climax,anderson,Engine,-1,16

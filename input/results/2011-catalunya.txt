@@ -1,0 +1,24 @@
+2011,catalunya,red_bull,vettel,Finished,5943301,1
+2011,catalunya,mclaren,hamilton,Finished,5943931,2
+2011,catalunya,mclaren,button,Finished,5978998,3
+2011,catalunya,red_bull,webber,Finished,5991267,4
+2011,catalunya,ferrari,alonso,+1 Lap,-1,5
+2011,catalunya,mercedes,michael_schumacher,+1 Lap,-1,6
+2011,catalunya,mercedes,rosberg,+1 Lap,-1,7
+2011,catalunya,renault,heidfeld,+1 Lap,-1,8
+2011,catalunya,sauber,perez,+1 Lap,-1,9
+2011,catalunya,sauber,kobayashi,+1 Lap,-1,10
+2011,catalunya,renault,petrov,+1 Lap,-1,11
+2011,catalunya,force_india,resta,+1 Lap,-1,12
+2011,catalunya,force_india,sutil,+1 Lap,-1,13
+2011,catalunya,toro_rosso,buemi,+1 Lap,-1,14
+2011,catalunya,williams,maldonado,+1 Lap,-1,15
+2011,catalunya,toro_rosso,alguersuari,+2 Laps,-1,16
+2011,catalunya,williams,barrichello,+2 Laps,-1,17
+2011,catalunya,lotus_racing,trulli,+2 Laps,-1,18
+2011,catalunya,virgin,glock,+3 Laps,-1,19
+2011,catalunya,virgin,ambrosio,+4 Laps,-1,20
+2011,catalunya,hrt,karthikeyan,+5 Laps,-1,21
+2011,catalunya,ferrari,massa,Gearbox,-1,22
+2011,catalunya,lotus_racing,kovalainen,Accident,-1,23
+2011,catalunya,hrt,liuzzi,Gearbox,-1,24

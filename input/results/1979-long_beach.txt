@@ -1,0 +1,26 @@
+1979,long_beach,ferrari,gilles_villeneuve,Finished,6625400,1
+1979,long_beach,ferrari,scheckter,Finished,6654780,2
+1979,long_beach,williams,jones,Finished,6685090,3
+1979,long_beach,team_lotus,mario_andretti,Finished,6689730,4
+1979,long_beach,ligier,depailler,Finished,6708920,5
+1979,long_beach,tyrrell,jarier,+1 Lap,-1,6
+1979,long_beach,shadow,angelis,+2 Laps,-1,7
+1979,long_beach,brabham-alfa_romeo,piquet,+2 Laps,-1,8
+1979,long_beach,arrows,mass,+2 Laps,-1,9
+1979,long_beach,tyrrell,pironi,Disqualified,-1,10
+1979,long_beach,team_lotus,rebaque,Accident,-1,11
+1979,long_beach,ensign,daly,Accident,-1,12
+1979,long_beach,mclaren,watson,Injection,-1,13
+1979,long_beach,ats,stuck,Disqualified,-1,14
+1979,long_beach,williams,regazzoni,Engine,-1,15
+1979,long_beach,shadow,lammers,Suspension,-1,16
+1979,long_beach,arrows,patrese,Brakes,-1,17
+1979,long_beach,team_lotus,reutemann,Transmission,-1,18
+1979,long_beach,fittipaldi,emerson_fittipaldi,Transmission,-1,19
+1979,long_beach,merzario,merzario,Engine,-1,20
+1979,long_beach,ligier,laffite,Brakes,-1,21
+1979,long_beach,wolf,hunt,Transmission,-1,22
+1979,long_beach,brabham-alfa_romeo,lauda,Accident,-1,23
+1979,long_beach,mclaren,tambay,Collision,-1,24
+1979,long_beach,renault,arnoux,Withdrew,-1,25
+1979,long_beach,renault,jabouille,Withdrew,-1,26

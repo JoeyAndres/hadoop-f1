@@ -1,0 +1,20 @@
+2004,magny_cours,ferrari,michael_schumacher,Finished,5418133,1
+2004,magny_cours,renault,alonso,Finished,5426462,2
+2004,magny_cours,ferrari,barrichello,Finished,5449755,3
+2004,magny_cours,renault,trulli,Finished,5450215,4
+2004,magny_cours,bar,button,Finished,5450615,5
+2004,magny_cours,mclaren,coulthard,Finished,5453653,6
+2004,magny_cours,mclaren,raikkonen,Finished,5454363,7
+2004,magny_cours,williams,montoya,Finished,5461552,8
+2004,magny_cours,jaguar,webber,Finished,5470527,9
+2004,magny_cours,williams,gene,Finished,5476299,10
+2004,magny_cours,jaguar,klien,+1 Lap,-1,11
+2004,magny_cours,sauber,fisichella,+1 Lap,-1,12
+2004,magny_cours,sauber,massa,+1 Lap,-1,13
+2004,magny_cours,toyota,matta,+1 Lap,-1,14
+2004,magny_cours,toyota,panis,+2 Laps,-1,15
+2004,magny_cours,jordan,heidfeld,+2 Laps,-1,16
+2004,magny_cours,jordan,pantano,+3 Laps,-1,17
+2004,magny_cours,minardi,bruni,+4 Laps,-1,18
+2004,magny_cours,minardi,baumgartner,Spun off,-1,19
+2004,magny_cours,bar,sato,Engine,-1,20

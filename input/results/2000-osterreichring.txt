@@ -1,0 +1,22 @@
+2000,osterreichring,mclaren,hakkinen,Finished,5295818,1
+2000,osterreichring,mclaren,coulthard,Finished,5308353,2
+2000,osterreichring,ferrari,barrichello,Finished,5326613,3
+2000,osterreichring,bar,villeneuve,+1 Lap,-1,4
+2000,osterreichring,williams,button,+1 Lap,-1,5
+2000,osterreichring,sauber,salo,+1 Lap,-1,6
+2000,osterreichring,jaguar,herbert,+1 Lap,-1,7
+2000,osterreichring,minardi,gene,+1 Lap,-1,8
+2000,osterreichring,sauber,diniz,+1 Lap,-1,9
+2000,osterreichring,benetton,wurz,+1 Lap,-1,10
+2000,osterreichring,jaguar,burti,+2 Laps,-1,11
+2000,osterreichring,minardi,mazzacane,+3 Laps,-1,12
+2000,osterreichring,bar,zonta,Engine,-1,13
+2000,osterreichring,williams,ralf_schumacher,Brakes,-1,14
+2000,osterreichring,prost,heidfeld,Collision,-1,15
+2000,osterreichring,prost,alesi,Collision,-1,16
+2000,osterreichring,arrows,rosa,Gearbox,-1,17
+2000,osterreichring,arrows,verstappen,Engine,-1,18
+2000,osterreichring,jordan,frentzen,Oil leak,-1,19
+2000,osterreichring,ferrari,michael_schumacher,Collision,-1,20
+2000,osterreichring,jordan,trulli,Collision,-1,21
+2000,osterreichring,benetton,fisichella,Collision,-1,22

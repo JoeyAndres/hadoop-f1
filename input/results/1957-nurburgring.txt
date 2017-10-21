@@ -1,0 +1,24 @@
+1957,nurburgring,maserati,fangio,Finished,12638300,1
+1957,nurburgring,ferrari,hawthorn,Finished,12641900,2
+1957,nurburgring,ferrari,collins,Finished,12673900,3
+1957,nurburgring,ferrari,musso,Finished,12855900,4
+1957,nurburgring,vanwall,moss,Finished,12915500,5
+1957,nurburgring,maserati,behra,Finished,12916800,6
+1957,nurburgring,maserati,schell,Finished,13045800,7
+1957,nurburgring,maserati,gregory,+1 Lap,-1,8
+1957,nurburgring,vanwall,brooks,+1 Lap,-1,9
+1957,nurburgring,maserati,scarlatti,+1 Lap,-1,10
+1957,nurburgring,maserati,halford,+1 Lap,-1,11
+1957,nurburgring,porsche,barth,+1 Lap,-1,12
+1957,nurburgring,cooper,naylor,+2 Laps,-1,13
+1957,nurburgring,porsche,beaufort,+2 Laps,-1,14
+1957,nurburgring,cooper,marsh,+5 Laps,-1,15
+1957,nurburgring,maserati,herrmann,Chassis,-1,16
+1957,nurburgring,porsche,maglioli,Engine,-1,17
+1957,nurburgring,cooper,salvadori,Suspension,-1,18
+1957,nurburgring,maserati,godia,Steering,-1,19
+1957,nurburgring,vanwall,lewis-evans,Gearbox,-1,20
+1957,nurburgring,cooper,jack_brabham,Transmission,-1,21
+1957,nurburgring,cooper,england,Distributor,-1,22
+1957,nurburgring,cooper,gibson,Steering,-1,23
+1957,nurburgring,maserati,gould,Axle,-1,24

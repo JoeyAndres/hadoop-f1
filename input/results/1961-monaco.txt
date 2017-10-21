@@ -1,0 +1,21 @@
+1961,monaco,lotus-climax,moss,Finished,9950100,1
+1961,monaco,ferrari,ginther,Finished,9953700,2
+1961,monaco,ferrari,phil_hill,Finished,9991400,3
+1961,monaco,ferrari,trips,Accident,-1,4
+1961,monaco,porsche,gurney,+2 Laps,-1,5
+1961,monaco,cooper-climax,mclaren,+5 Laps,-1,6
+1961,monaco,cooper-maserati,trintignant,+5 Laps,-1,7
+1961,monaco,lotus-climax,allison,+7 Laps,-1,8
+1961,monaco,porsche,herrmann,+9 Laps,-1,9
+1961,monaco,lotus-climax,clark,+11 Laps,-1,10
+1961,monaco,cooper-climax,surtees,Engine,-1,11
+1961,monaco,porsche,bonnier,Injection,-1,12
+1961,monaco,brm,brooks,Engine,-1,13
+1961,monaco,lotus-climax,may,Oil pipe,-1,14
+1961,monaco,cooper-climax,jack_brabham,Ignition,-1,15
+1961,monaco,brm,hill,Fuel pump,-1,16
+1961,monaco,lotus-climax,ireland,Withdrew,-1,17
+1961,monaco,lotus-climax,henry_taylor,Did not qualify,-1,18
+1961,monaco,cooper-climax,gregory,Did not qualify,-1,19
+1961,monaco,emeryson,bianchi,Did not qualify,-1,20
+1961,monaco,emeryson,gendebien,Did not qualify,-1,21

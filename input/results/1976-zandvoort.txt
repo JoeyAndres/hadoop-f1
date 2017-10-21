@@ -1,0 +1,27 @@
+1976,zandvoort,mclaren,hunt,Finished,6292090,1
+1976,zandvoort,ferrari,regazzoni,Finished,6293010,2
+1976,zandvoort,team_lotus,mario_andretti,Finished,6294180,3
+1976,zandvoort,shadow,pryce,Finished,6299030,4
+1976,zandvoort,tyrrell,scheckter,Finished,6314550,5
+1976,zandvoort,march,brambilla,Finished,6337120,6
+1976,zandvoort,tyrrell,depailler,Finished,6348370,7
+1976,zandvoort,surtees,jones,+1 Lap,-1,8
+1976,zandvoort,mclaren,mass,+1 Lap,-1,9
+1976,zandvoort,shadow,jarier,+1 Lap,-1,10
+1976,zandvoort,surtees,pescarolo,+1 Lap,-1,11
+1976,zandvoort,hesketh,stommelen,+3 Laps,-1,12
+1976,zandvoort,ensign,ickx,Electrical,-1,13
+1976,zandvoort,penske,hayje,Halfshaft,-1,14
+1976,zandvoort,brabham-alfa_romeo,pace,Oil leak,-1,15
+1976,zandvoort,ligier,laffite,Oil leak,-1,16
+1976,zandvoort,march,peterson,Oil pressure,-1,17
+1976,zandvoort,hesketh,ertl,Spun off,-1,18
+1976,zandvoort,penske,watson,Gearbox,-1,19
+1976,zandvoort,boro,perkins,Accident,-1,20
+1976,zandvoort,fittipaldi,emerson_fittipaldi,Electrical,-1,21
+1976,zandvoort,brabham-alfa_romeo,reutemann,Clutch,-1,22
+1976,zandvoort,team_lotus,nilsson,Accident,-1,23
+1976,zandvoort,march,stuck,Engine,-1,24
+1976,zandvoort,surtees,andersson,Engine,-1,25
+1976,zandvoort,wolf,merzario,Accident,-1,26
+1976,zandvoort,tyrrell,pesenti_rossi,Did not qualify,-1,27

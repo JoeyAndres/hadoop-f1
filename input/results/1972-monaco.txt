@@ -1,0 +1,25 @@
+1972,monaco,brm,beltoise,Finished,8815300,1
+1972,monaco,ferrari,ickx,Finished,8853500,2
+1972,monaco,team_lotus,emerson_fittipaldi,+1 Lap,-1,3
+1972,monaco,tyrrell,stewart,+2 Laps,-1,4
+1972,monaco,mclaren,redman,+3 Laps,-1,5
+1972,monaco,matra,amon,+3 Laps,-1,6
+1972,monaco,surtees,adamich,+3 Laps,-1,7
+1972,monaco,brm,marko,+3 Laps,-1,8
+1972,monaco,brabham,wilson_fittipaldi,+3 Laps,-1,9
+1972,monaco,march,stommelen,+3 Laps,-1,10
+1972,monaco,march,peterson,+4 Laps,-1,11
+1972,monaco,brabham,hill,+4 Laps,-1,12
+1972,monaco,march,beuttler,+4 Laps,-1,13
+1972,monaco,team_lotus,walker,+5 Laps,-1,14
+1972,monaco,mclaren,hulme,+6 Laps,-1,15
+1972,monaco,march,lauda,+6 Laps,-1,16
+1972,monaco,march,pace,+8 Laps,-1,17
+1972,monaco,tyrrell,cevert,Not classified,-1,18
+1972,monaco,march,pescarolo,Accident,-1,19
+1972,monaco,ferrari,regazzoni,Accident,-1,20
+1972,monaco,surtees,hailwood,Accident,-1,21
+1972,monaco,brm,ganley,Accident,-1,22
+1972,monaco,surtees,schenken,Accident,-1,23
+1972,monaco,brm,gethin,Accident,-1,24
+1972,monaco,brm,wisell,Engine,-1,25

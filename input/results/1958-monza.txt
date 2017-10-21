@@ -1,0 +1,22 @@
+1958,monza,vanwall,brooks,Finished,7427800,1
+1958,monza,ferrari,hawthorn,Finished,7452000,2
+1958,monza,ferrari,phil_hill,Finished,7456100,3
+1958,monza,maserati,gregory,+1 Lap,-1,4
+1958,monza,maserati,shelby,+1 Lap,-1,4
+1958,monza,cooper,salvadori,+8 Laps,-1,5
+1958,monza,team_lotus,hill,+8 Laps,-1,6
+1958,monza,team_lotus,allison,+9 Laps,-1,7
+1958,monza,maserati,filippis,Engine,-1,8
+1958,monza,maserati,cabianca,Engine,-1,9
+1958,monza,brm,behra,Clutch,-1,10
+1958,monza,maserati,herrmann,Engine,-1,11
+1958,monza,vanwall,lewis-evans,Overheating,-1,12
+1958,monza,cooper,trintignant,Gearbox,-1,13
+1958,monza,vanwall,moss,Gearbox,-1,14
+1958,monza,brm,bonnier,Transmission,-1,15
+1958,monza,ferrari,gendebien,Suspension,-1,16
+1958,monza,maserati,gerini,Accident,-1,17
+1958,monza,maserati,shelby,Handling,-1,18
+1958,monza,ferrari,trips,Accident,-1,19
+1958,monza,brm,schell,Accident,-1,20
+1958,monza,cooper,jack_brabham,Suspension,-1,21

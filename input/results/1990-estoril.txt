@@ -1,0 +1,30 @@
+1990,estoril,ferrari,mansell,Finished,4931014,1
+1990,estoril,mclaren,senna,Finished,4933822,2
+1990,estoril,ferrari,prost,Finished,4935203,3
+1990,estoril,mclaren,berger,Finished,4936910,4
+1990,estoril,benetton,piquet,Finished,4988432,5
+1990,estoril,benetton,nannini,Finished,4989263,6
+1990,estoril,williams,patrese,+1 Lap,-1,7
+1990,estoril,tyrrell,alesi,+1 Lap,-1,8
+1990,estoril,arrows,alboreto,+1 Lap,-1,9
+1990,estoril,ligier,larini,+2 Laps,-1,10
+1990,estoril,minardi,martini,+2 Laps,-1,11
+1990,estoril,leyton,gugelmin,+2 Laps,-1,12
+1990,estoril,arrows,caffi,Accident,-1,13
+1990,estoril,larrousse,suzuki,Accident,-1,14
+1990,estoril,dallara,pirro,+3 Laps,-1,15
+1990,estoril,ligier,alliot,Accident,-1,16
+1990,estoril,brabham,brabham,Gearbox,-1,17
+1990,estoril,leyton,capelli,Engine,-1,18
+1990,estoril,williams,boutsen,Engine,-1,19
+1990,estoril,larrousse,bernard,Gearbox,-1,20
+1990,estoril,brabham,modena,Gearbox,-1,21
+1990,estoril,team_lotus,donnelly,Alternator,-1,22
+1990,estoril,team_lotus,warwick,Throttle,-1,23
+1990,estoril,ags,dalmas,Halfshaft,-1,24
+1990,estoril,dallara,cesaris,Spun off,-1,25
+1990,estoril,tyrrell,satoru_nakajima,Withdrew,-1,26
+1990,estoril,osella,grouillard,Did not qualify,-1,27
+1990,estoril,minardi,barilla,Did not qualify,-1,28
+1990,estoril,ags,tarquini,Did not qualify,-1,29
+1990,estoril,coloni,gachot,Did not qualify,-1,30

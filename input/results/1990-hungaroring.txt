@@ -1,0 +1,30 @@
+1990,hungaroring,williams,boutsen,Finished,6570597,1
+1990,hungaroring,mclaren,senna,Finished,6570885,2
+1990,hungaroring,benetton,piquet,Finished,6598490,3
+1990,hungaroring,williams,patrese,Finished,6602430,4
+1990,hungaroring,team_lotus,warwick,Finished,6644841,5
+1990,hungaroring,larrousse,bernard,Finished,6654905,6
+1990,hungaroring,team_lotus,donnelly,+1 Lap,-1,7
+1990,hungaroring,leyton,gugelmin,+1 Lap,-1,8
+1990,hungaroring,arrows,caffi,+1 Lap,-1,9
+1990,hungaroring,dallara,pirro,+1 Lap,-1,10
+1990,hungaroring,ligier,larini,+1 Lap,-1,11
+1990,hungaroring,arrows,alboreto,+2 Laps,-1,12
+1990,hungaroring,ags,tarquini,+3 Laps,-1,13
+1990,hungaroring,ligier,alliot,+3 Laps,-1,14
+1990,hungaroring,minardi,barilla,+3 Laps,-1,15
+1990,hungaroring,mclaren,berger,Collision,-1,16
+1990,hungaroring,ferrari,mansell,Collision,-1,17
+1990,hungaroring,benetton,nannini,Collision,-1,18
+1990,hungaroring,leyton,capelli,Gearbox,-1,19
+1990,hungaroring,larrousse,suzuki,Engine,-1,20
+1990,hungaroring,ferrari,prost,Gearbox,-1,21
+1990,hungaroring,tyrrell,alesi,Collision,-1,22
+1990,hungaroring,brabham,modena,Engine,-1,23
+1990,hungaroring,minardi,martini,Collision,-1,24
+1990,hungaroring,dallara,cesaris,Engine,-1,25
+1990,hungaroring,tyrrell,satoru_nakajima,Brakes,-1,26
+1990,hungaroring,ags,dalmas,Did not qualify,-1,27
+1990,hungaroring,brabham,brabham,Did not qualify,-1,28
+1990,hungaroring,onyx,lehto,Did not qualify,-1,29
+1990,hungaroring,onyx,foitek,Did not qualify,-1,30

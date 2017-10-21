@@ -1,0 +1,22 @@
+2000,spa,mclaren,hakkinen,Finished,5294494,1
+2000,spa,ferrari,michael_schumacher,Finished,5295598,2
+2000,spa,williams,ralf_schumacher,Finished,5332590,3
+2000,spa,mclaren,coulthard,Finished,5337775,4
+2000,spa,williams,button,Finished,5344408,5
+2000,spa,jordan,frentzen,Finished,5350478,6
+2000,spa,bar,villeneuve,Finished,5366874,7
+2000,spa,jaguar,herbert,Finished,5382302,8
+2000,spa,sauber,salo,Finished,5383164,9
+2000,spa,jaguar,irvine,Finished,5386049,10
+2000,spa,sauber,diniz,Finished,5388617,11
+2000,spa,bar,zonta,+1 Lap,-1,12
+2000,spa,benetton,wurz,+1 Lap,-1,13
+2000,spa,minardi,gene,+1 Lap,-1,14
+2000,spa,arrows,verstappen,+1 Lap,-1,15
+2000,spa,arrows,rosa,+2 Laps,-1,16
+2000,spa,minardi,mazzacane,+2 Laps,-1,17
+2000,spa,ferrari,barrichello,Fuel pressure,-1,18
+2000,spa,prost,alesi,Fuel pressure,-1,19
+2000,spa,prost,heidfeld,Engine,-1,20
+2000,spa,benetton,fisichella,Electrical,-1,21
+2000,spa,jordan,trulli,Collision,-1,22

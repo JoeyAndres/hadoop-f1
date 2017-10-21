@@ -1,0 +1,30 @@
+1977,silverstone,mclaren,hunt,Finished,5506060,1
+1977,silverstone,ferrari,lauda,Finished,5524370,2
+1977,silverstone,team_lotus,nilsson,Finished,5525630,3
+1977,silverstone,mclaren,mass,Finished,5553820,4
+1977,silverstone,brabham,stuck,Finished,5577790,5
+1977,silverstone,ligier,laffite,+1 Lap,-1,6
+1977,silverstone,shadow,jones,+1 Lap,-1,7
+1977,silverstone,surtees,brambilla,+1 Lap,-1,8
+1977,silverstone,penske,jarier,+1 Lap,-1,9
+1977,silverstone,march,neve,+2 Laps,-1,10
+1977,silverstone,mclaren,gilles_villeneuve,+2 Laps,-1,11
+1977,silverstone,surtees,schuppan,+2 Laps,-1,12
+1977,silverstone,mclaren,lunger,+4 Laps,-1,13
+1977,silverstone,team_lotus,mario_andretti,Engine,-1,14
+1977,silverstone,ferrari,reutemann,+6 Laps,-1,15
+1977,silverstone,brabham,watson,Fuel system,-1,16
+1977,silverstone,wolf,scheckter,Engine,-1,17
+1977,silverstone,fittipaldi,emerson_fittipaldi,Throttle,-1,18
+1977,silverstone,march,merzario,Transmission,-1,19
+1977,silverstone,shadow,patrese,Fuel pressure,-1,20
+1977,silverstone,tyrrell,depailler,Brakes,-1,21
+1977,silverstone,renault,jabouille,Turbo,-1,22
+1977,silverstone,march,ian_scheckter,Accident,-1,23
+1977,silverstone,tyrrell,peterson,Engine,-1,24
+1977,silverstone,ensign,tambay,Electrical,-1,25
+1977,silverstone,hesketh,keegan,Accident,-1,26
+1977,silverstone,march,ribeiro,Did not qualify,-1,27
+1977,silverstone,ensign,regazzoni,Did not qualify,-1,28
+1977,silverstone,march,henton,Did not qualify,-1,29
+1977,silverstone,mclaren,villota,Did not qualify,-1,30

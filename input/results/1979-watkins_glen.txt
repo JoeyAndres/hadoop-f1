@@ -1,0 +1,30 @@
+1979,watkins_glen,ferrari,gilles_villeneuve,Finished,6737734,1
+1979,watkins_glen,renault,arnoux,Finished,6786521,2
+1979,watkins_glen,tyrrell,pironi,Finished,6790933,3
+1979,watkins_glen,shadow,angelis,Finished,6828246,4
+1979,watkins_glen,ats,stuck,Finished,6838993,5
+1979,watkins_glen,mclaren,watson,+1 Lap,-1,6
+1979,watkins_glen,fittipaldi,emerson_fittipaldi,+5 Laps,-1,7
+1979,watkins_glen,brabham-ford,piquet,Transmission,-1,8
+1979,watkins_glen,tyrrell,daly,Spun off,-1,9
+1979,watkins_glen,ferrari,scheckter,Tyre,-1,10
+1979,watkins_glen,arrows,patrese,Suspension,-1,11
+1979,watkins_glen,williams,jones,Wheel,-1,12
+1979,watkins_glen,ensign,surer,Engine,-1,13
+1979,watkins_glen,williams,regazzoni,Accident,-1,14
+1979,watkins_glen,brabham-ford,zunino,Spun off,-1,15
+1979,watkins_glen,renault,jabouille,Engine,-1,16
+1979,watkins_glen,wolf,keke_rosberg,Accident,-1,17
+1979,watkins_glen,mclaren,tambay,Engine,-1,18
+1979,watkins_glen,tyrrell,jarier,Accident,-1,19
+1979,watkins_glen,team_lotus,mario_andretti,Gearbox,-1,20
+1979,watkins_glen,team_lotus,reutemann,Spun off,-1,21
+1979,watkins_glen,ligier,laffite,Spun off,-1,22
+1979,watkins_glen,ligier,ickx,Spun off,-1,23
+1979,watkins_glen,alfa,giacomelli,Spun off,-1,24
+1979,watkins_glen,alfa,brambilla,Did not qualify,-1,25
+1979,watkins_glen,arrows,mass,Did not qualify,-1,26
+1979,watkins_glen,shadow,lammers,Did not qualify,-1,27
+1979,watkins_glen,rebaque,rebaque,Did not qualify,-1,28
+1979,watkins_glen,fittipaldi,ribeiro,Did not qualify,-1,29
+1979,watkins_glen,merzario,merzario,Did not qualify,-1,30

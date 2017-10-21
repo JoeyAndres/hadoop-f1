@@ -1,0 +1,22 @@
+2001,silverstone,mclaren,hakkinen,Finished,5133770,1
+2001,silverstone,ferrari,michael_schumacher,Finished,5167416,2
+2001,silverstone,ferrari,barrichello,Finished,5193051,3
+2001,silverstone,williams,montoya,Finished,5202542,4
+2001,silverstone,sauber,raikkonen,+1 Lap,-1,5
+2001,silverstone,sauber,heidfeld,+1 Lap,-1,6
+2001,silverstone,jordan,frentzen,+1 Lap,-1,7
+2001,silverstone,bar,villeneuve,+1 Lap,-1,8
+2001,silverstone,jaguar,irvine,+1 Lap,-1,9
+2001,silverstone,arrows,verstappen,+2 Laps,-1,10
+2001,silverstone,prost,alesi,+2 Laps,-1,11
+2001,silverstone,jaguar,rosa,+2 Laps,-1,12
+2001,silverstone,benetton,fisichella,+2 Laps,-1,13
+2001,silverstone,arrows,bernoldi,+2 Laps,-1,14
+2001,silverstone,benetton,button,+2 Laps,-1,15
+2001,silverstone,minardi,alonso,+3 Laps,-1,16
+2001,silverstone,williams,ralf_schumacher,Engine,-1,17
+2001,silverstone,prost,burti,Engine,-1,18
+2001,silverstone,mclaren,coulthard,Suspension,-1,19
+2001,silverstone,jordan,trulli,Collision,-1,20
+2001,silverstone,bar,panis,Collision,-1,21
+2001,silverstone,minardi,marques,107% Rule,-1,22

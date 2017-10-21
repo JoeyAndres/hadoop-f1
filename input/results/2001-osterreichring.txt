@@ -1,0 +1,22 @@
+2001,osterreichring,mclaren,coulthard,Finished,5265927,1
+2001,osterreichring,ferrari,michael_schumacher,Finished,5268117,2
+2001,osterreichring,ferrari,barrichello,Finished,5268454,3
+2001,osterreichring,sauber,raikkonen,Finished,5307520,4
+2001,osterreichring,bar,panis,Finished,5319702,5
+2001,osterreichring,arrows,verstappen,+1 Lap,-1,6
+2001,osterreichring,jaguar,irvine,+1 Lap,-1,7
+2001,osterreichring,bar,villeneuve,+1 Lap,-1,8
+2001,osterreichring,sauber,heidfeld,+2 Laps,-1,9
+2001,osterreichring,prost,alesi,+2 Laps,-1,10
+2001,osterreichring,prost,burti,+2 Laps,-1,11
+2001,osterreichring,benetton,button,Engine,-1,12
+2001,osterreichring,jaguar,rosa,Transmission,-1,13
+2001,osterreichring,williams,montoya,Hydraulics,-1,14
+2001,osterreichring,minardi,alonso,Gearbox,-1,15
+2001,osterreichring,minardi,marques,Gearbox,-1,16
+2001,osterreichring,arrows,bernoldi,Hydraulics,-1,17
+2001,osterreichring,jordan,trulli,Disqualified,-1,18
+2001,osterreichring,williams,ralf_schumacher,Brakes,-1,19
+2001,osterreichring,benetton,fisichella,Engine,-1,20
+2001,osterreichring,mclaren,hakkinen,Transmission,-1,21
+2001,osterreichring,jordan,frentzen,Gearbox,-1,22

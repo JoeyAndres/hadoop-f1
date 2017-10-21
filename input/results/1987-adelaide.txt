@@ -1,0 +1,27 @@
+1987,adelaide,ferrari,berger,Finished,6776144,1
+1987,adelaide,ferrari,alboreto,Finished,6844028,2
+1987,adelaide,benetton,boutsen,+1 Lap,-1,3
+1987,adelaide,tyrrell,palmer,+2 Laps,-1,4
+1987,adelaide,larrousse,dalmas,+3 Laps,-1,5
+1987,adelaide,ags,moreno,+3 Laps,-1,6
+1987,adelaide,zakspeed,danner,+3 Laps,-1,7
+1987,adelaide,brabham,cesaris,Spun off,-1,8
+1987,adelaide,williams,patrese,Oil leak,-1,9
+1987,adelaide,team_lotus,senna,Disqualified,-1,10
+1987,adelaide,williams,piquet,Brakes,-1,11
+1987,adelaide,march,capelli,Spun off,-1,12
+1987,adelaide,mclaren,prost,Brakes,-1,13
+1987,adelaide,arrows,cheever,Overheating,-1,14
+1987,adelaide,mclaren,johansson,Brakes,-1,15
+1987,adelaide,benetton,fabi,Brakes,-1,16
+1987,adelaide,minardi,campos,Transmission,-1,17
+1987,adelaide,larrousse,alliot,Electrical,-1,18
+1987,adelaide,ligier,arnoux,Ignition,-1,19
+1987,adelaide,brabham,modena,Physical,-1,20
+1987,adelaide,ligier,ghinzani,Ignition,-1,21
+1987,adelaide,team_lotus,satoru_nakajima,Hydraulics,-1,22
+1987,adelaide,arrows,warwick,Transmission,-1,23
+1987,adelaide,zakspeed,brundle,Engine,-1,24
+1987,adelaide,tyrrell,streiff,Spun off,-1,25
+1987,adelaide,minardi,nannini,Accident,-1,26
+1987,adelaide,osella,caffi,Did not qualify,-1,27

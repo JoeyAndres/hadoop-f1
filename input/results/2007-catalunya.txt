@@ -1,0 +1,22 @@
+2007,catalunya,ferrari,massa,Finished,5496230,1
+2007,catalunya,mclaren,hamilton,Finished,5503020,2
+2007,catalunya,mclaren,alonso,Finished,5513686,3
+2007,catalunya,bmw_sauber,kubica,Finished,5527845,4
+2007,catalunya,red_bull,coulthard,Finished,5554561,5
+2007,catalunya,williams,rosberg,Finished,5555768,6
+2007,catalunya,renault,kovalainen,Finished,5558358,7
+2007,catalunya,super_aguri,sato,+1 Lap,-1,8
+2007,catalunya,renault,fisichella,+1 Lap,-1,9
+2007,catalunya,honda,barrichello,+1 Lap,-1,10
+2007,catalunya,super_aguri,davidson,+1 Lap,-1,11
+2007,catalunya,honda,button,+1 Lap,-1,12
+2007,catalunya,spyker,sutil,+2 Laps,-1,13
+2007,catalunya,spyker,albers,+2 Laps,-1,14
+2007,catalunya,bmw_sauber,heidfeld,Gearbox,-1,15
+2007,catalunya,toyota,ralf_schumacher,Suspension,-1,16
+2007,catalunya,toro_rosso,liuzzi,Retired,-1,17
+2007,catalunya,toro_rosso,speed,Tyre,-1,18
+2007,catalunya,ferrari,raikkonen,Suspension,-1,19
+2007,catalunya,toyota,trulli,Fuel pressure,-1,20
+2007,catalunya,red_bull,webber,Hydraulics,-1,21
+2007,catalunya,williams,wurz,Collision,-1,22

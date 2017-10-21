@@ -1,0 +1,30 @@
+1991,catalunya,williams,mansell,Finished,5921541,1
+1991,catalunya,ferrari,prost,Finished,5932872,2
+1991,catalunya,williams,patrese,Finished,5937450,3
+1991,catalunya,ferrari,alesi,Finished,5944313,4
+1991,catalunya,mclaren,senna,Finished,5983943,5
+1991,catalunya,benetton,michael_schumacher,Finished,6001009,6
+1991,catalunya,leyton,gugelmin,+1 Lap,-1,7
+1991,catalunya,dallara,lehto,+1 Lap,-1,8
+1991,catalunya,jordan,zanardi,+1 Lap,-1,9
+1991,catalunya,brabham,brundle,+2 Laps,-1,10
+1991,catalunya,benetton,piquet,+2 Laps,-1,11
+1991,catalunya,fondmetal,tarquini,+2 Laps,-1,12
+1991,catalunya,minardi,martini,+2 Laps,-1,13
+1991,catalunya,minardi,morbidelli,Collision,-1,14
+1991,catalunya,dallara,pirro,+3 Laps,-1,15
+1991,catalunya,tyrrell,modena,+3 Laps,-1,16
+1991,catalunya,tyrrell,satoru_nakajima,+3 Laps,-1,17
+1991,catalunya,brabham,blundell,Engine,-1,18
+1991,catalunya,ligier,comas,Electrical,-1,19
+1991,catalunya,mclaren,berger,Electrical,-1,20
+1991,catalunya,footwork,alboreto,Engine,-1,21
+1991,catalunya,jordan,cesaris,Electrical,-1,22
+1991,catalunya,team_lotus,hakkinen,Spun off,-1,23
+1991,catalunya,leyton,capelli,Collision,-1,24
+1991,catalunya,lola,bernard,Collision,-1,25
+1991,catalunya,ligier,boutsen,Collision,-1,26
+1991,catalunya,lola,suzuki,Did not qualify,-1,27
+1991,catalunya,lambo,larini,Did not qualify,-1,28
+1991,catalunya,team_lotus,bartels,Did not qualify,-1,29
+1991,catalunya,lambo,poele,Did not qualify,-1,30

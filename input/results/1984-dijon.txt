@@ -1,0 +1,26 @@
+1984,dijon,mclaren,lauda,Finished,5471951,1
+1984,dijon,renault,tambay,Finished,5479105,2
+1984,dijon,team_lotus,mansell,Finished,5495920,3
+1984,dijon,ferrari,arnoux,Finished,5515657,4
+1984,dijon,team_lotus,angelis,Finished,5538076,5
+1984,dijon,williams,keke_rosberg,+1 Lap,-1,6
+1984,dijon,mclaren,prost,+1 Lap,-1,7
+1984,dijon,williams,laffite,+1 Lap,-1,8
+1984,dijon,brabham,fabi,+1 Lap,-1,9
+1984,dijon,ligier,cesaris,+2 Laps,-1,10
+1984,dijon,arrows,boutsen,+2 Laps,-1,11
+1984,dijon,osella,ghinzani,+5 Laps,-1,12
+1984,dijon,ram,palmer,+7 Laps,-1,13
+1984,dijon,tyrrell,brundle,Disqualified,-1,14
+1984,dijon,spirit,baldi,Engine,-1,15
+1984,dijon,renault,warwick,Accident,-1,16
+1984,dijon,arrows,surer,Accident,-1,17
+1984,dijon,alfa,cheever,Engine,-1,18
+1984,dijon,toleman,senna,Turbo,-1,19
+1984,dijon,ferrari,alboreto,Engine,-1,20
+1984,dijon,toleman,cecotto,Turbo,-1,21
+1984,dijon,alfa,patrese,Engine,-1,22
+1984,dijon,brabham,piquet,Turbo,-1,23
+1984,dijon,tyrrell,bellof,Disqualified,-1,24
+1984,dijon,ats,manfred_winkelhock,Clutch,-1,25
+1984,dijon,ram,alliot,Electrical,-1,26

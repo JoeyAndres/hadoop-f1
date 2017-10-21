@@ -1,0 +1,22 @@
+2016,catalunya,red_bull,max_verstappen,Finished,6100017,1
+2016,catalunya,ferrari,raikkonen,Finished,6100633,2
+2016,catalunya,ferrari,vettel,Finished,6105598,3
+2016,catalunya,red_bull,ricciardo,Finished,6143967,4
+2016,catalunya,williams,bottas,Finished,6145288,5
+2016,catalunya,toro_rosso,sainz,Finished,6161412,6
+2016,catalunya,force_india,perez,Finished,6179555,7
+2016,catalunya,williams,massa,Finished,6180724,8
+2016,catalunya,mclaren,button,+1 Lap,-1,9
+2016,catalunya,toro_rosso,kvyat,+1 Lap,-1,10
+2016,catalunya,haas,gutierrez,+1 Lap,-1,11
+2016,catalunya,sauber,ericsson,+1 Lap,-1,12
+2016,catalunya,renault,jolyon_palmer,+1 Lap,-1,13
+2016,catalunya,renault,kevin_magnussen,+1 Lap,-1,14
+2016,catalunya,sauber,nasr,+1 Lap,-1,15
+2016,catalunya,manor,wehrlein,+1 Lap,-1,16
+2016,catalunya,manor,haryanto,+1 Lap,-1,17
+2016,catalunya,haas,grosjean,Engine,-1,18
+2016,catalunya,mclaren,alonso,Engine,-1,19
+2016,catalunya,force_india,hulkenberg,Engine,-1,20
+2016,catalunya,mercedes,hamilton,Collision,-1,21
+2016,catalunya,mercedes,rosberg,Collision,-1,22

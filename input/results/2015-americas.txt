@@ -1,0 +1,20 @@
+2015,americas,mercedes,hamilton,Finished,6652703,1
+2015,americas,mercedes,rosberg,Finished,6655553,2
+2015,americas,ferrari,vettel,Finished,6656084,3
+2015,americas,toro_rosso,max_verstappen,Finished,6675062,4
+2015,americas,force_india,perez,Finished,6677116,5
+2015,americas,mclaren,button,Finished,6680761,6
+2015,americas,toro_rosso,sainz,Finished,6683322,7
+2015,americas,lotus_f1,maldonado,Finished,6684976,8
+2015,americas,sauber,nasr,Finished,6692960,9
+2015,americas,red_bull,ricciardo,Finished,6706074,10
+2015,americas,mclaren,alonso,Finished,6707519,11
+2015,americas,manor,rossi,Finished,6727980,12
+2015,americas,red_bull,kvyat,Accident,-1,13
+2015,americas,force_india,hulkenberg,Accident,-1,14
+2015,americas,sauber,ericsson,Retired,-1,15
+2015,americas,ferrari,raikkonen,Brake duct,-1,16
+2015,americas,williams,massa,Retired,-1,17
+2015,americas,lotus_f1,grosjean,Retired,-1,18
+2015,americas,williams,bottas,Retired,-1,19
+2015,americas,manor,stevens,Retired,-1,20

@@ -1,0 +1,24 @@
+1995,magny_cours,benetton,michael_schumacher,Finished,5908429,1
+1995,magny_cours,williams,damon_hill,Finished,5939738,2
+1995,magny_cours,williams,coulthard,Finished,5971255,3
+1995,magny_cours,ligier,brundle,Finished,5971722,4
+1995,magny_cours,ferrari,alesi,Finished,5986298,5
+1995,magny_cours,jordan,barrichello,+1 Lap,-1,6
+1995,magny_cours,mclaren,hakkinen,+1 Lap,-1,7
+1995,magny_cours,ligier,panis,+1 Lap,-1,8
+1995,magny_cours,jordan,irvine,+1 Lap,-1,9
+1995,magny_cours,sauber,frentzen,+1 Lap,-1,10
+1995,magny_cours,mclaren,blundell,+2 Laps,-1,11
+1995,magny_cours,ferrari,berger,+2 Laps,-1,12
+1995,magny_cours,minardi,badoer,+3 Laps,-1,13
+1995,magny_cours,footwork,morbidelli,+3 Laps,-1,14
+1995,magny_cours,tyrrell,salo,+3 Laps,-1,15
+1995,magny_cours,forti,moreno,+6 Laps,-1,16
+1995,magny_cours,pacific,montermini,Not classified,-1,17
+1995,magny_cours,sauber,boullion,Gearbox,-1,18
+1995,magny_cours,pacific,gachot,Gearbox,-1,19
+1995,magny_cours,minardi,martini,Gearbox,-1,20
+1995,magny_cours,benetton,herbert,Spun off,-1,21
+1995,magny_cours,footwork,inoue,Collision,-1,22
+1995,magny_cours,tyrrell,katayama,Collision,-1,23
+1995,magny_cours,forti,diniz,Spun off,-1,24

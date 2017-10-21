@@ -1,0 +1,30 @@
+1991,adelaide,mclaren,senna,Finished,1474899,1
+1991,adelaide,williams,mansell,Finished,1476158,2
+1991,adelaide,mclaren,berger,Finished,1480019,3
+1991,adelaide,benetton,piquet,Finished,1505002,4
+1991,adelaide,williams,patrese,Finished,1525436,5
+1991,adelaide,ferrari,morbidelli,Finished,1525968,6
+1991,adelaide,dallara,pirro,Finished,1527260,7
+1991,adelaide,jordan,cesaris,Finished,1535330,8
+1991,adelaide,jordan,zanardi,Finished,1550466,9
+1991,adelaide,tyrrell,modena,Finished,1555269,10
+1991,adelaide,team_lotus,herbert,Finished,1556972,11
+1991,adelaide,dallara,lehto,Finished,1573418,12
+1991,adelaide,footwork,alboreto,Finished,1574202,13
+1991,adelaide,leyton,gugelmin,+1 Lap,-1,14
+1991,adelaide,footwork,caffi,+1 Lap,-1,15
+1991,adelaide,minardi,moreno,+1 Lap,-1,16
+1991,adelaide,brabham,blundell,+1 Lap,-1,17
+1991,adelaide,ligier,comas,+1 Lap,-1,18
+1991,adelaide,team_lotus,hakkinen,+2 Laps,-1,19
+1991,adelaide,leyton,wendlinger,+2 Laps,-1,20
+1991,adelaide,minardi,martini,Spun off,-1,21
+1991,adelaide,benetton,michael_schumacher,Spun off,-1,22
+1991,adelaide,ferrari,alesi,Accident,-1,23
+1991,adelaide,lambo,larini,Spun off,-1,24
+1991,adelaide,ligier,boutsen,Accident,-1,25
+1991,adelaide,tyrrell,satoru_nakajima,Spun off,-1,26
+1991,adelaide,larrousse,suzuki,Did not qualify,-1,27
+1991,adelaide,brabham,brundle,Did not qualify,-1,28
+1991,adelaide,lambo,poele,Did not qualify,-1,29
+1991,adelaide,larrousse,gachot,Did not qualify,-1,30

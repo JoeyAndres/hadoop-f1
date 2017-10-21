@@ -1,0 +1,25 @@
+1985,villeneuve,ferrari,alboreto,Finished,6361813,1
+1985,villeneuve,ferrari,johansson,Finished,6363770,2
+1985,villeneuve,mclaren,prost,Finished,6366154,3
+1985,villeneuve,williams,keke_rosberg,Finished,6389634,4
+1985,villeneuve,team_lotus,angelis,Finished,6405162,5
+1985,villeneuve,williams,mansell,Finished,6439691,6
+1985,villeneuve,renault,tambay,+1 Lap,-1,7
+1985,villeneuve,ligier,laffite,+1 Lap,-1,8
+1985,villeneuve,arrows,boutsen,+2 Laps,-1,9
+1985,villeneuve,alfa,patrese,+2 Laps,-1,10
+1985,villeneuve,tyrrell,bellof,+2 Laps,-1,11
+1985,villeneuve,tyrrell,brundle,+2 Laps,-1,12
+1985,villeneuve,arrows,berger,+3 Laps,-1,13
+1985,villeneuve,ligier,cesaris,+3 Laps,-1,14
+1985,villeneuve,brabham,surer,+3 Laps,-1,15
+1985,villeneuve,team_lotus,senna,+5 Laps,-1,16
+1985,villeneuve,alfa,cheever,+6 Laps,-1,17
+1985,villeneuve,minardi,martini,Accident,-1,18
+1985,villeneuve,mclaren,lauda,Engine,-1,19
+1985,villeneuve,osella,ghinzani,Engine,-1,20
+1985,villeneuve,ram,alliot,Accident,-1,21
+1985,villeneuve,renault,warwick,Accident,-1,22
+1985,villeneuve,ram,manfred_winkelhock,Accident,-1,23
+1985,villeneuve,toleman,fabi,Turbo,-1,24
+1985,villeneuve,brabham,piquet,Transmission,-1,25

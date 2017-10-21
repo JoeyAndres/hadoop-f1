@@ -1,0 +1,28 @@
+1980,villeneuve,williams,jones,Finished,6405530,1
+1980,villeneuve,williams,reutemann,Finished,6421070,2
+1980,villeneuve,ligier,pironi,Finished,6424600,3
+1980,villeneuve,mclaren,watson,Finished,6436510,4
+1980,villeneuve,ferrari,gilles_villeneuve,Finished,6460760,5
+1980,villeneuve,brabham,rebaque,+1 Lap,-1,6
+1980,villeneuve,tyrrell,jarier,+1 Lap,-1,7
+1980,villeneuve,ligier,laffite,Out of fuel,-1,8
+1980,villeneuve,fittipaldi,keke_rosberg,+2 Laps,-1,9
+1980,villeneuve,team_lotus,angelis,+2 Laps,-1,10
+1980,villeneuve,arrows,mass,+3 Laps,-1,11
+1980,villeneuve,ensign,lammers,+4 Laps,-1,12
+1980,villeneuve,mclaren,prost,Suspension,-1,13
+1980,villeneuve,renault,arnoux,Brakes,-1,14
+1980,villeneuve,renault,jabouille,Suspension,-1,15
+1980,villeneuve,brabham,piquet,Engine,-1,16
+1980,villeneuve,team_lotus,mario_andretti,Engine,-1,17
+1980,villeneuve,alfa,cesaris,Engine,-1,18
+1980,villeneuve,osella,cheever,Fuel system,-1,19
+1980,villeneuve,fittipaldi,emerson_fittipaldi,Gearbox,-1,20
+1980,villeneuve,alfa,giacomelli,Chassis,-1,21
+1980,villeneuve,arrows,patrese,Accident,-1,22
+1980,villeneuve,tyrrell,daly,Accident,-1,23
+1980,villeneuve,tyrrell,thackwell,Accident,-1,24
+1980,villeneuve,ats,surer,Did not qualify,-1,25
+1980,villeneuve,ferrari,scheckter,Did not qualify,-1,26
+1980,villeneuve,williams,keegan,Did not qualify,-1,27
+1980,villeneuve,williams,cogan,Did not qualify,-1,28

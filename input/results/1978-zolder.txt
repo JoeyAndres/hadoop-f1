@@ -1,0 +1,30 @@
+1978,zolder,team_lotus,mario_andretti,Finished,5992020,1
+1978,zolder,team_lotus,peterson,Finished,6001920,2
+1978,zolder,ferrari,reutemann,Finished,6016360,3
+1978,zolder,ferrari,gilles_villeneuve,Finished,6039060,4
+1978,zolder,ligier,laffite,Accident,-1,5
+1978,zolder,tyrrell,pironi,+1 Lap,-1,6
+1978,zolder,mclaren,lunger,+1 Lap,-1,7
+1978,zolder,mclaren,giacomelli,+1 Lap,-1,8
+1978,zolder,martini,arnoux,+2 Laps,-1,9
+1978,zolder,williams,jones,+2 Laps,-1,10
+1978,zolder,ats,mass,+2 Laps,-1,11
+1978,zolder,ensign,ickx,+6 Laps,-1,12
+1978,zolder,surtees,brambilla,Engine,-1,13
+1978,zolder,shadow,stuck,Spun off,-1,14
+1978,zolder,renault,jabouille,Not classified,-1,15
+1978,zolder,wolf,scheckter,Spun off,-1,16
+1978,zolder,tyrrell,depailler,Gearbox,-1,17
+1978,zolder,shadow,regazzoni,Transmission,-1,18
+1978,zolder,arrows,patrese,Suspension,-1,19
+1978,zolder,arrows,stommelen,Spun off,-1,20
+1978,zolder,brabham,watson,Accident,-1,21
+1978,zolder,brabham,lauda,Accident,-1,22
+1978,zolder,mclaren,hunt,Accident,-1,23
+1978,zolder,fittipaldi,emerson_fittipaldi,Accident,-1,24
+1978,zolder,surtees,keegan,Did not qualify,-1,25
+1978,zolder,hesketh,daly,Did not qualify,-1,26
+1978,zolder,theodore,keke_rosberg,Did not qualify,-1,27
+1978,zolder,ats,colombo,Did not qualify,-1,28
+1978,zolder,team_lotus,rebaque,Did not prequalify,-1,29
+1978,zolder,merzario,merzario,Did not prequalify,-1,30

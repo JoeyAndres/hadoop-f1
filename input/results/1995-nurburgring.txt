@@ -1,0 +1,24 @@
+1995,nurburgring,benetton,michael_schumacher,Finished,5999044,1
+1995,nurburgring,ferrari,alesi,Finished,6001728,2
+1995,nurburgring,williams,coulthard,Finished,6034426,3
+1995,nurburgring,jordan,barrichello,+1 Lap,-1,4
+1995,nurburgring,benetton,herbert,+1 Lap,-1,5
+1995,nurburgring,jordan,irvine,+1 Lap,-1,6
+1995,nurburgring,ligier,brundle,+1 Lap,-1,7
+1995,nurburgring,mclaren,hakkinen,+2 Laps,-1,8
+1995,nurburgring,minardi,lamy,+3 Laps,-1,9
+1995,nurburgring,tyrrell,salo,+3 Laps,-1,10
+1995,nurburgring,minardi,badoer,+3 Laps,-1,11
+1995,nurburgring,footwork,papis,+3 Laps,-1,12
+1995,nurburgring,forti,diniz,+5 Laps,-1,13
+1995,nurburgring,tyrrell,tarquini,+6 Laps,-1,14
+1995,nurburgring,pacific,deletraz,+7 Laps,-1,15
+1995,nurburgring,williams,damon_hill,Spun off,-1,16
+1995,nurburgring,pacific,montermini,Out of fuel,-1,17
+1995,nurburgring,sauber,boullion,Collision,-1,18
+1995,nurburgring,ferrari,berger,Electrical,-1,19
+1995,nurburgring,forti,moreno,Halfshaft,-1,20
+1995,nurburgring,sauber,frentzen,Spun off,-1,21
+1995,nurburgring,ligier,panis,Spun off,-1,22
+1995,nurburgring,mclaren,blundell,Accident,-1,23
+1995,nurburgring,footwork,inoue,Electrical,-1,24

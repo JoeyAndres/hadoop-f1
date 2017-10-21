@@ -1,0 +1,22 @@
+2006,albert_park,renault,alonso,Finished,5667870,1
+2006,albert_park,mclaren,raikkonen,Finished,5669670,2
+2006,albert_park,toyota,ralf_schumacher,Finished,5692670,3
+2006,albert_park,bmw_sauber,heidfeld,Finished,5698870,4
+2006,albert_park,renault,fisichella,Finished,5705970,5
+2006,albert_park,bmw_sauber,villeneuve,Finished,5717370,6
+2006,albert_park,honda,barrichello,Finished,5719770,7
+2006,albert_park,red_bull,coulthard,Finished,5721770,8
+2006,albert_park,toro_rosso,speed,Finished,5746670,9
+2006,albert_park,honda,button,+1 Lap,-1,10
+2006,albert_park,mf1,albers,+1 Lap,-1,11
+2006,albert_park,super_aguri,sato,+2 Laps,-1,12
+2006,albert_park,super_aguri,ide,+3 Laps,-1,13
+2006,albert_park,mclaren,montoya,Electrical,-1,14
+2006,albert_park,mf1,monteiro,Mechanical,-1,15
+2006,albert_park,toro_rosso,liuzzi,Accident,-1,16
+2006,albert_park,ferrari,michael_schumacher,Accident,-1,17
+2006,albert_park,williams,webber,Transmission,-1,18
+2006,albert_park,red_bull,klien,Accident,-1,19
+2006,albert_park,toyota,trulli,Accident,-1,20
+2006,albert_park,williams,rosberg,Accident,-1,21
+2006,albert_park,ferrari,massa,Accident,-1,22

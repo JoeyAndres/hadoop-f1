@@ -1,0 +1,22 @@
+2016,sochi,mercedes,rosberg,Finished,5561997,1
+2016,sochi,mercedes,hamilton,Finished,5587019,2
+2016,sochi,ferrari,raikkonen,Finished,5593995,3
+2016,sochi,williams,bottas,Finished,5612214,4
+2016,sochi,williams,massa,Finished,5636424,5
+2016,sochi,mclaren,alonso,+1 Lap,-1,6
+2016,sochi,renault,kevin_magnussen,+1 Lap,-1,7
+2016,sochi,haas,grosjean,+1 Lap,-1,8
+2016,sochi,force_india,perez,+1 Lap,-1,9
+2016,sochi,mclaren,button,+1 Lap,-1,10
+2016,sochi,red_bull,ricciardo,+1 Lap,-1,11
+2016,sochi,toro_rosso,sainz,+1 Lap,-1,12
+2016,sochi,renault,jolyon_palmer,+1 Lap,-1,13
+2016,sochi,sauber,ericsson,+1 Lap,-1,14
+2016,sochi,red_bull,kvyat,+1 Lap,-1,15
+2016,sochi,sauber,nasr,+1 Lap,-1,16
+2016,sochi,haas,gutierrez,+1 Lap,-1,17
+2016,sochi,manor,wehrlein,+2 Laps,-1,18
+2016,sochi,toro_rosso,max_verstappen,Power Unit,-1,19
+2016,sochi,ferrari,vettel,Collision,-1,20
+2016,sochi,force_india,hulkenberg,Collision,-1,21
+2016,sochi,manor,haryanto,Collision,-1,22

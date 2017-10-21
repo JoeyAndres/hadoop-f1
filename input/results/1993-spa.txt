@@ -1,0 +1,26 @@
+1993,spa,williams,damon_hill,Finished,5072124,1
+1993,spa,benetton,michael_schumacher,Finished,5075792,2
+1993,spa,williams,prost,Finished,5087112,3
+1993,spa,mclaren,senna,Finished,5171887,4
+1993,spa,team_lotus,herbert,+1 Lap,-1,5
+1993,spa,benetton,patrese,+1 Lap,-1,6
+1993,spa,ligier,brundle,+1 Lap,-1,7
+1993,spa,mclaren,andretti,+1 Lap,-1,8
+1993,spa,sauber,lehto,+1 Lap,-1,9
+1993,spa,ferrari,berger,Collision,-1,10
+1993,spa,ligier,blundell,Collision,-1,11
+1993,spa,larrousse,alliot,+2 Laps,-1,12
+1993,spa,lola,badoer,+2 Laps,-1,13
+1993,spa,lola,alboreto,+3 Laps,-1,14
+1993,spa,tyrrell,katayama,+4 Laps,-1,15
+1993,spa,larrousse,comas,Fuel pump,-1,16
+1993,spa,footwork,warwick,Engine,-1,17
+1993,spa,sauber,wendlinger,Engine,-1,18
+1993,spa,tyrrell,cesaris,Engine,-1,19
+1993,spa,minardi,fittipaldi,Spun off,-1,20
+1993,spa,minardi,martini,Spun off,-1,21
+1993,spa,footwork,suzuki,Gearbox,-1,22
+1993,spa,jordan,barrichello,Wheel bearing,-1,23
+1993,spa,ferrari,alesi,Suspension,-1,24
+1993,spa,jordan,boutsen,Gearbox,-1,25
+1993,spa,team_lotus,zanardi,Injury,-1,26

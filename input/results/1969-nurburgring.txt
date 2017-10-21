@@ -1,0 +1,14 @@
+1969,nurburgring,brabham-ford,ickx,Finished,6595400,1
+1969,nurburgring,matra-ford,stewart,Finished,6653100,2
+1969,nurburgring,mclaren-ford,mclaren,Finished,6797000,3
+1969,nurburgring,lotus-ford,hill,Finished,6834200,4
+1969,nurburgring,lotus-ford,siffert,Suspension,-1,5
+1969,nurburgring,matra-ford,beltoise,Suspension,-1,6
+1969,nurburgring,mclaren-ford,hulme,Transmission,-1,7
+1969,nurburgring,brm-ford,oliver,Oil leak,-1,8
+1969,nurburgring,lotus-ford,rindt,Ignition,-1,9
+1969,nurburgring,lotus-ford,bonnier,Fuel leak,-1,10
+1969,nurburgring,brabham-ford,courage,Accident,-1,11
+1969,nurburgring,mclaren-ford,elford,Accident,-1,12
+1969,nurburgring,lotus-ford,mario_andretti,Accident,-1,13
+1969,nurburgring,brm,surtees,Withdrew,-1,14

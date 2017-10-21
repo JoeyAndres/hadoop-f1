@@ -1,0 +1,26 @@
+1972,jarama,team_lotus,emerson_fittipaldi,Finished,7421200,1
+1972,jarama,ferrari,ickx,Finished,7440120,2
+1972,jarama,ferrari,regazzoni,+1 Lap,-1,3
+1972,jarama,surtees,adamich,+1 Lap,-1,4
+1972,jarama,mclaren,revson,+1 Lap,-1,5
+1972,jarama,march,pace,+1 Lap,-1,6
+1972,jarama,brabham,wilson_fittipaldi,+2 Laps,-1,7
+1972,jarama,surtees,schenken,+2 Laps,-1,8
+1972,jarama,team_lotus,walker,+3 Laps,-1,9
+1972,jarama,brabham,hill,+4 Laps,-1,10
+1972,jarama,march,pescarolo,+4 Laps,-1,11
+1972,jarama,tyrrell,stewart,Accident,-1,12
+1972,jarama,matra,amon,Gearbox,-1,13
+1972,jarama,tyrrell,cevert,Ignition,-1,14
+1972,jarama,brm,gethin,Engine,-1,15
+1972,jarama,mclaren,hulme,Gearbox,-1,16
+1972,jarama,brm,ganley,Engine,-1,17
+1972,jarama,brm,wisell,Accident,-1,18
+1972,jarama,ferrari,mario_andretti,Oil pressure,-1,19
+1972,jarama,surtees,hailwood,Electrical,-1,20
+1972,jarama,march,peterson,Fuel leak,-1,21
+1972,jarama,march,stommelen,Accident,-1,22
+1972,jarama,brm,beltoise,Gearbox,-1,23
+1972,jarama,march,lauda,Differential,-1,24
+1972,jarama,brm,roig,Accident,-1,25
+1972,jarama,march,beuttler,Did not qualify,-1,26

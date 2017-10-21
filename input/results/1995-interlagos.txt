@@ -1,0 +1,26 @@
+1995,interlagos,benetton,michael_schumacher,Finished,5914154,1
+1995,interlagos,williams,coulthard,Finished,5925214,2
+1995,interlagos,ferrari,berger,+1 Lap,-1,3
+1995,interlagos,mclaren,hakkinen,+1 Lap,-1,4
+1995,interlagos,ferrari,alesi,+1 Lap,-1,5
+1995,interlagos,mclaren,blundell,+1 Lap,-1,6
+1995,interlagos,tyrrell,salo,+2 Laps,-1,7
+1995,interlagos,ligier,suzuki,+2 Laps,-1,8
+1995,interlagos,pacific,montermini,+6 Laps,-1,9
+1995,interlagos,forti,diniz,+7 Laps,-1,10
+1995,interlagos,footwork,morbidelli,Engine,-1,11
+1995,interlagos,footwork,inoue,Engine,-1,12
+1995,interlagos,minardi,badoer,Engine,-1,13
+1995,interlagos,forti,moreno,Spun off,-1,14
+1995,interlagos,sauber,wendlinger,Electrical,-1,15
+1995,interlagos,williams,damon_hill,Gearbox,-1,16
+1995,interlagos,benetton,herbert,Collision,-1,17
+1995,interlagos,pacific,gachot,Gearbox,-1,18
+1995,interlagos,jordan,barrichello,Gearbox,-1,19
+1995,interlagos,simtek,verstappen,Gearbox,-1,20
+1995,interlagos,tyrrell,katayama,Spun off,-1,21
+1995,interlagos,jordan,irvine,Clutch,-1,22
+1995,interlagos,simtek,schiattarella,Steering,-1,23
+1995,interlagos,sauber,frentzen,Electrical,-1,24
+1995,interlagos,ligier,panis,Collision,-1,25
+1995,interlagos,minardi,martini,Gearbox,-1,26

@@ -1,0 +1,22 @@
+2001,hockenheimring,williams,ralf_schumacher,Finished,4697873,1
+2001,hockenheimring,ferrari,barrichello,Finished,4743990,2
+2001,hockenheimring,bar,villeneuve,Finished,4760679,3
+2001,hockenheimring,benetton,fisichella,Finished,4761350,4
+2001,hockenheimring,benetton,button,Finished,4763327,5
+2001,hockenheimring,prost,alesi,Finished,4763823,6
+2001,hockenheimring,bar,panis,Finished,4775400,7
+2001,hockenheimring,arrows,bernoldi,+1 Lap,-1,8
+2001,hockenheimring,arrows,verstappen,+1 Lap,-1,9
+2001,hockenheimring,minardi,alonso,+1 Lap,-1,10
+2001,hockenheimring,jordan,trulli,Hydraulics,-1,11
+2001,hockenheimring,mclaren,coulthard,Engine,-1,12
+2001,hockenheimring,minardi,marques,Gearbox,-1,13
+2001,hockenheimring,williams,montoya,Engine,-1,14
+2001,hockenheimring,ferrari,michael_schumacher,Fuel pressure,-1,15
+2001,hockenheimring,prost,burti,Spun off,-1,16
+2001,hockenheimring,sauber,raikkonen,Halfshaft,-1,17
+2001,hockenheimring,jaguar,irvine,Fuel pressure,-1,18
+2001,hockenheimring,mclaren,hakkinen,Engine,-1,19
+2001,hockenheimring,jordan,zonta,Collision,-1,20
+2001,hockenheimring,sauber,heidfeld,Collision,-1,21
+2001,hockenheimring,jaguar,rosa,Collision,-1,22

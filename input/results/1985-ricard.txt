@@ -1,0 +1,26 @@
+1985,ricard,brabham,piquet,Finished,5506266,1
+1985,ricard,williams,keke_rosberg,Finished,5512926,2
+1985,ricard,mclaren,prost,Finished,5515551,3
+1985,ricard,ferrari,johansson,Finished,5559757,4
+1985,ricard,team_lotus,angelis,Finished,5559956,5
+1985,ricard,renault,tambay,Finished,5581433,6
+1985,ricard,renault,warwick,Finished,5610478,7
+1985,ricard,brabham,surer,+1 Lap,-1,8
+1985,ricard,arrows,boutsen,+1 Lap,-1,9
+1985,ricard,alfa,cheever,+1 Lap,-1,10
+1985,ricard,alfa,patrese,+1 Lap,-1,11
+1985,ricard,ram,manfred_winkelhock,+3 Laps,-1,12
+1985,ricard,tyrrell,bellof,+3 Laps,-1,13
+1985,ricard,toleman,fabi,Fuel system,-1,14
+1985,ricard,osella,ghinzani,+4 Laps,-1,15
+1985,ricard,tyrrell,brundle,Gearbox,-1,16
+1985,ricard,mclaren,lauda,Gearbox,-1,17
+1985,ricard,team_lotus,senna,Accident,-1,18
+1985,ricard,arrows,berger,Accident,-1,19
+1985,ricard,minardi,martini,Accident,-1,20
+1985,ricard,ram,alliot,Fuel system,-1,21
+1985,ricard,zakspeed,palmer,Engine,-1,22
+1985,ricard,ferrari,alboreto,Turbo,-1,23
+1985,ricard,ligier,cesaris,Steering,-1,24
+1985,ricard,ligier,laffite,Turbo,-1,25
+1985,ricard,williams,mansell,Injury,-1,26

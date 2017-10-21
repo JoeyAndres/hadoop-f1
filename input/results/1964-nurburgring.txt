@@ -1,0 +1,23 @@
+1964,nurburgring,ferrari,surtees,Finished,7924800,1
+1964,nurburgring,brm,hill,Finished,8000400,2
+1964,nurburgring,ferrari,bandini,Finished,8217600,3
+1964,nurburgring,brabham-brm,siffert,Finished,8247900,4
+1964,nurburgring,brm,trintignant,Battery,-1,5
+1964,nurburgring,brm,maggs,+1 Lap,-1,6
+1964,nurburgring,brm,ginther,+1 Lap,-1,7
+1964,nurburgring,lotus-climax,spence,+1 Lap,-1,8
+1964,nurburgring,lotus-climax,mitter,+1 Lap,-1,9
+1964,nurburgring,brabham-climax,gurney,+1 Lap,-1,10
+1964,nurburgring,lotus-brm,amon,Suspension,-1,11
+1964,nurburgring,brabham-climax,jack_brabham,Differential,-1,12
+1964,nurburgring,honda,bucknum,Accident,-1,13
+1964,nurburgring,lotus-brm,revson,Accident,-1,14
+1964,nurburgring,lotus-climax,clark,Engine,-1,15
+1964,nurburgring,cooper-climax,mclaren,Engine,-1,16
+1964,nurburgring,brabham-climax,anderson,Suspension,-1,17
+1964,nurburgring,cooper-climax,barth,Clutch,-1,18
+1964,nurburgring,brm,baghetti,Throttle,-1,19
+1964,nurburgring,cooper-climax,phil_hill,Engine,-1,20
+1964,nurburgring,brabham-brm,bonnier,Electrical,-1,21
+1964,nurburgring,lotus-brm,hailwood,Engine,-1,22
+1964,nurburgring,scirocco,andre_pilette,Did not qualify,-1,23

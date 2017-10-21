@@ -1,0 +1,22 @@
+1956,nurburgring,ferrari,fangio,Finished,13123700,1
+1956,nurburgring,maserati,moss,Finished,13170100,2
+1956,nurburgring,maserati,behra,Finished,13582000,3
+1956,nurburgring,maserati,godia,+2 Laps,-1,4
+1956,nurburgring,maserati,rosier,+3 Laps,-1,5
+1956,nurburgring,maserati,halford,Disqualified,-1,6
+1956,nurburgring,maserati,volonterio,+6 Laps,-1,7
+1956,nurburgring,gordini,milhoux,Engine,-1,8
+1956,nurburgring,ferrari,portago,Accident,-1,9
+1956,nurburgring,maserati,schell,Overheating,-1,10
+1956,nurburgring,maserati,villoresi,Engine,-1,11
+1956,nurburgring,ferrari,musso,Accident,-1,12
+1956,nurburgring,ferrari,collins,Fuel leak,-1,13
+1956,nurburgring,ferrari,castellotti,Electrical,-1,14
+1956,nurburgring,maserati,maglioli,Steering,-1,15
+1956,nurburgring,maserati,gould,Oil pressure,-1,16
+1956,nurburgring,maserati,salvadori,Suspension,-1,17
+1956,nurburgring,gordini,manzon,Suspension,-1,18
+1956,nurburgring,ferrari,scarlatti,Engine,-1,19
+1956,nurburgring,maserati,perdisa,Withdrew,-1,20
+1956,nurburgring,gordini,andre_pilette,Withdrew,-1,21
+1956,nurburgring,maserati,piotti,Withdrew,-1,22

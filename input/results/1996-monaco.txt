@@ -1,0 +1,22 @@
+1996,monaco,ligier,panis,Finished,7245629,1
+1996,monaco,mclaren,coulthard,Finished,7250457,2
+1996,monaco,sauber,herbert,Finished,7283132,3
+1996,monaco,sauber,frentzen,Withdrew,-1,4
+1996,monaco,tyrrell,salo,Collision,-1,5
+1996,monaco,mclaren,hakkinen,Collision,-1,6
+1996,monaco,ferrari,irvine,Collision,-1,7
+1996,monaco,williams,villeneuve,Collision,-1,8
+1996,monaco,benetton,alesi,Suspension,-1,9
+1996,monaco,forti,badoer,Collision,-1,10
+1996,monaco,williams,damon_hill,Engine,-1,11
+1996,monaco,jordan,brundle,Spun off,-1,12
+1996,monaco,benetton,berger,Gearbox,-1,13
+1996,monaco,ligier,diniz,Transmission,-1,14
+1996,monaco,footwork,rosset,Spun off,-1,15
+1996,monaco,tyrrell,katayama,Spun off,-1,16
+1996,monaco,ferrari,michael_schumacher,Spun off,-1,17
+1996,monaco,jordan,barrichello,Spun off,-1,18
+1996,monaco,minardi,lamy,Collision,-1,19
+1996,monaco,minardi,fisichella,Collision,-1,20
+1996,monaco,footwork,verstappen,Spun off,-1,21
+1996,monaco,forti,montermini,Injury,-1,22

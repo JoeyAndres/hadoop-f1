@@ -1,0 +1,30 @@
+1961,nurburgring,lotus-climax,moss,Finished,8292400,1
+1961,nurburgring,ferrari,trips,Finished,8313800,2
+1961,nurburgring,ferrari,phil_hill,Finished,8314900,3
+1961,nurburgring,lotus-climax,clark,Finished,8369500,4
+1961,nurburgring,cooper-climax,surtees,Finished,8405500,5
+1961,nurburgring,cooper-climax,mclaren,Finished,8453800,6
+1961,nurburgring,porsche,gurney,Finished,8495500,7
+1961,nurburgring,ferrari,ginther,Finished,8615500,8
+1961,nurburgring,cooper-climax,lewis,Finished,8616100,9
+1961,nurburgring,cooper-climax,salvadori,Finished,9023900,10
+1961,nurburgring,lotus-climax,maggs,+1 Lap,-1,11
+1961,nurburgring,cooper-climax,burgess,+1 Lap,-1,12
+1961,nurburgring,porsche,herrmann,+1 Lap,-1,13
+1961,nurburgring,porsche,beaufort,+1 Lap,-1,14
+1961,nurburgring,lotus-climax,marsh,+2 Laps,-1,15
+1961,nurburgring,lotus-climax,ashmore,+2 Laps,-1,16
+1961,nurburgring,ferrari,mairesse,Accident,-1,17
+1961,nurburgring,cooper-maserati,trintignant,Engine,-1,18
+1961,nurburgring,cooper-climax,collomb,Not classified,-1,19
+1961,nurburgring,cooper-maserati,bandini,Engine,-1,20
+1961,nurburgring,brm,brooks,Engine,-1,21
+1961,nurburgring,porsche,bonnier,Engine,-1,22
+1961,nurburgring,lotus-climax,seidel,Handling,-1,23
+1961,nurburgring,brm,hill,Accident,-1,24
+1961,nurburgring,lotus-climax,ireland,Heat shield fire,-1,25
+1961,nurburgring,cooper-climax,jack_brabham,Accident,-1,26
+1961,nurburgring,porsche,barth,Withdrew,-1,27
+1961,nurburgring,cooper-climax,gregory,Withdrew,-1,28
+1961,nurburgring,lotus-climax,may,Withdrew,-1,29
+1961,nurburgring,mbm,monteverdi,Withdrew,-1,30

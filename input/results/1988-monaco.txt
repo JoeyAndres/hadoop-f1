@@ -1,0 +1,30 @@
+1988,monaco,mclaren,prost,Finished,7037077,1
+1988,monaco,ferrari,berger,Finished,7057530,2
+1988,monaco,ferrari,alboreto,Finished,7078306,3
+1988,monaco,arrows,warwick,+1 Lap,-1,4
+1988,monaco,tyrrell,palmer,+1 Lap,-1,5
+1988,monaco,williams,patrese,+1 Lap,-1,6
+1988,monaco,larrousse,dalmas,+1 Lap,-1,7
+1988,monaco,benetton,boutsen,+2 Laps,-1,8
+1988,monaco,osella,larini,+3 Laps,-1,9
+1988,monaco,march,capelli,+6 Laps,-1,10
+1988,monaco,mclaren,senna,Spun off,-1,11
+1988,monaco,larrousse,alliot,Collision,-1,12
+1988,monaco,march,gugelmin,Fuel system,-1,13
+1988,monaco,zakspeed,ghinzani,Gearbox,-1,14
+1988,monaco,benetton,nannini,Gearbox,-1,15
+1988,monaco,minardi,sala,Halfshaft,-1,16
+1988,monaco,williams,mansell,Collision,-1,17
+1988,monaco,rial,cesaris,Engine,-1,18
+1988,monaco,ligier,arnoux,Engine,-1,19
+1988,monaco,eurobrun,larrauri,Brakes,-1,20
+1988,monaco,arrows,cheever,Engine,-1,21
+1988,monaco,ligier,johansson,Engine,-1,22
+1988,monaco,coloni,tarquini,Suspension,-1,23
+1988,monaco,team_lotus,piquet,Collision,-1,24
+1988,monaco,dallara,caffi,Spun off,-1,25
+1988,monaco,ags,streiff,Throttle,-1,26
+1988,monaco,team_lotus,satoru_nakajima,Did not qualify,-1,27
+1988,monaco,zakspeed,schneider,Did not qualify,-1,28
+1988,monaco,minardi,campos,Did not qualify,-1,29
+1988,monaco,tyrrell,bailey,Did not qualify,-1,30

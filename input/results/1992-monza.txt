@@ -1,0 +1,28 @@
+1992,monza,mclaren,senna,Finished,4695349,1
+1992,monza,benetton,brundle,Finished,4712399,2
+1992,monza,benetton,michael_schumacher,Finished,4719722,3
+1992,monza,mclaren,berger,Finished,4780839,4
+1992,monza,williams,patrese,Finished,4788507,5
+1992,monza,tyrrell,cesaris,+1 Lap,-1,6
+1992,monza,footwork,alboreto,+1 Lap,-1,7
+1992,monza,dallara,martini,+1 Lap,-1,8
+1992,monza,larrousse,katayama,Transmission,-1,9
+1992,monza,march,wendlinger,+3 Laps,-1,10
+1992,monza,dallara,lehto,Engine,-1,11
+1992,monza,jordan,gugelmin,Transmission,-1,12
+1992,monza,williams,mansell,Electrical,-1,13
+1992,monza,ligier,boutsen,Throttle,-1,14
+1992,monza,ligier,comas,Spun off,-1,15
+1992,monza,fondmetal,tarquini,Gearbox,-1,16
+1992,monza,tyrrell,grouillard,Engine,-1,17
+1992,monza,team_lotus,herbert,Engine,-1,18
+1992,monza,march,naspetti,Engine,-1,19
+1992,monza,ferrari,alesi,Fuel system,-1,20
+1992,monza,ferrari,capelli,Electrical,-1,21
+1992,monza,minardi,morbidelli,Engine,-1,22
+1992,monza,larrousse,gachot,Engine,-1,23
+1992,monza,team_lotus,hakkinen,Engine,-1,24
+1992,monza,footwork,suzuki,Suspension,-1,25
+1992,monza,fondmetal,poele,Clutch,-1,26
+1992,monza,minardi,fittipaldi,Did not qualify,-1,27
+1992,monza,jordan,modena,Did not qualify,-1,28

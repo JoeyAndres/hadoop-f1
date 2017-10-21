@@ -1,0 +1,30 @@
+1991,silverstone,williams,mansell,Finished,5255479,1
+1991,silverstone,mclaren,berger,Finished,5297772,2
+1991,silverstone,ferrari,prost,Finished,5315629,3
+1991,silverstone,mclaren,senna,Out of fuel,-1,4
+1991,silverstone,benetton,piquet,+1 Lap,-1,5
+1991,silverstone,jordan,gachot,+1 Lap,-1,6
+1991,silverstone,tyrrell,modena,+1 Lap,-1,7
+1991,silverstone,tyrrell,satoru_nakajima,+1 Lap,-1,8
+1991,silverstone,minardi,martini,+1 Lap,-1,9
+1991,silverstone,dallara,pirro,+2 Laps,-1,10
+1991,silverstone,minardi,morbidelli,+2 Laps,-1,11
+1991,silverstone,team_lotus,hakkinen,+2 Laps,-1,12
+1991,silverstone,dallara,lehto,+3 Laps,-1,13
+1991,silverstone,team_lotus,herbert,Oil pressure,-1,14
+1991,silverstone,brabham,blundell,Engine,-1,15
+1991,silverstone,jordan,cesaris,Spun off,-1,16
+1991,silverstone,ferrari,alesi,Collision,-1,17
+1991,silverstone,lola,suzuki,Collision,-1,18
+1991,silverstone,ligier,boutsen,Engine,-1,19
+1991,silverstone,brabham,brundle,Throttle,-1,20
+1991,silverstone,footwork,alboreto,Transmission,-1,21
+1991,silverstone,leyton,gugelmin,Chassis,-1,22
+1991,silverstone,benetton,moreno,Gearbox,-1,23
+1991,silverstone,lola,bernard,Transmission,-1,24
+1991,silverstone,leyton,capelli,Spun off,-1,25
+1991,silverstone,williams,patrese,Collision,-1,26
+1991,silverstone,ligier,comas,Did not qualify,-1,27
+1991,silverstone,footwork,johansson,Did not qualify,-1,28
+1991,silverstone,ags,barbazza,Did not qualify,-1,29
+1991,silverstone,ags,tarquini,Did not qualify,-1,30

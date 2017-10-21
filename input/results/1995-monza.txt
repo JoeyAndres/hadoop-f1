@@ -1,0 +1,24 @@
+1995,monza,benetton,herbert,Finished,4707916,1
+1995,monza,mclaren,hakkinen,Finished,4725695,2
+1995,monza,sauber,frentzen,Finished,4732237,3
+1995,monza,mclaren,blundell,Finished,4736139,4
+1995,monza,tyrrell,salo,+1 Lap,-1,5
+1995,monza,sauber,boullion,+1 Lap,-1,6
+1995,monza,footwork,papis,+1 Lap,-1,7
+1995,monza,footwork,inoue,+1 Lap,-1,8
+1995,monza,forti,diniz,+3 Laps,-1,9
+1995,monza,tyrrell,katayama,+6 Laps,-1,10
+1995,monza,ferrari,alesi,Wheel bearing,-1,11
+1995,monza,jordan,barrichello,Clutch,-1,12
+1995,monza,jordan,irvine,Engine,-1,13
+1995,monza,ferrari,berger,Suspension,-1,14
+1995,monza,minardi,badoer,Spun off,-1,15
+1995,monza,benetton,michael_schumacher,Collision,-1,16
+1995,monza,williams,damon_hill,Collision,-1,17
+1995,monza,ligier,panis,Spun off,-1,18
+1995,monza,williams,coulthard,Spun off,-1,19
+1995,monza,ligier,brundle,Puncture,-1,20
+1995,monza,pacific,lavaggi,Spun off,-1,21
+1995,monza,minardi,lamy,Transmission,-1,22
+1995,monza,pacific,montermini,Accident,-1,23
+1995,monza,forti,moreno,Accident,-1,24

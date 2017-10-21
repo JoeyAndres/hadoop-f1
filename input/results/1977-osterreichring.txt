@@ -1,0 +1,30 @@
+1977,osterreichring,shadow,jones,Finished,5836490,1
+1977,osterreichring,ferrari,lauda,Finished,5856620,2
+1977,osterreichring,brabham,stuck,Finished,5870990,3
+1977,osterreichring,ferrari,reutemann,Finished,5871240,4
+1977,osterreichring,tyrrell,peterson,Finished,5908580,5
+1977,osterreichring,mclaren,mass,+1 Lap,-1,6
+1977,osterreichring,hesketh,keegan,+1 Lap,-1,7
+1977,osterreichring,brabham,watson,+1 Lap,-1,8
+1977,osterreichring,march,neve,+1 Lap,-1,9
+1977,osterreichring,mclaren,lunger,+1 Lap,-1,10
+1977,osterreichring,fittipaldi,emerson_fittipaldi,+1 Lap,-1,11
+1977,osterreichring,penske,binder,+1 Lap,-1,12
+1977,osterreichring,tyrrell,depailler,+1 Lap,-1,13
+1977,osterreichring,penske,jarier,+2 Laps,-1,14
+1977,osterreichring,surtees,brambilla,+2 Laps,-1,15
+1977,osterreichring,surtees,schuppan,+2 Laps,-1,16
+1977,osterreichring,mclaren,villota,Accident,-1,17
+1977,osterreichring,wolf,scheckter,Spun off,-1,18
+1977,osterreichring,mclaren,hunt,Engine,-1,19
+1977,osterreichring,ensign,tambay,Engine,-1,20
+1977,osterreichring,team_lotus,nilsson,Engine,-1,21
+1977,osterreichring,shadow,merzario,Gearbox,-1,22
+1977,osterreichring,ligier,laffite,Oil leak,-1,23
+1977,osterreichring,team_lotus,mario_andretti,Engine,-1,24
+1977,osterreichring,march,ian_scheckter,Accident,-1,25
+1977,osterreichring,ensign,regazzoni,Accident,-1,26
+1977,osterreichring,march,henton,Did not qualify,-1,27
+1977,osterreichring,hesketh,ashley,Did not qualify,-1,28
+1977,osterreichring,hesketh,rebaque,Did not qualify,-1,29
+1977,osterreichring,march,ribeiro,Did not qualify,-1,30

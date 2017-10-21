@@ -1,0 +1,30 @@
+1976,ricard,mclaren,hunt,Finished,6058600,1
+1976,ricard,tyrrell,depailler,Finished,6071300,2
+1976,ricard,penske,watson,Finished,6082150,3
+1976,ricard,brabham-alfa_romeo,pace,Finished,6083420,4
+1976,ricard,team_lotus,mario_andretti,Finished,6102520,5
+1976,ricard,tyrrell,scheckter,Finished,6113670,6
+1976,ricard,march,stuck,Finished,6140150,7
+1976,ricard,shadow,pryce,Finished,6149270,8
+1976,ricard,march,merzario,Finished,6172170,9
+1976,ricard,wolf,ickx,+1 Lap,-1,10
+1976,ricard,brabham-alfa_romeo,reutemann,+1 Lap,-1,11
+1976,ricard,shadow,jarier,+1 Lap,-1,12
+1976,ricard,wolf,leclere,+1 Lap,-1,13
+1976,ricard,ligier,laffite,+1 Lap,-1,14
+1976,ricard,mclaren,mass,+1 Lap,-1,15
+1976,ricard,surtees,lunger,+1 Lap,-1,16
+1976,ricard,hesketh,edwards,+1 Lap,-1,17
+1976,ricard,ensign,neve,+1 Lap,-1,18
+1976,ricard,march,peterson,Fuel system,-1,19
+1976,ricard,surtees,jones,Suspension,-1,20
+1976,ricard,march,brambilla,Oil pressure,-1,21
+1976,ricard,fittipaldi,emerson_fittipaldi,Oil pressure,-1,22
+1976,ricard,surtees,pescarolo,Suspension,-1,23
+1976,ricard,ferrari,regazzoni,Engine,-1,24
+1976,ricard,ferrari,lauda,Engine,-1,25
+1976,ricard,team_lotus,nilsson,Gearbox,-1,26
+1976,ricard,hesketh,ertl,Differential,-1,27
+1976,ricard,brabham-ford,magee,Did not qualify,-1,28
+1976,ricard,fittipaldi,hoffmann,Did not qualify,-1,29
+1976,ricard,brabham-ford,kessel,Did not qualify,-1,30

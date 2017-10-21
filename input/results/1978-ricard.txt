@@ -1,0 +1,29 @@
+1978,ricard,team_lotus,mario_andretti,Finished,5931920,1
+1978,ricard,team_lotus,peterson,Finished,5934850,2
+1978,ricard,mclaren,hunt,Finished,5951720,3
+1978,ricard,brabham,watson,Finished,5968800,4
+1978,ricard,williams,jones,Finished,5973730,5
+1978,ricard,wolf,scheckter,Finished,5986450,6
+1978,ricard,ligier,laffite,Finished,5986660,7
+1978,ricard,arrows,patrese,Finished,6016800,8
+1978,ricard,mclaren,tambay,Finished,6018980,9
+1978,ricard,tyrrell,pironi,Finished,6021900,10
+1978,ricard,shadow,stuck,+1 Lap,-1,11
+1978,ricard,ferrari,gilles_villeneuve,+1 Lap,-1,12
+1978,ricard,ats,mass,+1 Lap,-1,13
+1978,ricard,martini,arnoux,+1 Lap,-1,14
+1978,ricard,arrows,stommelen,+1 Lap,-1,15
+1978,ricard,ats,keke_rosberg,+2 Laps,-1,16
+1978,ricard,surtees,brambilla,+2 Laps,-1,17
+1978,ricard,ferrari,reutemann,+5 Laps,-1,18
+1978,ricard,mclaren,lunger,Engine,-1,19
+1978,ricard,fittipaldi,emerson_fittipaldi,Suspension,-1,20
+1978,ricard,surtees,keegan,Engine,-1,21
+1978,ricard,mclaren,giacomelli,Engine,-1,22
+1978,ricard,brabham,lauda,Engine,-1,23
+1978,ricard,tyrrell,depailler,Engine,-1,24
+1978,ricard,shadow,regazzoni,Electrical,-1,25
+1978,ricard,renault,jabouille,Engine,-1,26
+1978,ricard,merzario,merzario,Did not qualify,-1,27
+1978,ricard,ensign,daly,Did not qualify,-1,28
+1978,ricard,team_lotus,rebaque,Did not qualify,-1,29

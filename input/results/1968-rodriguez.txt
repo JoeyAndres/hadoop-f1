@@ -1,0 +1,21 @@
+1968,rodriguez,lotus-ford,hill,Finished,7003950,1
+1968,rodriguez,mclaren-ford,mclaren,Finished,7083270,2
+1968,rodriguez,lotus-ford,oliver,Finished,7104600,3
+1968,rodriguez,brm,rodriguez,Finished,7105040,4
+1968,rodriguez,honda,bonnier,+1 Lap,-1,5
+1968,rodriguez,lotus-ford,siffert,+1 Lap,-1,6
+1968,rodriguez,matra-ford,stewart,+1 Lap,-1,7
+1968,rodriguez,cooper-brm,elford,+2 Laps,-1,8
+1968,rodriguez,matra,pescarolo,+3 Laps,-1,9
+1968,rodriguez,brabham-repco,jack_brabham,Oil pressure,-1,10
+1968,rodriguez,matra-ford,gavin,Ignition,-1,11
+1968,rodriguez,mclaren-ford,gurney,Suspension,-1,12
+1968,rodriguez,brm,courage,Engine,-1,13
+1968,rodriguez,cooper-brm,bianchi,Engine,-1,14
+1968,rodriguez,honda,surtees,Overheating,-1,15
+1968,rodriguez,ferrari,amon,Transmission,-1,16
+1968,rodriguez,lotus-ford,solana,Broken wing,-1,17
+1968,rodriguez,mclaren-ford,hulme,Suspension,-1,18
+1968,rodriguez,matra,beltoise,Suspension,-1,19
+1968,rodriguez,ferrari,ickx,Ignition,-1,20
+1968,rodriguez,brabham-repco,rindt,Ignition,-1,21

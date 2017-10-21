@@ -1,0 +1,26 @@
+1979,hockenheimring,williams,jones,Finished,5088830,1
+1979,hockenheimring,williams,regazzoni,Finished,5091740,2
+1979,hockenheimring,ligier,laffite,Finished,5107220,3
+1979,hockenheimring,ferrari,scheckter,Finished,5120030,4
+1979,hockenheimring,mclaren,watson,Finished,5186630,5
+1979,hockenheimring,arrows,mass,+1 Lap,-1,6
+1979,hockenheimring,tyrrell,lees,+1 Lap,-1,7
+1979,hockenheimring,ferrari,gilles_villeneuve,+1 Lap,-1,8
+1979,hockenheimring,tyrrell,pironi,+1 Lap,-1,9
+1979,hockenheimring,shadow,lammers,+1 Lap,-1,10
+1979,hockenheimring,shadow,angelis,+2 Laps,-1,11
+1979,hockenheimring,brabham-alfa_romeo,piquet,Engine,-1,12
+1979,hockenheimring,arrows,patrese,Tyre,-1,13
+1979,hockenheimring,mclaren,tambay,Suspension,-1,14
+1979,hockenheimring,wolf,keke_rosberg,Engine,-1,15
+1979,hockenheimring,brabham-alfa_romeo,lauda,Engine,-1,16
+1979,hockenheimring,ligier,ickx,Tyre,-1,17
+1979,hockenheimring,team_lotus,rebaque,Handling,-1,18
+1979,hockenheimring,team_lotus,mario_andretti,Transmission,-1,19
+1979,hockenheimring,renault,arnoux,Tyre,-1,20
+1979,hockenheimring,renault,jabouille,Spun off,-1,21
+1979,hockenheimring,fittipaldi,emerson_fittipaldi,Electrical,-1,22
+1979,hockenheimring,team_lotus,reutemann,Accident,-1,23
+1979,hockenheimring,ats,stuck,Suspension,-1,24
+1979,hockenheimring,ensign,gaillard,Did not qualify,-1,25
+1979,hockenheimring,merzario,merzario,Did not qualify,-1,26

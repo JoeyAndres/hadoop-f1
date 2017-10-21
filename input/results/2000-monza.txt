@@ -1,0 +1,22 @@
+2000,monza,ferrari,michael_schumacher,Finished,5251638,1
+2000,monza,mclaren,hakkinen,Finished,5255448,2
+2000,monza,williams,ralf_schumacher,Finished,5304070,3
+2000,monza,arrows,verstappen,Finished,5311576,4
+2000,monza,benetton,wurz,Finished,5319064,5
+2000,monza,bar,zonta,Finished,5320931,6
+2000,monza,sauber,salo,+1 Lap,-1,7
+2000,monza,sauber,diniz,+1 Lap,-1,8
+2000,monza,minardi,gene,+1 Lap,-1,9
+2000,monza,minardi,mazzacane,+1 Lap,-1,10
+2000,monza,benetton,fisichella,+1 Lap,-1,11
+2000,monza,prost,alesi,+2 Laps,-1,12
+2000,monza,prost,heidfeld,Spun off,-1,13
+2000,monza,bar,villeneuve,Electrical,-1,14
+2000,monza,williams,button,Spun off,-1,15
+2000,monza,jaguar,herbert,Collision,-1,16
+2000,monza,ferrari,barrichello,Collision,-1,17
+2000,monza,mclaren,coulthard,Collision,-1,18
+2000,monza,jordan,trulli,Collision,-1,19
+2000,monza,jordan,frentzen,Collision,-1,20
+2000,monza,arrows,rosa,Collision,-1,21
+2000,monza,jaguar,irvine,Spun off,-1,22

@@ -1,0 +1,18 @@
+1958,zandvoort,vanwall,moss,Finished,7489200,1
+1958,zandvoort,brm,schell,Finished,7537100,2
+1958,zandvoort,brm,behra,Finished,7591500,3
+1958,zandvoort,cooper,salvadori,+1 Lap,-1,4
+1958,zandvoort,ferrari,hawthorn,+1 Lap,-1,5
+1958,zandvoort,team_lotus,allison,+2 Laps,-1,6
+1958,zandvoort,ferrari,musso,+2 Laps,-1,7
+1958,zandvoort,cooper,jack_brabham,+2 Laps,-1,8
+1958,zandvoort,cooper,trintignant,+3 Laps,-1,9
+1958,zandvoort,maserati,bonnier,+4 Laps,-1,10
+1958,zandvoort,porsche,beaufort,+6 Laps,-1,11
+1958,zandvoort,maserati,scarlatti,Halfshaft,-1,12
+1958,zandvoort,vanwall,lewis-evans,Engine,-1,13
+1958,zandvoort,team_lotus,hill,Overheating,-1,14
+1958,zandvoort,ferrari,collins,Gearbox,-1,15
+1958,zandvoort,maserati,gregory,Fuel pump,-1,16
+1958,zandvoort,vanwall,brooks,Halfshaft,-1,17
+1958,zandvoort,maserati,gould,Withdrew,-1,18

@@ -1,0 +1,22 @@
+1999,catalunya,mclaren,hakkinen,Finished,5653665,1
+1999,catalunya,mclaren,coulthard,Finished,5659903,2
+1999,catalunya,ferrari,michael_schumacher,Finished,5664510,3
+1999,catalunya,ferrari,irvine,Finished,5683847,4
+1999,catalunya,williams,ralf_schumacher,Finished,5740873,5
+1999,catalunya,prost,trulli,+1 Lap,-1,6
+1999,catalunya,jordan,damon_hill,+1 Lap,-1,7
+1999,catalunya,bar,salo,+1 Lap,-1,8
+1999,catalunya,benetton,fisichella,+1 Lap,-1,9
+1999,catalunya,benetton,wurz,+1 Lap,-1,10
+1999,catalunya,arrows,rosa,+2 Laps,-1,11
+1999,catalunya,arrows,takagi,+3 Laps,-1,12
+1999,catalunya,minardi,badoer,Spun off,-1,13
+1999,catalunya,bar,villeneuve,Gearbox,-1,14
+1999,catalunya,sauber,diniz,Transmission,-1,15
+1999,catalunya,stewart,herbert,Transmission,-1,16
+1999,catalunya,jordan,frentzen,Halfshaft,-1,17
+1999,catalunya,sauber,alesi,Transmission,-1,18
+1999,catalunya,williams,zanardi,Gearbox,-1,19
+1999,catalunya,prost,panis,Gearbox,-1,20
+1999,catalunya,minardi,gene,Gearbox,-1,21
+1999,catalunya,stewart,barrichello,Disqualified,-1,22

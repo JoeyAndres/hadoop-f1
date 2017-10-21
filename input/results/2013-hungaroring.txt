@@ -1,0 +1,22 @@
+2013,hungaroring,mercedes,hamilton,Finished,6149445,1
+2013,hungaroring,lotus_f1,raikkonen,Finished,6160383,2
+2013,hungaroring,red_bull,vettel,Finished,6161904,3
+2013,hungaroring,red_bull,webber,Finished,6167489,4
+2013,hungaroring,ferrari,alonso,Finished,6180856,5
+2013,hungaroring,lotus_f1,grosjean,Finished,6201740,6
+2013,hungaroring,mclaren,button,Finished,6203264,7
+2013,hungaroring,ferrari,massa,Finished,6205892,8
+2013,hungaroring,mclaren,perez,+1 Lap,-1,9
+2013,hungaroring,williams,maldonado,+1 Lap,-1,10
+2013,hungaroring,sauber,hulkenberg,+1 Lap,-1,11
+2013,hungaroring,toro_rosso,vergne,+1 Lap,-1,12
+2013,hungaroring,toro_rosso,ricciardo,+1 Lap,-1,13
+2013,hungaroring,caterham,garde,+2 Laps,-1,14
+2013,hungaroring,caterham,pic,+2 Laps,-1,15
+2013,hungaroring,marussia,jules_bianchi,+3 Laps,-1,16
+2013,hungaroring,marussia,chilton,+3 Laps,-1,17
+2013,hungaroring,force_india,resta,Hydraulics,-1,18
+2013,hungaroring,mercedes,rosberg,Engine,-1,19
+2013,hungaroring,williams,bottas,Hydraulics,-1,20
+2013,hungaroring,sauber,gutierrez,Transmission,-1,21
+2013,hungaroring,force_india,sutil,Hydraulics,-1,22

@@ -1,0 +1,26 @@
+1986,ricard,williams,mansell,Finished,5839272,1
+1986,ricard,mclaren,prost,Finished,5856400,2
+1986,ricard,williams,piquet,Finished,5876817,3
+1986,ricard,mclaren,keke_rosberg,Finished,5887975,4
+1986,ricard,ligier,arnoux,+1 Lap,-1,5
+1986,ricard,ligier,laffite,+1 Lap,-1,6
+1986,ricard,brabham,patrese,+2 Laps,-1,7
+1986,ricard,ferrari,alboreto,+2 Laps,-1,8
+1986,ricard,brabham,warwick,+3 Laps,-1,9
+1986,ricard,tyrrell,brundle,+3 Laps,-1,10
+1986,ricard,arrows,danner,+4 Laps,-1,11
+1986,ricard,arrows,boutsen,Not classified,-1,12
+1986,ricard,lola,tambay,Brakes,-1,13
+1986,ricard,team_lotus,dumfries,Engine,-1,14
+1986,ricard,zakspeed,palmer,Engine,-1,15
+1986,ricard,tyrrell,streiff,Heat shield fire,-1,16
+1986,ricard,zakspeed,rothengatter,Accident,-1,17
+1986,ricard,osella,berg,Turbo,-1,18
+1986,ricard,benetton,berger,Gearbox,-1,19
+1986,ricard,benetton,fabi,Engine,-1,20
+1986,ricard,ferrari,johansson,Turbo,-1,21
+1986,ricard,team_lotus,senna,Accident,-1,22
+1986,ricard,osella,ghinzani,Accident,-1,23
+1986,ricard,minardi,nannini,Accident,-1,24
+1986,ricard,minardi,cesaris,Turbo,-1,25
+1986,ricard,lola,jones,Accident,-1,26

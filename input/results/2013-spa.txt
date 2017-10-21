@@ -1,0 +1,22 @@
+2013,spa,red_bull,vettel,Finished,5022196,1
+2013,spa,ferrari,alonso,Finished,5039065,2
+2013,spa,mercedes,hamilton,Finished,5049930,3
+2013,spa,mercedes,rosberg,Finished,5052068,4
+2013,spa,red_bull,webber,Finished,5056041,5
+2013,spa,mclaren,button,Finished,5062990,6
+2013,spa,ferrari,massa,Finished,5076118,7
+2013,spa,lotus_f1,grosjean,Finished,5078042,8
+2013,spa,force_india,sutil,Finished,5091743,9
+2013,spa,toro_rosso,ricciardo,Finished,5095666,10
+2013,spa,mclaren,perez,Finished,5104132,11
+2013,spa,toro_rosso,vergne,Finished,5108936,12
+2013,spa,sauber,hulkenberg,Finished,5110454,13
+2013,spa,sauber,gutierrez,Finished,5122632,14
+2013,spa,williams,bottas,Finished,5129652,15
+2013,spa,caterham,garde,+1 Lap,-1,16
+2013,spa,williams,maldonado,+1 Lap,-1,17
+2013,spa,marussia,jules_bianchi,+1 Lap,-1,18
+2013,spa,marussia,chilton,+2 Laps,-1,19
+2013,spa,force_india,resta,Collision,-1,20
+2013,spa,lotus_f1,raikkonen,Brakes,-1,21
+2013,spa,caterham,pic,Oil leak,-1,22

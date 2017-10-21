@@ -1,0 +1,22 @@
+1999,hockenheimring,ferrari,irvine,Finished,4918594,1
+1999,hockenheimring,ferrari,salo,Finished,4919601,2
+1999,hockenheimring,jordan,frentzen,Finished,4923789,3
+1999,hockenheimring,williams,ralf_schumacher,Finished,4931403,4
+1999,hockenheimring,mclaren,coulthard,Finished,4935417,5
+1999,hockenheimring,prost,panis,Finished,4948473,6
+1999,hockenheimring,benetton,wurz,Finished,4951927,7
+1999,hockenheimring,sauber,alesi,Finished,4989885,8
+1999,hockenheimring,minardi,gene,Finished,5026912,9
+1999,hockenheimring,minardi,badoer,+1 Lap,-1,10
+1999,hockenheimring,stewart,herbert,Gearbox,-1,11
+1999,hockenheimring,arrows,rosa,Spun off,-1,12
+1999,hockenheimring,mclaren,hakkinen,Tyre,-1,13
+1999,hockenheimring,williams,zanardi,Differential,-1,14
+1999,hockenheimring,bar,zonta,Engine,-1,15
+1999,hockenheimring,arrows,takagi,Engine,-1,16
+1999,hockenheimring,jordan,damon_hill,Brakes,-1,17
+1999,hockenheimring,prost,trulli,Engine,-1,18
+1999,hockenheimring,benetton,fisichella,Suspension,-1,19
+1999,hockenheimring,stewart,barrichello,Hydraulics,-1,20
+1999,hockenheimring,bar,villeneuve,Collision,-1,21
+1999,hockenheimring,sauber,diniz,Collision,-1,22

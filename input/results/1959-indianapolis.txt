@@ -1,0 +1,30 @@
+1959,indianapolis,watson,ward,Finished,13249200,1
+1959,indianapolis,watson,rathmann,Finished,13272480,2
+1959,indianapolis,lesovsky,thomson,Finished,13299840,3
+1959,indianapolis,epperly,bettenhausen,Finished,13356290,4
+1959,indianapolis,epperly,goldsmith,Finished,13375640,5
+1959,indianapolis,epperly,boyd,Finished,13446180,6
+1959,indianapolis,kurtis_kraft,darter,Finished,13499120,7
+1959,indianapolis,kurtis_kraft,johnson,Finished,13499730,8
+1959,indianapolis,kurtis_kraft,paul_russo,Finished,13500240,9
+1959,indianapolis,kuzma,foyt,Finished,13503680,10
+1959,indianapolis,kuzma,hartley,Finished,13591680,11
+1959,indianapolis,moore,veith,Finished,13618930,12
+1959,indianapolis,dunn,herman,Finished,13649600,13
+1959,indianapolis,kurtis_kraft,daywalt,Finished,13650740,14
+1959,indianapolis,kurtis_kraft,arnold,Finished,13749060,15
+1959,indianapolis,kurtis_kraft,mcwithey,Finished,13950890,16
+1959,indianapolis,kuzma,sachs,Spun off,-1,17
+1959,indianapolis,kuzma,keller,Engine,-1,18
+1959,indianapolis,watson,flaherty,Accident,-1,19
+1959,indianapolis,watson,dick_rathmann,Heat shield fire,-1,20
+1959,indianapolis,kuzma,cheesbourg,Magneto,-1,21
+1959,indianapolis,kurtis_kraft,freeland,Magneto,-1,22
+1959,indianapolis,elder,ray_crawford,Accident,-1,23
+1959,indianapolis,phillips,branson,Suspension,-1,24
+1959,indianapolis,kurtis_kraft,christie,Engine,-1,25
+1959,indianapolis,kurtis_kraft,grim,Magneto,-1,26
+1959,indianapolis,vhristensen,turner,Fuel leak,-1,27
+1959,indianapolis,kurtis_kraft,weyant,Accident,-1,28
+1959,indianapolis,kurtis_kraft,larson,Accident,-1,29
+1959,indianapolis,sutton,magill,Accident,-1,30

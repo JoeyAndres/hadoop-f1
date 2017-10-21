@@ -1,0 +1,30 @@
+1991,imola,mclaren,senna,Finished,5714750,1
+1991,imola,mclaren,berger,Finished,5716425,2
+1991,imola,dallara,lehto,+1 Lap,-1,3
+1991,imola,minardi,martini,+2 Laps,-1,4
+1991,imola,team_lotus,hakkinen,+3 Laps,-1,5
+1991,imola,team_lotus,bailey,+3 Laps,-1,6
+1991,imola,ligier,boutsen,+3 Laps,-1,7
+1991,imola,brabham,blundell,+3 Laps,-1,8
+1991,imola,lambo,poele,Out of fuel,-1,9
+1991,imola,ligier,comas,+4 Laps,-1,10
+1991,imola,brabham,brundle,+4 Laps,-1,11
+1991,imola,leyton,gugelmin,Engine,-1,12
+1991,imola,benetton,moreno,Engine,-1,13
+1991,imola,tyrrell,modena,Transmission,-1,14
+1991,imola,jordan,cesaris,Gearbox,-1,15
+1991,imola,jordan,gachot,Suspension,-1,16
+1991,imola,leyton,capelli,Spun off,-1,17
+1991,imola,lola,bernard,Engine,-1,18
+1991,imola,williams,patrese,Electrical,-1,19
+1991,imola,tyrrell,satoru_nakajima,Transmission,-1,20
+1991,imola,minardi,morbidelli,Gearbox,-1,21
+1991,imola,ferrari,alesi,Spun off,-1,22
+1991,imola,lola,suzuki,Spun off,-1,23
+1991,imola,benetton,piquet,Spun off,-1,24
+1991,imola,williams,mansell,Collision,-1,25
+1991,imola,ferrari,prost,Spun off,-1,26
+1991,imola,ags,tarquini,Did not qualify,-1,27
+1991,imola,ags,barbazza,Did not qualify,-1,28
+1991,imola,footwork,caffi,Did not qualify,-1,29
+1991,imola,footwork,alboreto,Did not qualify,-1,30

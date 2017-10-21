@@ -1,0 +1,28 @@
+1983,jacarepagua,brabham,piquet,Finished,6507731,1
+1983,jacarepagua,mclaren,lauda,Finished,6559614,2
+1983,jacarepagua,williams,laffite,Finished,6581682,3
+1983,jacarepagua,ferrari,tambay,Finished,6585848,4
+1983,jacarepagua,arrows,surer,Finished,6585938,5
+1983,jacarepagua,renault,prost,+1 Lap,-1,6
+1983,jacarepagua,toleman,warwick,+1 Lap,-1,7
+1983,jacarepagua,arrows,serra,+1 Lap,-1,8
+1983,jacarepagua,ferrari,arnoux,+1 Lap,-1,9
+1983,jacarepagua,tyrrell,sullivan,+1 Lap,-1,10
+1983,jacarepagua,team_lotus,mansell,+2 Laps,-1,11
+1983,jacarepagua,theodore,cecotto,+3 Laps,-1,12
+1983,jacarepagua,ram,salazar,+4 Laps,-1,13
+1983,jacarepagua,ats,manfred_winkelhock,+4 Laps,-1,14
+1983,jacarepagua,williams,keke_rosberg,Disqualified,-1,15
+1983,jacarepagua,team_lotus,angelis,Disqualified,-1,16
+1983,jacarepagua,theodore,guerrero,Not classified,-1,17
+1983,jacarepagua,renault,cheever,Brakes,-1,18
+1983,jacarepagua,mclaren,watson,Engine,-1,19
+1983,jacarepagua,ligier,boesel,Engine,-1,20
+1983,jacarepagua,alfa,baldi,Collision,-1,21
+1983,jacarepagua,ligier,jarier,Suspension,-1,22
+1983,jacarepagua,brabham,patrese,Exhaust,-1,23
+1983,jacarepagua,osella,corrado_fabi,Engine,-1,24
+1983,jacarepagua,toleman,giacomelli,Spun off,-1,25
+1983,jacarepagua,tyrrell,alboreto,Engine,-1,26
+1983,jacarepagua,alfa,cesaris,Did not qualify,-1,27
+1983,jacarepagua,osella,ghinzani,Did not qualify,-1,28

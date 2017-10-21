@@ -1,0 +1,24 @@
+2011,silverstone,ferrari,alonso,Finished,5321196,1
+2011,silverstone,red_bull,vettel,Finished,5337707,2
+2011,silverstone,red_bull,webber,Finished,5338143,3
+2011,silverstone,mclaren,hamilton,Finished,5350182,4
+2011,silverstone,ferrari,massa,Finished,5350206,5
+2011,silverstone,mercedes,rosberg,Finished,5381861,6
+2011,silverstone,sauber,perez,Finished,5386786,7
+2011,silverstone,renault,heidfeld,Finished,5396738,8
+2011,silverstone,mercedes,michael_schumacher,Finished,5399108,9
+2011,silverstone,toro_rosso,alguersuari,Finished,5400304,10
+2011,silverstone,force_india,sutil,Finished,5400908,11
+2011,silverstone,renault,petrov,Finished,5401877,12
+2011,silverstone,williams,barrichello,+1 Lap,-1,13
+2011,silverstone,williams,maldonado,+1 Lap,-1,14
+2011,silverstone,force_india,resta,+1 Lap,-1,15
+2011,silverstone,virgin,glock,+2 Laps,-1,16
+2011,silverstone,virgin,ambrosio,+2 Laps,-1,17
+2011,silverstone,hrt,liuzzi,+2 Laps,-1,18
+2011,silverstone,hrt,ricciardo,+3 Laps,-1,19
+2011,silverstone,mclaren,button,Wheel nut,-1,20
+2011,silverstone,toro_rosso,buemi,Accident,-1,21
+2011,silverstone,sauber,kobayashi,Engine,-1,22
+2011,silverstone,lotus_racing,trulli,Oil leak,-1,23
+2011,silverstone,lotus_racing,kovalainen,Gearbox,-1,24

@@ -1,0 +1,20 @@
+2015,spa,mercedes,hamilton,Finished,5020387,1
+2015,spa,mercedes,rosberg,Finished,5022445,2
+2015,spa,lotus_f1,grosjean,Finished,5058375,3
+2015,spa,red_bull,kvyat,Finished,5066079,4
+2015,spa,force_india,perez,Finished,5074384,5
+2015,spa,williams,massa,Finished,5075670,6
+2015,spa,ferrari,raikkonen,Finished,5076090,7
+2015,spa,toro_rosso,max_verstappen,Finished,5076463,8
+2015,spa,williams,bottas,Power Unit,5081427,9
+2015,spa,sauber,ericsson,Finished,5111621,10
+2015,spa,sauber,nasr,Finished,5122698,11
+2015,spa,ferrari,vettel,Tyre,-1,12
+2015,spa,mclaren,alonso,+1 Lap,-1,13
+2015,spa,mclaren,button,+1 Lap,-1,14
+2015,spa,manor,merhi,+1 Lap,-1,15
+2015,spa,manor,stevens,+1 Lap,-1,16
+2015,spa,toro_rosso,sainz,Power Unit,-1,17
+2015,spa,red_bull,ricciardo,Power Unit,-1,18
+2015,spa,lotus_f1,maldonado,Engine,-1,19
+2015,spa,force_india,hulkenberg,Power loss,-1,20

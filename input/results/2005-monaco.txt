@@ -1,0 +1,18 @@
+2005,monaco,mclaren,raikkonen,Finished,6315556,1
+2005,monaco,williams,heidfeld,Finished,6329433,2
+2005,monaco,williams,webber,Finished,6334040,3
+2005,monaco,renault,alonso,Finished,6352043,4
+2005,monaco,mclaren,montoya,Finished,6352203,5
+2005,monaco,toyota,ralf_schumacher,Finished,6352673,6
+2005,monaco,ferrari,michael_schumacher,Finished,6352779,7
+2005,monaco,ferrari,barrichello,Finished,6353126,8
+2005,monaco,sauber,massa,+1 Lap,-1,9
+2005,monaco,toyota,trulli,+1 Lap,-1,10
+2005,monaco,sauber,villeneuve,+1 Lap,-1,11
+2005,monaco,renault,fisichella,+1 Lap,-1,12
+2005,monaco,jordan,monteiro,+3 Laps,-1,13
+2005,monaco,minardi,albers,+5 Laps,-1,14
+2005,monaco,red_bull,liuzzi,Accident,-1,15
+2005,monaco,minardi,friesacher,Accident,-1,16
+2005,monaco,red_bull,coulthard,Accident,-1,17
+2005,monaco,jordan,karthikeyan,Hydraulics,-1,18

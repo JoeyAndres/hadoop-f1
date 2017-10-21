@@ -1,0 +1,21 @@
+1970,monaco,team_lotus,rindt,Finished,6877400,1
+1970,monaco,brabham,jack_brabham,Finished,6900500,2
+1970,monaco,matra,pescarolo,Finished,6928800,3
+1970,monaco,mclaren-ford,hulme,Finished,6965700,4
+1970,monaco,team_lotus,hill,+1 Lap,-1,5
+1970,monaco,brm,rodriguez,+2 Laps,-1,6
+1970,monaco,march,peterson,+2 Laps,-1,7
+1970,monaco,march,siffert,Out of fuel,-1,8
+1970,monaco,march,amon,Suspension,-1,9
+1970,monaco,tomaso,courage,Not classified,-1,10
+1970,monaco,march,stewart,Engine,-1,11
+1970,monaco,brm,oliver,Engine,-1,12
+1970,monaco,matra,beltoise,Differential,-1,13
+1970,monaco,mclaren-ford,mclaren,Suspension,-1,14
+1970,monaco,mclaren-ford,surtees,Oil pressure,-1,15
+1970,monaco,ferrari,ickx,Halfshaft,-1,16
+1970,monaco,mclaren-alfa_romeo,adamich,Did not qualify,-1,17
+1970,monaco,brabham,stommelen,Did not qualify,-1,18
+1970,monaco,brm,eaton,Did not qualify,-1,19
+1970,monaco,team_lotus,miles,Did not qualify,-1,20
+1970,monaco,march,gavin,Did not qualify,-1,21

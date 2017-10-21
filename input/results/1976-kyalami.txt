@@ -1,0 +1,25 @@
+1976,kyalami,ferrari,lauda,Finished,6138400,1
+1976,kyalami,mclaren,hunt,Finished,6139700,2
+1976,kyalami,mclaren,mass,Finished,6184300,3
+1976,kyalami,tyrrell,scheckter,Finished,6206800,4
+1976,kyalami,penske,watson,+1 Lap,-1,5
+1976,kyalami,parnelli,mario_andretti,+1 Lap,-1,6
+1976,kyalami,shadow,pryce,+1 Lap,-1,7
+1976,kyalami,march,brambilla,+1 Lap,-1,8
+1976,kyalami,tyrrell,depailler,+1 Lap,-1,9
+1976,kyalami,team_lotus,evans,+1 Lap,-1,10
+1976,kyalami,surtees,lunger,+1 Lap,-1,11
+1976,kyalami,march,stuck,+2 Laps,-1,12
+1976,kyalami,wolf,leclere,+2 Laps,-1,13
+1976,kyalami,ensign,amon,+2 Laps,-1,14
+1976,kyalami,hesketh,ertl,+4 Laps,-1,15
+1976,kyalami,wolf,ickx,+5 Laps,-1,16
+1976,kyalami,fittipaldi,emerson_fittipaldi,Engine,-1,17
+1976,kyalami,ferrari,regazzoni,Engine,-1,18
+1976,kyalami,ligier,laffite,Engine,-1,19
+1976,kyalami,shadow,jarier,Radiator,-1,20
+1976,kyalami,brabham-alfa_romeo,pace,Oil pressure,-1,21
+1976,kyalami,team_lotus,nilsson,Clutch,-1,22
+1976,kyalami,brabham-alfa_romeo,reutemann,Oil pressure,-1,23
+1976,kyalami,march,peterson,Accident,-1,24
+1976,kyalami,tyrrell,ian_scheckter,Accident,-1,25

@@ -1,0 +1,20 @@
+2004,silverstone,ferrari,michael_schumacher,Finished,5082700,1
+2004,silverstone,mclaren,raikkonen,Finished,5084830,2
+2004,silverstone,ferrari,barrichello,Finished,5085814,3
+2004,silverstone,bar,button,Finished,5093383,4
+2004,silverstone,williams,montoya,Finished,5094873,5
+2004,silverstone,sauber,fisichella,Finished,5095588,6
+2004,silverstone,mclaren,coulthard,Finished,5102368,7
+2004,silverstone,jaguar,webber,Finished,5106401,8
+2004,silverstone,sauber,massa,Finished,5106723,9
+2004,silverstone,renault,alonso,Finished,5107535,10
+2004,silverstone,bar,sato,Finished,5116436,11
+2004,silverstone,williams,gene,Finished,5117003,12
+2004,silverstone,toyota,matta,+1 Lap,-1,13
+2004,silverstone,jaguar,klien,+1 Lap,-1,14
+2004,silverstone,jordan,heidfeld,+1 Lap,-1,15
+2004,silverstone,minardi,bruni,+4 Laps,-1,16
+2004,silverstone,jordan,pantano,Spun off,-1,17
+2004,silverstone,renault,trulli,Accident,-1,18
+2004,silverstone,minardi,baumgartner,Engine,-1,19
+2004,silverstone,toyota,panis,Accident,-1,20

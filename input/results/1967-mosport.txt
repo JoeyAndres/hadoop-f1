@@ -1,0 +1,18 @@
+1967,mosport,brabham-repco,jack_brabham,Finished,9640000,1
+1967,mosport,brabham-repco,hulme,Finished,9701900,2
+1967,mosport,eagle-weslake,gurney,+1 Lap,-1,3
+1967,mosport,lotus-ford,hill,+2 Laps,-1,4
+1967,mosport,brm,spence,+3 Laps,-1,5
+1967,mosport,ferrari,amon,+3 Laps,-1,6
+1967,mosport,mclaren-brm,mclaren,+4 Laps,-1,7
+1967,mosport,cooper-maserati,bonnier,+5 Laps,-1,8
+1967,mosport,brm,hobbs,+5 Laps,-1,9
+1967,mosport,cooper-maserati,attwood,+6 Laps,-1,10
+1967,mosport,lotus-brm,fisher,+9 Laps,-1,11
+1967,mosport,lotus-ford,clark,Ignition,-1,12
+1967,mosport,lotus-ford,wietzes,Disqualified,-1,13
+1967,mosport,brm,stewart,Throttle,-1,14
+1967,mosport,eagle-climax,pease,Not classified,-1,15
+1967,mosport,brm,irwin,Spun off,-1,16
+1967,mosport,cooper-maserati,rindt,Ignition,-1,17
+1967,mosport,cooper-climax,tom_jones,Did not qualify,-1,18

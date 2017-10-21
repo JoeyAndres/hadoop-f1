@@ -1,0 +1,22 @@
+2008,catalunya,ferrari,raikkonen,Finished,5899051,1
+2008,catalunya,ferrari,massa,Finished,5902279,2
+2008,catalunya,mclaren,hamilton,Finished,5903238,3
+2008,catalunya,bmw_sauber,kubica,Finished,5904745,4
+2008,catalunya,red_bull,webber,Finished,5934989,5
+2008,catalunya,honda,button,Finished,5952061,6
+2008,catalunya,williams,nakajima,Finished,5957295,7
+2008,catalunya,toyota,trulli,Finished,5958486,8
+2008,catalunya,bmw_sauber,heidfeld,Finished,5962124,9
+2008,catalunya,force_india,fisichella,+1 Lap,-1,10
+2008,catalunya,toyota,glock,+1 Lap,-1,11
+2008,catalunya,red_bull,coulthard,+1 Lap,-1,12
+2008,catalunya,super_aguri,sato,+1 Lap,-1,13
+2008,catalunya,williams,rosberg,Engine,-1,14
+2008,catalunya,renault,alonso,Engine,-1,15
+2008,catalunya,honda,barrichello,Collision,-1,16
+2008,catalunya,mclaren,kovalainen,Accident,-1,17
+2008,catalunya,super_aguri,davidson,Radiator,-1,18
+2008,catalunya,toro_rosso,bourdais,Collision,-1,19
+2008,catalunya,renault,piquet_jr,Collision,-1,20
+2008,catalunya,force_india,sutil,Collision,-1,21
+2008,catalunya,toro_rosso,vettel,Collision,-1,22

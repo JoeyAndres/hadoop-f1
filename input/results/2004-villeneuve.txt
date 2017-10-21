@@ -1,0 +1,20 @@
+2004,villeneuve,ferrari,michael_schumacher,Finished,5304803,1
+2004,villeneuve,ferrari,barrichello,Finished,5309911,2
+2004,villeneuve,bar,button,Finished,5325212,3
+2004,villeneuve,sauber,fisichella,+1 Lap,-1,4
+2004,villeneuve,mclaren,raikkonen,+1 Lap,-1,5
+2004,villeneuve,mclaren,coulthard,+1 Lap,-1,6
+2004,villeneuve,jordan,glock,+2 Laps,-1,7
+2004,villeneuve,jordan,heidfeld,+2 Laps,-1,8
+2004,villeneuve,jaguar,klien,+3 Laps,-1,9
+2004,villeneuve,minardi,baumgartner,+4 Laps,-1,10
+2004,villeneuve,sauber,massa,Accident,-1,11
+2004,villeneuve,bar,sato,Engine,-1,12
+2004,villeneuve,renault,alonso,Driveshaft,-1,13
+2004,villeneuve,minardi,bruni,Gearbox,-1,14
+2004,villeneuve,jaguar,webber,Suspension,-1,15
+2004,villeneuve,renault,trulli,Transmission,-1,16
+2004,villeneuve,williams,ralf_schumacher,Disqualified,-1,17
+2004,villeneuve,williams,montoya,Disqualified,-1,18
+2004,villeneuve,toyota,matta,Disqualified,-1,19
+2004,villeneuve,toyota,panis,Disqualified,-1,20

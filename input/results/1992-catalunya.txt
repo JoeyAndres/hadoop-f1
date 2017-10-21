@@ -1,0 +1,30 @@
+1992,catalunya,williams,mansell,Finished,6970674,1
+1992,catalunya,benetton,michael_schumacher,Finished,6994588,2
+1992,catalunya,ferrari,alesi,Finished,6997136,3
+1992,catalunya,mclaren,berger,Finished,7051321,4
+1992,catalunya,footwork,alboreto,+1 Lap,-1,5
+1992,catalunya,dallara,martini,+2 Laps,-1,6
+1992,catalunya,footwork,suzuki,+2 Laps,-1,7
+1992,catalunya,march,wendlinger,+2 Laps,-1,8
+1992,catalunya,mclaren,senna,Spun off,-1,9
+1992,catalunya,ferrari,capelli,Spun off,-1,10
+1992,catalunya,minardi,fittipaldi,+4 Laps,-1,11
+1992,catalunya,march,belmondo,+4 Laps,-1,12
+1992,catalunya,dallara,lehto,Spun off,-1,13
+1992,catalunya,fondmetal,tarquini,Spun off,-1,14
+1992,catalunya,team_lotus,hakkinen,Spun off,-1,15
+1992,catalunya,ligier,comas,Spun off,-1,16
+1992,catalunya,larrousse,gachot,Engine,-1,17
+1992,catalunya,tyrrell,grouillard,Spun off,-1,18
+1992,catalunya,minardi,morbidelli,Handling,-1,19
+1992,catalunya,jordan,gugelmin,Spun off,-1,20
+1992,catalunya,fondmetal,chiesa,Spun off,-1,21
+1992,catalunya,williams,patrese,Spun off,-1,22
+1992,catalunya,team_lotus,herbert,Spun off,-1,23
+1992,catalunya,ligier,boutsen,Engine,-1,24
+1992,catalunya,benetton,brundle,Spun off,-1,25
+1992,catalunya,tyrrell,cesaris,Engine,-1,26
+1992,catalunya,larrousse,katayama,Did not qualify,-1,27
+1992,catalunya,brabham,poele,Did not qualify,-1,28
+1992,catalunya,jordan,modena,Did not qualify,-1,29
+1992,catalunya,brabham,damon_hill,Did not qualify,-1,30

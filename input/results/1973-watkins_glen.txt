@@ -1,0 +1,28 @@
+1973,watkins_glen,team_lotus,peterson,Finished,6075779,1
+1973,watkins_glen,march,hunt,Finished,6076447,2
+1973,watkins_glen,brabham,reutemann,Finished,6098709,3
+1973,watkins_glen,mclaren,hulme,Finished,6126005,4
+1973,watkins_glen,mclaren,revson,Finished,6156146,5
+1973,watkins_glen,team_lotus,emerson_fittipaldi,Finished,6183724,6
+1973,watkins_glen,iso_marlboro,ickx,+1 Lap,-1,7
+1973,watkins_glen,brm,regazzoni,+1 Lap,-1,8
+1973,watkins_glen,brm,beltoise,+1 Lap,-1,9
+1973,watkins_glen,march,beuttler,+1 Lap,-1,10
+1973,watkins_glen,march,jarier,Accident,-1,11
+1973,watkins_glen,iso_marlboro,ganley,+2 Laps,-1,12
+1973,watkins_glen,shadow,hill,+2 Laps,-1,13
+1973,watkins_glen,shadow,follmer,+2 Laps,-1,14
+1973,watkins_glen,shadow,oliver,+4 Laps,-1,15
+1973,watkins_glen,ferrari,merzario,+4 Laps,-1,16
+1973,watkins_glen,brabham,wilson_fittipaldi,Not classified,-1,17
+1973,watkins_glen,mclaren,scheckter,Suspension,-1,18
+1973,watkins_glen,surtees,mass,Engine,-1,19
+1973,watkins_glen,brm,lauda,Fuel pump,-1,20
+1973,watkins_glen,surtees,hailwood,Suspension,-1,21
+1973,watkins_glen,surtees,pace,Suspension,-1,22
+1973,watkins_glen,brabham,watson,Engine,-1,23
+1973,watkins_glen,shadow,redman,Disqualified,-1,24
+1973,watkins_glen,ensign,opel,Throttle,-1,25
+1973,watkins_glen,tyrrell,stewart,Withdrew,-1,26
+1973,watkins_glen,tyrrell,amon,Withdrew,-1,27
+1973,watkins_glen,tyrrell,cevert,Accident,-1,28

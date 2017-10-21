@@ -1,0 +1,22 @@
+1998,suzuka,mclaren,hakkinen,Finished,5243400,1
+1998,suzuka,ferrari,irvine,Finished,5249891,2
+1998,suzuka,mclaren,coulthard,Finished,5271062,3
+1998,suzuka,jordan,damon_hill,Finished,5316891,4
+1998,suzuka,williams,frentzen,Finished,5317257,5
+1998,suzuka,williams,villeneuve,Finished,5319267,6
+1998,suzuka,sauber,alesi,Finished,5339453,7
+1998,suzuka,benetton,fisichella,Finished,5344702,8
+1998,suzuka,benetton,wurz,+1 Lap,-1,9
+1998,suzuka,sauber,herbert,+1 Lap,-1,10
+1998,suzuka,prost,panis,+1 Lap,-1,11
+1998,suzuka,prost,trulli,+3 Laps,-1,12
+1998,suzuka,minardi,nakano,Throttle,-1,13
+1998,suzuka,ferrari,michael_schumacher,Tyre,-1,14
+1998,suzuka,tyrrell,takagi,Collision,-1,15
+1998,suzuka,minardi,tuero,Collision,-1,16
+1998,suzuka,stewart,barrichello,Hydraulics,-1,17
+1998,suzuka,stewart,verstappen,Gearbox,-1,18
+1998,suzuka,arrows,salo,Hydraulics,-1,19
+1998,suzuka,jordan,ralf_schumacher,Engine,-1,20
+1998,suzuka,arrows,diniz,Spun off,-1,21
+1998,suzuka,tyrrell,rosset,Did not qualify,-1,22

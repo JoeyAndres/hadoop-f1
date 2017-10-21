@@ -1,0 +1,30 @@
+1978,monaco,tyrrell,depailler,Finished,6914660,1
+1978,monaco,brabham,lauda,Finished,6937110,2
+1978,monaco,wolf,scheckter,Finished,6946950,3
+1978,monaco,brabham,watson,Finished,6948190,4
+1978,monaco,tyrrell,pironi,Finished,6982720,5
+1978,monaco,arrows,patrese,Finished,6983430,6
+1978,monaco,mclaren,tambay,+1 Lap,-1,7
+1978,monaco,ferrari,reutemann,+1 Lap,-1,8
+1978,monaco,fittipaldi,emerson_fittipaldi,+1 Lap,-1,9
+1978,monaco,renault,jabouille,+4 Laps,-1,10
+1978,monaco,team_lotus,mario_andretti,+6 Laps,-1,11
+1978,monaco,ferrari,gilles_villeneuve,Accident,-1,12
+1978,monaco,team_lotus,peterson,Gearbox,-1,13
+1978,monaco,mclaren,hunt,Handling,-1,14
+1978,monaco,arrows,stommelen,Driver unwell,-1,15
+1978,monaco,williams,jones,Oil leak,-1,16
+1978,monaco,ensign,ickx,Brakes,-1,17
+1978,monaco,shadow,stuck,Accident,-1,18
+1978,monaco,ligier,laffite,Gearbox,-1,19
+1978,monaco,surtees,keegan,Transmission,-1,20
+1978,monaco,ats,mass,Did not qualify,-1,21
+1978,monaco,shadow,regazzoni,Did not qualify,-1,22
+1978,monaco,ats,jarier,Did not qualify,-1,23
+1978,monaco,surtees,brambilla,Did not qualify,-1,24
+1978,monaco,theodore,keke_rosberg,Did not prequalify,-1,25
+1978,monaco,hesketh,daly,Did not prequalify,-1,26
+1978,monaco,martini,arnoux,Did not prequalify,-1,27
+1978,monaco,team_lotus,rebaque,Did not prequalify,-1,28
+1978,monaco,mclaren,lunger,Did not prequalify,-1,29
+1978,monaco,merzario,merzario,Did not prequalify,-1,30

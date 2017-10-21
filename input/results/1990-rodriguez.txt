@@ -1,0 +1,30 @@
+1990,rodriguez,ferrari,prost,Finished,5555783,1
+1990,rodriguez,ferrari,mansell,Finished,5581134,2
+1990,rodriguez,mclaren,berger,Finished,5581313,3
+1990,rodriguez,benetton,nannini,Finished,5596882,4
+1990,rodriguez,williams,boutsen,Finished,5602452,5
+1990,rodriguez,benetton,piquet,Finished,5602726,6
+1990,rodriguez,tyrrell,alesi,Finished,5604860,7
+1990,rodriguez,team_lotus,donnelly,Finished,5621925,8
+1990,rodriguez,williams,patrese,Finished,5625701,9
+1990,rodriguez,team_lotus,warwick,+1 Lap,-1,10
+1990,rodriguez,brabham,modena,+1 Lap,-1,11
+1990,rodriguez,minardi,martini,+1 Lap,-1,12
+1990,rodriguez,dallara,cesaris,+1 Lap,-1,13
+1990,rodriguez,minardi,barilla,+2 Laps,-1,14
+1990,rodriguez,onyx,foitek,+2 Laps,-1,15
+1990,rodriguez,ligier,larini,+2 Laps,-1,16
+1990,rodriguez,arrows,alboreto,+3 Laps,-1,17
+1990,rodriguez,ligier,alliot,+3 Laps,-1,18
+1990,rodriguez,osella,grouillard,+4 Laps,-1,19
+1990,rodriguez,mclaren,senna,Tyre,-1,20
+1990,rodriguez,onyx,lehto,Engine,-1,21
+1990,rodriguez,larrousse,bernard,Brakes,-1,22
+1990,rodriguez,larrousse,suzuki,Collision,-1,23
+1990,rodriguez,tyrrell,satoru_nakajima,Collision,-1,24
+1990,rodriguez,brabham,brabham,Electrical,-1,25
+1990,rodriguez,dallara,pirro,Engine,-1,26
+1990,rodriguez,eurobrun,moreno,Disqualified,-1,27
+1990,rodriguez,leyton,capelli,Did not qualify,-1,28
+1990,rodriguez,leyton,gugelmin,Did not qualify,-1,29
+1990,rodriguez,arrows,caffi,Did not qualify,-1,30

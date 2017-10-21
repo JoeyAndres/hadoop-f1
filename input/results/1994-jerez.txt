@@ -1,0 +1,28 @@
+1994,jerez,benetton,michael_schumacher,Finished,6027300,1
+1994,jerez,williams,damon_hill,Finished,6051989,2
+1994,jerez,mclaren,hakkinen,Finished,6096948,3
+1994,jerez,jordan,irvine,Finished,6105746,4
+1994,jerez,ferrari,berger,+1 Lap,-1,5
+1994,jerez,sauber,frentzen,+1 Lap,-1,6
+1994,jerez,tyrrell,katayama,+1 Lap,-1,7
+1994,jerez,ligier,herbert,+1 Lap,-1,8
+1994,jerez,ligier,panis,+1 Lap,-1,9
+1994,jerez,ferrari,alesi,+1 Lap,-1,10
+1994,jerez,footwork,morbidelli,+1 Lap,-1,11
+1994,jerez,jordan,barrichello,+1 Lap,-1,12
+1994,jerez,tyrrell,blundell,+1 Lap,-1,13
+1994,jerez,minardi,alboreto,+2 Laps,-1,14
+1994,jerez,minardi,martini,+2 Laps,-1,15
+1994,jerez,team_lotus,zanardi,+2 Laps,-1,16
+1994,jerez,footwork,fittipaldi,+3 Laps,-1,17
+1994,jerez,team_lotus,bernard,+3 Laps,-1,18
+1994,jerez,simtek,schiattarella,+5 Laps,-1,19
+1994,jerez,williams,mansell,Spun off,-1,20
+1994,jerez,simtek,brabham,Engine,-1,21
+1994,jerez,sauber,cesaris,Throttle,-1,22
+1994,jerez,larrousse,comas,Alternator,-1,23
+1994,jerez,benetton,verstappen,Spun off,-1,24
+1994,jerez,larrousse,noda,Gearbox,-1,25
+1994,jerez,mclaren,brundle,Engine,-1,26
+1994,jerez,pacific,gachot,Did not qualify,-1,27
+1994,jerez,pacific,belmondo,Did not qualify,-1,28

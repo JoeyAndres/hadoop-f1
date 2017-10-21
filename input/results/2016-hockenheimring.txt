@@ -1,0 +1,22 @@
+2016,hockenheimring,mercedes,hamilton,Finished,5444200,1
+2016,hockenheimring,red_bull,ricciardo,Finished,5451196,2
+2016,hockenheimring,red_bull,max_verstappen,Finished,5457613,3
+2016,hockenheimring,mercedes,rosberg,Finished,5460045,4
+2016,hockenheimring,ferrari,vettel,Finished,5476770,5
+2016,hockenheimring,ferrari,raikkonen,Finished,5481223,6
+2016,hockenheimring,force_india,hulkenberg,Finished,5514249,7
+2016,hockenheimring,mclaren,button,+1 Lap,-1,8
+2016,hockenheimring,williams,bottas,+1 Lap,-1,9
+2016,hockenheimring,force_india,perez,+1 Lap,-1,10
+2016,hockenheimring,haas,gutierrez,+1 Lap,-1,11
+2016,hockenheimring,mclaren,alonso,+1 Lap,-1,12
+2016,hockenheimring,haas,grosjean,+1 Lap,-1,13
+2016,hockenheimring,toro_rosso,sainz,+1 Lap,-1,14
+2016,hockenheimring,toro_rosso,kvyat,+1 Lap,-1,15
+2016,hockenheimring,renault,kevin_magnussen,+1 Lap,-1,16
+2016,hockenheimring,manor,wehrlein,+2 Laps,-1,17
+2016,hockenheimring,sauber,ericsson,+2 Laps,-1,18
+2016,hockenheimring,renault,jolyon_palmer,+2 Laps,-1,19
+2016,hockenheimring,manor,haryanto,+2 Laps,-1,20
+2016,hockenheimring,sauber,nasr,Power Unit,-1,21
+2016,hockenheimring,williams,massa,Suspension,-1,22

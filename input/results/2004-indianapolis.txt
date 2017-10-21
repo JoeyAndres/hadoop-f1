@@ -1,0 +1,20 @@
+2004,indianapolis,ferrari,michael_schumacher,Finished,6029914,1
+2004,indianapolis,ferrari,barrichello,Finished,6032864,2
+2004,indianapolis,bar,sato,Finished,6051950,3
+2004,indianapolis,renault,trulli,Finished,6064458,4
+2004,indianapolis,toyota,panis,Finished,6067448,5
+2004,indianapolis,mclaren,raikkonen,+1 Lap,-1,6
+2004,indianapolis,mclaren,coulthard,+1 Lap,-1,7
+2004,indianapolis,minardi,baumgartner,+3 Laps,-1,8
+2004,indianapolis,sauber,fisichella,+8 Laps,-1,9
+2004,indianapolis,jaguar,webber,Engine,-1,10
+2004,indianapolis,williams,montoya,Disqualified,-1,11
+2004,indianapolis,jordan,heidfeld,Engine,-1,12
+2004,indianapolis,bar,button,Gearbox,-1,13
+2004,indianapolis,toyota,matta,Gearbox,-1,14
+2004,indianapolis,williams,ralf_schumacher,Tyre,-1,15
+2004,indianapolis,renault,alonso,Tyre,-1,16
+2004,indianapolis,jaguar,klien,Collision,-1,17
+2004,indianapolis,sauber,massa,Collision,-1,18
+2004,indianapolis,jordan,pantano,Collision,-1,19
+2004,indianapolis,minardi,bruni,Collision,-1,20

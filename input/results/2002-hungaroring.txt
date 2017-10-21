@@ -1,0 +1,20 @@
+2002,hungaroring,ferrari,barrichello,Finished,6109001,1
+2002,hungaroring,ferrari,michael_schumacher,Finished,6109435,2
+2002,hungaroring,williams,ralf_schumacher,Finished,6122357,3
+2002,hungaroring,mclaren,raikkonen,Finished,6138480,4
+2002,hungaroring,mclaren,coulthard,Finished,6146801,5
+2002,hungaroring,jordan,fisichella,Finished,6177805,6
+2002,hungaroring,sauber,massa,Finished,6182613,7
+2002,hungaroring,renault,trulli,+1 Lap,-1,8
+2002,hungaroring,sauber,heidfeld,+1 Lap,-1,9
+2002,hungaroring,jordan,sato,+1 Lap,-1,10
+2002,hungaroring,williams,montoya,+1 Lap,-1,11
+2002,hungaroring,bar,panis,+1 Lap,-1,12
+2002,hungaroring,jaguar,rosa,+2 Laps,-1,13
+2002,hungaroring,toyota,mcnish,+2 Laps,-1,14
+2002,hungaroring,toyota,salo,+2 Laps,-1,15
+2002,hungaroring,minardi,webber,+2 Laps,-1,16
+2002,hungaroring,minardi,davidson,Spun off,-1,17
+2002,hungaroring,renault,button,Spun off,-1,18
+2002,hungaroring,jaguar,irvine,Engine,-1,19
+2002,hungaroring,bar,villeneuve,Transmission,-1,20

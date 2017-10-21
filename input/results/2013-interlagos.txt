@@ -1,0 +1,22 @@
+2013,interlagos,red_bull,vettel,Finished,5556300,1
+2013,interlagos,red_bull,webber,Finished,5566752,2
+2013,interlagos,ferrari,alonso,Finished,5575213,3
+2013,interlagos,mclaren,button,Finished,5593660,4
+2013,interlagos,mercedes,rosberg,Finished,5595348,5
+2013,interlagos,mclaren,perez,Finished,5600351,6
+2013,interlagos,ferrari,massa,Finished,5605410,7
+2013,interlagos,sauber,hulkenberg,Finished,5620552,8
+2013,interlagos,mercedes,hamilton,Finished,5629203,9
+2013,interlagos,toro_rosso,ricciardo,+1 Lap,-1,10
+2013,interlagos,force_india,resta,+1 Lap,-1,11
+2013,interlagos,sauber,gutierrez,+1 Lap,-1,12
+2013,interlagos,force_india,sutil,+1 Lap,-1,13
+2013,interlagos,lotus_f1,kovalainen,+1 Lap,-1,14
+2013,interlagos,toro_rosso,vergne,+1 Lap,-1,15
+2013,interlagos,williams,maldonado,+1 Lap,-1,16
+2013,interlagos,marussia,jules_bianchi,+2 Laps,-1,17
+2013,interlagos,caterham,garde,+2 Laps,-1,18
+2013,interlagos,marussia,chilton,+2 Laps,-1,19
+2013,interlagos,caterham,pic,Mechanical,-1,20
+2013,interlagos,williams,bottas,Accident,-1,21
+2013,interlagos,lotus_f1,grosjean,Engine,-1,22

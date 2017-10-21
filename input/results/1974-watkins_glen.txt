@@ -1,0 +1,30 @@
+1974,watkins_glen,brabham,reutemann,Finished,6021439,1
+1974,watkins_glen,brabham,pace,Finished,6032174,2
+1974,watkins_glen,hesketh,hunt,Finished,6091823,3
+1974,watkins_glen,mclaren,emerson_fittipaldi,Finished,6099192,4
+1974,watkins_glen,brabham,watson,Finished,6107243,5
+1974,watkins_glen,tyrrell,depailler,Finished,6108945,6
+1974,watkins_glen,mclaren,mass,Finished,6111451,7
+1974,watkins_glen,lola,hill,+1 Lap,-1,8
+1974,watkins_glen,brm,amon,+2 Laps,-1,9
+1974,watkins_glen,shadow,jarier,+2 Laps,-1,10
+1974,watkins_glen,ferrari,regazzoni,+4 Laps,-1,11
+1974,watkins_glen,lola,stommelen,+5 Laps,-1,12
+1974,watkins_glen,team_lotus,peterson,Fuel system,-1,13
+1974,watkins_glen,ensign,wilds,Not classified,-1,14
+1974,watkins_glen,shadow,pryce,Not classified,-1,15
+1974,watkins_glen,tyrrell,scheckter,Fuel system,-1,16
+1974,watkins_glen,iso_marlboro,merzario,Electrical,-1,17
+1974,watkins_glen,ferrari,lauda,Suspension,-1,18
+1974,watkins_glen,iso_marlboro,laffite,Engine,-1,19
+1974,watkins_glen,penske,donohue,Suspension,-1,20
+1974,watkins_glen,surtees,dolhem,Withdrew,-1,21
+1974,watkins_glen,march,brambilla,Fuel system,-1,22
+1974,watkins_glen,surtees,koinigg,Fatal accident,-1,23
+1974,watkins_glen,team_lotus,ickx,Suspension,-1,24
+1974,watkins_glen,team_lotus,schenken,Disqualified,-1,25
+1974,watkins_glen,parnelli,mario_andretti,Disqualified,-1,26
+1974,watkins_glen,mclaren,hulme,Engine,-1,27
+1974,watkins_glen,march,stuck,Did not qualify,-1,28
+1974,watkins_glen,brabham,ashley,Did not qualify,-1,29
+1974,watkins_glen,brm,beltoise,Did not qualify,-1,30

@@ -1,0 +1,15 @@
+1958,boavista,vanwall,moss,Finished,7887800,1
+1958,boavista,ferrari,hawthorn,Finished,8200550,2
+1958,boavista,vanwall,lewis-evans,+1 Lap,-1,3
+1958,boavista,brm,behra,+1 Lap,-1,4
+1958,boavista,ferrari,trips,+1 Lap,-1,5
+1958,boavista,brm,schell,+1 Lap,-1,6
+1958,boavista,cooper,jack_brabham,+2 Laps,-1,7
+1958,boavista,cooper,trintignant,+2 Laps,-1,8
+1958,boavista,cooper,salvadori,+4 Laps,-1,9
+1958,boavista,maserati,shelby,Brakes,-1,10
+1958,boavista,vanwall,brooks,Spun off,-1,11
+1958,boavista,team_lotus,hill,Spun off,-1,12
+1958,boavista,maserati,allison,Engine,-1,13
+1958,boavista,maserati,bonnier,Physical,-1,14
+1958,boavista,maserati,filippis,Engine,-1,15

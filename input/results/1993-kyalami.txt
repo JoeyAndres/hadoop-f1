@@ -1,0 +1,26 @@
+1993,kyalami,williams,prost,Finished,5925082,1
+1993,kyalami,mclaren,senna,Finished,6004906,2
+1993,kyalami,ligier,blundell,+1 Lap,-1,3
+1993,kyalami,minardi,fittipaldi,+1 Lap,-1,4
+1993,kyalami,sauber,lehto,+2 Laps,-1,5
+1993,kyalami,ferrari,berger,Engine,-1,6
+1993,kyalami,footwork,warwick,Spun off,-1,7
+1993,kyalami,ligier,brundle,Spun off,-1,8
+1993,kyalami,lola,alboreto,Overheating,-1,9
+1993,kyalami,larrousse,comas,Engine,-1,10
+1993,kyalami,benetton,patrese,Spun off,-1,11
+1993,kyalami,benetton,michael_schumacher,Spun off,-1,12
+1993,kyalami,team_lotus,herbert,Fuel system,-1,13
+1993,kyalami,sauber,wendlinger,Engine,-1,14
+1993,kyalami,jordan,barrichello,Gearbox,-1,15
+1993,kyalami,ferrari,alesi,Suspension,-1,16
+1993,kyalami,larrousse,alliot,Spun off,-1,17
+1993,kyalami,minardi,barbazza,Collision,-1,18
+1993,kyalami,footwork,suzuki,Collision,-1,19
+1993,kyalami,lola,badoer,Gearbox,-1,20
+1993,kyalami,williams,damon_hill,Collision,-1,21
+1993,kyalami,team_lotus,zanardi,Collision,-1,22
+1993,kyalami,mclaren,andretti,Collision,-1,23
+1993,kyalami,jordan,capelli,Spun off,-1,24
+1993,kyalami,tyrrell,katayama,Transmission,-1,25
+1993,kyalami,tyrrell,cesaris,Transmission,-1,26

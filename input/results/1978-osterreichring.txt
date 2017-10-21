@@ -1,0 +1,30 @@
+1978,osterreichring,team_lotus,peterson,Finished,6081570,1
+1978,osterreichring,tyrrell,depailler,Finished,6129010,2
+1978,osterreichring,ferrari,gilles_villeneuve,Finished,6181330,3
+1978,osterreichring,fittipaldi,emerson_fittipaldi,+1 Lap,-1,4
+1978,osterreichring,ligier,laffite,+1 Lap,-1,5
+1978,osterreichring,surtees,brambilla,+1 Lap,-1,6
+1978,osterreichring,brabham,watson,+1 Lap,-1,7
+1978,osterreichring,mclaren,lunger,+2 Laps,-1,8
+1978,osterreichring,martini,arnoux,+2 Laps,-1,9
+1978,osterreichring,shadow,regazzoni,+7 Laps,-1,10
+1978,osterreichring,wolf,keke_rosberg,+7 Laps,-1,11
+1978,osterreichring,ensign,daly,Disqualified,-1,12
+1978,osterreichring,mclaren,tambay,Accident,-1,13
+1978,osterreichring,shadow,stuck,Accident,-1,14
+1978,osterreichring,renault,jabouille,Gearbox,-1,15
+1978,osterreichring,ferrari,reutemann,Disqualified,-1,16
+1978,osterreichring,brabham,lauda,Accident,-1,17
+1978,osterreichring,tyrrell,pironi,Accident,-1,18
+1978,osterreichring,mclaren,hunt,Accident,-1,19
+1978,osterreichring,williams,jones,Accident,-1,20
+1978,osterreichring,arrows,patrese,Accident,-1,21
+1978,osterreichring,ensign,ertl,Accident,-1,22
+1978,osterreichring,team_lotus,rebaque,Accident,-1,23
+1978,osterreichring,mclaren,piquet,Accident,-1,24
+1978,osterreichring,wolf,scheckter,Accident,-1,25
+1978,osterreichring,team_lotus,mario_andretti,Accident,-1,26
+1978,osterreichring,merzario,merzario,Did not qualify,-1,27
+1978,osterreichring,ats,mass,Did not qualify,-1,28
+1978,osterreichring,surtees,keegan,Did not qualify,-1,29
+1978,osterreichring,ats,binder,Did not qualify,-1,30

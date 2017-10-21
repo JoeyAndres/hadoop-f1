@@ -1,0 +1,26 @@
+1958,nurburgring,vanwall,brooks,Finished,8475000,1
+1958,nurburgring,cooper,salvadori,Finished,8684700,2
+1958,nurburgring,cooper,trintignant,Finished,8786200,3
+1958,nurburgring,ferrari,trips,Finished,8851300,4
+1958,nurburgring,cooper,mclaren,Finished,8861300,5
+1958,nurburgring,porsche,barth,Finished,8867400,6
+1958,nurburgring,cooper,burgess,Finished,8894300,7
+1958,nurburgring,cooper,marsh,Finished,8904900,8
+1958,nurburgring,ferrari,phil_hill,Finished,8940500,9
+1958,nurburgring,team_lotus,allison,+2 Laps,-1,10
+1958,nurburgring,team_lotus,bueb,+2 Laps,-1,11
+1958,nurburgring,ferrari,hawthorn,Clutch,-1,12
+1958,nurburgring,ferrari,collins,Accident,-1,13
+1958,nurburgring,cooper,seidel,Suspension,-1,14
+1958,nurburgring,brm,schell,Brakes,-1,15
+1958,nurburgring,cooper,goethals,Fuel pump,-1,16
+1958,nurburgring,team_lotus,hill,Oil pipe,-1,17
+1958,nurburgring,brm,behra,Suspension,-1,18
+1958,nurburgring,porsche,beaufort,Engine,-1,19
+1958,nurburgring,maserati,herrmann,Engine,-1,20
+1958,nurburgring,vanwall,moss,Magneto,-1,21
+1958,nurburgring,cooper,gibson,Engine,-1,22
+1958,nurburgring,cooper,naylor,Fuel pump,-1,23
+1958,nurburgring,cooper,jack_brabham,Collision,-1,24
+1958,nurburgring,maserati,bonnier,Accident,-1,25
+1958,nurburgring,maserati,ruttman,Engine,-1,26

@@ -1,0 +1,22 @@
+2006,interlagos,ferrari,massa,Finished,5513751,1
+2006,interlagos,renault,alonso,Finished,5532409,2
+2006,interlagos,honda,button,Finished,5533145,3
+2006,interlagos,ferrari,michael_schumacher,Finished,5537845,4
+2006,interlagos,mclaren,raikkonen,Finished,5542254,5
+2006,interlagos,renault,fisichella,Finished,5544038,6
+2006,interlagos,honda,barrichello,Finished,5554045,7
+2006,interlagos,mclaren,rosa,Finished,5565819,8
+2006,interlagos,bmw_sauber,kubica,Finished,5581393,9
+2006,interlagos,super_aguri,sato,+1 Lap,-1,10
+2006,interlagos,toro_rosso,speed,+1 Lap,-1,11
+2006,interlagos,red_bull,doornbos,+1 Lap,-1,12
+2006,interlagos,toro_rosso,liuzzi,+1 Lap,-1,13
+2006,interlagos,spyker_mf1,albers,+1 Lap,-1,14
+2006,interlagos,spyker_mf1,monteiro,+2 Laps,-1,15
+2006,interlagos,super_aguri,yamamoto,+2 Laps,-1,16
+2006,interlagos,bmw_sauber,heidfeld,Accident,-1,17
+2006,interlagos,red_bull,coulthard,Gearbox,-1,18
+2006,interlagos,toyota,trulli,Suspension,-1,19
+2006,interlagos,toyota,ralf_schumacher,Suspension,-1,20
+2006,interlagos,williams,webber,Collision,-1,21
+2006,interlagos,williams,rosberg,Collision,-1,22

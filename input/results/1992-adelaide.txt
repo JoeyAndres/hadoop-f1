@@ -1,0 +1,26 @@
+1992,adelaide,mclaren,berger,Finished,6414786,1
+1992,adelaide,benetton,michael_schumacher,Finished,6415527,2
+1992,adelaide,benetton,brundle,Finished,6468942,3
+1992,adelaide,ferrari,alesi,+1 Lap,-1,4
+1992,adelaide,ligier,boutsen,+1 Lap,-1,5
+1992,adelaide,jordan,modena,+1 Lap,-1,6
+1992,adelaide,team_lotus,hakkinen,+1 Lap,-1,7
+1992,adelaide,footwork,suzuki,+2 Laps,-1,8
+1992,adelaide,minardi,fittipaldi,+2 Laps,-1,9
+1992,adelaide,minardi,morbidelli,+2 Laps,-1,10
+1992,adelaide,ferrari,larini,+2 Laps,-1,11
+1992,adelaide,march,lammers,+3 Laps,-1,12
+1992,adelaide,team_lotus,herbert,+4 Laps,-1,13
+1992,adelaide,dallara,lehto,Gearbox,-1,14
+1992,adelaide,march,naspetti,Gearbox,-1,15
+1992,adelaide,larrousse,gachot,Fuel system,-1,16
+1992,adelaide,williams,patrese,Engine,-1,17
+1992,adelaide,larrousse,katayama,Differential,-1,18
+1992,adelaide,tyrrell,cesaris,Engine,-1,19
+1992,adelaide,williams,mansell,Collision,-1,20
+1992,adelaide,mclaren,senna,Collision,-1,21
+1992,adelaide,jordan,gugelmin,Spun off,-1,22
+1992,adelaide,ligier,comas,Engine,-1,23
+1992,adelaide,footwork,alboreto,Engine,-1,24
+1992,adelaide,dallara,martini,Accident,-1,25
+1992,adelaide,tyrrell,grouillard,Accident,-1,26

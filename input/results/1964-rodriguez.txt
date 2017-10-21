@@ -1,0 +1,19 @@
+1964,rodriguez,brabham-climax,gurney,Finished,7790320,1
+1964,rodriguez,ferrari,surtees,Finished,7859260,2
+1964,rodriguez,ferrari,bandini,Finished,7859950,3
+1964,rodriguez,lotus-climax,spence,Finished,7872180,4
+1964,rodriguez,lotus-climax,clark,Engine,-1,5
+1964,rodriguez,ferrari,rodriguez,+1 Lap,-1,6
+1964,rodriguez,cooper-climax,mclaren,+1 Lap,-1,7
+1964,rodriguez,brm,ginther,+1 Lap,-1,8
+1964,rodriguez,cooper-climax,phil_hill,Engine,-1,9
+1964,rodriguez,lotus-climax,solana,+2 Laps,-1,10
+1964,rodriguez,brm,hill,+2 Laps,-1,11
+1964,rodriguez,brp,ireland,+4 Laps,-1,12
+1964,rodriguez,brabham-brm,sharp,+5 Laps,-1,13
+1964,rodriguez,lotus-brm,amon,Gearbox,-1,14
+1964,rodriguez,brabham-climax,jack_brabham,Electrical,-1,15
+1964,rodriguez,lotus-brm,hailwood,Overheating,-1,16
+1964,rodriguez,brabham-brm,siffert,Fuel pump,-1,17
+1964,rodriguez,brabham-climax,bonnier,Suspension,-1,18
+1964,rodriguez,brp,trevor_taylor,Overheating,-1,19

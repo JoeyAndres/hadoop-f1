@@ -1,0 +1,30 @@
+1991,spa,mclaren,senna,Finished,5237669,1
+1991,spa,mclaren,berger,Finished,5239570,2
+1991,spa,benetton,piquet,Finished,5269845,3
+1991,spa,benetton,moreno,Finished,5274979,4
+1991,spa,williams,patrese,Finished,5294856,5
+1991,spa,brabham,blundell,Finished,5337704,6
+1991,spa,team_lotus,herbert,Finished,5342268,7
+1991,spa,dallara,pirro,+1 Lap,-1,8
+1991,spa,brabham,brundle,+1 Lap,-1,9
+1991,spa,fondmetal,grouillard,+1 Lap,-1,10
+1991,spa,ligier,boutsen,+1 Lap,-1,11
+1991,spa,minardi,martini,Gearbox,-1,12
+1991,spa,jordan,cesaris,Engine,-1,13
+1991,spa,tyrrell,modena,Oil leak,-1,14
+1991,spa,dallara,lehto,Oil pressure,-1,15
+1991,spa,ferrari,alesi,Engine,-1,16
+1991,spa,minardi,morbidelli,Gearbox,-1,17
+1991,spa,team_lotus,hakkinen,Engine,-1,18
+1991,spa,ligier,comas,Engine,-1,19
+1991,spa,williams,mansell,Electrical,-1,20
+1991,spa,lola,bernard,Gearbox,-1,21
+1991,spa,leyton,capelli,Engine,-1,22
+1991,spa,tyrrell,satoru_nakajima,Spun off,-1,23
+1991,spa,ferrari,prost,Fuel leak,-1,24
+1991,spa,leyton,gugelmin,Engine,-1,25
+1991,spa,jordan,michael_schumacher,Clutch,-1,26
+1991,spa,lola,suzuki,Did not qualify,-1,27
+1991,spa,lambo,larini,Did not qualify,-1,28
+1991,spa,footwork,caffi,Did not qualify,-1,29
+1991,spa,lambo,poele,Did not qualify,-1,30

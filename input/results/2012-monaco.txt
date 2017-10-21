@@ -1,0 +1,24 @@
+2012,monaco,red_bull,webber,Finished,6366557,1
+2012,monaco,mercedes,rosberg,Finished,6367200,2
+2012,monaco,ferrari,alonso,Finished,6367504,3
+2012,monaco,red_bull,vettel,Finished,6367900,4
+2012,monaco,mclaren,hamilton,Finished,6370658,5
+2012,monaco,ferrari,massa,Finished,6372752,6
+2012,monaco,force_india,resta,Finished,6408094,7
+2012,monaco,force_india,hulkenberg,Finished,6409119,8
+2012,monaco,lotus_f1,raikkonen,Finished,6410593,9
+2012,monaco,williams,bruno_senna,Finished,6411073,10
+2012,monaco,sauber,perez,+1 Lap,-1,11
+2012,monaco,toro_rosso,vergne,+1 Lap,-1,12
+2012,monaco,caterham,kovalainen,+1 Lap,-1,13
+2012,monaco,marussia,glock,+1 Lap,-1,14
+2012,monaco,hrt,karthikeyan,+2 Laps,-1,15
+2012,monaco,mclaren,button,Collision,-1,16
+2012,monaco,toro_rosso,ricciardo,Retired,-1,17
+2012,monaco,marussia,pic,Retired,-1,18
+2012,monaco,mercedes,michael_schumacher,Fuel pressure,-1,19
+2012,monaco,caterham,petrov,Electrical,-1,20
+2012,monaco,sauber,kobayashi,Accident,-1,21
+2012,monaco,hrt,rosa,Accident,-1,22
+2012,monaco,williams,maldonado,Accident,-1,23
+2012,monaco,lotus_f1,grosjean,Accident,-1,24

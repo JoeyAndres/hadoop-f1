@@ -1,0 +1,22 @@
+2001,interlagos,mclaren,coulthard,Finished,5940834,1
+2001,interlagos,ferrari,michael_schumacher,Finished,5956998,2
+2001,interlagos,sauber,heidfeld,+1 Lap,-1,3
+2001,interlagos,bar,panis,+1 Lap,-1,4
+2001,interlagos,jordan,trulli,+1 Lap,-1,5
+2001,interlagos,benetton,fisichella,+1 Lap,-1,6
+2001,interlagos,bar,villeneuve,+1 Lap,-1,7
+2001,interlagos,prost,alesi,+1 Lap,-1,8
+2001,interlagos,minardi,marques,+3 Laps,-1,9
+2001,interlagos,benetton,button,+7 Laps,-1,10
+2001,interlagos,jordan,frentzen,Electrical,-1,11
+2001,interlagos,sauber,raikkonen,Spun off,-1,12
+2001,interlagos,williams,ralf_schumacher,Spun off,-1,13
+2001,interlagos,prost,mazzacane,Clutch,-1,14
+2001,interlagos,jaguar,irvine,Spun off,-1,15
+2001,interlagos,williams,montoya,Collision,-1,16
+2001,interlagos,arrows,verstappen,Collision,-1,17
+2001,interlagos,jaguar,burti,Engine,-1,18
+2001,interlagos,minardi,alonso,Electrical,-1,19
+2001,interlagos,arrows,bernoldi,Hydraulics,-1,20
+2001,interlagos,ferrari,barrichello,Collision,-1,21
+2001,interlagos,mclaren,hakkinen,Stalled,-1,22

@@ -1,0 +1,30 @@
+1982,long_beach,mclaren,lauda,Finished,7105318,1
+1982,long_beach,williams,keke_rosberg,Finished,7119978,2
+1982,long_beach,brabham,patrese,Finished,7184461,3
+1982,long_beach,tyrrell,alboreto,Finished,7186265,4
+1982,long_beach,team_lotus,angelis,+1 Lap,-1,5
+1982,long_beach,mclaren,watson,+1 Lap,-1,6
+1982,long_beach,team_lotus,mansell,+2 Laps,-1,7
+1982,long_beach,march,mass,+2 Laps,-1,8
+1982,long_beach,march,boesel,+5 Laps,-1,9
+1982,long_beach,tyrrell,borgudd,+7 Laps,-1,10
+1982,long_beach,ferrari,gilles_villeneuve,Disqualified,-1,11
+1982,long_beach,ligier,cheever,Gearbox,-1,12
+1982,long_beach,alfa,cesaris,Spun off,-1,13
+1982,long_beach,arrows,henton,Spun off,-1,14
+1982,long_beach,ensign,guerrero,Spun off,-1,15
+1982,long_beach,ligier,laffite,Spun off,-1,16
+1982,long_beach,osella,jarier,Transmission,-1,17
+1982,long_beach,brabham,piquet,Spun off,-1,18
+1982,long_beach,theodore,daly,Spun off,-1,19
+1982,long_beach,williams,mario_andretti,Collision,-1,20
+1982,long_beach,renault,prost,Spun off,-1,21
+1982,long_beach,ferrari,pironi,Spun off,-1,22
+1982,long_beach,renault,arnoux,Collision,-1,23
+1982,long_beach,alfa,giacomelli,Collision,-1,24
+1982,long_beach,ats,salazar,Collision,-1,25
+1982,long_beach,ats,manfred_winkelhock,Collision,-1,26
+1982,long_beach,toleman,fabi,Did not qualify,-1,27
+1982,long_beach,osella,paletti,Did not qualify,-1,28
+1982,long_beach,fittipaldi,serra,Did not qualify,-1,29
+1982,long_beach,arrows,baldi,Did not qualify,-1,30

@@ -1,0 +1,30 @@
+1990,monza,mclaren,senna,Finished,4677878,1
+1990,monza,ferrari,prost,Finished,4683932,2
+1990,monza,mclaren,berger,Finished,4685282,3
+1990,monza,ferrari,mansell,Finished,4734097,4
+1990,monza,williams,patrese,Finished,4763152,5
+1990,monza,tyrrell,satoru_nakajima,+1 Lap,-1,6
+1990,monza,benetton,piquet,+1 Lap,-1,7
+1990,monza,benetton,nannini,+1 Lap,-1,8
+1990,monza,arrows,caffi,+2 Laps,-1,9
+1990,monza,dallara,cesaris,+2 Laps,-1,10
+1990,monza,ligier,larini,+2 Laps,-1,11
+1990,monza,arrows,alboreto,Spun off,-1,12
+1990,monza,ligier,alliot,+3 Laps,-1,13
+1990,monza,ags,dalmas,Not classified,-1,14
+1990,monza,leyton,capelli,Engine,-1,15
+1990,monza,larrousse,suzuki,Electrical,-1,16
+1990,monza,osella,grouillard,Wheel bearing,-1,17
+1990,monza,leyton,gugelmin,Engine,-1,18
+1990,monza,brabham,modena,Engine,-1,19
+1990,monza,williams,boutsen,Suspension,-1,20
+1990,monza,team_lotus,warwick,Clutch,-1,21
+1990,monza,dallara,pirro,Spun off,-1,22
+1990,monza,team_lotus,donnelly,Engine,-1,23
+1990,monza,larrousse,bernard,Clutch,-1,24
+1990,monza,minardi,martini,Suspension,-1,25
+1990,monza,tyrrell,alesi,Spun off,-1,26
+1990,monza,ags,tarquini,Did not qualify,-1,27
+1990,monza,minardi,barilla,Did not qualify,-1,28
+1990,monza,brabham,brabham,Did not qualify,-1,29
+1990,monza,coloni,gachot,Did not qualify,-1,30

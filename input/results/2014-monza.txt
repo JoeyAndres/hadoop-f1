@@ -1,0 +1,22 @@
+2014,monza,mercedes,hamilton,Finished,4750236,1
+2014,monza,mercedes,rosberg,Finished,4753411,2
+2014,monza,williams,massa,Finished,4775262,3
+2014,monza,williams,bottas,Finished,4791022,4
+2014,monza,red_bull,ricciardo,Finished,4800545,5
+2014,monza,red_bull,vettel,Finished,4810201,6
+2014,monza,force_india,perez,Finished,4812754,7
+2014,monza,mclaren,button,Finished,4813299,8
+2014,monza,ferrari,raikkonen,Finished,4813771,9
+2014,monza,mclaren,kevin_magnussen,Finished,4816407,10
+2014,monza,toro_rosso,kvyat,Finished,4821420,11
+2014,monza,force_india,hulkenberg,Finished,4822842,12
+2014,monza,toro_rosso,vergne,Finished,4823329,13
+2014,monza,lotus_f1,maldonado,+1 Lap,-1,14
+2014,monza,sauber,sutil,+1 Lap,-1,15
+2014,monza,lotus_f1,grosjean,+1 Lap,-1,16
+2014,monza,caterham,kobayashi,+1 Lap,-1,17
+2014,monza,marussia,jules_bianchi,+1 Lap,-1,18
+2014,monza,sauber,gutierrez,+2 Laps,-1,19
+2014,monza,caterham,ericsson,+2 Laps,-1,20
+2014,monza,ferrari,alonso,Engine,-1,21
+2014,monza,marussia,chilton,Accident,-1,22

@@ -1,0 +1,22 @@
+1977,interlagos,ferrari,reutemann,Finished,6307720,1
+1977,interlagos,mclaren,hunt,Finished,6318430,2
+1977,interlagos,ferrari,lauda,Finished,6415230,3
+1977,interlagos,fittipaldi,emerson_fittipaldi,+1 Lap,-1,4
+1977,interlagos,team_lotus,nilsson,+1 Lap,-1,5
+1977,interlagos,shadow,zorzi,+1 Lap,-1,6
+1977,interlagos,fittipaldi,hoffmann,+2 Laps,-1,7
+1977,interlagos,brabham,pace,Accident,-1,8
+1977,interlagos,shadow,pryce,Engine,-1,9
+1977,interlagos,surtees,binder,Suspension,-1,10
+1977,interlagos,brabham,watson,Accident,-1,11
+1977,interlagos,ligier,laffite,Accident,-1,12
+1977,interlagos,tyrrell,depailler,Accident,-1,13
+1977,interlagos,team_lotus,mario_andretti,Ignition,-1,14
+1977,interlagos,march,ribeiro,Engine,-1,15
+1977,interlagos,mclaren,mass,Accident,-1,16
+1977,interlagos,tyrrell,peterson,Accident,-1,17
+1977,interlagos,ensign,regazzoni,Accident,-1,18
+1977,interlagos,surtees,brambilla,Accident,-1,19
+1977,interlagos,wolf,scheckter,Engine,-1,20
+1977,interlagos,march,ian_scheckter,Transmission,-1,21
+1977,interlagos,brm,perkins,Overheating,-1,22

@@ -1,0 +1,22 @@
+2014,marina_bay,mercedes,hamilton,Finished,7204795,1
+2014,marina_bay,red_bull,vettel,Finished,7218329,2
+2014,marina_bay,red_bull,ricciardo,Finished,7219068,3
+2014,marina_bay,ferrari,alonso,Finished,7220184,4
+2014,marina_bay,williams,massa,Finished,7246956,5
+2014,marina_bay,toro_rosso,vergne,Finished,7261596,6
+2014,marina_bay,force_india,perez,Finished,7263833,7
+2014,marina_bay,ferrari,raikkonen,Finished,7265436,8
+2014,marina_bay,force_india,hulkenberg,Finished,7266456,9
+2014,marina_bay,mclaren,kevin_magnussen,Finished,7267025,10
+2014,marina_bay,williams,bottas,Finished,7269860,11
+2014,marina_bay,lotus_f1,maldonado,Finished,7271710,12
+2014,marina_bay,lotus_f1,grosjean,Finished,7272824,13
+2014,marina_bay,toro_rosso,kvyat,Finished,7276803,14
+2014,marina_bay,caterham,ericsson,Finished,7298983,15
+2014,marina_bay,marussia,jules_bianchi,Finished,7299338,16
+2014,marina_bay,marussia,chilton,+1 Lap,-1,17
+2014,marina_bay,mclaren,button,Retired,-1,18
+2014,marina_bay,sauber,sutil,Water pressure,-1,19
+2014,marina_bay,sauber,gutierrez,Electrical,-1,20
+2014,marina_bay,mercedes,rosberg,Electrical,-1,21
+2014,marina_bay,caterham,kobayashi,Power Unit,-1,22

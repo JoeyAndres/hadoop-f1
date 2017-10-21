@@ -1,0 +1,28 @@
+1979,monza,ferrari,scheckter,Finished,4920220,1
+1979,monza,ferrari,gilles_villeneuve,Finished,4920680,2
+1979,monza,williams,regazzoni,Finished,4925000,3
+1979,monza,brabham-alfa_romeo,lauda,Finished,4974620,4
+1979,monza,team_lotus,mario_andretti,Finished,4979920,5
+1979,monza,tyrrell,jarier,Finished,4981770,6
+1979,monza,team_lotus,reutemann,Finished,5004360,7
+1979,monza,fittipaldi,emerson_fittipaldi,+1 Lap,-1,8
+1979,monza,williams,jones,+1 Lap,-1,9
+1979,monza,tyrrell,pironi,+1 Lap,-1,10
+1979,monza,ats,stuck,+1 Lap,-1,11
+1979,monza,alfa,brambilla,+1 Lap,-1,12
+1979,monza,arrows,patrese,+3 Laps,-1,13
+1979,monza,renault,jabouille,Engine,-1,14
+1979,monza,ligier,laffite,Engine,-1,15
+1979,monza,wolf,keke_rosberg,Engine,-1,16
+1979,monza,ligier,ickx,Engine,-1,17
+1979,monza,shadow,angelis,Clutch,-1,18
+1979,monza,alfa,giacomelli,Spun off,-1,19
+1979,monza,renault,arnoux,Engine,-1,20
+1979,monza,mclaren,watson,Accident,-1,21
+1979,monza,mclaren,tambay,Engine,-1,22
+1979,monza,arrows,mass,Suspension,-1,23
+1979,monza,brabham-alfa_romeo,piquet,Accident,-1,24
+1979,monza,shadow,lammers,Did not qualify,-1,25
+1979,monza,ensign,surer,Did not qualify,-1,26
+1979,monza,merzario,merzario,Did not qualify,-1,27
+1979,monza,rebaque,rebaque,Did not qualify,-1,28

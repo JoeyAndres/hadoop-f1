@@ -1,0 +1,30 @@
+1976,brands_hatch,ferrari,lauda,Finished,6259660,1
+1976,brands_hatch,tyrrell,scheckter,Finished,6275840,2
+1976,brands_hatch,penske,watson,+1 Lap,-1,3
+1976,brands_hatch,shadow,pryce,+1 Lap,-1,4
+1976,brands_hatch,surtees,jones,+1 Lap,-1,5
+1976,brands_hatch,fittipaldi,emerson_fittipaldi,+2 Laps,-1,6
+1976,brands_hatch,hesketh,ertl,+3 Laps,-1,7
+1976,brands_hatch,brabham-alfa_romeo,pace,+3 Laps,-1,8
+1976,brands_hatch,shadow,jarier,+6 Laps,-1,9
+1976,brands_hatch,mclaren,hunt,Disqualified,-1,10
+1976,brands_hatch,team_lotus,nilsson,Engine,-1,11
+1976,brands_hatch,march,peterson,Fuel system,-1,12
+1976,brands_hatch,surtees,lunger,Gearbox,-1,13
+1976,brands_hatch,tyrrell,depailler,Engine,-1,14
+1976,brands_hatch,brabham-alfa_romeo,reutemann,Oil pressure,-1,15
+1976,brands_hatch,march,merzario,Engine,-1,16
+1976,brands_hatch,ferrari,regazzoni,Oil pressure,-1,17
+1976,brands_hatch,ligier,laffite,Suspension,-1,18
+1976,brands_hatch,brabham-ford,evans,Gearbox,-1,19
+1976,brands_hatch,march,brambilla,Accident,-1,20
+1976,brands_hatch,surtees,pescarolo,Fuel system,-1,21
+1976,brands_hatch,ensign,amon,Water leak,-1,22
+1976,brands_hatch,team_lotus,mario_andretti,Ignition,-1,23
+1976,brands_hatch,mclaren,mass,Clutch,-1,24
+1976,brands_hatch,march,stuck,Accident,-1,25
+1976,brands_hatch,hesketh,edwards,Accident,-1,26
+1976,brands_hatch,wolf,ickx,Did not qualify,-1,27
+1976,brands_hatch,surtees,galica,Did not qualify,-1,28
+1976,brands_hatch,shadow,wilds,Did not qualify,-1,29
+1976,brands_hatch,brabham-ford,lombardi,Did not qualify,-1,30

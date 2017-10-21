@@ -1,0 +1,24 @@
+2011,yeongam,red_bull,vettel,Finished,5881994,1
+2011,yeongam,mclaren,hamilton,Finished,5894013,2
+2011,yeongam,red_bull,webber,Finished,5894471,3
+2011,yeongam,mclaren,button,Finished,5896688,4
+2011,yeongam,ferrari,alonso,Finished,5897683,5
+2011,yeongam,ferrari,massa,Finished,5907127,6
+2011,yeongam,toro_rosso,alguersuari,Finished,5931532,7
+2011,yeongam,mercedes,rosberg,Finished,5936047,8
+2011,yeongam,toro_rosso,buemi,Finished,5944756,9
+2011,yeongam,force_india,resta,Finished,5950596,10
+2011,yeongam,force_india,sutil,Finished,5953223,11
+2011,yeongam,williams,barrichello,Finished,5975062,12
+2011,yeongam,renault,bruno_senna,+1 Lap,-1,13
+2011,yeongam,lotus_racing,kovalainen,+1 Lap,-1,14
+2011,yeongam,sauber,kobayashi,+1 Lap,-1,15
+2011,yeongam,sauber,perez,+1 Lap,-1,16
+2011,yeongam,lotus_racing,trulli,+1 Lap,-1,17
+2011,yeongam,virgin,glock,+1 Lap,-1,18
+2011,yeongam,hrt,ricciardo,+1 Lap,-1,19
+2011,yeongam,virgin,ambrosio,+1 Lap,-1,20
+2011,yeongam,hrt,liuzzi,+3 Laps,-1,21
+2011,yeongam,williams,maldonado,Clutch,-1,22
+2011,yeongam,renault,petrov,Collision,-1,23
+2011,yeongam,mercedes,michael_schumacher,Collision,-1,24

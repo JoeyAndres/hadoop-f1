@@ -1,0 +1,30 @@
+1978,zandvoort,team_lotus,mario_andretti,Finished,6064230,1
+1978,zandvoort,team_lotus,peterson,Finished,6064550,2
+1978,zandvoort,brabham,lauda,Finished,6076440,3
+1978,zandvoort,brabham,watson,Finished,6085150,4
+1978,zandvoort,fittipaldi,emerson_fittipaldi,Finished,6085730,5
+1978,zandvoort,ferrari,gilles_villeneuve,Finished,6110180,6
+1978,zandvoort,ferrari,reutemann,Finished,6124750,7
+1978,zandvoort,ligier,laffite,+1 Lap,-1,8
+1978,zandvoort,mclaren,tambay,+1 Lap,-1,9
+1978,zandvoort,mclaren,hunt,+1 Lap,-1,10
+1978,zandvoort,team_lotus,rebaque,+1 Lap,-1,11
+1978,zandvoort,wolf,scheckter,+2 Laps,-1,12
+1978,zandvoort,mclaren,giacomelli,Spun off,-1,13
+1978,zandvoort,shadow,stuck,Transmission,-1,14
+1978,zandvoort,martini,arnoux,Chassis,-1,15
+1978,zandvoort,merzario,merzario,Engine,-1,16
+1978,zandvoort,surtees,brambilla,Disqualified,-1,17
+1978,zandvoort,renault,jabouille,Engine,-1,18
+1978,zandvoort,mclaren,lunger,Engine,-1,19
+1978,zandvoort,wolf,keke_rosberg,Accident,-1,20
+1978,zandvoort,williams,jones,Throttle,-1,21
+1978,zandvoort,mclaren,piquet,Transmission,-1,22
+1978,zandvoort,tyrrell,depailler,Engine,-1,23
+1978,zandvoort,ensign,daly,Transmission,-1,24
+1978,zandvoort,arrows,patrese,Accident,-1,25
+1978,zandvoort,tyrrell,pironi,Accident,-1,26
+1978,zandvoort,surtees,keegan,Withdrew,-1,27
+1978,zandvoort,shadow,regazzoni,Did not qualify,-1,28
+1978,zandvoort,ats,bleekemolen,Did not qualify,-1,29
+1978,zandvoort,ats,mass,Did not qualify,-1,30

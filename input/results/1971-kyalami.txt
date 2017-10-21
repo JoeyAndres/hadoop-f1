@@ -1,0 +1,25 @@
+1971,kyalami,ferrari,mario_andretti,Finished,6455500,1
+1971,kyalami,tyrrell,stewart,Finished,6476400,2
+1971,kyalami,ferrari,regazzoni,Finished,6486900,3
+1971,kyalami,lotus-ford,wisell,Finished,6524900,4
+1971,kyalami,matra,amon,+1 Lap,-1,5
+1971,kyalami,mclaren,hulme,+1 Lap,-1,6
+1971,kyalami,surtees,redman,+1 Lap,-1,7
+1971,kyalami,ferrari,ickx,+1 Lap,-1,8
+1971,kyalami,brabham,hill,+2 Laps,-1,9
+1971,kyalami,march-ford,peterson,+2 Laps,-1,10
+1971,kyalami,march-ford,pescarolo,+2 Laps,-1,11
+1971,kyalami,surtees,stommelen,+2 Laps,-1,12
+1971,kyalami,march-alfa_romeo,adamich,+4 Laps,-1,13
+1971,kyalami,lotus-ford,emerson_fittipaldi,Engine,-1,14
+1971,kyalami,surtees,surtees,Gearbox,-1,15
+1971,kyalami,tyrrell,cevert,Accident,-1,16
+1971,kyalami,brm,ganley,Physical,-1,17
+1971,kyalami,brm,rodriguez,Overheating,-1,18
+1971,kyalami,brabham,charlton,Engine,-1,19
+1971,kyalami,brm,siffert,Overheating,-1,20
+1971,kyalami,march-ford,love,Differential,-1,21
+1971,kyalami,brabham,pretorius,Engine,-1,22
+1971,kyalami,mclaren,gethin,Fuel leak,-1,23
+1971,kyalami,mclaren,bonnier,Suspension,-1,24
+1971,kyalami,march-ford,roig,Engine,-1,25

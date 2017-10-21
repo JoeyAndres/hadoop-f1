@@ -1,0 +1,30 @@
+1989,rodriguez,mclaren,senna,Finished,5721431,1
+1989,rodriguez,williams,patrese,Finished,5736991,2
+1989,rodriguez,tyrrell,alboreto,Finished,5752685,3
+1989,rodriguez,benetton,nannini,Finished,5766926,4
+1989,rodriguez,mclaren,prost,Finished,5777544,5
+1989,rodriguez,ags,tarquini,+1 Lap,-1,6
+1989,rodriguez,arrows,cheever,+1 Lap,-1,7
+1989,rodriguez,ligier,grouillard,+1 Lap,-1,8
+1989,rodriguez,brabham,brundle,+1 Lap,-1,9
+1989,rodriguez,brabham,modena,+1 Lap,-1,10
+1989,rodriguez,team_lotus,piquet,+1 Lap,-1,11
+1989,rodriguez,rial,danner,+2 Laps,-1,12
+1989,rodriguez,dallara,caffi,+2 Laps,-1,13
+1989,rodriguez,ligier,arnoux,+3 Laps,-1,14
+1989,rodriguez,benetton,herbert,+3 Laps,-1,15
+1989,rodriguez,minardi,martini,Engine,-1,16
+1989,rodriguez,ferrari,mansell,Gearbox,-1,17
+1989,rodriguez,arrows,warwick,Electrical,-1,18
+1989,rodriguez,team_lotus,satoru_nakajima,Spun off,-1,19
+1989,rodriguez,larrousse,alliot,Not classified,-1,20
+1989,rodriguez,dallara,cesaris,Suspension,-1,21
+1989,rodriguez,ferrari,berger,Gearbox,-1,22
+1989,rodriguez,onyx,johansson,Transmission,-1,23
+1989,rodriguez,williams,boutsen,Electrical,-1,24
+1989,rodriguez,tyrrell,palmer,Throttle,-1,25
+1989,rodriguez,march,capelli,Transmission,-1,26
+1989,rodriguez,minardi,sala,Did not qualify,-1,27
+1989,rodriguez,march,gugelmin,Did not qualify,-1,28
+1989,rodriguez,larrousse,dalmas,Did not qualify,-1,29
+1989,rodriguez,coloni,moreno,Did not qualify,-1,30

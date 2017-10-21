@@ -1,0 +1,30 @@
+1988,spa,mclaren,senna,Finished,5280549,1
+1988,spa,mclaren,prost,Finished,5311019,2
+1988,spa,march,capelli,Finished,5356317,3
+1988,spa,team_lotus,piquet,Finished,5364177,4
+1988,spa,arrows,warwick,Finished,5365904,5
+1988,spa,arrows,cheever,+1 Lap,-1,6
+1988,spa,williams,brundle,+1 Lap,-1,7
+1988,spa,dallara,caffi,+1 Lap,-1,8
+1988,spa,larrousse,alliot,+1 Lap,-1,9
+1988,spa,ags,streiff,+1 Lap,-1,10
+1988,spa,ligier,johansson,Engine,-1,11
+1988,spa,tyrrell,palmer,Throttle,-1,12
+1988,spa,zakspeed,schneider,Gearbox,-1,13
+1988,spa,benetton,boutsen,Disqualified,-1,14
+1988,spa,benetton,nannini,Disqualified,-1,15
+1988,spa,coloni,tarquini,Steering,-1,16
+1988,spa,ferrari,alboreto,Engine,-1,17
+1988,spa,williams,patrese,Engine,-1,18
+1988,spa,march,gugelmin,Spun off,-1,19
+1988,spa,zakspeed,ghinzani,Oil leak,-1,20
+1988,spa,team_lotus,satoru_nakajima,Engine,-1,21
+1988,spa,osella,larini,Fuel system,-1,22
+1988,spa,ferrari,berger,Injection,-1,23
+1988,spa,larrousse,dalmas,Engine,-1,24
+1988,spa,rial,cesaris,Accident,-1,25
+1988,spa,ligier,arnoux,Accident,-1,26
+1988,spa,minardi,sala,Did not qualify,-1,27
+1988,spa,minardi,martini,Did not qualify,-1,28
+1988,spa,eurobrun,modena,Did not qualify,-1,29
+1988,spa,tyrrell,bailey,Did not qualify,-1,30

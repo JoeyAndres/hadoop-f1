@@ -1,0 +1,20 @@
+2003,silverstone,ferrari,barrichello,Finished,5317554,1
+2003,silverstone,williams,montoya,Finished,5323016,2
+2003,silverstone,mclaren,raikkonen,Finished,5328210,3
+2003,silverstone,ferrari,michael_schumacher,Finished,5343202,4
+2003,silverstone,mclaren,coulthard,Finished,5354381,5
+2003,silverstone,renault,trulli,Finished,5360621,6
+2003,silverstone,toyota,matta,Finished,5362639,7
+2003,silverstone,bar,button,Finished,5363032,8
+2003,silverstone,williams,ralf_schumacher,Finished,5375586,9
+2003,silverstone,bar,villeneuve,Finished,5381123,10
+2003,silverstone,toyota,panis,Finished,5382761,11
+2003,silverstone,sauber,frentzen,Finished,5383118,12
+2003,silverstone,jordan,firman,+1 Lap,-1,13
+2003,silverstone,jaguar,webber,+1 Lap,-1,14
+2003,silverstone,minardi,verstappen,+2 Laps,-1,15
+2003,silverstone,minardi,wilson,+2 Laps,-1,16
+2003,silverstone,sauber,heidfeld,+2 Laps,-1,17
+2003,silverstone,renault,alonso,Gearbox,-1,18
+2003,silverstone,jordan,fisichella,Suspension,-1,19
+2003,silverstone,jaguar,pizzonia,Engine,-1,20

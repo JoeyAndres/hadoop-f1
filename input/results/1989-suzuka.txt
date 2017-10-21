@@ -1,0 +1,30 @@
+1989,suzuka,benetton,nannini,Finished,5706277,1
+1989,suzuka,williams,patrese,Finished,5718181,2
+1989,suzuka,williams,boutsen,Finished,5719723,3
+1989,suzuka,team_lotus,piquet,Finished,5810502,4
+1989,suzuka,brabham,brundle,+1 Lap,-1,5
+1989,suzuka,arrows,warwick,+1 Lap,-1,6
+1989,suzuka,march,gugelmin,+1 Lap,-1,7
+1989,suzuka,arrows,cheever,+1 Lap,-1,8
+1989,suzuka,dallara,caffi,+1 Lap,-1,9
+1989,suzuka,dallara,cesaris,+2 Laps,-1,10
+1989,suzuka,mclaren,senna,Disqualified,-1,11
+1989,suzuka,mclaren,prost,Collision,-1,12
+1989,suzuka,brabham,modena,Engine,-1,13
+1989,suzuka,ferrari,mansell,Engine,-1,14
+1989,suzuka,team_lotus,satoru_nakajima,Engine,-1,15
+1989,suzuka,tyrrell,alesi,Gearbox,-1,16
+1989,suzuka,larrousse,alliot,Engine,-1,17
+1989,suzuka,ferrari,berger,Gearbox,-1,18
+1989,suzuka,benetton,pirro,Collision,-1,19
+1989,suzuka,ligier,grouillard,Engine,-1,20
+1989,suzuka,march,capelli,Suspension,-1,21
+1989,suzuka,osella,larini,Brakes,-1,22
+1989,suzuka,tyrrell,palmer,Fuel leak,-1,23
+1989,suzuka,zakspeed,schneider,Gearbox,-1,24
+1989,suzuka,minardi,sala,Collision,-1,25
+1989,suzuka,minardi,barilla,Clutch,-1,26
+1989,suzuka,ligier,arnoux,Did not qualify,-1,27
+1989,suzuka,larrousse,alboreto,Did not qualify,-1,28
+1989,suzuka,rial,raphanel,Did not qualify,-1,29
+1989,suzuka,rial,gachot,Did not qualify,-1,30

@@ -1,0 +1,20 @@
+2003,hungaroring,renault,alonso,Finished,5941460,1
+2003,hungaroring,mclaren,raikkonen,Finished,5958228,2
+2003,hungaroring,williams,montoya,Finished,5975997,3
+2003,hungaroring,williams,ralf_schumacher,Finished,5977080,4
+2003,hungaroring,mclaren,coulthard,Finished,5997995,5
+2003,hungaroring,jaguar,webber,Finished,6014103,6
+2003,hungaroring,renault,trulli,+1 Lap,-1,7
+2003,hungaroring,ferrari,michael_schumacher,+1 Lap,-1,8
+2003,hungaroring,sauber,heidfeld,+1 Lap,-1,9
+2003,hungaroring,bar,button,+1 Lap,-1,10
+2003,hungaroring,toyota,matta,+2 Laps,-1,11
+2003,hungaroring,minardi,verstappen,+3 Laps,-1,12
+2003,hungaroring,minardi,kiesa,+4 Laps,-1,13
+2003,hungaroring,sauber,frentzen,Out of fuel,-1,14
+2003,hungaroring,jaguar,wilson,Engine,-1,15
+2003,hungaroring,jordan,baumgartner,Engine,-1,16
+2003,hungaroring,toyota,panis,Gearbox,-1,17
+2003,hungaroring,jordan,fisichella,Engine,-1,18
+2003,hungaroring,ferrari,barrichello,Suspension,-1,19
+2003,hungaroring,bar,villeneuve,Hydraulics,-1,20

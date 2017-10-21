@@ -1,0 +1,25 @@
+1986,jacarepagua,williams,piquet,Finished,5972583,1
+1986,jacarepagua,team_lotus,senna,Finished,6007410,2
+1986,jacarepagua,ligier,laffite,Finished,6032342,3
+1986,jacarepagua,ligier,arnoux,Finished,6061012,4
+1986,jacarepagua,tyrrell,brundle,+1 Lap,-1,5
+1986,jacarepagua,benetton,berger,+2 Laps,-1,6
+1986,jacarepagua,tyrrell,streiff,+2 Laps,-1,7
+1986,jacarepagua,brabham,angelis,+3 Laps,-1,8
+1986,jacarepagua,team_lotus,dumfries,+3 Laps,-1,9
+1986,jacarepagua,benetton,fabi,+5 Laps,-1,10
+1986,jacarepagua,arrows,boutsen,Exhaust,-1,11
+1986,jacarepagua,ferrari,alboreto,Fuel system,-1,12
+1986,jacarepagua,mclaren,prost,Engine,-1,13
+1986,jacarepagua,osella,danner,Engine,-1,14
+1986,jacarepagua,ferrari,johansson,Brakes,-1,15
+1986,jacarepagua,lola,tambay,Battery,-1,16
+1986,jacarepagua,brabham,patrese,Water leak,-1,17
+1986,jacarepagua,zakspeed,palmer,Engine,-1,18
+1986,jacarepagua,arrows,surer,Engine,-1,19
+1986,jacarepagua,minardi,nannini,Clutch,-1,20
+1986,jacarepagua,minardi,cesaris,Turbo,-1,21
+1986,jacarepagua,osella,ghinzani,Engine,-1,22
+1986,jacarepagua,mclaren,keke_rosberg,Engine,-1,23
+1986,jacarepagua,lola,jones,Injection,-1,24
+1986,jacarepagua,williams,mansell,Spun off,-1,25

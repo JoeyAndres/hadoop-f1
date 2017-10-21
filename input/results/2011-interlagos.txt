@@ -1,0 +1,24 @@
+2011,interlagos,red_bull,webber,Finished,5537464,1
+2011,interlagos,red_bull,vettel,Finished,5554447,2
+2011,interlagos,mclaren,button,Finished,5565102,3
+2011,interlagos,ferrari,alonso,Finished,5572512,4
+2011,interlagos,ferrari,massa,Finished,5604197,5
+2011,interlagos,force_india,sutil,+1 Lap,-1,6
+2011,interlagos,mercedes,rosberg,+1 Lap,-1,7
+2011,interlagos,force_india,resta,+1 Lap,-1,8
+2011,interlagos,sauber,kobayashi,+1 Lap,-1,9
+2011,interlagos,renault,petrov,+1 Lap,-1,10
+2011,interlagos,toro_rosso,alguersuari,+1 Lap,-1,11
+2011,interlagos,toro_rosso,buemi,+1 Lap,-1,12
+2011,interlagos,sauber,perez,+1 Lap,-1,13
+2011,interlagos,williams,barrichello,+1 Lap,-1,14
+2011,interlagos,mercedes,michael_schumacher,+1 Lap,-1,15
+2011,interlagos,lotus_racing,kovalainen,+2 Laps,-1,16
+2011,interlagos,renault,bruno_senna,+2 Laps,-1,17
+2011,interlagos,lotus_racing,trulli,+2 Laps,-1,18
+2011,interlagos,virgin,ambrosio,+3 Laps,-1,19
+2011,interlagos,hrt,ricciardo,+3 Laps,-1,20
+2011,interlagos,hrt,liuzzi,Retired,-1,21
+2011,interlagos,mclaren,hamilton,Gearbox,-1,22
+2011,interlagos,williams,maldonado,Retired,-1,23
+2011,interlagos,virgin,glock,Retired,-1,24

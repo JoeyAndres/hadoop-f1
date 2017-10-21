@@ -1,0 +1,30 @@
+1982,kyalami,renault,prost,Finished,5528401,1
+1982,kyalami,williams,reutemann,Finished,5543347,2
+1982,kyalami,renault,arnoux,Finished,5556301,3
+1982,kyalami,mclaren,lauda,Finished,5560514,4
+1982,kyalami,williams,keke_rosberg,Finished,5571540,5
+1982,kyalami,mclaren,watson,Finished,5579394,6
+1982,kyalami,tyrrell,alboreto,+1 Lap,-1,7
+1982,kyalami,team_lotus,angelis,+1 Lap,-1,8
+1982,kyalami,ats,salazar,+2 Laps,-1,9
+1982,kyalami,ats,manfred_winkelhock,+2 Laps,-1,10
+1982,kyalami,alfa,giacomelli,+3 Laps,-1,11
+1982,kyalami,march,mass,+3 Laps,-1,12
+1982,kyalami,alfa,cesaris,+4 Laps,-1,13
+1982,kyalami,theodore,daly,+4 Laps,-1,14
+1982,kyalami,march,boesel,+5 Laps,-1,15
+1982,kyalami,tyrrell,borgudd,+5 Laps,-1,16
+1982,kyalami,fittipaldi,serra,+5 Laps,-1,17
+1982,kyalami,ferrari,pironi,+6 Laps,-1,18
+1982,kyalami,ligier,laffite,Fuel system,-1,19
+1982,kyalami,toleman,warwick,Accident,-1,20
+1982,kyalami,brabham,patrese,Turbo,-1,21
+1982,kyalami,ligier,cheever,Fuel system,-1,22
+1982,kyalami,ferrari,gilles_villeneuve,Turbo,-1,23
+1982,kyalami,brabham,piquet,Spun off,-1,24
+1982,kyalami,team_lotus,mansell,Electrical,-1,25
+1982,kyalami,osella,jarier,Collision,-1,26
+1982,kyalami,arrows,baldi,Did not qualify,-1,27
+1982,kyalami,osella,paletti,Did not qualify,-1,28
+1982,kyalami,arrows,henton,Did not qualify,-1,29
+1982,kyalami,ensign,guerrero,Did not qualify,-1,30

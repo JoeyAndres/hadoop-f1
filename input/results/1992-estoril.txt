@@ -1,0 +1,26 @@
+1992,estoril,williams,mansell,Finished,5686659,1
+1992,estoril,mclaren,berger,Finished,5724192,2
+1992,estoril,mclaren,senna,+1 Lap,-1,3
+1992,estoril,benetton,brundle,+1 Lap,-1,4
+1992,estoril,team_lotus,hakkinen,+1 Lap,-1,5
+1992,estoril,footwork,alboreto,+1 Lap,-1,6
+1992,estoril,benetton,michael_schumacher,+2 Laps,-1,7
+1992,estoril,ligier,boutsen,+2 Laps,-1,8
+1992,estoril,tyrrell,cesaris,+2 Laps,-1,9
+1992,estoril,footwork,suzuki,+3 Laps,-1,10
+1992,estoril,march,naspetti,+3 Laps,-1,11
+1992,estoril,minardi,fittipaldi,+3 Laps,-1,12
+1992,estoril,jordan,modena,+3 Laps,-1,13
+1992,estoril,minardi,morbidelli,+3 Laps,-1,14
+1992,estoril,dallara,lehto,Physical,-1,15
+1992,estoril,march,wendlinger,Gearbox,-1,16
+1992,estoril,ligier,comas,Engine,-1,17
+1992,estoril,larrousse,katayama,Spun off,-1,18
+1992,estoril,williams,patrese,Collision,-1,19
+1992,estoril,dallara,martini,Puncture,-1,20
+1992,estoril,ferrari,capelli,Engine,-1,21
+1992,estoril,tyrrell,grouillard,Gearbox,-1,22
+1992,estoril,larrousse,gachot,Engine,-1,23
+1992,estoril,jordan,gugelmin,Electrical,-1,24
+1992,estoril,ferrari,alesi,Spun off,-1,25
+1992,estoril,team_lotus,herbert,Accident,-1,26

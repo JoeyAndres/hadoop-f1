@@ -1,0 +1,28 @@
+1984,imola,mclaren,prost,Finished,5813679,1
+1984,imola,ferrari,arnoux,Finished,5827095,2
+1984,imola,team_lotus,angelis,Out of fuel,-1,3
+1984,imola,renault,warwick,+1 Lap,-1,4
+1984,imola,arrows,boutsen,+1 Lap,-1,5
+1984,imola,ligier,cesaris,Out of fuel,-1,6
+1984,imola,alfa,cheever,Out of fuel,-1,7
+1984,imola,spirit,baldi,+2 Laps,-1,8
+1984,imola,ram,palmer,+3 Laps,-1,9
+1984,imola,tyrrell,bellof,Disqualified,-1,10
+1984,imola,tyrrell,brundle,Disqualified,-1,11
+1984,imola,ram,alliot,Turbo,-1,12
+1984,imola,toleman,cecotto,Not classified,-1,13
+1984,imola,brabham,piquet,Turbo,-1,14
+1984,imola,brabham,fabi,Turbo,-1,15
+1984,imola,osella,gartner,Engine,-1,16
+1984,imola,arrows,surer,Turbo,-1,17
+1984,imola,ats,manfred_winkelhock,Turbo,-1,18
+1984,imola,ferrari,alboreto,Exhaust,-1,19
+1984,imola,mclaren,lauda,Engine,-1,20
+1984,imola,williams,laffite,Engine,-1,21
+1984,imola,alfa,patrese,Electrical,-1,22
+1984,imola,team_lotus,mansell,Spun off,-1,23
+1984,imola,williams,keke_rosberg,Electrical,-1,24
+1984,imola,renault,tambay,Collision,-1,25
+1984,imola,ligier,hesnault,Collision,-1,26
+1984,imola,osella,ghinzani,Did not qualify,-1,27
+1984,imola,toleman,senna,Did not qualify,-1,28

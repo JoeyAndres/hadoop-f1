@@ -1,0 +1,20 @@
+2017,bahrain,ferrari,vettel,Finished,5633374,1
+2017,bahrain,mercedes,hamilton,Finished,5640034,2
+2017,bahrain,mercedes,bottas,Finished,5653771,3
+2017,bahrain,ferrari,raikkonen,Finished,5655849,4
+2017,bahrain,red_bull,ricciardo,Finished,5672720,5
+2017,bahrain,williams,massa,Finished,5687700,6
+2017,bahrain,force_india,perez,Finished,5695980,7
+2017,bahrain,haas,grosjean,Finished,5708239,8
+2017,bahrain,renault,hulkenberg,Finished,5713562,9
+2017,bahrain,force_india,ocon,Finished,5729085,10
+2017,bahrain,sauber,wehrlein,+1 Lap,-1,11
+2017,bahrain,toro_rosso,kvyat,+1 Lap,-1,12
+2017,bahrain,renault,jolyon_palmer,+1 Lap,-1,13
+2017,bahrain,mclaren,alonso,Power Unit,-1,14
+2017,bahrain,sauber,ericsson,Gearbox,-1,15
+2017,bahrain,toro_rosso,sainz,Collision,-1,16
+2017,bahrain,williams,stroll,Collision,-1,17
+2017,bahrain,red_bull,max_verstappen,Brakes,-1,18
+2017,bahrain,haas,kevin_magnussen,Electrical,-1,19
+2017,bahrain,mclaren,vandoorne,Power Unit,-1,20

@@ -1,0 +1,26 @@
+1979,silverstone,williams,regazzoni,Finished,5171170,1
+1979,silverstone,renault,arnoux,Finished,5195450,2
+1979,silverstone,tyrrell,jarier,+1 Lap,-1,3
+1979,silverstone,mclaren,watson,+1 Lap,-1,4
+1979,silverstone,ferrari,scheckter,+1 Lap,-1,5
+1979,silverstone,ligier,ickx,+1 Lap,-1,6
+1979,silverstone,mclaren,tambay,Out of fuel,-1,7
+1979,silverstone,team_lotus,reutemann,+2 Laps,-1,8
+1979,silverstone,team_lotus,rebaque,+2 Laps,-1,9
+1979,silverstone,tyrrell,pironi,+2 Laps,-1,10
+1979,silverstone,shadow,lammers,+3 Laps,-1,11
+1979,silverstone,shadow,angelis,+3 Laps,-1,12
+1979,silverstone,ensign,gaillard,+3 Laps,-1,13
+1979,silverstone,ferrari,gilles_villeneuve,Fuel system,-1,14
+1979,silverstone,arrows,patrese,Gearbox,-1,15
+1979,silverstone,ligier,laffite,Engine,-1,16
+1979,silverstone,wolf,keke_rosberg,Fuel system,-1,17
+1979,silverstone,williams,jones,Water pump,-1,18
+1979,silverstone,arrows,mass,Gearbox,-1,19
+1979,silverstone,fittipaldi,emerson_fittipaldi,Engine,-1,20
+1979,silverstone,renault,jabouille,Turbo,-1,21
+1979,silverstone,brabham-alfa_romeo,lauda,Brakes,-1,22
+1979,silverstone,team_lotus,mario_andretti,Wheel,-1,23
+1979,silverstone,brabham-alfa_romeo,piquet,Spun off,-1,24
+1979,silverstone,ats,stuck,Did not qualify,-1,25
+1979,silverstone,merzario,merzario,Did not qualify,-1,26

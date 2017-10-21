@@ -1,0 +1,23 @@
+1964,monaco,brm,hill,Finished,9679500,1
+1964,monaco,brm,ginther,+1 Lap,-1,2
+1964,monaco,lotus-climax,arundell,+3 Laps,-1,3
+1964,monaco,lotus-climax,clark,Engine,-1,4
+1964,monaco,cooper-climax,bonnier,+4 Laps,-1,5
+1964,monaco,lotus-brm,hailwood,+4 Laps,-1,6
+1964,monaco,brabham-climax,anderson,Gearbox,-1,7
+1964,monaco,lotus-brm,siffert,+22 Laps,-1,8
+1964,monaco,cooper-climax,phil_hill,Suspension,-1,9
+1964,monaco,ferrari,bandini,Gearbox,-1,10
+1964,monaco,brabham-climax,gurney,Gearbox,-1,11
+1964,monaco,brm,trintignant,Overheating,-1,12
+1964,monaco,brabham-climax,jack_brabham,Injection,-1,13
+1964,monaco,cooper-climax,mclaren,Wheel bearing,-1,14
+1964,monaco,ferrari,surtees,Gearbox,-1,15
+1964,monaco,brp,trevor_taylor,Fuel leak,-1,16
+1964,monaco,lotus-brm,amon,Did not qualify,-1,17
+1964,monaco,lotus-brm,revson,Did not qualify,-1,18
+1964,monaco,lotus-brm,collomb,Did not qualify,-1,19
+1964,monaco,lotus-brm,ireland,Withdrew,-1,20
+1964,monaco,scirocco,andre_pilette,Withdrew,-1,21
+1964,monaco,brm,baghetti,Withdrew,-1,22
+1964,monaco,brm,maggs,Withdrew,-1,23

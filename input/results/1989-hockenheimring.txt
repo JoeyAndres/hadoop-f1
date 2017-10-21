@@ -1,0 +1,30 @@
+1989,hockenheimring,mclaren,senna,Finished,4903302,1
+1989,hockenheimring,mclaren,prost,Finished,4921453,2
+1989,hockenheimring,ferrari,mansell,Finished,4986556,3
+1989,hockenheimring,williams,patrese,+1 Lap,-1,4
+1989,hockenheimring,team_lotus,piquet,+1 Lap,-1,5
+1989,hockenheimring,arrows,warwick,+1 Lap,-1,6
+1989,hockenheimring,dallara,cesaris,+1 Lap,-1,7
+1989,hockenheimring,brabham,brundle,+1 Lap,-1,8
+1989,hockenheimring,minardi,martini,+1 Lap,-1,9
+1989,hockenheimring,tyrrell,alesi,+2 Laps,-1,10
+1989,hockenheimring,ligier,arnoux,+3 Laps,-1,11
+1989,hockenheimring,arrows,cheever,Fuel system,-1,12
+1989,hockenheimring,brabham,modena,Engine,-1,13
+1989,hockenheimring,team_lotus,satoru_nakajima,Spun off,-1,14
+1989,hockenheimring,march,capelli,Electrical,-1,15
+1989,hockenheimring,march,gugelmin,Gearbox,-1,16
+1989,hockenheimring,benetton,pirro,Spun off,-1,17
+1989,hockenheimring,larrousse,alliot,Oil leak,-1,18
+1989,hockenheimring,tyrrell,palmer,Engine,-1,19
+1989,hockenheimring,ferrari,berger,Spun off,-1,20
+1989,hockenheimring,onyx,johansson,Overheating,-1,21
+1989,hockenheimring,benetton,nannini,Electrical,-1,22
+1989,hockenheimring,williams,boutsen,Collision,-1,23
+1989,hockenheimring,dallara,caffi,Engine,-1,24
+1989,hockenheimring,larrousse,alboreto,Electrical,-1,25
+1989,hockenheimring,ligier,grouillard,Gearbox,-1,26
+1989,hockenheimring,minardi,sala,Did not qualify,-1,27
+1989,hockenheimring,onyx,gachot,Did not qualify,-1,28
+1989,hockenheimring,rial,danner,Did not qualify,-1,29
+1989,hockenheimring,rial,weidler,Disqualified,-1,30

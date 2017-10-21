@@ -1,0 +1,24 @@
+2010,catalunya,red_bull,webber,Finished,5744101,1
+2010,catalunya,ferrari,alonso,Finished,5768166,2
+2010,catalunya,red_bull,vettel,Finished,5795439,3
+2010,catalunya,mercedes,michael_schumacher,Finished,5806296,4
+2010,catalunya,mclaren,button,Finished,5807829,5
+2010,catalunya,ferrari,massa,Finished,5809868,6
+2010,catalunya,force_india,sutil,Finished,5817042,7
+2010,catalunya,renault,kubica,Finished,5817778,8
+2010,catalunya,williams,barrichello,+1 Lap,-1,9
+2010,catalunya,toro_rosso,alguersuari,+1 Lap,-1,10
+2010,catalunya,renault,petrov,+1 Lap,-1,11
+2010,catalunya,sauber,kobayashi,+1 Lap,-1,12
+2010,catalunya,mercedes,rosberg,+1 Lap,-1,13
+2010,catalunya,mclaren,hamilton,Puncture,-1,14
+2010,catalunya,force_india,liuzzi,Engine,-1,15
+2010,catalunya,williams,hulkenberg,+2 Laps,-1,16
+2010,catalunya,lotus_racing,trulli,+3 Laps,-1,17
+2010,catalunya,virgin,glock,+3 Laps,-1,18
+2010,catalunya,virgin,grassi,+4 Laps,-1,19
+2010,catalunya,toro_rosso,buemi,Hydraulics,-1,20
+2010,catalunya,hrt,chandhok,Suspension,-1,21
+2010,catalunya,sauber,rosa,Collision,-1,22
+2010,catalunya,hrt,bruno_senna,Accident,-1,23
+2010,catalunya,lotus_racing,kovalainen,Gearbox,-1,24

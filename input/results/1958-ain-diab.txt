@@ -1,0 +1,25 @@
+1958,ain-diab,vanwall,moss,Finished,7755100,1
+1958,ain-diab,ferrari,hawthorn,Finished,7839800,2
+1958,ain-diab,ferrari,phil_hill,Finished,7840600,3
+1958,ain-diab,brm,bonnier,Finished,7861800,4
+1958,ain-diab,brm,schell,Finished,7908800,5
+1958,ain-diab,maserati,gregory,+1 Lap,-1,6
+1958,ain-diab,cooper,salvadori,+2 Laps,-1,7
+1958,ain-diab,cooper,fairman,+3 Laps,-1,8
+1958,ain-diab,maserati,herrmann,+3 Laps,-1,9
+1958,ain-diab,team_lotus,allison,+4 Laps,-1,10
+1958,ain-diab,cooper,jack_brabham,+4 Laps,-1,11
+1958,ain-diab,maserati,gerini,+5 Laps,-1,12
+1958,ain-diab,cooper,mclaren,+5 Laps,-1,13
+1958,ain-diab,cooper,la_caze,+5 Laps,-1,14
+1958,ain-diab,cooper,guelfi,+5 Laps,-1,15
+1958,ain-diab,team_lotus,hill,+7 Laps,-1,16
+1958,ain-diab,vanwall,lewis-evans,Accident,-1,17
+1958,ain-diab,cooper,picard,Accident,-1,18
+1958,ain-diab,cooper,bridger,Accident,-1,19
+1958,ain-diab,vanwall,brooks,Engine,-1,20
+1958,ain-diab,ferrari,gendebien,Accident,-1,21
+1958,ain-diab,brm,behra,Engine,-1,22
+1958,ain-diab,cooper,seidel,Accident,-1,23
+1958,ain-diab,brm,flockhart,Engine,-1,24
+1958,ain-diab,cooper,trintignant,Engine,-1,25

@@ -1,0 +1,18 @@
+1954,galvez,maserati,fangio,Finished,10855800,1
+1954,galvez,ferrari,farina,Finished,10934800,2
+1954,galvez,ferrari,gonzalez,Finished,10976800,3
+1954,galvez,ferrari,trintignant,+1 Lap,-1,4
+1954,galvez,gordini,bayol,+2 Laps,-1,5
+1954,galvez,maserati,schell,+3 Laps,-1,6
+1954,galvez,maserati,bira,+4 Laps,-1,7
+1954,galvez,maserati,graffenried,+4 Laps,-1,8
+1954,galvez,ferrari,maglioli,+5 Laps,-1,9
+1954,galvez,gordini,behra,Disqualified,-1,10
+1954,galvez,ferrari,hawthorn,Disqualified,-1,11
+1954,galvez,maserati,marimon,Engine,-1,12
+1954,galvez,maserati,mieres,Oil leak,-1,13
+1954,galvez,gordini,loyer,Oil pressure,-1,14
+1954,galvez,maserati,daponte,Gearbox,-1,15
+1954,galvez,ferrari,rosier,Accident,-1,16
+1954,galvez,maserati,musso,Withdrew,-1,17
+1954,galvez,maserati,menditeguy,Withdrew,-1,18

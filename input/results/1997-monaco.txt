@@ -1,0 +1,22 @@
+1997,monaco,ferrari,michael_schumacher,Finished,7205654,1
+1997,monaco,stewart,barrichello,Finished,7258960,2
+1997,monaco,ferrari,irvine,Finished,7287762,3
+1997,monaco,prost,panis,Finished,7310056,4
+1997,monaco,tyrrell,salo,+1 Lap,-1,5
+1997,monaco,jordan,fisichella,+1 Lap,-1,6
+1997,monaco,stewart,magnussen,+1 Lap,-1,7
+1997,monaco,tyrrell,verstappen,+2 Laps,-1,8
+1997,monaco,benetton,berger,+2 Laps,-1,9
+1997,monaco,minardi,katayama,+2 Laps,-1,10
+1997,monaco,williams,frentzen,Spun off,-1,11
+1997,monaco,prost,nakano,Spun off,-1,12
+1997,monaco,sauber,larini,Spun off,-1,13
+1997,monaco,benetton,alesi,Spun off,-1,14
+1997,monaco,williams,villeneuve,Spun off,-1,15
+1997,monaco,jordan,ralf_schumacher,Spun off,-1,16
+1997,monaco,sauber,herbert,Spun off,-1,17
+1997,monaco,minardi,trulli,Spun off,-1,18
+1997,monaco,mclaren,coulthard,Spun off,-1,19
+1997,monaco,mclaren,hakkinen,Collision,-1,20
+1997,monaco,arrows,damon_hill,Collision,-1,21
+1997,monaco,arrows,diniz,Spun off,-1,22

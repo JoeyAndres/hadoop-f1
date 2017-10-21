@@ -1,0 +1,27 @@
+1976,long_beach,ferrari,regazzoni,Finished,6798471,1
+1976,long_beach,ferrari,lauda,Finished,6840885,2
+1976,long_beach,tyrrell,depailler,Finished,6848443,3
+1976,long_beach,ligier,laffite,Finished,6871299,4
+1976,long_beach,mclaren,mass,Finished,6880763,5
+1976,long_beach,fittipaldi,emerson_fittipaldi,+1 Lap,-1,6
+1976,long_beach,shadow,jarier,+1 Lap,-1,7
+1976,long_beach,ensign,amon,+2 Laps,-1,8
+1976,long_beach,brabham-alfa_romeo,pace,+3 Laps,-1,9
+1976,long_beach,march,peterson,+3 Laps,-1,10
+1976,long_beach,surtees,jones,Not classified,-1,11
+1976,long_beach,penske,watson,Not classified,-1,12
+1976,long_beach,tyrrell,scheckter,Suspension,-1,13
+1976,long_beach,shadow,pryce,Halfshaft,-1,14
+1976,long_beach,parnelli,mario_andretti,Water leak,-1,15
+1976,long_beach,mclaren,hunt,Accident,-1,16
+1976,long_beach,march,stuck,Accident,-1,17
+1976,long_beach,march,brambilla,Accident,-1,18
+1976,long_beach,brabham-alfa_romeo,reutemann,Accident,-1,19
+1976,long_beach,team_lotus,nilsson,Suspension,-1,20
+1976,long_beach,wolf,leclere,Did not qualify,-1,21
+1976,long_beach,fittipaldi,hoffmann,Did not qualify,-1,22
+1976,long_beach,march,merzario,Did not qualify,-1,23
+1976,long_beach,team_lotus,evans,Did not qualify,-1,24
+1976,long_beach,wolf,ickx,Did not qualify,-1,25
+1976,long_beach,hesketh,ertl,Did not qualify,-1,26
+1976,long_beach,surtees,lunger,Did not qualify,-1,27

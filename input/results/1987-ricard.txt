@@ -1,0 +1,26 @@
+1987,ricard,williams,mansell,Finished,5823839,1
+1987,ricard,williams,piquet,Finished,5831550,2
+1987,ricard,mclaren,prost,Finished,5879094,3
+1987,ricard,team_lotus,senna,+1 Lap,-1,4
+1987,ricard,benetton,fabi,+3 Laps,-1,5
+1987,ricard,tyrrell,streiff,+4 Laps,-1,6
+1987,ricard,tyrrell,palmer,+4 Laps,-1,7
+1987,ricard,mclaren,johansson,+6 Laps,-1,8
+1987,ricard,ags,fabre,+6 Laps,-1,9
+1987,ricard,ferrari,berger,Suspension,-1,10
+1987,ricard,team_lotus,satoru_nakajima,Not classified,-1,11
+1987,ricard,ferrari,alboreto,Engine,-1,12
+1987,ricard,arrows,warwick,Turbo,-1,13
+1987,ricard,larrousse,alliot,Gearbox,-1,14
+1987,ricard,march,capelli,Engine,-1,15
+1987,ricard,minardi,campos,Turbo,-1,16
+1987,ricard,ligier,arnoux,Exhaust,-1,17
+1987,ricard,benetton,boutsen,Engine,-1,18
+1987,ricard,zakspeed,danner,Overheating,-1,19
+1987,ricard,ligier,ghinzani,Engine,-1,20
+1987,ricard,minardi,nannini,Turbo,-1,21
+1987,ricard,brabham,patrese,Differential,-1,22
+1987,ricard,zakspeed,brundle,Wheel,-1,23
+1987,ricard,osella,caffi,Engine,-1,24
+1987,ricard,brabham,cesaris,Turbo,-1,25
+1987,ricard,arrows,cheever,Electrical,-1,26

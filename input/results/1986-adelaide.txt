@@ -1,0 +1,26 @@
+1986,adelaide,mclaren,prost,Finished,6860388,1
+1986,adelaide,williams,piquet,Finished,6864593,2
+1986,adelaide,ferrari,johansson,+1 Lap,-1,3
+1986,adelaide,tyrrell,brundle,+1 Lap,-1,4
+1986,adelaide,tyrrell,streiff,Out of fuel,-1,5
+1986,adelaide,team_lotus,dumfries,+2 Laps,-1,6
+1986,adelaide,ligier,arnoux,+3 Laps,-1,7
+1986,adelaide,ligier,alliot,+3 Laps,-1,8
+1986,adelaide,zakspeed,palmer,+5 Laps,-1,9
+1986,adelaide,benetton,fabi,+5 Laps,-1,10
+1986,adelaide,lola,tambay,Not classified,-1,11
+1986,adelaide,williams,mansell,Tyre,-1,12
+1986,adelaide,brabham,patrese,Electrical,-1,13
+1986,adelaide,mclaren,keke_rosberg,Tyre,-1,14
+1986,adelaide,osella,berg,Not classified,-1,15
+1986,adelaide,brabham,warwick,Brakes,-1,16
+1986,adelaide,arrows,danner,Engine,-1,17
+1986,adelaide,arrows,boutsen,Engine,-1,18
+1986,adelaide,team_lotus,senna,Engine,-1,19
+1986,adelaide,minardi,cesaris,Mechanical,-1,20
+1986,adelaide,benetton,berger,Engine,-1,21
+1986,adelaide,zakspeed,rothengatter,Suspension,-1,22
+1986,adelaide,lola,jones,Engine,-1,23
+1986,adelaide,minardi,nannini,Accident,-1,24
+1986,adelaide,osella,ghinzani,Transmission,-1,25
+1986,adelaide,ferrari,alboreto,Accident,-1,26

@@ -1,0 +1,20 @@
+2004,suzuka,ferrari,michael_schumacher,Finished,5066985,1
+2004,suzuka,williams,ralf_schumacher,Finished,5081083,2
+2004,suzuka,bar,button,Finished,5086647,3
+2004,suzuka,bar,sato,Finished,5098766,4
+2004,suzuka,renault,alonso,Finished,5104752,5
+2004,suzuka,mclaren,raikkonen,Finished,5106347,6
+2004,suzuka,williams,montoya,Finished,5122332,7
+2004,suzuka,sauber,fisichella,Finished,5123261,8
+2004,suzuka,sauber,massa,Finished,5156641,9
+2004,suzuka,renault,villeneuve,+1 Lap,-1,10
+2004,suzuka,toyota,trulli,+1 Lap,-1,11
+2004,suzuka,jaguar,klien,+1 Lap,-1,12
+2004,suzuka,jordan,heidfeld,+1 Lap,-1,13
+2004,suzuka,toyota,panis,+2 Laps,-1,14
+2004,suzuka,jordan,glock,+2 Laps,-1,15
+2004,suzuka,minardi,bruni,+3 Laps,-1,16
+2004,suzuka,minardi,baumgartner,Spun off,-1,17
+2004,suzuka,mclaren,coulthard,Collision,-1,18
+2004,suzuka,ferrari,barrichello,Collision,-1,19
+2004,suzuka,jaguar,webber,Overheating,-1,20

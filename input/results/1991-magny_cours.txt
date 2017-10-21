@@ -1,0 +1,30 @@
+1991,magny_cours,williams,mansell,Finished,5880056,1
+1991,magny_cours,ferrari,prost,Finished,5885059,2
+1991,magny_cours,mclaren,senna,Finished,5914990,3
+1991,magny_cours,ferrari,alesi,Finished,5915976,4
+1991,magny_cours,williams,patrese,+1 Lap,-1,5
+1991,magny_cours,jordan,cesaris,+1 Lap,-1,6
+1991,magny_cours,leyton,gugelmin,+2 Laps,-1,7
+1991,magny_cours,benetton,piquet,+2 Laps,-1,8
+1991,magny_cours,minardi,martini,+2 Laps,-1,9
+1991,magny_cours,team_lotus,herbert,+2 Laps,-1,10
+1991,magny_cours,ligier,comas,+2 Laps,-1,11
+1991,magny_cours,ligier,boutsen,+3 Laps,-1,12
+1991,magny_cours,benetton,moreno,Physical,-1,13
+1991,magny_cours,tyrrell,modena,Gearbox,-1,14
+1991,magny_cours,fondmetal,grouillard,Oil leak,-1,15
+1991,magny_cours,lola,bernard,Transmission,-1,16
+1991,magny_cours,dallara,lehto,Tyre,-1,17
+1991,magny_cours,brabham,blundell,Spun off,-1,18
+1991,magny_cours,lola,suzuki,Transmission,-1,19
+1991,magny_cours,footwork,alboreto,Gearbox,-1,20
+1991,magny_cours,brabham,brundle,Gearbox,-1,21
+1991,magny_cours,tyrrell,satoru_nakajima,Spun off,-1,22
+1991,magny_cours,minardi,morbidelli,Collision,-1,23
+1991,magny_cours,leyton,capelli,Spun off,-1,24
+1991,magny_cours,mclaren,berger,Engine,-1,25
+1991,magny_cours,jordan,gachot,Spun off,-1,26
+1991,magny_cours,team_lotus,hakkinen,Did not qualify,-1,27
+1991,magny_cours,ags,barbazza,Did not qualify,-1,28
+1991,magny_cours,ags,tarquini,Did not qualify,-1,29
+1991,magny_cours,footwork,johansson,Did not qualify,-1,30

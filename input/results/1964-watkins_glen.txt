@@ -1,0 +1,19 @@
+1964,watkins_glen,brm,hill,Finished,8198000,1
+1964,watkins_glen,ferrari,surtees,Finished,8228500,2
+1964,watkins_glen,brabham-brm,siffert,+1 Lap,-1,3
+1964,watkins_glen,brm,ginther,+3 Laps,-1,4
+1964,watkins_glen,lotus-climax,hansgen,+3 Laps,-1,5
+1964,watkins_glen,brp,trevor_taylor,+4 Laps,-1,6
+1964,watkins_glen,lotus-climax,clark,Out of fuel,-1,7
+1964,watkins_glen,lotus-brm,hailwood,Oil pipe,-1,8
+1964,watkins_glen,brabham-climax,gurney,Oil pressure,-1,9
+1964,watkins_glen,brabham-brm,sharp,Not classified,-1,10
+1964,watkins_glen,ferrari,bandini,Engine,-1,11
+1964,watkins_glen,lotus-climax,spence,Injection,-1,12
+1964,watkins_glen,honda,bucknum,Overheating,-1,13
+1964,watkins_glen,lotus-brm,amon,Engine,-1,14
+1964,watkins_glen,brabham-climax,bonnier,Wheel,-1,15
+1964,watkins_glen,cooper-climax,mclaren,Engine,-1,16
+1964,watkins_glen,brabham-climax,jack_brabham,Engine,-1,17
+1964,watkins_glen,cooper-climax,phil_hill,Ignition,-1,18
+1964,watkins_glen,brp,ireland,Gearbox,-1,19

@@ -1,0 +1,23 @@
+1970,charade,team_lotus,rindt,Finished,6957000,1
+1970,charade,march,amon,Finished,6964610,2
+1970,charade,brabham,jack_brabham,Finished,7001830,3
+1970,charade,mclaren-ford,hulme,Finished,7002660,4
+1970,charade,matra,pescarolo,Finished,7036420,5
+1970,charade,mclaren-ford,gurney,Finished,7036650,6
+1970,charade,brabham,stommelen,Finished,7097160,7
+1970,charade,team_lotus,miles,Finished,7124170,8
+1970,charade,march,stewart,Finished,7146610,9
+1970,charade,team_lotus,hill,+1 Lap,-1,10
+1970,charade,march,cevert,+1 Lap,-1,11
+1970,charade,brm,eaton,+2 Laps,-1,12
+1970,charade,matra,beltoise,Out of fuel,-1,13
+1970,charade,ferrari,giunti,+3 Laps,-1,14
+1970,charade,mclaren-alfa_romeo,adamich,Not classified,-1,15
+1970,charade,march,siffert,Accident,-1,16
+1970,charade,march,peterson,Differential,-1,17
+1970,charade,ferrari,ickx,Engine,-1,18
+1970,charade,brm,rodriguez,Gearbox,-1,19
+1970,charade,brm,oliver,Engine,-1,20
+1970,charade,bellasi,moser,Did not qualify,-1,21
+1970,charade,team_lotus,roig,Did not qualify,-1,22
+1970,charade,team_lotus,lovely,Did not qualify,-1,23

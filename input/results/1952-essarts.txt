@@ -1,0 +1,22 @@
+1952,essarts,ferrari,ascari,Finished,10800000,1
+1952,essarts,ferrari,farina,+1 Lap,-1,2
+1952,essarts,ferrari,taruffi,+2 Laps,-1,3
+1952,essarts,gordini,manzon,+3 Laps,-1,4
+1952,essarts,simca,trintignant,+5 Laps,-1,5
+1952,essarts,hwm,collins,+7 Laps,-1,6
+1952,essarts,gordini,behra,+7 Laps,-1,7
+1952,essarts,maserati,etancelin,+7 Laps,-1,8
+1952,essarts,hwm,macklin,+7 Laps,-1,9
+1952,essarts,hwm,cabantous,+9 Laps,-1,10
+1952,essarts,ferrari,fischer,+11 Laps,-1,11
+1952,essarts,ferrari,hirt,+11 Laps,-1,11
+1952,essarts,ferrari,comotti,+14 Laps,-1,12
+1952,essarts,gordini,bira,Axle,-1,13
+1952,essarts,cooper,hawthorn,Ignition,-1,14
+1952,essarts,maserati,graffenried,Brakes,-1,15
+1952,essarts,maserati,schell,Brakes,-1,15
+1952,essarts,alta,whitehead,Clutch,-1,16
+1952,essarts,ferrari,rosier,Engine,-1,17
+1952,essarts,simca,claes,Engine,-1,18
+1952,essarts,maserati,schell,Gearbox,-1,19
+1952,essarts,ferrari,carini,Engine,-1,20

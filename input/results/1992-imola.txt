@@ -1,0 +1,30 @@
+1992,imola,williams,mansell,Finished,5320927,1
+1992,imola,williams,patrese,Finished,5330378,2
+1992,imola,mclaren,senna,Finished,5369911,3
+1992,imola,benetton,brundle,Finished,5373934,4
+1992,imola,footwork,alboreto,+1 Lap,-1,5
+1992,imola,dallara,martini,+1 Lap,-1,6
+1992,imola,jordan,gugelmin,+2 Laps,-1,7
+1992,imola,tyrrell,grouillard,+2 Laps,-1,8
+1992,imola,ligier,comas,+2 Laps,-1,9
+1992,imola,footwork,suzuki,+2 Laps,-1,10
+1992,imola,dallara,lehto,Engine,-1,11
+1992,imola,march,wendlinger,+3 Laps,-1,12
+1992,imola,march,belmondo,+3 Laps,-1,13
+1992,imola,tyrrell,cesaris,Fuel system,-1,14
+1992,imola,larrousse,katayama,Spun off,-1,15
+1992,imola,ferrari,alesi,Collision,-1,16
+1992,imola,mclaren,berger,Collision,-1,17
+1992,imola,larrousse,gachot,Spun off,-1,18
+1992,imola,ligier,boutsen,Engine,-1,19
+1992,imola,jordan,modena,Gearbox,-1,20
+1992,imola,minardi,morbidelli,Engine,-1,21
+1992,imola,fondmetal,tarquini,Engine,-1,22
+1992,imola,benetton,michael_schumacher,Spun off,-1,23
+1992,imola,ferrari,capelli,Spun off,-1,24
+1992,imola,minardi,fittipaldi,Gearbox,-1,25
+1992,imola,team_lotus,herbert,Gearbox,-1,26
+1992,imola,team_lotus,hakkinen,Did not qualify,-1,27
+1992,imola,fondmetal,chiesa,Did not qualify,-1,28
+1992,imola,brabham,damon_hill,Did not qualify,-1,29
+1992,imola,brabham,poele,Did not qualify,-1,30

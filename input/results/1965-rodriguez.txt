@@ -1,0 +1,19 @@
+1965,rodriguez,honda,ginther,Finished,7712100,1
+1965,rodriguez,brabham-climax,gurney,Finished,7714990,2
+1965,rodriguez,lotus-climax,spence,Finished,7772250,3
+1965,rodriguez,brabham-brm,siffert,Finished,7826520,4
+1965,rodriguez,honda,bucknum,+1 Lap,-1,5
+1965,rodriguez,lotus-brm,attwood,+1 Lap,-1,6
+1965,rodriguez,ferrari,rodriguez,+3 Laps,-1,7
+1965,rodriguez,ferrari,bandini,+3 Laps,-1,8
+1965,rodriguez,brm,hill,Engine,-1,9
+1965,rodriguez,lotus-climax,solana,Ignition,-1,10
+1965,rodriguez,brabham-climax,bonnier,Suspension,-1,11
+1965,rodriguez,cooper-climax,rindt,Ignition,-1,12
+1965,rodriguez,brabham-climax,jack_brabham,Oil leak,-1,13
+1965,rodriguez,brm,stewart,Clutch,-1,14
+1965,rodriguez,lotus-brm,bondurant,Suspension,-1,15
+1965,rodriguez,cooper-climax,mclaren,Gearbox,-1,16
+1965,rodriguez,lotus-climax,clark,Engine,-1,17
+1965,rodriguez,lotus-brm,ireland,Withdrew,-1,18
+1965,rodriguez,ferrari,scarfiotti,Withdrew,-1,19

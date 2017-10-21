@@ -1,0 +1,26 @@
+1995,imola,williams,damon_hill,Finished,6102522,1
+1995,imola,ferrari,alesi,Finished,6121032,2
+1995,imola,ferrari,berger,Finished,6145638,3
+1995,imola,williams,coulthard,Finished,6154412,4
+1995,imola,mclaren,hakkinen,+1 Lap,-1,5
+1995,imola,sauber,frentzen,+1 Lap,-1,6
+1995,imola,benetton,herbert,+2 Laps,-1,7
+1995,imola,jordan,irvine,+2 Laps,-1,8
+1995,imola,ligier,panis,+2 Laps,-1,9
+1995,imola,mclaren,mansell,+2 Laps,-1,10
+1995,imola,ligier,suzuki,+3 Laps,-1,11
+1995,imola,minardi,martini,+4 Laps,-1,12
+1995,imola,footwork,morbidelli,+4 Laps,-1,13
+1995,imola,minardi,badoer,+4 Laps,-1,14
+1995,imola,forti,diniz,Not classified,-1,15
+1995,imola,forti,moreno,Not classified,-1,16
+1995,imola,sauber,wendlinger,Wheel,-1,17
+1995,imola,pacific,gachot,Gearbox,-1,18
+1995,imola,simtek,schiattarella,Suspension,-1,19
+1995,imola,jordan,barrichello,Transmission,-1,20
+1995,imola,tyrrell,katayama,Spun off,-1,21
+1995,imola,tyrrell,salo,Engine,-1,22
+1995,imola,pacific,montermini,Gearbox,-1,23
+1995,imola,simtek,verstappen,Gearbox,-1,24
+1995,imola,footwork,inoue,Spun off,-1,25
+1995,imola,benetton,michael_schumacher,Spun off,-1,26

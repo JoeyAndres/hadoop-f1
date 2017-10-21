@@ -1,0 +1,21 @@
+1959,monza,cooper-climax,moss,Finished,7445400,1
+1959,monza,ferrari,phil_hill,Finished,7492100,2
+1959,monza,cooper-climax,jack_brabham,Finished,7517900,3
+1959,monza,ferrari,gurney,Finished,7525000,4
+1959,monza,ferrari,allison,+1 Lap,-1,5
+1959,monza,ferrari,gendebien,+1 Lap,-1,6
+1959,monza,brm,schell,+2 Laps,-1,7
+1959,monza,brm,bonnier,+2 Laps,-1,8
+1959,monza,cooper-climax,trintignant,+2 Laps,-1,9
+1959,monza,aston_martin,shelby,+2 Laps,-1,10
+1959,monza,cooper-maserati,davis,+4 Laps,-1,11
+1959,monza,cooper-climax,scarlatti,+4 Laps,-1,12
+1959,monza,brm,flockhart,+5 Laps,-1,13
+1959,monza,cooper-maserati,burgess,+5 Laps,-1,14
+1959,monza,maserati,cabianca,+8 Laps,-1,15
+1959,monza,aston_martin,salvadori,Engine,-1,16
+1959,monza,cooper-climax,mclaren,Engine,-1,17
+1959,monza,cooper-maserati,fairman,Engine,-1,18
+1959,monza,team_lotus,ireland,Brakes,-1,19
+1959,monza,team_lotus,hill,Clutch,-1,20
+1959,monza,ferrari,brooks,Clutch,-1,21

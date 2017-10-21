@@ -1,0 +1,22 @@
+2016,BAK,mercedes,rosberg,Finished,5572366,1
+2016,BAK,ferrari,vettel,Finished,5589062,2
+2016,BAK,force_india,perez,Finished,5597607,3
+2016,BAK,ferrari,raikkonen,Finished,5605468,4
+2016,BAK,mercedes,hamilton,Finished,5628701,5
+2016,BAK,williams,bottas,Finished,5633252,6
+2016,BAK,red_bull,ricciardo,Finished,5641595,7
+2016,BAK,red_bull,max_verstappen,Finished,5643062,8
+2016,BAK,force_india,hulkenberg,Finished,5650074,9
+2016,BAK,williams,massa,Finished,5657741,10
+2016,BAK,mclaren,button,Finished,5677183,11
+2016,BAK,sauber,nasr,+1 Lap,-1,12
+2016,BAK,haas,grosjean,+1 Lap,-1,13
+2016,BAK,renault,kevin_magnussen,+1 Lap,-1,14
+2016,BAK,renault,jolyon_palmer,+1 Lap,-1,15
+2016,BAK,haas,gutierrez,+1 Lap,-1,16
+2016,BAK,sauber,ericsson,+1 Lap,-1,17
+2016,BAK,manor,haryanto,+2 Laps,-1,18
+2016,BAK,mclaren,alonso,Gearbox,-1,19
+2016,BAK,manor,wehrlein,Brakes,-1,20
+2016,BAK,toro_rosso,sainz,Suspension,-1,21
+2016,BAK,toro_rosso,kvyat,Suspension,-1,22

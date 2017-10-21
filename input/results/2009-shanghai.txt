@@ -1,0 +1,20 @@
+2009,shanghai,red_bull,vettel,Finished,7063485,1
+2009,shanghai,red_bull,webber,Finished,7074455,2
+2009,shanghai,brawn,button,Finished,7108460,3
+2009,shanghai,brawn,barrichello,Finished,7127189,4
+2009,shanghai,mclaren,kovalainen,Finished,7128587,5
+2009,shanghai,mclaren,hamilton,Finished,7135351,6
+2009,shanghai,toyota,glock,Finished,7137961,7
+2009,shanghai,toro_rosso,buemi,Finished,7139924,8
+2009,shanghai,renault,alonso,Finished,7147794,9
+2009,shanghai,ferrari,raikkonen,Finished,7155235,10
+2009,shanghai,toro_rosso,bourdais,Finished,7157641,11
+2009,shanghai,bmw_sauber,heidfeld,Finished,7159319,12
+2009,shanghai,bmw_sauber,kubica,Finished,7170338,13
+2009,shanghai,force_india,fisichella,+1 Lap,-1,14
+2009,shanghai,williams,rosberg,+1 Lap,-1,15
+2009,shanghai,renault,piquet_jr,+2 Laps,-1,16
+2009,shanghai,force_india,sutil,Spun off,-1,17
+2009,shanghai,williams,nakajima,Retired,-1,18
+2009,shanghai,ferrari,massa,Electronics,-1,19
+2009,shanghai,toyota,trulli,Collision,-1,20

@@ -1,0 +1,29 @@
+1983,silverstone,renault,prost,Finished,5079780,1
+1983,silverstone,brabham,piquet,Finished,5098941,2
+1983,silverstone,ferrari,tambay,Finished,5106026,3
+1983,silverstone,team_lotus,mansell,Finished,5118732,4
+1983,silverstone,ferrari,arnoux,Finished,5138654,5
+1983,silverstone,mclaren,lauda,+1 Lap,-1,6
+1983,silverstone,alfa,baldi,+1 Lap,-1,7
+1983,silverstone,alfa,cesaris,+1 Lap,-1,8
+1983,silverstone,mclaren,watson,+1 Lap,-1,9
+1983,silverstone,ligier,jarier,+2 Laps,-1,10
+1983,silverstone,williams,keke_rosberg,+2 Laps,-1,11
+1983,silverstone,williams,laffite,+2 Laps,-1,12
+1983,silverstone,tyrrell,alboreto,+2 Laps,-1,13
+1983,silverstone,tyrrell,sullivan,+2 Laps,-1,14
+1983,silverstone,arrows,boutsen,+2 Laps,-1,15
+1983,silverstone,theodore,guerrero,+3 Laps,-1,16
+1983,silverstone,arrows,surer,+3 Laps,-1,17
+1983,silverstone,ats,manfred_winkelhock,Engine,-1,18
+1983,silverstone,ligier,boesel,Suspension,-1,19
+1983,silverstone,osella,ghinzani,Fuel system,-1,20
+1983,silverstone,toleman,warwick,Gearbox,-1,21
+1983,silverstone,brabham,patrese,Turbo,-1,22
+1983,silverstone,spirit,johansson,Fuel system,-1,23
+1983,silverstone,renault,cheever,Engine,-1,24
+1983,silverstone,toleman,giacomelli,Turbo,-1,25
+1983,silverstone,team_lotus,angelis,Turbo,-1,26
+1983,silverstone,theodore,cecotto,Did not qualify,-1,27
+1983,silverstone,osella,corrado_fabi,Did not qualify,-1,28
+1983,silverstone,ram,acheson,Did not qualify,-1,29

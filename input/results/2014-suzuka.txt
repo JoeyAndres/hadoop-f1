@@ -1,0 +1,22 @@
+2014,suzuka,mercedes,hamilton,Finished,6703021,1
+2014,suzuka,mercedes,rosberg,Finished,6712201,2
+2014,suzuka,red_bull,vettel,Finished,6732143,3
+2014,suzuka,red_bull,ricciardo,Finished,6741839,4
+2014,suzuka,mclaren,button,Finished,6770571,5
+2014,suzuka,williams,bottas,Finished,6816794,6
+2014,suzuka,williams,massa,Finished,6818147,7
+2014,suzuka,force_india,hulkenberg,Finished,6818969,8
+2014,suzuka,toro_rosso,vergne,Finished,6830659,9
+2014,suzuka,force_india,perez,+1 Lap,-1,10
+2014,suzuka,toro_rosso,kvyat,+1 Lap,-1,11
+2014,suzuka,ferrari,raikkonen,+1 Lap,-1,12
+2014,suzuka,sauber,gutierrez,+1 Lap,-1,13
+2014,suzuka,mclaren,kevin_magnussen,+1 Lap,-1,14
+2014,suzuka,lotus_f1,grosjean,+1 Lap,-1,15
+2014,suzuka,lotus_f1,maldonado,+1 Lap,-1,16
+2014,suzuka,caterham,ericsson,+1 Lap,-1,17
+2014,suzuka,marussia,chilton,+1 Lap,-1,18
+2014,suzuka,caterham,kobayashi,+1 Lap,-1,19
+2014,suzuka,marussia,jules_bianchi,Accident,-1,20
+2014,suzuka,sauber,sutil,Accident,-1,21
+2014,suzuka,ferrari,alonso,Electronics,-1,22

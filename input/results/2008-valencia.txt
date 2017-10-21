@@ -1,0 +1,20 @@
+2008,valencia,ferrari,massa,Finished,5732339,1
+2008,valencia,mclaren,hamilton,Finished,5737950,2
+2008,valencia,bmw_sauber,kubica,Finished,5769692,3
+2008,valencia,mclaren,kovalainen,Finished,5772042,4
+2008,valencia,toyota,trulli,Finished,5783023,5
+2008,valencia,toro_rosso,vettel,Finished,5784964,6
+2008,valencia,toyota,glock,Finished,5800329,7
+2008,valencia,williams,rosberg,Finished,5803796,8
+2008,valencia,bmw_sauber,heidfeld,Finished,5814516,9
+2008,valencia,toro_rosso,bourdais,Finished,5822133,10
+2008,valencia,renault,piquet_jr,Finished,5825056,11
+2008,valencia,red_bull,webber,+1 Lap,-1,12
+2008,valencia,honda,button,+1 Lap,-1,13
+2008,valencia,force_india,fisichella,+1 Lap,-1,14
+2008,valencia,williams,nakajima,+1 Lap,-1,15
+2008,valencia,honda,barrichello,+1 Lap,-1,16
+2008,valencia,red_bull,coulthard,+1 Lap,-1,17
+2008,valencia,ferrari,raikkonen,Engine,-1,18
+2008,valencia,force_india,sutil,Accident,-1,19
+2008,valencia,renault,alonso,Collision,-1,20

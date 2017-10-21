@@ -1,0 +1,22 @@
+2006,istanbul,ferrari,massa,Finished,5331082,1
+2006,istanbul,renault,alonso,Finished,5336657,2
+2006,istanbul,ferrari,michael_schumacher,Finished,5336738,3
+2006,istanbul,honda,button,Finished,5343416,4
+2006,istanbul,mclaren,rosa,Finished,5376990,5
+2006,istanbul,renault,fisichella,Finished,5377676,6
+2006,istanbul,toyota,ralf_schumacher,Finished,5390419,7
+2006,istanbul,honda,barrichello,Finished,5391116,8
+2006,istanbul,toyota,trulli,+1 Lap,-1,9
+2006,istanbul,williams,webber,+1 Lap,-1,10
+2006,istanbul,red_bull,klien,+1 Lap,-1,11
+2006,istanbul,bmw_sauber,kubica,+1 Lap,-1,12
+2006,istanbul,toro_rosso,speed,+1 Lap,-1,13
+2006,istanbul,bmw_sauber,heidfeld,+2 Laps,-1,14
+2006,istanbul,red_bull,coulthard,Gearbox,-1,15
+2006,istanbul,mf1,albers,Spun off,-1,16
+2006,istanbul,super_aguri,sato,+17 Laps,-1,17
+2006,istanbul,williams,rosberg,Water leak,-1,18
+2006,istanbul,super_aguri,yamamoto,Spun off,-1,19
+2006,istanbul,toro_rosso,liuzzi,Spun off,-1,20
+2006,istanbul,mclaren,raikkonen,Collision,-1,21
+2006,istanbul,mf1,monteiro,Collision,-1,22

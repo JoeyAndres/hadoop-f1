@@ -1,0 +1,30 @@
+1978,kyalami,team_lotus,peterson,Finished,6135767,1
+1978,kyalami,tyrrell,depailler,Finished,6136233,2
+1978,kyalami,brabham,watson,Finished,6140209,3
+1978,kyalami,williams,jones,Finished,6166753,4
+1978,kyalami,ligier,laffite,Finished,6204985,5
+1978,kyalami,tyrrell,pironi,+1 Lap,-1,6
+1978,kyalami,team_lotus,mario_andretti,+1 Lap,-1,7
+1978,kyalami,ats,jarier,+1 Lap,-1,8
+1978,kyalami,arrows,stommelen,+1 Lap,-1,9
+1978,kyalami,team_lotus,rebaque,+1 Lap,-1,10
+1978,kyalami,mclaren,lunger,+2 Laps,-1,11
+1978,kyalami,surtees,brambilla,+2 Laps,-1,12
+1978,kyalami,arrows,patrese,Engine,-1,13
+1978,kyalami,wolf,scheckter,Spun off,-1,14
+1978,kyalami,mclaren,tambay,Accident,-1,15
+1978,kyalami,ferrari,gilles_villeneuve,Oil leak,-1,16
+1978,kyalami,ferrari,reutemann,Spun off,-1,17
+1978,kyalami,brabham,lauda,Engine,-1,18
+1978,kyalami,surtees,keegan,Engine,-1,19
+1978,kyalami,ats,mass,Engine,-1,20
+1978,kyalami,merzario,merzario,Suspension,-1,21
+1978,kyalami,renault,jabouille,Engine,-1,22
+1978,kyalami,theodore,keke_rosberg,Clutch,-1,23
+1978,kyalami,fittipaldi,emerson_fittipaldi,Transmission,-1,24
+1978,kyalami,hesketh,cheever,Oil leak,-1,25
+1978,kyalami,mclaren,hunt,Engine,-1,26
+1978,kyalami,martini,arnoux,Did not qualify,-1,27
+1978,kyalami,shadow,regazzoni,Did not qualify,-1,28
+1978,kyalami,ensign,leoni,Did not qualify,-1,29
+1978,kyalami,shadow,stuck,Did not qualify,-1,30

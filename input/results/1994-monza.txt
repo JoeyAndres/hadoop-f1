@@ -1,0 +1,28 @@
+1994,monza,williams,damon_hill,Finished,4683200,1
+1994,monza,ferrari,berger,Finished,4688130,2
+1994,monza,mclaren,hakkinen,Finished,4708840,3
+1994,monza,jordan,barrichello,Finished,4733834,4
+1994,monza,mclaren,brundle,Finished,4768775,5
+1994,monza,williams,coulthard,Out of fuel,-1,6
+1994,monza,ligier,bernard,+1 Lap,-1,7
+1994,monza,larrousse,comas,+1 Lap,-1,8
+1994,monza,benetton,lehto,+1 Lap,-1,9
+1994,monza,ligier,panis,+2 Laps,-1,10
+1994,monza,simtek,brabham,Puncture,-1,11
+1994,monza,tyrrell,katayama,Spun off,-1,12
+1994,monza,footwork,fittipaldi,Engine,-1,13
+1994,monza,jordan,irvine,Engine,-1,14
+1994,monza,tyrrell,blundell,Spun off,-1,15
+1994,monza,minardi,martini,Spun off,-1,16
+1994,monza,minardi,alboreto,Gearbox,-1,17
+1994,monza,sauber,frentzen,Engine,-1,18
+1994,monza,sauber,cesaris,Engine,-1,19
+1994,monza,simtek,gounon,Gearbox,-1,20
+1994,monza,larrousse,dalmas,Spun off,-1,21
+1994,monza,ferrari,alesi,Gearbox,-1,22
+1994,monza,team_lotus,herbert,Alternator,-1,23
+1994,monza,benetton,verstappen,Collision,-1,24
+1994,monza,team_lotus,zanardi,Collision,-1,25
+1994,monza,footwork,morbidelli,Collision,-1,26
+1994,monza,pacific,gachot,Did not qualify,-1,27
+1994,monza,pacific,belmondo,Did not qualify,-1,28

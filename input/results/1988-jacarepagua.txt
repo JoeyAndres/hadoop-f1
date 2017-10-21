@@ -1,0 +1,30 @@
+1988,jacarepagua,mclaren,prost,Finished,5766857,1
+1988,jacarepagua,ferrari,berger,Finished,5776730,2
+1988,jacarepagua,team_lotus,piquet,Finished,5835448,3
+1988,jacarepagua,arrows,warwick,Finished,5840205,4
+1988,jacarepagua,ferrari,alboreto,Finished,5841413,5
+1988,jacarepagua,team_lotus,satoru_nakajima,+1 Lap,-1,6
+1988,jacarepagua,benetton,boutsen,+1 Lap,-1,7
+1988,jacarepagua,arrows,cheever,+1 Lap,-1,8
+1988,jacarepagua,ligier,johansson,+3 Laps,-1,9
+1988,jacarepagua,rial,cesaris,Engine,-1,10
+1988,jacarepagua,tyrrell,palmer,Transmission,-1,11
+1988,jacarepagua,minardi,sala,Chassis,-1,12
+1988,jacarepagua,larrousse,alliot,Suspension,-1,13
+1988,jacarepagua,coloni,tarquini,Suspension,-1,14
+1988,jacarepagua,ags,streiff,Brakes,-1,15
+1988,jacarepagua,larrousse,dalmas,Engine,-1,16
+1988,jacarepagua,mclaren,senna,Disqualified,-1,17
+1988,jacarepagua,ligier,arnoux,Clutch,-1,18
+1988,jacarepagua,eurobrun,modena,Engine,-1,19
+1988,jacarepagua,williams,mansell,Engine,-1,20
+1988,jacarepagua,benetton,nannini,Engine,-1,21
+1988,jacarepagua,williams,patrese,Engine,-1,22
+1988,jacarepagua,march,capelli,Engine,-1,23
+1988,jacarepagua,minardi,campos,Chassis,-1,24
+1988,jacarepagua,march,gugelmin,Gearbox,-1,25
+1988,jacarepagua,eurobrun,larrauri,Electrical,-1,26
+1988,jacarepagua,tyrrell,bailey,Did not qualify,-1,27
+1988,jacarepagua,zakspeed,ghinzani,Did not qualify,-1,28
+1988,jacarepagua,osella,larini,Did not qualify,-1,29
+1988,jacarepagua,zakspeed,schneider,Did not qualify,-1,30

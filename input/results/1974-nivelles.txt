@@ -1,0 +1,30 @@
+1974,nivelles,mclaren,emerson_fittipaldi,Finished,6260570,1
+1974,nivelles,ferrari,lauda,Finished,6260920,2
+1974,nivelles,tyrrell,scheckter,Finished,6306180,3
+1974,nivelles,ferrari,regazzoni,Finished,6312590,4
+1974,nivelles,brm,beltoise,Finished,6328620,5
+1974,nivelles,mclaren,hulme,Finished,6331110,6
+1974,nivelles,mclaren,hailwood,+1 Lap,-1,7
+1974,nivelles,lola,hill,+2 Laps,-1,8
+1974,nivelles,march,brambilla,+2 Laps,-1,9
+1974,nivelles,trojan,schenken,+2 Laps,-1,10
+1974,nivelles,brabham,watson,+2 Laps,-1,11
+1974,nivelles,lola,edwards,+3 Laps,-1,12
+1974,nivelles,shadow,jarier,+3 Laps,-1,13
+1974,nivelles,iso_marlboro,lennep,+3 Laps,-1,14
+1974,nivelles,ensign,schuppan,+3 Laps,-1,15
+1974,nivelles,brm,migault,+3 Laps,-1,16
+1974,nivelles,brabham,pilette,+4 Laps,-1,17
+1974,nivelles,shadow,redman,Engine,-1,18
+1974,nivelles,team_lotus,ickx,Overheating,-1,19
+1974,nivelles,token,pryce,Collision,-1,20
+1974,nivelles,brabham,reutemann,Engine,-1,21
+1974,nivelles,team_lotus,peterson,Fuel leak,-1,22
+1974,nivelles,tyrrell,depailler,Brakes,-1,23
+1974,nivelles,surtees,mass,Suspension,-1,24
+1974,nivelles,brabham,larrousse,Tyre,-1,25
+1974,nivelles,surtees,pace,Handling,-1,26
+1974,nivelles,brabham,opel,Engine,-1,27
+1974,nivelles,hesketh,hunt,Accident,-1,28
+1974,nivelles,iso_marlboro,merzario,Transmission,-1,29
+1974,nivelles,brm,pescarolo,Collision,-1,30

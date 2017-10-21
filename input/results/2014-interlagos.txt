@@ -1,0 +1,18 @@
+2014,interlagos,mercedes,rosberg,Finished,5402555,1
+2014,interlagos,mercedes,hamilton,Finished,5404012,2
+2014,interlagos,williams,massa,Finished,5443586,3
+2014,interlagos,mclaren,button,Finished,5451213,4
+2014,interlagos,red_bull,vettel,Finished,5453975,5
+2014,interlagos,ferrari,alonso,Finished,5464461,6
+2014,interlagos,ferrari,raikkonen,Finished,5466285,7
+2014,interlagos,force_india,hulkenberg,Finished,5466489,8
+2014,interlagos,mclaren,kevin_magnussen,Finished,5472640,9
+2014,interlagos,williams,bottas,+1 Lap,-1,10
+2014,interlagos,toro_rosso,kvyat,+1 Lap,-1,11
+2014,interlagos,lotus_f1,maldonado,+1 Lap,-1,12
+2014,interlagos,toro_rosso,vergne,+1 Lap,-1,13
+2014,interlagos,sauber,gutierrez,+1 Lap,-1,14
+2014,interlagos,force_india,perez,+1 Lap,-1,15
+2014,interlagos,sauber,sutil,+1 Lap,-1,16
+2014,interlagos,lotus_f1,grosjean,+8 Laps,-1,17
+2014,interlagos,red_bull,ricciardo,Suspension,-1,18

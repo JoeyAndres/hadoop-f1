@@ -1,0 +1,22 @@
+2006,catalunya,renault,alonso,Finished,5181759,1
+2006,catalunya,ferrari,michael_schumacher,Finished,5200261,2
+2006,catalunya,renault,fisichella,Finished,5205710,3
+2006,catalunya,ferrari,massa,Finished,5211612,4
+2006,catalunya,mclaren,raikkonen,Finished,5238634,5
+2006,catalunya,honda,button,Finished,5240106,6
+2006,catalunya,honda,barrichello,+1 Lap,-1,7
+2006,catalunya,bmw_sauber,heidfeld,+1 Lap,-1,8
+2006,catalunya,williams,webber,+1 Lap,-1,9
+2006,catalunya,toyota,trulli,+1 Lap,-1,10
+2006,catalunya,williams,rosberg,+1 Lap,-1,11
+2006,catalunya,bmw_sauber,villeneuve,+1 Lap,-1,12
+2006,catalunya,red_bull,klien,+1 Lap,-1,13
+2006,catalunya,red_bull,coulthard,+1 Lap,-1,14
+2006,catalunya,toro_rosso,liuzzi,Hydraulics,-1,15
+2006,catalunya,mf1,monteiro,+3 Laps,-1,16
+2006,catalunya,super_aguri,sato,+4 Laps,-1,17
+2006,catalunya,mf1,albers,Broken wing,-1,18
+2006,catalunya,toro_rosso,speed,Engine,-1,19
+2006,catalunya,toyota,ralf_schumacher,Electronics,-1,20
+2006,catalunya,mclaren,montoya,Spun off,-1,21
+2006,catalunya,super_aguri,montagny,Driveshaft,-1,22

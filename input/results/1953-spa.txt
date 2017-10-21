@@ -1,0 +1,21 @@
+1953,spa,ferrari,ascari,Finished,10110300,1
+1953,spa,ferrari,villoresi,Finished,10278500,2
+1953,spa,maserati,marimon,+1 Lap,-1,3
+1953,spa,maserati,graffenried,+1 Lap,-1,4
+1953,spa,gordini,trintignant,+1 Lap,-1,5
+1953,spa,ferrari,hawthorn,+1 Lap,-1,6
+1953,spa,gordini,schell,+3 Laps,-1,7
+1953,spa,ferrari,rosier,+3 Laps,-1,8
+1953,spa,gordini,wacker,+4 Laps,-1,9
+1953,spa,hwm,frere,+6 Laps,-1,10
+1953,spa,connaught,andre_pilette,+7 Laps,-1,11
+1953,spa,maserati,claes,Accident,-1,12
+1953,spa,maserati,fangio,Accident,-1,12
+1953,spa,hwm,macklin,Engine,-1,13
+1953,spa,ferrari,farina,Engine,-1,14
+1953,spa,maserati,fangio,Engine,-1,15
+1953,spa,maserati,gonzalez,Throttle,-1,16
+1953,spa,gordini,behra,Engine,-1,17
+1953,spa,hwm,collins,Clutch,-1,18
+1953,spa,simca,georges_berger,Engine,-1,19
+1953,spa,veritas,legat,Transmission,-1,20

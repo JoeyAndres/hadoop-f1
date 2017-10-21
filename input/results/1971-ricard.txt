@@ -1,0 +1,23 @@
+1971,ricard,tyrrell,stewart,Finished,6402300,1
+1971,ricard,tyrrell,cevert,Finished,6430420,2
+1971,ricard,lotus-ford,emerson_fittipaldi,Finished,6436370,3
+1971,ricard,brm,siffert,Finished,6439470,4
+1971,ricard,matra,amon,Finished,6443380,5
+1971,ricard,lotus-ford,wisell,Finished,6478320,6
+1971,ricard,matra,beltoise,Finished,6479230,7
+1971,ricard,surtees,surtees,Finished,6487210,8
+1971,ricard,mclaren,gethin,+1 Lap,-1,9
+1971,ricard,brm,ganley,+1 Lap,-1,10
+1971,ricard,surtees,stommelen,+2 Laps,-1,11
+1971,ricard,brabham,schenken,Oil pressure,-1,12
+1971,ricard,march-ford,mazet,+5 Laps,-1,13
+1971,ricard,march-ford,jean,Not classified,-1,14
+1971,ricard,march-ford,pescarolo,Gearbox,-1,15
+1971,ricard,brabham,hill,Oil pipe,-1,16
+1971,ricard,march-alfa_romeo,adamich,Engine,-1,17
+1971,ricard,brm,rodriguez,Ignition,-1,18
+1971,ricard,ferrari,regazzoni,Accident,-1,19
+1971,ricard,march-alfa_romeo,peterson,Engine,-1,20
+1971,ricard,mclaren,hulme,Ignition,-1,21
+1971,ricard,ferrari,ickx,Engine,-1,22
+1971,ricard,march-ford,roig,Fuel pump,-1,23

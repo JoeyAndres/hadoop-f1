@@ -1,0 +1,24 @@
+2011,nurburgring,mclaren,hamilton,Finished,5850334,1
+2011,nurburgring,ferrari,alonso,Finished,5854314,2
+2011,nurburgring,red_bull,webber,Finished,5860122,3
+2011,nurburgring,red_bull,vettel,Finished,5898255,4
+2011,nurburgring,ferrari,massa,Finished,5902586,5
+2011,nurburgring,force_india,sutil,Finished,5936542,6
+2011,nurburgring,mercedes,rosberg,+1 Lap,-1,7
+2011,nurburgring,mercedes,michael_schumacher,+1 Lap,-1,8
+2011,nurburgring,sauber,kobayashi,+1 Lap,-1,9
+2011,nurburgring,renault,petrov,+1 Lap,-1,10
+2011,nurburgring,sauber,perez,+1 Lap,-1,11
+2011,nurburgring,toro_rosso,alguersuari,+1 Lap,-1,12
+2011,nurburgring,force_india,resta,+1 Lap,-1,13
+2011,nurburgring,williams,maldonado,+1 Lap,-1,14
+2011,nurburgring,toro_rosso,buemi,+1 Lap,-1,15
+2011,nurburgring,lotus_racing,kovalainen,+2 Laps,-1,16
+2011,nurburgring,virgin,glock,+3 Laps,-1,17
+2011,nurburgring,virgin,ambrosio,+3 Laps,-1,18
+2011,nurburgring,hrt,ricciardo,+3 Laps,-1,19
+2011,nurburgring,lotus_racing,chandhok,+4 Laps,-1,20
+2011,nurburgring,hrt,liuzzi,Electrical,-1,21
+2011,nurburgring,mclaren,button,Hydraulics,-1,22
+2011,nurburgring,williams,barrichello,Oil leak,-1,23
+2011,nurburgring,renault,heidfeld,Collision,-1,24

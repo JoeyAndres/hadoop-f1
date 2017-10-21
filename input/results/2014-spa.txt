@@ -1,0 +1,22 @@
+2014,spa,red_bull,ricciardo,Finished,5076556,1
+2014,spa,mercedes,rosberg,Finished,5079939,2
+2014,spa,williams,bottas,Finished,5104588,3
+2014,spa,ferrari,raikkonen,Finished,5113371,4
+2014,spa,red_bull,vettel,Finished,5128752,5
+2014,spa,mclaren,button,Finished,5131136,6
+2014,spa,ferrari,alonso,Finished,5137718,7
+2014,spa,force_india,perez,Finished,5140849,8
+2014,spa,toro_rosso,kvyat,Finished,5141903,9
+2014,spa,force_india,hulkenberg,Finished,5142253,10
+2014,spa,toro_rosso,vergne,Finished,5148476,11
+2014,spa,mclaren,kevin_magnussen,Finished,5150818,12
+2014,spa,williams,massa,Finished,5152531,13
+2014,spa,sauber,sutil,Finished,5159003,14
+2014,spa,sauber,gutierrez,Finished,5167381,15
+2014,spa,marussia,chilton,+1 Lap,-1,16
+2014,spa,caterham,ericsson,+1 Lap,-1,17
+2014,spa,marussia,jules_bianchi,Gearbox,-1,18
+2014,spa,mercedes,hamilton,Retired,-1,19
+2014,spa,lotus_f1,grosjean,Retired,-1,20
+2014,spa,lotus_f1,maldonado,Mechanical,-1,21
+2014,spa,caterham,lotterer,Power Unit,-1,22

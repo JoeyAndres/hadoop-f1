@@ -1,0 +1,20 @@
+2005,suzuka,mclaren,raikkonen,Finished,5342212,1
+2005,suzuka,renault,fisichella,Finished,5343845,2
+2005,suzuka,renault,alonso,Finished,5359668,3
+2005,suzuka,williams,webber,Finished,5364486,4
+2005,suzuka,bar,button,Finished,5371719,5
+2005,suzuka,red_bull,coulthard,Finished,5373813,6
+2005,suzuka,ferrari,michael_schumacher,Finished,5376091,7
+2005,suzuka,toyota,ralf_schumacher,Finished,5391760,8
+2005,suzuka,red_bull,klien,Finished,5394137,9
+2005,suzuka,sauber,massa,Finished,5399721,10
+2005,suzuka,ferrari,barrichello,Finished,5402845,11
+2005,suzuka,sauber,villeneuve,Finished,5425433,12
+2005,suzuka,jordan,monteiro,+1 Lap,-1,13
+2005,suzuka,minardi,doornbos,+2 Laps,-1,14
+2005,suzuka,jordan,karthikeyan,+2 Laps,-1,15
+2005,suzuka,minardi,albers,+4 Laps,-1,16
+2005,suzuka,williams,pizzonia,Accident,-1,17
+2005,suzuka,toyota,trulli,Accident,-1,18
+2005,suzuka,mclaren,montoya,Accident,-1,19
+2005,suzuka,bar,sato,Disqualified,-1,20

@@ -1,0 +1,20 @@
+1951,pedralbes,alfa,fangio,Finished,10014100,1
+1951,pedralbes,ferrari,gonzalez,Finished,10068380,2
+1951,pedralbes,alfa,farina,Finished,10119640,3
+1951,pedralbes,ferrari,ascari,+2 Laps,-1,4
+1951,pedralbes,alfa,bonetto,+2 Laps,-1,5
+1951,pedralbes,alfa,graffenried,+4 Laps,-1,6
+1951,pedralbes,lago,rosier,+6 Laps,-1,7
+1951,pedralbes,lago,etancelin,+7 Laps,-1,8
+1951,pedralbes,simca,manzon,+7 Laps,-1,9
+1951,pedralbes,maserati,godia,+10 Laps,-1,10
+1951,pedralbes,ferrari,villoresi,Ignition,-1,11
+1951,pedralbes,simca,simon,Engine,-1,12
+1951,pedralbes,lago,claes,Accident,-1,13
+1951,pedralbes,ferrari,taruffi,Wheel,-1,14
+1951,pedralbes,simca,trintignant,Engine,-1,15
+1951,pedralbes,lago,grignard,Engine,-1,16
+1951,pedralbes,lago,cabantous,Accident,-1,17
+1951,pedralbes,lago,chiron,Ignition,-1,18
+1951,pedralbes,maserati,bira,Engine,-1,19
+1951,pedralbes,maserati,jover,Engine,-1,20

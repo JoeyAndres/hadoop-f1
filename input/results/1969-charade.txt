@@ -1,0 +1,13 @@
+1969,charade,matra-ford,stewart,Finished,7007400,1
+1969,charade,matra-ford,beltoise,Finished,7064500,2
+1969,charade,brabham-ford,ickx,Finished,7064700,3
+1969,charade,mclaren-ford,mclaren,+1 Lap,-1,4
+1969,charade,mclaren-ford,elford,+1 Lap,-1,5
+1969,charade,lotus-ford,hill,+1 Lap,-1,6
+1969,charade,brabham-ford,moser,+2 Laps,-1,7
+1969,charade,mclaren-ford,hulme,+3 Laps,-1,8
+1969,charade,lotus-ford,siffert,+4 Laps,-1,9
+1969,charade,ferrari,amon,Engine,-1,10
+1969,charade,lotus-ford,rindt,Physical,-1,11
+1969,charade,brabham-ford,courage,Chassis,-1,12
+1969,charade,lotus-ford,miles,Fuel pump,-1,13

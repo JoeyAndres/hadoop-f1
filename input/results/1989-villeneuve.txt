@@ -1,0 +1,30 @@
+1989,villeneuve,williams,boutsen,Finished,7284073,1
+1989,villeneuve,williams,patrese,Finished,7314080,2
+1989,villeneuve,dallara,cesaris,Finished,7380722,3
+1989,villeneuve,team_lotus,piquet,Finished,7385557,4
+1989,villeneuve,ligier,arnoux,+1 Lap,-1,5
+1989,villeneuve,dallara,caffi,+2 Laps,-1,6
+1989,villeneuve,mclaren,senna,Engine,-1,7
+1989,villeneuve,rial,danner,+3 Laps,-1,8
+1989,villeneuve,coloni,moreno,Differential,-1,9
+1989,villeneuve,arrows,warwick,Engine,-1,10
+1989,villeneuve,tyrrell,palmer,Spun off,-1,11
+1989,villeneuve,osella,larini,Electrical,-1,12
+1989,villeneuve,march,capelli,Spun off,-1,13
+1989,villeneuve,larrousse,alliot,Spun off,-1,14
+1989,villeneuve,onyx,johansson,Disqualified,-1,15
+1989,villeneuve,minardi,sala,Spun off,-1,16
+1989,villeneuve,march,gugelmin,Electrical,-1,17
+1989,villeneuve,ferrari,berger,Gearbox,-1,18
+1989,villeneuve,ags,tarquini,Spun off,-1,19
+1989,villeneuve,arrows,cheever,Spun off,-1,20
+1989,villeneuve,mclaren,prost,Suspension,-1,21
+1989,villeneuve,ferrari,mansell,Disqualified,-1,22
+1989,villeneuve,brabham,modena,Accident,-1,23
+1989,villeneuve,minardi,martini,Accident,-1,24
+1989,villeneuve,benetton,nannini,Disqualified,-1,25
+1989,villeneuve,tyrrell,alboreto,Electrical,-1,26
+1989,villeneuve,team_lotus,satoru_nakajima,Did not qualify,-1,27
+1989,villeneuve,larrousse,dalmas,Did not qualify,-1,28
+1989,villeneuve,benetton,herbert,Did not qualify,-1,29
+1989,villeneuve,ligier,grouillard,Did not qualify,-1,30

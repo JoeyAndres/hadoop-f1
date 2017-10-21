@@ -1,0 +1,22 @@
+1966,monza,ferrari,scarfiotti,Finished,6434800,1
+1966,monza,ferrari,parkes,Finished,6440600,2
+1966,monza,brabham-repco,hulme,Finished,6440900,3
+1966,monza,cooper-maserati,rindt,+1 Lap,-1,4
+1966,monza,lotus-brm,spence,+1 Lap,-1,5
+1966,monza,brabham-climax,anderson,+2 Laps,-1,6
+1966,monza,brm,bondurant,+3 Laps,-1,7
+1966,monza,lotus-brm,arundell,Engine,-1,8
+1966,monza,lotus-climax,geki,+5 Laps,-1,9
+1966,monza,ferrari,baghetti,Not classified,-1,10
+1966,monza,lotus-brm,clark,Gearbox,-1,11
+1966,monza,cooper-maserati,siffert,Engine,-1,12
+1966,monza,ferrari,bandini,Ignition,-1,13
+1966,monza,cooper-maserati,surtees,Fuel leak,-1,14
+1966,monza,honda,ginther,Accident,-1,15
+1966,monza,brabham-repco,jack_brabham,Oil leak,-1,16
+1966,monza,eagle-weslake,gurney,Engine,-1,17
+1966,monza,brm,stewart,Fuel leak,-1,18
+1966,monza,cooper-maserati,bonnier,Throttle,-1,19
+1966,monza,brm,hill,Engine,-1,20
+1966,monza,eagle-climax,phil_hill,Did not qualify,-1,21
+1966,monza,brabham-brm,amon,Did not qualify,-1,22

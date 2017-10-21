@@ -1,0 +1,26 @@
+1983,kyalami,brabham,patrese,Finished,5605708,1
+1983,kyalami,alfa,cesaris,Finished,5615027,2
+1983,kyalami,brabham,piquet,Finished,5627677,3
+1983,kyalami,toleman,warwick,+1 Lap,-1,4
+1983,kyalami,williams,keke_rosberg,+1 Lap,-1,5
+1983,kyalami,renault,cheever,+1 Lap,-1,6
+1983,kyalami,tyrrell,sullivan,+2 Laps,-1,7
+1983,kyalami,arrows,surer,+2 Laps,-1,8
+1983,kyalami,arrows,boutsen,+3 Laps,-1,9
+1983,kyalami,ligier,jarier,+4 Laps,-1,10
+1983,kyalami,mclaren,lauda,Electrical,-1,11
+1983,kyalami,ram,acheson,+6 Laps,-1,12
+1983,kyalami,team_lotus,mansell,Not classified,-1,13
+1983,kyalami,ligier,boesel,Not classified,-1,14
+1983,kyalami,tyrrell,alboreto,Engine,-1,15
+1983,kyalami,ferrari,tambay,Turbo,-1,16
+1983,kyalami,toleman,giacomelli,Turbo,-1,17
+1983,kyalami,renault,prost,Turbo,-1,18
+1983,kyalami,osella,corrado_fabi,Engine,-1,19
+1983,kyalami,team_lotus,angelis,Engine,-1,20
+1983,kyalami,mclaren,watson,Disqualified,-1,21
+1983,kyalami,ferrari,arnoux,Engine,-1,22
+1983,kyalami,alfa,baldi,Engine,-1,23
+1983,kyalami,ats,manfred_winkelhock,Engine,-1,24
+1983,kyalami,williams,laffite,Spun off,-1,25
+1983,kyalami,osella,ghinzani,Engine,-1,26

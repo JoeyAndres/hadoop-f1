@@ -1,0 +1,21 @@
+1962,george,brm,hill,Finished,7683300,1
+1962,george,cooper-climax,mclaren,Finished,7733100,2
+1962,george,cooper-climax,maggs,Finished,7733600,3
+1962,george,brabham,jack_brabham,Finished,7737100,4
+1962,george,lotus-climax,ireland,+1 Lap,-1,5
+1962,george,lotus-climax,lederle,+4 Laps,-1,6
+1962,george,brm,ginther,+4 Laps,-1,7
+1962,george,cooper-climax,love,+4 Laps,-1,8
+1962,george,brm,johnstone,+6 Laps,-1,9
+1962,george,lotus-climax,pieterse,+11 Laps,-1,10
+1962,george,porsche,beaufort,Fuel system,-1,11
+1962,george,lotus-climax,clark,Oil leak,-1,12
+1962,george,lds,serrurier,Radiator,-1,13
+1962,george,lola,salvadori,Fuel leak,-1,14
+1962,george,cooper-alfa_romeo,harris,Wheel bearing,-1,15
+1962,george,lola,surtees,Engine,-1,16
+1962,george,lotus-climax,trevor_taylor,Gearbox,-1,17
+1962,george,lotus-climax,hocking,Withdrew,-1,18
+1962,george,lotus-climax,vyver,Withdrew,-1,19
+1962,george,emeryson,settember,Withdrew,-1,20
+1962,george,lotus-climax,tingle,Withdrew,-1,21

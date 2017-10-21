@@ -1,0 +1,22 @@
+2002,catalunya,ferrari,michael_schumacher,Finished,5429981,1
+2002,catalunya,williams,montoya,Finished,5465611,2
+2002,catalunya,mclaren,coulthard,Finished,5472604,3
+2002,catalunya,sauber,heidfeld,Finished,5496678,4
+2002,catalunya,sauber,massa,Finished,5508954,5
+2002,catalunya,arrows,frentzen,Finished,5510411,6
+2002,catalunya,bar,villeneuve,+1 Lap,-1,7
+2002,catalunya,toyota,mcnish,+1 Lap,-1,8
+2002,catalunya,toyota,salo,+1 Lap,-1,9
+2002,catalunya,renault,trulli,Engine,-1,10
+2002,catalunya,williams,ralf_schumacher,Engine,-1,11
+2002,catalunya,renault,button,Hydraulics,-1,12
+2002,catalunya,bar,panis,Exhaust,-1,13
+2002,catalunya,jaguar,irvine,Hydraulics,-1,14
+2002,catalunya,arrows,bernoldi,Hydraulics,-1,15
+2002,catalunya,jordan,sato,Spun off,-1,16
+2002,catalunya,jordan,fisichella,Hydraulics,-1,17
+2002,catalunya,mclaren,raikkonen,Rear wing,-1,18
+2002,catalunya,jaguar,rosa,Spun off,-1,19
+2002,catalunya,ferrari,barrichello,Gearbox,-1,20
+2002,catalunya,minardi,webber,Safety,-1,21
+2002,catalunya,minardi,yoong,Safety,-1,22

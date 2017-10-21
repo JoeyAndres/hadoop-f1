@@ -1,0 +1,20 @@
+2017,hungaroring,ferrari,vettel,Finished,5986713,1
+2017,hungaroring,ferrari,raikkonen,Finished,5987621,2
+2017,hungaroring,mercedes,bottas,Finished,5999175,3
+2017,hungaroring,mercedes,hamilton,Finished,5999598,4
+2017,hungaroring,red_bull,max_verstappen,Finished,5999989,5
+2017,hungaroring,mclaren,alonso,Finished,6057936,6
+2017,hungaroring,toro_rosso,sainz,+1 Lap,-1,7
+2017,hungaroring,force_india,perez,+1 Lap,-1,8
+2017,hungaroring,force_india,ocon,+1 Lap,-1,9
+2017,hungaroring,mclaren,vandoorne,+1 Lap,-1,10
+2017,hungaroring,toro_rosso,kvyat,+1 Lap,-1,11
+2017,hungaroring,renault,jolyon_palmer,+1 Lap,-1,12
+2017,hungaroring,haas,kevin_magnussen,+1 Lap,-1,13
+2017,hungaroring,williams,stroll,+1 Lap,-1,14
+2017,hungaroring,sauber,wehrlein,+2 Laps,-1,15
+2017,hungaroring,sauber,ericsson,+2 Laps,-1,16
+2017,hungaroring,renault,hulkenberg,Brakes,-1,17
+2017,hungaroring,williams,resta,Oil leak,-1,18
+2017,hungaroring,haas,grosjean,Wheel nut,-1,19
+2017,hungaroring,red_bull,ricciardo,Collision,-1,20

@@ -1,0 +1,30 @@
+1990,interlagos,ferrari,prost,Finished,5841258,1
+1990,interlagos,mclaren,berger,Finished,5854822,2
+1990,interlagos,mclaren,senna,Finished,5878980,3
+1990,interlagos,ferrari,mansell,Finished,5888524,4
+1990,interlagos,williams,boutsen,+1 Lap,-1,5
+1990,interlagos,benetton,piquet,+1 Lap,-1,6
+1990,interlagos,tyrrell,alesi,+1 Lap,-1,7
+1990,interlagos,tyrrell,satoru_nakajima,+1 Lap,-1,8
+1990,interlagos,minardi,martini,+2 Laps,-1,9
+1990,interlagos,benetton,nannini,Puncture,-1,10
+1990,interlagos,ligier,larini,+3 Laps,-1,11
+1990,interlagos,ligier,alliot,+3 Laps,-1,12
+1990,interlagos,williams,patrese,Oil pressure,-1,13
+1990,interlagos,dallara,morbidelli,+7 Laps,-1,14
+1990,interlagos,arrows,caffi,Clutch,-1,15
+1990,interlagos,team_lotus,donnelly,Spun off,-1,16
+1990,interlagos,brabham,modena,Spun off,-1,17
+1990,interlagos,minardi,barilla,Engine,-1,18
+1990,interlagos,ags,dalmas,Suspension,-1,19
+1990,interlagos,team_lotus,warwick,Electrical,-1,20
+1990,interlagos,larrousse,suzuki,Suspension,-1,21
+1990,interlagos,arrows,alboreto,Suspension,-1,22
+1990,interlagos,brabham,foitek,Transmission,-1,23
+1990,interlagos,larrousse,bernard,Gearbox,-1,24
+1990,interlagos,osella,grouillard,Collision,-1,25
+1990,interlagos,dallara,cesaris,Collision,-1,26
+1990,interlagos,onyx,johansson,Did not qualify,-1,27
+1990,interlagos,onyx,lehto,Did not qualify,-1,28
+1990,interlagos,leyton,capelli,Did not qualify,-1,29
+1990,interlagos,leyton,gugelmin,Did not qualify,-1,30

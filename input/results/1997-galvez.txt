@@ -1,0 +1,22 @@
+1997,galvez,williams,villeneuve,Finished,6721715,1
+1997,galvez,ferrari,irvine,Finished,6722694,2
+1997,galvez,jordan,ralf_schumacher,Finished,6733804,3
+1997,galvez,sauber,herbert,Finished,6751634,4
+1997,galvez,mclaren,hakkinen,Finished,6752066,5
+1997,galvez,benetton,berger,Finished,6753108,6
+1997,galvez,benetton,alesi,Finished,6768074,7
+1997,galvez,tyrrell,salo,+1 Lap,-1,8
+1997,galvez,minardi,trulli,+1 Lap,-1,9
+1997,galvez,stewart,magnussen,Engine,-1,10
+1997,galvez,sauber,larini,Spun off,-1,11
+1997,galvez,arrows,diniz,Engine,-1,12
+1997,galvez,prost,nakano,Engine,-1,13
+1997,galvez,tyrrell,verstappen,Engine,-1,14
+1997,galvez,minardi,katayama,Spun off,-1,15
+1997,galvez,arrows,damon_hill,Engine,-1,16
+1997,galvez,jordan,fisichella,Collision,-1,17
+1997,galvez,stewart,barrichello,Hydraulics,-1,18
+1997,galvez,prost,panis,Electrical,-1,19
+1997,galvez,williams,frentzen,Clutch,-1,20
+1997,galvez,ferrari,michael_schumacher,Collision,-1,21
+1997,galvez,mclaren,coulthard,Collision,-1,22

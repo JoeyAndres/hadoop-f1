@@ -1,0 +1,22 @@
+1971,monaco,tyrrell,stewart,Finished,6741300,1
+1971,monaco,march-ford,peterson,Finished,6766900,2
+1971,monaco,ferrari,ickx,Finished,6794600,3
+1971,monaco,mclaren,hulme,Finished,6808000,4
+1971,monaco,lotus-ford,emerson_fittipaldi,+1 Lap,-1,5
+1971,monaco,surtees,stommelen,+1 Lap,-1,6
+1971,monaco,surtees,surtees,+1 Lap,-1,7
+1971,monaco,march-ford,pescarolo,+3 Laps,-1,8
+1971,monaco,brm,rodriguez,+4 Laps,-1,9
+1971,monaco,brabham,schenken,+4 Laps,-1,10
+1971,monaco,brm,siffert,Oil pipe,-1,11
+1971,monaco,matra,beltoise,Differential,-1,12
+1971,monaco,matra,amon,Differential,-1,13
+1971,monaco,ferrari,regazzoni,Accident,-1,14
+1971,monaco,mclaren,gethin,Accident,-1,15
+1971,monaco,lotus-ford,wisell,Wheel bearing,-1,16
+1971,monaco,tyrrell,cevert,Accident,-1,17
+1971,monaco,brabham,hill,Accident,-1,18
+1971,monaco,brm,ganley,Did not qualify,-1,19
+1971,monaco,ferrari,mario_andretti,Did not qualify,-1,20
+1971,monaco,march-ford,roig,Did not qualify,-1,21
+1971,monaco,march-ford,barber,Did not qualify,-1,22

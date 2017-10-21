@@ -1,0 +1,30 @@
+1975,osterreichring,march,brambilla,Finished,3476690,1
+1975,osterreichring,hesketh,hunt,Finished,3503720,2
+1975,osterreichring,shadow-ford,pryce,Finished,3511540,3
+1975,osterreichring,mclaren,mass,Finished,3549350,4
+1975,osterreichring,team_lotus,peterson,Finished,3560020,5
+1975,osterreichring,ferrari,lauda,Finished,3566970,6
+1975,osterreichring,ferrari,regazzoni,Finished,3575760,7
+1975,osterreichring,tyrrell,scheckter,+1 Lap,-1,8
+1975,osterreichring,mclaren,emerson_fittipaldi,+1 Lap,-1,9
+1975,osterreichring,surtees,watson,+1 Lap,-1,10
+1975,osterreichring,tyrrell,depailler,+1 Lap,-1,11
+1975,osterreichring,ensign,amon,+1 Lap,-1,12
+1975,osterreichring,hesketh,lunger,+1 Lap,-1,13
+1975,osterreichring,brabham,reutemann,+1 Lap,-1,14
+1975,osterreichring,hill,brise,+1 Lap,-1,15
+1975,osterreichring,hill,stommelen,+2 Laps,-1,16
+1975,osterreichring,march,lombardi,+3 Laps,-1,17
+1975,osterreichring,ensign,wunderink,Not classified,-1,18
+1975,osterreichring,hesketh,ertl,Electrical,-1,19
+1975,osterreichring,williams,laffite,Handling,-1,20
+1975,osterreichring,brabham,pace,Engine,-1,21
+1975,osterreichring,williams,vonlanthen,Engine,-1,22
+1975,osterreichring,march,stuck,Accident,-1,23
+1975,osterreichring,shadow-matra,jarier,Injection,-1,24
+1975,osterreichring,brm,evans,Engine,-1,25
+1975,osterreichring,parnelli,mario_andretti,Accident,-1,26
+1975,osterreichring,march,donohue,Accident,-1,27
+1975,osterreichring,team_lotus,henton,Accident,-1,28
+1975,osterreichring,maki,trimmer,Did not qualify,-1,29
+1975,osterreichring,fittipaldi,wilson_fittipaldi,Did not qualify,-1,30

@@ -1,0 +1,26 @@
+1979,kyalami,ferrari,gilles_villeneuve,Finished,6109960,1
+1979,kyalami,ferrari,scheckter,Finished,6113380,2
+1979,kyalami,tyrrell,jarier,Finished,6132070,3
+1979,kyalami,team_lotus,mario_andretti,Finished,6137840,4
+1979,kyalami,team_lotus,reutemann,Finished,6176930,5
+1979,kyalami,brabham-alfa_romeo,lauda,+1 Lap,-1,6
+1979,kyalami,brabham-alfa_romeo,piquet,+1 Lap,-1,7
+1979,kyalami,wolf,hunt,+1 Lap,-1,8
+1979,kyalami,williams,regazzoni,+2 Laps,-1,9
+1979,kyalami,mclaren,tambay,+3 Laps,-1,10
+1979,kyalami,arrows,patrese,+3 Laps,-1,11
+1979,kyalami,arrows,mass,+4 Laps,-1,12
+1979,kyalami,fittipaldi,emerson_fittipaldi,+4 Laps,-1,13
+1979,kyalami,team_lotus,rebaque,Engine,-1,14
+1979,kyalami,renault,arnoux,Tyre,-1,15
+1979,kyalami,williams,jones,Suspension,-1,16
+1979,kyalami,mclaren,watson,Ignition,-1,17
+1979,kyalami,ats,stuck,Accident,-1,18
+1979,kyalami,renault,jabouille,Engine,-1,19
+1979,kyalami,ligier,laffite,Accident,-1,20
+1979,kyalami,tyrrell,pironi,Throttle,-1,21
+1979,kyalami,shadow,angelis,Accident,-1,22
+1979,kyalami,ligier,depailler,Accident,-1,23
+1979,kyalami,shadow,lammers,Accident,-1,24
+1979,kyalami,ensign,daly,Did not qualify,-1,25
+1979,kyalami,merzario,merzario,Did not qualify,-1,26

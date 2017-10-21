@@ -1,0 +1,26 @@
+1993,donington,mclaren,senna,Finished,6646570,1
+1993,donington,williams,damon_hill,Finished,6729769,2
+1993,donington,williams,prost,+1 Lap,-1,3
+1993,donington,team_lotus,herbert,+1 Lap,-1,4
+1993,donington,benetton,patrese,+2 Laps,-1,5
+1993,donington,minardi,barbazza,+2 Laps,-1,6
+1993,donington,minardi,fittipaldi,+3 Laps,-1,7
+1993,donington,team_lotus,zanardi,+4 Laps,-1,8
+1993,donington,larrousse,comas,+4 Laps,-1,9
+1993,donington,jordan,barrichello,Fuel system,-1,10
+1993,donington,lola,alboreto,+6 Laps,-1,11
+1993,donington,footwork,warwick,Gearbox,-1,12
+1993,donington,jordan,boutsen,Throttle,-1,13
+1993,donington,tyrrell,cesaris,Gearbox,-1,14
+1993,donington,ferrari,alesi,Gearbox,-1,15
+1993,donington,footwork,suzuki,Gearbox,-1,16
+1993,donington,larrousse,alliot,Collision,-1,17
+1993,donington,benetton,michael_schumacher,Spun off,-1,18
+1993,donington,ligier,blundell,Spun off,-1,19
+1993,donington,ferrari,berger,Suspension,-1,20
+1993,donington,sauber,lehto,Handling,-1,21
+1993,donington,tyrrell,katayama,Clutch,-1,22
+1993,donington,ligier,brundle,Spun off,-1,23
+1993,donington,sauber,wendlinger,Collision,-1,24
+1993,donington,mclaren,andretti,Collision,-1,25
+1993,donington,lola,badoer,Did not qualify,-1,26

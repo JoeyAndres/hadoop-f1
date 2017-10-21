@@ -1,0 +1,25 @@
+1964,brands_hatch,lotus-climax,clark,Finished,8107000,1
+1964,brands_hatch,brm,hill,Finished,8109800,2
+1964,brands_hatch,ferrari,surtees,Finished,8187600,3
+1964,brands_hatch,brabham-climax,jack_brabham,+1 Lap,-1,4
+1964,brands_hatch,ferrari,bandini,+2 Laps,-1,5
+1964,brands_hatch,cooper-climax,phil_hill,+2 Laps,-1,6
+1964,brands_hatch,brabham-climax,anderson,+2 Laps,-1,7
+1964,brands_hatch,brm,ginther,+3 Laps,-1,8
+1964,brands_hatch,lotus-climax,spence,+3 Laps,-1,9
+1964,brands_hatch,brp,ireland,+3 Laps,-1,10
+1964,brands_hatch,brabham-brm,siffert,+4 Laps,-1,11
+1964,brands_hatch,brm,baghetti,+4 Laps,-1,12
+1964,brands_hatch,brabham-climax,gurney,+5 Laps,-1,13
+1964,brands_hatch,cooper-climax,taylor,+24 Laps,-1,14
+1964,brands_hatch,brabham-brm,bonnier,Brakes,-1,15
+1964,brands_hatch,lotus-brm,revson,Differential,-1,16
+1964,brands_hatch,brm,maggs,Gearbox,-1,17
+1964,brands_hatch,brabham-brm,raby,Accident,-1,18
+1964,brands_hatch,lotus-brm,trevor_taylor,Driver unwell,-1,19
+1964,brands_hatch,lotus-brm,hailwood,Oil pipe,-1,20
+1964,brands_hatch,lotus-brm,amon,Clutch,-1,21
+1964,brands_hatch,cooper-climax,mclaren,Gearbox,-1,22
+1964,brands_hatch,brabham-ford,gardner,Accident,-1,23
+1964,brands_hatch,brm,trintignant,Did not qualify,-1,24
+1964,brands_hatch,brm,attwood,Withdrew,-1,25

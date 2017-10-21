@@ -1,0 +1,22 @@
+1954,monza,mercedes,fangio,Finished,10067900,1
+1954,monza,ferrari,hawthorn,+1 Lap,-1,2
+1954,monza,ferrari,gonzalez,+2 Laps,-1,3
+1954,monza,ferrari,maglioli,+2 Laps,-1,3
+1954,monza,mercedes,herrmann,+3 Laps,-1,4
+1954,monza,ferrari,trintignant,+5 Laps,-1,5
+1954,monza,gordini,wacker,+5 Laps,-1,6
+1954,monza,vanwall,collins,+5 Laps,-1,7
+1954,monza,maserati,rosier,+6 Laps,-1,8
+1954,monza,maserati,mantovani,+6 Laps,-1,9
+1954,monza,maserati,moss,+9 Laps,-1,10
+1954,monza,maserati,daponte,+10 Laps,-1,11
+1954,monza,ferrari,ascari,Engine,-1,12
+1954,monza,maserati,villoresi,Clutch,-1,13
+1954,monza,mercedes,kling,Accident,-1,14
+1954,monza,maserati,mieres,Suspension,-1,15
+1954,monza,maserati,musso,Transmission,-1,16
+1954,monza,ferrari,gonzalez,Gearbox,-1,17
+1954,monza,ferrari,manzon,Engine,-1,18
+1954,monza,gordini,bucci,Transmission,-1,19
+1954,monza,gordini,behra,Engine,-1,20
+1954,monza,maserati,riu,Did not qualify,-1,21

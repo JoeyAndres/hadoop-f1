@@ -1,0 +1,26 @@
+1987,rodriguez,williams,mansell,Finished,5184207,1
+1987,rodriguez,williams,piquet,Finished,5210383,2
+1987,rodriguez,brabham,patrese,Finished,5271086,3
+1987,rodriguez,arrows,cheever,Finished,5285559,4
+1987,rodriguez,benetton,fabi,+2 Laps,-1,5
+1987,rodriguez,larrousse,alliot,+3 Laps,-1,6
+1987,rodriguez,tyrrell,palmer,+3 Laps,-1,7
+1987,rodriguez,tyrrell,streiff,+3 Laps,-1,8
+1987,rodriguez,larrousse,dalmas,+4 Laps,-1,9
+1987,rodriguez,team_lotus,senna,Spun off,-1,10
+1987,rodriguez,march,capelli,Water leak,-1,11
+1987,rodriguez,osella,caffi,Engine,-1,12
+1987,rodriguez,ligier,ghinzani,Water leak,-1,13
+1987,rodriguez,minardi,campos,Transmission,-1,14
+1987,rodriguez,ligier,arnoux,Overheating,-1,15
+1987,rodriguez,arrows,warwick,Accident,-1,16
+1987,rodriguez,brabham,cesaris,Accident,-1,17
+1987,rodriguez,ferrari,berger,Turbo,-1,18
+1987,rodriguez,benetton,boutsen,Electrical,-1,19
+1987,rodriguez,minardi,nannini,Turbo,-1,20
+1987,rodriguez,ferrari,alboreto,Engine,-1,21
+1987,rodriguez,zakspeed,brundle,Turbo,-1,22
+1987,rodriguez,mclaren,johansson,Accident,-1,23
+1987,rodriguez,team_lotus,satoru_nakajima,Accident,-1,24
+1987,rodriguez,zakspeed,danner,Accident,-1,25
+1987,rodriguez,mclaren,prost,Collision,-1,26

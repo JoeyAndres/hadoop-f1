@@ -1,0 +1,30 @@
+1961,aintree,ferrari,trips,Finished,9653600,1
+1961,aintree,ferrari,phil_hill,Finished,9699600,2
+1961,aintree,ferrari,ginther,Finished,9700400,3
+1961,aintree,cooper-climax,jack_brabham,Finished,9722200,4
+1961,aintree,porsche,bonnier,Finished,9729800,5
+1961,aintree,cooper-climax,salvadori,Finished,9739800,6
+1961,aintree,porsche,gurney,+1 Lap,-1,7
+1961,aintree,cooper-climax,mclaren,+1 Lap,-1,8
+1961,aintree,brm,brooks,+2 Laps,-1,9
+1961,aintree,lotus-climax,ireland,+3 Laps,-1,10
+1961,aintree,cooper-climax,gregory,+4 Laps,-1,11
+1961,aintree,cooper-maserati,bandini,+4 Laps,-1,12
+1961,aintree,lotus-climax,maggs,+6 Laps,-1,13
+1961,aintree,lotus-climax,burgess,+6 Laps,-1,14
+1961,aintree,gilby,greene,+6 Laps,-1,15
+1961,aintree,porsche,beaufort,+6 Laps,-1,16
+1961,aintree,lotus-climax,seidel,+17 Laps,-1,17
+1961,aintree,lotus-climax,clark,Oil leak,-1,18
+1961,aintree,ferguson,fairman,Disqualified,-1,19
+1961,aintree,ferguson,moss,Disqualified,-1,19
+1961,aintree,lotus-climax,bianchi,Gearbox,-1,20
+1961,aintree,lotus-climax,moss,Brakes,-1,21
+1961,aintree,brm,hill,Engine,-1,22
+1961,aintree,ferrari,baghetti,Accident,-1,23
+1961,aintree,lotus-climax,marsh,Ignition,-1,24
+1961,aintree,cooper-climax,surtees,Differential,-1,25
+1961,aintree,lotus-climax,parnell,Clutch,-1,26
+1961,aintree,cooper-climax,lewis,Handling,-1,27
+1961,aintree,lotus-climax,ashmore,Ignition,-1,28
+1961,aintree,lotus-climax,henry_taylor,Accident,-1,29

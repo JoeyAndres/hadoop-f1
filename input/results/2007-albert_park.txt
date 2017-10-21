@@ -1,0 +1,22 @@
+2007,albert_park,ferrari,raikkonen,Finished,5128770,1
+2007,albert_park,mclaren,alonso,Finished,5136012,2
+2007,albert_park,mclaren,hamilton,Finished,5147365,3
+2007,albert_park,bmw_sauber,heidfeld,Finished,5167533,4
+2007,albert_park,renault,fisichella,Finished,5195239,5
+2007,albert_park,ferrari,massa,Finished,5195575,6
+2007,albert_park,williams,rosberg,+1 Lap,-1,7
+2007,albert_park,toyota,ralf_schumacher,+1 Lap,-1,8
+2007,albert_park,toyota,trulli,+1 Lap,-1,9
+2007,albert_park,renault,kovalainen,+1 Lap,-1,10
+2007,albert_park,honda,barrichello,+1 Lap,-1,11
+2007,albert_park,super_aguri,sato,+1 Lap,-1,12
+2007,albert_park,red_bull,webber,+1 Lap,-1,13
+2007,albert_park,toro_rosso,liuzzi,+1 Lap,-1,14
+2007,albert_park,honda,button,+1 Lap,-1,15
+2007,albert_park,super_aguri,davidson,+2 Laps,-1,16
+2007,albert_park,spyker,sutil,+2 Laps,-1,17
+2007,albert_park,williams,wurz,Collision,-1,18
+2007,albert_park,red_bull,coulthard,Collision,-1,19
+2007,albert_park,bmw_sauber,kubica,Gearbox,-1,20
+2007,albert_park,toro_rosso,speed,Puncture,-1,21
+2007,albert_park,spyker,albers,Accident,-1,22

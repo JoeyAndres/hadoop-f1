@@ -1,0 +1,22 @@
+2016,albert_park,mercedes,rosberg,Finished,6495565,1
+2016,albert_park,mercedes,hamilton,Finished,6503625,2
+2016,albert_park,ferrari,vettel,Finished,6505208,3
+2016,albert_park,red_bull,ricciardo,Finished,6519895,4
+2016,albert_park,williams,massa,Finished,6554544,5
+2016,albert_park,haas,grosjean,Finished,6567646,6
+2016,albert_park,force_india,hulkenberg,Finished,6569764,7
+2016,albert_park,williams,bottas,Finished,6570718,8
+2016,albert_park,toro_rosso,sainz,Finished,6571245,9
+2016,albert_park,toro_rosso,max_verstappen,Finished,6572398,10
+2016,albert_park,renault,jolyon_palmer,Finished,6578964,11
+2016,albert_park,renault,kevin_magnussen,Finished,6581171,12
+2016,albert_park,force_india,perez,Finished,6587264,13
+2016,albert_park,mclaren,button,+1 Lap,-1,14
+2016,albert_park,sauber,nasr,+1 Lap,-1,15
+2016,albert_park,manor,wehrlein,+1 Lap,-1,16
+2016,albert_park,sauber,ericsson,Engine,-1,17
+2016,albert_park,ferrari,raikkonen,Engine,-1,18
+2016,albert_park,manor,haryanto,Mechanical,-1,19
+2016,albert_park,haas,gutierrez,Collision,-1,20
+2016,albert_park,mclaren,alonso,Collision,-1,21
+2016,albert_park,red_bull,kvyat,Retired,-1,22

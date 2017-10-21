@@ -1,0 +1,21 @@
+1977,galvez,wolf,scheckter,Finished,6011190,1
+1977,galvez,brabham,pace,Finished,6054430,2
+1977,galvez,ferrari,reutemann,Finished,6057210,3
+1977,galvez,fittipaldi,emerson_fittipaldi,Finished,6066670,4
+1977,galvez,team_lotus,mario_andretti,Wheel bearing,-1,5
+1977,galvez,ensign,regazzoni,+2 Laps,-1,6
+1977,galvez,surtees,brambilla,Out of fuel,-1,7
+1977,galvez,march,ian_scheckter,Electrical,-1,8
+1977,galvez,shadow,pryce,Not classified,-1,9
+1977,galvez,brabham,watson,Suspension,-1,10
+1977,galvez,march,ribeiro,Transmission,-1,11
+1977,galvez,ligier,laffite,Not classified,-1,12
+1977,galvez,tyrrell,depailler,Overheating,-1,13
+1977,galvez,mclaren,hunt,Suspension,-1,14
+1977,galvez,mclaren,mass,Spun off,-1,15
+1977,galvez,tyrrell,peterson,Spun off,-1,16
+1977,galvez,fittipaldi,hoffmann,Engine,-1,17
+1977,galvez,ferrari,lauda,Fuel system,-1,18
+1977,galvez,surtees,binder,Accident,-1,19
+1977,galvez,shadow,zorzi,Gearbox,-1,20
+1977,galvez,team_lotus,nilsson,Withdrew,-1,21

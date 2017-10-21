@@ -1,0 +1,25 @@
+1985,jacarepagua,mclaren,prost,Finished,6086115,1
+1985,jacarepagua,ferrari,alboreto,Finished,6089374,2
+1985,jacarepagua,team_lotus,angelis,+1 Lap,-1,3
+1985,jacarepagua,ferrari,arnoux,+2 Laps,-1,4
+1985,jacarepagua,renault,tambay,+2 Laps,-1,5
+1985,jacarepagua,ligier,laffite,+2 Laps,-1,6
+1985,jacarepagua,tyrrell,johansson,+3 Laps,-1,7
+1985,jacarepagua,tyrrell,brundle,+3 Laps,-1,8
+1985,jacarepagua,ram,alliot,+3 Laps,-1,9
+1985,jacarepagua,renault,warwick,+4 Laps,-1,10
+1985,jacarepagua,arrows,boutsen,+4 Laps,-1,11
+1985,jacarepagua,osella,ghinzani,+4 Laps,-1,12
+1985,jacarepagua,ram,manfred_winkelhock,+4 Laps,-1,13
+1985,jacarepagua,arrows,berger,Suspension,-1,14
+1985,jacarepagua,team_lotus,senna,Electrical,-1,15
+1985,jacarepagua,alfa,cheever,Engine,-1,16
+1985,jacarepagua,minardi,martini,Engine,-1,17
+1985,jacarepagua,mclaren,lauda,Fuel system,-1,18
+1985,jacarepagua,ligier,cesaris,Accident,-1,19
+1985,jacarepagua,alfa,patrese,Puncture,-1,20
+1985,jacarepagua,williams,keke_rosberg,Turbo,-1,21
+1985,jacarepagua,brabham,hesnault,Accident,-1,22
+1985,jacarepagua,williams,mansell,Exhaust,-1,23
+1985,jacarepagua,spirit,baldi,Turbo,-1,24
+1985,jacarepagua,brabham,piquet,Transmission,-1,25

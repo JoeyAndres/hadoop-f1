@@ -1,0 +1,26 @@
+1995,monaco,benetton,michael_schumacher,Finished,6791258,1
+1995,monaco,williams,damon_hill,Finished,6826075,2
+1995,monaco,ferrari,berger,Finished,6862705,3
+1995,monaco,benetton,herbert,+1 Lap,-1,4
+1995,monaco,mclaren,blundell,+1 Lap,-1,5
+1995,monaco,sauber,frentzen,+2 Laps,-1,6
+1995,monaco,minardi,martini,+2 Laps,-1,7
+1995,monaco,sauber,boullion,+4 Laps,-1,8
+1995,monaco,footwork,morbidelli,+4 Laps,-1,9
+1995,monaco,forti,diniz,+6 Laps,-1,10
+1995,monaco,minardi,badoer,Suspension,-1,11
+1995,monaco,ligier,panis,Spun off,-1,12
+1995,monaco,tyrrell,salo,Gearbox,-1,13
+1995,monaco,jordan,barrichello,Throttle,-1,14
+1995,monaco,pacific,gachot,Gearbox,-1,15
+1995,monaco,ferrari,alesi,Spun off,-1,16
+1995,monaco,ligier,brundle,Spun off,-1,17
+1995,monaco,footwork,inoue,Gearbox,-1,18
+1995,monaco,tyrrell,katayama,Spun off,-1,19
+1995,monaco,pacific,montermini,Disqualified,-1,20
+1995,monaco,jordan,irvine,Spun off,-1,21
+1995,monaco,williams,coulthard,Gearbox,-1,22
+1995,monaco,forti,moreno,Brakes,-1,23
+1995,monaco,mclaren,hakkinen,Engine,-1,24
+1995,monaco,simtek,verstappen,Gearbox,-1,25
+1995,monaco,simtek,schiattarella,Withdrew,-1,26

@@ -1,0 +1,25 @@
+1972,nivelles,team_lotus,emerson_fittipaldi,Finished,6247300,1
+1972,nivelles,tyrrell,cevert,Finished,6273900,2
+1972,nivelles,mclaren,hulme,Finished,6305400,3
+1972,nivelles,surtees,hailwood,Finished,6319300,4
+1972,nivelles,march,pace,+1 Lap,-1,5
+1972,nivelles,matra,amon,+1 Lap,-1,6
+1972,nivelles,mclaren,revson,+2 Laps,-1,7
+1972,nivelles,brm,ganley,+2 Laps,-1,8
+1972,nivelles,march,peterson,+2 Laps,-1,9
+1972,nivelles,brm,marko,+2 Laps,-1,10
+1972,nivelles,march,stommelen,+2 Laps,-1,11
+1972,nivelles,march,lauda,+3 Laps,-1,12
+1972,nivelles,brabham,reutemann,+4 Laps,-1,13
+1972,nivelles,team_lotus,walker,+6 Laps,-1,14
+1972,nivelles,brabham,hill,Suspension,-1,15
+1972,nivelles,march,pescarolo,Not classified,-1,16
+1972,nivelles,ferrari,regazzoni,Accident,-1,17
+1972,nivelles,surtees,adamich,Engine,-1,18
+1972,nivelles,tecno,galli,Accident,-1,19
+1972,nivelles,ferrari,ickx,Injection,-1,20
+1972,nivelles,march,beuttler,Halfshaft,-1,21
+1972,nivelles,brabham,wilson_fittipaldi,Gearbox,-1,22
+1972,nivelles,brm,gethin,Fuel pump,-1,23
+1972,nivelles,brm,beltoise,Overheating,-1,24
+1972,nivelles,surtees,schenken,Overheating,-1,25

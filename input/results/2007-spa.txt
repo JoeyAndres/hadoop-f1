@@ -1,0 +1,22 @@
+2007,spa,ferrari,raikkonen,Finished,4839066,1
+2007,spa,ferrari,massa,Finished,4843761,2
+2007,spa,mclaren,alonso,Finished,4853409,3
+2007,spa,mclaren,hamilton,Finished,4862681,4
+2007,spa,bmw_sauber,heidfeld,Finished,4890945,5
+2007,spa,williams,rosberg,Finished,4915942,6
+2007,spa,red_bull,webber,Finished,4919705,7
+2007,spa,renault,kovalainen,Finished,4924172,8
+2007,spa,bmw_sauber,kubica,Finished,4924727,9
+2007,spa,toyota,ralf_schumacher,Finished,4927640,10
+2007,spa,toyota,trulli,Finished,4942719,11
+2007,spa,toro_rosso,liuzzi,+1 Lap,-1,12
+2007,spa,honda,barrichello,+1 Lap,-1,13
+2007,spa,spyker,sutil,+1 Lap,-1,14
+2007,spa,super_aguri,sato,+1 Lap,-1,15
+2007,spa,super_aguri,davidson,+1 Lap,-1,16
+2007,spa,spyker,yamamoto,+1 Lap,-1,17
+2007,spa,honda,button,Hydraulics,-1,18
+2007,spa,williams,wurz,Fuel pressure,-1,19
+2007,spa,red_bull,coulthard,Hydraulics,-1,20
+2007,spa,toro_rosso,vettel,Steering,-1,21
+2007,spa,renault,fisichella,Suspension,-1,22

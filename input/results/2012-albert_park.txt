@@ -1,0 +1,24 @@
+2012,albert_park,mclaren,button,Finished,5649565,1
+2012,albert_park,red_bull,vettel,Finished,5651704,2
+2012,albert_park,mclaren,hamilton,Finished,5653640,3
+2012,albert_park,red_bull,webber,Finished,5654112,4
+2012,albert_park,ferrari,alonso,Finished,5671130,5
+2012,albert_park,sauber,kobayashi,Finished,5686331,6
+2012,albert_park,lotus_f1,raikkonen,Finished,5687579,7
+2012,albert_park,sauber,perez,Finished,5689023,8
+2012,albert_park,toro_rosso,ricciardo,Finished,5689121,9
+2012,albert_park,force_india,resta,Finished,5689302,10
+2012,albert_park,toro_rosso,vergne,Finished,5689413,11
+2012,albert_park,mercedes,rosberg,Finished,5707207,12
+2012,albert_park,williams,maldonado,Accident,-1,13
+2012,albert_park,marussia,glock,+1 Lap,-1,14
+2012,albert_park,marussia,pic,+5 Laps,-1,15
+2012,albert_park,williams,bruno_senna,Collision,-1,16
+2012,albert_park,ferrari,massa,Collision,-1,17
+2012,albert_park,caterham,kovalainen,Suspension,-1,18
+2012,albert_park,caterham,petrov,Steering,-1,19
+2012,albert_park,mercedes,michael_schumacher,Gearbox,-1,20
+2012,albert_park,lotus_f1,grosjean,Collision,-1,21
+2012,albert_park,force_india,hulkenberg,Collision,-1,22
+2012,albert_park,hrt,rosa,Did not qualify,-1,23
+2012,albert_park,hrt,karthikeyan,Did not qualify,-1,24

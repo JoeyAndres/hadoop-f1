@@ -1,0 +1,23 @@
+1960,galvez,cooper-climax,mclaren,Finished,8269500,1
+1960,galvez,ferrari,allison,Finished,8295800,2
+1960,galvez,cooper-climax,moss,Finished,8306400,3
+1960,galvez,cooper-climax,trintignant,Finished,8306400,3
+1960,galvez,cooper-maserati,menditeguy,Finished,8322800,4
+1960,galvez,ferrari,trips,+1 Lap,-1,5
+1960,galvez,team_lotus,ireland,+1 Lap,-1,6
+1960,galvez,brm,bonnier,+1 Lap,-1,7
+1960,galvez,ferrari,phil_hill,+3 Laps,-1,8
+1960,galvez,team_lotus,larreta,+3 Laps,-1,9
+1960,galvez,ferrari,gonzalez,+3 Laps,-1,10
+1960,galvez,cooper-maserati,bonomi,+4 Laps,-1,11
+1960,galvez,behra-porsche,gregory,+4 Laps,-1,12
+1960,galvez,maserati,munaron,+8 Laps,-1,13
+1960,galvez,maserati,estefano,+10 Laps,-1,14
+1960,galvez,cooper-climax,schell,Fuel pump,-1,15
+1960,galvez,cooper-climax,jack_brabham,Gearbox,-1,16
+1960,galvez,cooper-climax,moss,Suspension,-1,17
+1960,galvez,brm,hill,Overheating,-1,18
+1960,galvez,team_lotus,stacey,Physical,-1,19
+1960,galvez,maserati,chimeri,Physical,-1,20
+1960,galvez,maserati,creus,Physical,-1,21
+1960,galvez,maserati,scarlatti,Overheating,-1,22

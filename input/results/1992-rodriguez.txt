@@ -1,0 +1,30 @@
+1992,rodriguez,williams,mansell,Finished,5513587,1
+1992,rodriguez,williams,patrese,Finished,5526558,2
+1992,rodriguez,benetton,michael_schumacher,Finished,5535016,3
+1992,rodriguez,mclaren,berger,Finished,5546934,4
+1992,rodriguez,tyrrell,cesaris,+1 Lap,-1,5
+1992,rodriguez,team_lotus,hakkinen,+1 Lap,-1,6
+1992,rodriguez,team_lotus,herbert,+1 Lap,-1,7
+1992,rodriguez,dallara,lehto,+1 Lap,-1,8
+1992,rodriguez,ligier,comas,+2 Laps,-1,9
+1992,rodriguez,ligier,boutsen,+2 Laps,-1,10
+1992,rodriguez,larrousse,gachot,+3 Laps,-1,11
+1992,rodriguez,larrousse,katayama,+3 Laps,-1,12
+1992,rodriguez,footwork,alboreto,+4 Laps,-1,13
+1992,rodriguez,benetton,brundle,Engine,-1,14
+1992,rodriguez,fondmetal,tarquini,Clutch,-1,15
+1992,rodriguez,fondmetal,chiesa,Spun off,-1,16
+1992,rodriguez,dallara,martini,Handling,-1,17
+1992,rodriguez,ferrari,alesi,Engine,-1,18
+1992,rodriguez,minardi,morbidelli,Spun off,-1,19
+1992,rodriguez,jordan,modena,Gearbox,-1,20
+1992,rodriguez,tyrrell,grouillard,Engine,-1,21
+1992,rodriguez,mclaren,senna,Transmission,-1,22
+1992,rodriguez,minardi,fittipaldi,Spun off,-1,23
+1992,rodriguez,jordan,gugelmin,Engine,-1,24
+1992,rodriguez,march,wendlinger,Collision,-1,25
+1992,rodriguez,ferrari,capelli,Collision,-1,26
+1992,rodriguez,footwork,suzuki,Did not qualify,-1,27
+1992,rodriguez,march,belmondo,Did not qualify,-1,28
+1992,rodriguez,brabham,poele,Did not qualify,-1,29
+1992,rodriguez,brabham,amati,Did not qualify,-1,30

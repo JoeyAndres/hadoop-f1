@@ -1,0 +1,27 @@
+1984,estoril,mclaren,prost,Finished,6071753,1
+1984,estoril,mclaren,lauda,Finished,6085178,2
+1984,estoril,toleman,senna,Finished,6091795,3
+1984,estoril,ferrari,alboreto,Finished,6092070,4
+1984,estoril,team_lotus,angelis,Finished,6163922,5
+1984,estoril,brabham,piquet,+1 Lap,-1,6
+1984,estoril,renault,tambay,+1 Lap,-1,7
+1984,estoril,alfa,patrese,+1 Lap,-1,8
+1984,estoril,ferrari,arnoux,+1 Lap,-1,9
+1984,estoril,brabham,manfred_winkelhock,+1 Lap,-1,10
+1984,estoril,toleman,johansson,+1 Lap,-1,11
+1984,estoril,ligier,cesaris,+1 Lap,-1,12
+1984,estoril,ats,berger,+2 Laps,-1,13
+1984,estoril,williams,laffite,+3 Laps,-1,14
+1984,estoril,spirit,baldi,+4 Laps,-1,15
+1984,estoril,osella,gartner,Out of fuel,-1,16
+1984,estoril,alfa,cheever,+6 Laps,-1,17
+1984,estoril,osella,ghinzani,Engine,-1,18
+1984,estoril,team_lotus,mansell,Spun off,-1,19
+1984,estoril,renault,warwick,Gearbox,-1,20
+1984,estoril,renault,streiff,Transmission,-1,21
+1984,estoril,williams,keke_rosberg,Engine,-1,22
+1984,estoril,ligier,hesnault,Electrical,-1,23
+1984,estoril,arrows,boutsen,Transmission,-1,24
+1984,estoril,ram,palmer,Gearbox,-1,25
+1984,estoril,arrows,surer,Electrical,-1,26
+1984,estoril,ram,alliot,Engine,-1,27

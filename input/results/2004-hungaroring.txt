@@ -1,0 +1,20 @@
+2004,hungaroring,ferrari,michael_schumacher,Finished,5726131,1
+2004,hungaroring,ferrari,barrichello,Finished,5730827,2
+2004,hungaroring,renault,alonso,Finished,5770730,3
+2004,hungaroring,williams,montoya,Finished,5788744,4
+2004,hungaroring,bar,button,Finished,5793570,5
+2004,hungaroring,bar,sato,+1 Lap,-1,6
+2004,hungaroring,williams,pizzonia,+1 Lap,-1,7
+2004,hungaroring,sauber,fisichella,+1 Lap,-1,8
+2004,hungaroring,mclaren,coulthard,+1 Lap,-1,9
+2004,hungaroring,jaguar,webber,+1 Lap,-1,10
+2004,hungaroring,toyota,panis,+1 Lap,-1,11
+2004,hungaroring,jordan,heidfeld,+2 Laps,-1,12
+2004,hungaroring,jaguar,klien,+2 Laps,-1,13
+2004,hungaroring,minardi,bruni,+4 Laps,-1,14
+2004,hungaroring,minardi,baumgartner,+5 Laps,-1,15
+2004,hungaroring,jordan,pantano,Gearbox,-1,16
+2004,hungaroring,renault,trulli,Engine,-1,17
+2004,hungaroring,toyota,zonta,Electronics,-1,18
+2004,hungaroring,sauber,massa,Brakes,-1,19
+2004,hungaroring,mclaren,raikkonen,Electrical,-1,20

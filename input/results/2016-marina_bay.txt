@@ -1,0 +1,22 @@
+2016,marina_bay,mercedes,rosberg,Finished,6948950,1
+2016,marina_bay,red_bull,ricciardo,Finished,6949438,2
+2016,marina_bay,mercedes,hamilton,Finished,6956988,3
+2016,marina_bay,ferrari,raikkonen,Finished,6959169,4
+2016,marina_bay,ferrari,vettel,Finished,6976644,5
+2016,marina_bay,red_bull,max_verstappen,Finished,7020147,6
+2016,marina_bay,mclaren,alonso,Finished,7038148,7
+2016,marina_bay,force_india,perez,Finished,7060012,8
+2016,marina_bay,toro_rosso,kvyat,Finished,7060507,9
+2016,marina_bay,renault,kevin_magnussen,Finished,7068902,10
+2016,marina_bay,haas,gutierrez,+1 Lap,-1,11
+2016,marina_bay,williams,massa,+1 Lap,-1,12
+2016,marina_bay,sauber,nasr,+1 Lap,-1,13
+2016,marina_bay,toro_rosso,sainz,+1 Lap,-1,14
+2016,marina_bay,renault,jolyon_palmer,+1 Lap,-1,15
+2016,marina_bay,manor,wehrlein,+1 Lap,-1,16
+2016,marina_bay,sauber,ericsson,+1 Lap,-1,17
+2016,marina_bay,manor,ocon,+2 Laps,-1,18
+2016,marina_bay,mclaren,button,Brakes,-1,19
+2016,marina_bay,williams,bottas,Overheating,-1,20
+2016,marina_bay,force_india,hulkenberg,Collision,-1,21
+2016,marina_bay,haas,grosjean,Withdrew,-1,22

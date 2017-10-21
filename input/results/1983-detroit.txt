@@ -1,0 +1,27 @@
+1983,detroit,tyrrell,alboreto,Finished,6653669,1
+1983,detroit,williams,keke_rosberg,Finished,6661371,2
+1983,detroit,mclaren,watson,Finished,6662952,3
+1983,detroit,brabham,piquet,Finished,6725854,4
+1983,detroit,williams,laffite,Finished,6746272,5
+1983,detroit,team_lotus,mansell,+1 Lap,-1,6
+1983,detroit,arrows,boutsen,+1 Lap,-1,7
+1983,detroit,renault,prost,+1 Lap,-1,8
+1983,detroit,toleman,giacomelli,+1 Lap,-1,9
+1983,detroit,ligier,boesel,+2 Laps,-1,10
+1983,detroit,arrows,surer,+2 Laps,-1,11
+1983,detroit,alfa,baldi,+4 Laps,-1,12
+1983,detroit,mclaren,lauda,Suspension,-1,13
+1983,detroit,theodore,guerrero,Not classified,-1,14
+1983,detroit,theodore,cecotto,Gearbox,-1,15
+1983,detroit,alfa,cesaris,Turbo,-1,16
+1983,detroit,ferrari,arnoux,Electrical,-1,17
+1983,detroit,tyrrell,sullivan,Electrical,-1,18
+1983,detroit,ligier,jarier,Wheel,-1,19
+1983,detroit,ats,manfred_winkelhock,Collision,-1,20
+1983,detroit,toleman,warwick,Engine,-1,21
+1983,detroit,brabham,patrese,Brakes,-1,22
+1983,detroit,team_lotus,angelis,Gearbox,-1,23
+1983,detroit,renault,cheever,Distributor,-1,24
+1983,detroit,osella,ghinzani,Overheating,-1,25
+1983,detroit,ferrari,tambay,Engine,-1,26
+1983,detroit,osella,corrado_fabi,Withdrew,-1,27

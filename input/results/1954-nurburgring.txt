@@ -1,0 +1,24 @@
+1954,nurburgring,mercedes,fangio,Finished,13545800,1
+1954,nurburgring,ferrari,gonzalez,Finished,13642300,2
+1954,nurburgring,ferrari,hawthorn,Finished,13642300,2
+1954,nurburgring,ferrari,trintignant,Finished,13854400,3
+1954,nurburgring,mercedes,kling,Finished,13912300,4
+1954,nurburgring,maserati,mantovani,Finished,14076300,5
+1954,nurburgring,ferrari,taruffi,+1 Lap,-1,6
+1954,nurburgring,maserati,schell,+1 Lap,-1,7
+1954,nurburgring,ferrari,rosier,+1 Lap,-1,8
+1954,nurburgring,ferrari,manzon,+2 Laps,-1,9
+1954,nurburgring,gordini,behra,+2 Laps,-1,10
+1954,nurburgring,maserati,bira,Steering,-1,11
+1954,nurburgring,mercedes,lang,Spun off,-1,12
+1954,nurburgring,gordini,bucci,Wheel,-1,13
+1954,nurburgring,klenk,helfrich,Engine,-1,14
+1954,nurburgring,mercedes,herrmann,Fuel leak,-1,15
+1954,nurburgring,gordini,frere,Wheel,-1,16
+1954,nurburgring,ferrari,hawthorn,Transmission,-1,17
+1954,nurburgring,maserati,mieres,Fuel leak,-1,18
+1954,nurburgring,maserati,moss,Wheel bearing,-1,19
+1954,nurburgring,gordini,andre_pilette,Suspension,-1,20
+1954,nurburgring,maserati,marimon,Accident,-1,21
+1954,nurburgring,maserati,villoresi,Withdrew,-1,22
+1954,nurburgring,maserati,wharton,Withdrew,-1,23

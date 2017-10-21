@@ -1,0 +1,22 @@
+2014,sepang,mercedes,hamilton,Finished,6025974,1
+2014,sepang,mercedes,rosberg,Finished,6043287,2
+2014,sepang,red_bull,vettel,Finished,6050508,3
+2014,sepang,ferrari,alonso,Finished,6061966,4
+2014,sepang,force_india,hulkenberg,Finished,6073173,5
+2014,sepang,mclaren,button,Finished,6109665,6
+2014,sepang,williams,massa,Finished,6111050,7
+2014,sepang,williams,bottas,Finished,6111511,8
+2014,sepang,mclaren,kevin_magnussen,+1 Lap,-1,9
+2014,sepang,toro_rosso,kvyat,+1 Lap,-1,10
+2014,sepang,lotus_f1,grosjean,+1 Lap,-1,11
+2014,sepang,ferrari,raikkonen,+1 Lap,-1,12
+2014,sepang,caterham,kobayashi,+1 Lap,-1,13
+2014,sepang,caterham,ericsson,+2 Laps,-1,14
+2014,sepang,marussia,chilton,+2 Laps,-1,15
+2014,sepang,red_bull,ricciardo,Technical,-1,16
+2014,sepang,sauber,gutierrez,Gearbox,-1,17
+2014,sepang,sauber,sutil,Electrical,-1,18
+2014,sepang,toro_rosso,vergne,Power Unit,-1,19
+2014,sepang,marussia,jules_bianchi,Brakes,-1,20
+2014,sepang,lotus_f1,maldonado,Engine,-1,21
+2014,sepang,force_india,perez,Withdrew,-1,22

@@ -1,0 +1,16 @@
+1955,zandvoort,mercedes,fangio,Finished,10463800,1
+1955,zandvoort,mercedes,moss,Finished,10464100,2
+1955,zandvoort,maserati,musso,Finished,10520900,3
+1955,zandvoort,maserati,mieres,+1 Lap,-1,4
+1955,zandvoort,ferrari,castellotti,+3 Laps,-1,5
+1955,zandvoort,maserati,behra,+3 Laps,-1,6
+1955,zandvoort,ferrari,hawthorn,+5 Laps,-1,7
+1955,zandvoort,gordini,ramos,+8 Laps,-1,8
+1955,zandvoort,maserati,rosier,+8 Laps,-1,9
+1955,zandvoort,gordini,pollet,+10 Laps,-1,10
+1955,zandvoort,ferrari,claes,+12 Laps,-1,11
+1955,zandvoort,ferrari,trintignant,Gearbox,-1,12
+1955,zandvoort,gordini,manzon,Transmission,-1,13
+1955,zandvoort,maserati,gould,Spun off,-1,14
+1955,zandvoort,mercedes,kling,Spun off,-1,15
+1955,zandvoort,maserati,peter_walker,Wheel bearing,-1,16

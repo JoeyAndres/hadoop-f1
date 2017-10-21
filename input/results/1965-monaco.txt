@@ -1,0 +1,17 @@
+1965,monaco,brm,hill,Finished,9459600,1
+1965,monaco,ferrari,bandini,Finished,9523600,2
+1965,monaco,brm,stewart,Finished,9561500,3
+1965,monaco,ferrari,surtees,Out of fuel,-1,4
+1965,monaco,cooper-climax,mclaren,+2 Laps,-1,5
+1965,monaco,brabham-brm,siffert,+2 Laps,-1,6
+1965,monaco,brabham-climax,bonnier,+3 Laps,-1,7
+1965,monaco,brabham-climax,hulme,+8 Laps,-1,8
+1965,monaco,brabham-climax,anderson,+15 Laps,-1,9
+1965,monaco,lotus-climax,hawkins,Accident,-1,10
+1965,monaco,brabham-climax,jack_brabham,Engine,-1,11
+1965,monaco,lotus-brm,attwood,Wheel,-1,12
+1965,monaco,honda,bucknum,Gearbox,-1,13
+1965,monaco,brabham-brm,gardner,Engine,-1,14
+1965,monaco,lotus-brm,hailwood,Gearbox,-1,15
+1965,monaco,honda,ginther,Halfshaft,-1,16
+1965,monaco,cooper-climax,rindt,Did not qualify,-1,17

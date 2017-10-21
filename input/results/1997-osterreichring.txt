@@ -1,0 +1,22 @@
+1997,osterreichring,williams,villeneuve,Finished,5255999,1
+1997,osterreichring,mclaren,coulthard,Finished,5258908,2
+1997,osterreichring,williams,frentzen,Finished,5259961,3
+1997,osterreichring,jordan,fisichella,Finished,5268126,4
+1997,osterreichring,jordan,ralf_schumacher,Finished,5287858,5
+1997,osterreichring,ferrari,michael_schumacher,Finished,5289409,6
+1997,osterreichring,arrows,damon_hill,Finished,5293206,7
+1997,osterreichring,sauber,herbert,Finished,5305056,8
+1997,osterreichring,sauber,morbidelli,Finished,5322454,9
+1997,osterreichring,benetton,berger,+1 Lap,-1,10
+1997,osterreichring,minardi,katayama,+2 Laps,-1,11
+1997,osterreichring,tyrrell,verstappen,+2 Laps,-1,12
+1997,osterreichring,arrows,diniz,+4 Laps,-1,13
+1997,osterreichring,stewart,barrichello,Spun off,-1,14
+1997,osterreichring,prost,trulli,Engine,-1,15
+1997,osterreichring,stewart,magnussen,Engine,-1,16
+1997,osterreichring,prost,nakano,Engine,-1,17
+1997,osterreichring,tyrrell,salo,Gearbox,-1,18
+1997,osterreichring,ferrari,irvine,Collision,-1,19
+1997,osterreichring,benetton,alesi,Collision,-1,20
+1997,osterreichring,mclaren,hakkinen,Engine,-1,21
+1997,osterreichring,minardi,marques,Underweight,-1,22

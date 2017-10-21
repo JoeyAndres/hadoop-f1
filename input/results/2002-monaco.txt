@@ -1,0 +1,22 @@
+2002,monaco,mclaren,coulthard,Finished,6339055,1
+2002,monaco,ferrari,michael_schumacher,Finished,6340105,2
+2002,monaco,williams,ralf_schumacher,Finished,6406505,3
+2002,monaco,renault,trulli,+1 Lap,-1,4
+2002,monaco,jordan,fisichella,+1 Lap,-1,5
+2002,monaco,arrows,frentzen,+1 Lap,-1,6
+2002,monaco,ferrari,barrichello,+1 Lap,-1,7
+2002,monaco,sauber,heidfeld,+2 Laps,-1,8
+2002,monaco,jaguar,irvine,+2 Laps,-1,9
+2002,monaco,jaguar,rosa,+2 Laps,-1,10
+2002,monaco,minardi,webber,+2 Laps,-1,11
+2002,monaco,arrows,bernoldi,+2 Laps,-1,12
+2002,monaco,toyota,salo,Brakes,-1,13
+2002,monaco,sauber,massa,Accident,-1,14
+2002,monaco,bar,panis,Collision,-1,15
+2002,monaco,renault,button,Collision,-1,16
+2002,monaco,williams,montoya,Engine,-1,17
+2002,monaco,bar,villeneuve,Mechanical,-1,18
+2002,monaco,mclaren,raikkonen,Collision,-1,19
+2002,monaco,minardi,yoong,Accident,-1,20
+2002,monaco,jordan,sato,Spun off,-1,21
+2002,monaco,toyota,mcnish,Accident,-1,22

@@ -1,0 +1,20 @@
+2017,sepang,red_bull,max_verstappen,Finished,5401290,1
+2017,sepang,mercedes,hamilton,Finished,5414060,2
+2017,sepang,red_bull,ricciardo,Finished,5423809,3
+2017,sepang,ferrari,vettel,Finished,5438652,4
+2017,sepang,mercedes,bottas,Finished,5457311,5
+2017,sepang,force_india,perez,Finished,5479920,6
+2017,sepang,mclaren,vandoorne,+1 Lap,-1,7
+2017,sepang,williams,stroll,+1 Lap,-1,8
+2017,sepang,williams,massa,+1 Lap,-1,9
+2017,sepang,force_india,ocon,+1 Lap,-1,10
+2017,sepang,mclaren,alonso,+1 Lap,-1,11
+2017,sepang,haas,kevin_magnussen,+1 Lap,-1,12
+2017,sepang,haas,grosjean,+1 Lap,-1,13
+2017,sepang,toro_rosso,gasly,+1 Lap,-1,14
+2017,sepang,renault,jolyon_palmer,+1 Lap,-1,15
+2017,sepang,renault,hulkenberg,+1 Lap,-1,16
+2017,sepang,sauber,wehrlein,+1 Lap,-1,17
+2017,sepang,sauber,ericsson,+2 Laps,-1,18
+2017,sepang,toro_rosso,sainz,Engine,-1,19
+2017,sepang,ferrari,raikkonen,Battery,-1,20

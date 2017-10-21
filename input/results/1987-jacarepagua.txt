@@ -1,0 +1,23 @@
+1987,jacarepagua,mclaren,prost,Finished,5985141,1
+1987,jacarepagua,williams,piquet,Finished,6025688,2
+1987,jacarepagua,mclaren,johansson,Finished,6041899,3
+1987,jacarepagua,ferrari,berger,Finished,6084376,4
+1987,jacarepagua,benetton,boutsen,+1 Lap,-1,5
+1987,jacarepagua,williams,mansell,+1 Lap,-1,6
+1987,jacarepagua,team_lotus,satoru_nakajima,+2 Laps,-1,7
+1987,jacarepagua,ferrari,alboreto,Spun off,-1,8
+1987,jacarepagua,zakspeed,danner,+3 Laps,-1,9
+1987,jacarepagua,tyrrell,palmer,+3 Laps,-1,10
+1987,jacarepagua,tyrrell,streiff,+4 Laps,-1,11
+1987,jacarepagua,ags,fabre,+6 Laps,-1,12
+1987,jacarepagua,arrows,cheever,Overheating,-1,13
+1987,jacarepagua,team_lotus,senna,Engine,-1,14
+1987,jacarepagua,brabham,patrese,Electrical,-1,15
+1987,jacarepagua,brabham,cesaris,Differential,-1,16
+1987,jacarepagua,arrows,warwick,Engine,-1,17
+1987,jacarepagua,osella,caffi,Withdrew,-1,18
+1987,jacarepagua,minardi,nannini,Suspension,-1,19
+1987,jacarepagua,zakspeed,brundle,Turbo,-1,20
+1987,jacarepagua,benetton,fabi,Turbo,-1,21
+1987,jacarepagua,minardi,campos,Disqualified,-1,22
+1987,jacarepagua,march,capelli,Withdrew,-1,23

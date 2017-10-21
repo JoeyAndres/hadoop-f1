@@ -1,0 +1,22 @@
+1958,reims,ferrari,hawthorn,Finished,7401300,1
+1958,reims,vanwall,moss,Finished,7425900,2
+1958,reims,ferrari,trips,Finished,7461000,3
+1958,reims,maserati,fangio,Finished,7551900,4
+1958,reims,ferrari,collins,Finished,7726200,5
+1958,reims,cooper,jack_brabham,+1 Lap,-1,6
+1958,reims,maserati,phil_hill,+1 Lap,-1,7
+1958,reims,maserati,bonnier,+2 Laps,-1,8
+1958,reims,maserati,gerini,+3 Laps,-1,9
+1958,reims,maserati,ruttman,+5 Laps,-1,10
+1958,reims,cooper,salvadori,+13 Laps,-1,11
+1958,reims,brm,schell,Overheating,-1,12
+1958,reims,brm,behra,Fuel pump,-1,13
+1958,reims,vanwall,lewis-evans,Engine,-1,14
+1958,reims,vanwall,brooks,Engine,-1,14
+1958,reims,team_lotus,hill,Overheating,-1,15
+1958,reims,maserati,godia,Accident,-1,16
+1958,reims,brm,trintignant,Fuel pump,-1,17
+1958,reims,vanwall,brooks,Engine,-1,18
+1958,reims,ferrari,musso,Accident,-1,19
+1958,reims,maserati,shelby,Engine,-1,20
+1958,reims,team_lotus,allison,Engine,-1,21

@@ -1,0 +1,28 @@
+1994,okayama,benetton,michael_schumacher,Finished,6361693,1
+1994,okayama,ferrari,berger,Finished,6436993,2
+1994,okayama,jordan,barrichello,+1 Lap,-1,3
+1994,okayama,footwork,fittipaldi,+1 Lap,-1,4
+1994,okayama,sauber,frentzen,+1 Lap,-1,5
+1994,okayama,larrousse,comas,+3 Laps,-1,6
+1994,okayama,team_lotus,herbert,+3 Laps,-1,7
+1994,okayama,team_lotus,lamy,+4 Laps,-1,8
+1994,okayama,ligier,panis,+5 Laps,-1,9
+1994,okayama,ligier,bernard,+5 Laps,-1,10
+1994,okayama,simtek,ratzenberger,+5 Laps,-1,11
+1994,okayama,footwork,morbidelli,Engine,-1,12
+1994,okayama,sauber,wendlinger,Collision,-1,13
+1994,okayama,minardi,alboreto,Collision,-1,14
+1994,okayama,mclaren,brundle,Overheating,-1,15
+1994,okayama,minardi,martini,Spun off,-1,16
+1994,okayama,benetton,verstappen,Spun off,-1,17
+1994,okayama,williams,damon_hill,Transmission,-1,18
+1994,okayama,jordan,suzuki,Steering,-1,19
+1994,okayama,tyrrell,katayama,Engine,-1,20
+1994,okayama,mclaren,hakkinen,Gearbox,-1,21
+1994,okayama,larrousse,beretta,Electrical,-1,22
+1994,okayama,simtek,brabham,Electrical,-1,23
+1994,okayama,williams,senna,Collision,-1,24
+1994,okayama,ferrari,larini,Collision,-1,25
+1994,okayama,tyrrell,blundell,Collision,-1,26
+1994,okayama,pacific,gachot,Did not qualify,-1,27
+1994,okayama,pacific,belmondo,Did not qualify,-1,28

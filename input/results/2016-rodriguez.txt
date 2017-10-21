@@ -1,0 +1,22 @@
+2016,rodriguez,mercedes,hamilton,Finished,6031402,1
+2016,rodriguez,mercedes,rosberg,Finished,6039756,2
+2016,rodriguez,red_bull,ricciardo,Finished,6052260,3
+2016,rodriguez,red_bull,max_verstappen,Finished,6052725,4
+2016,rodriguez,ferrari,vettel,Finished,6058715,5
+2016,rodriguez,ferrari,raikkonen,Finished,6080778,6
+2016,rodriguez,force_india,hulkenberg,Finished,6090293,7
+2016,rodriguez,williams,bottas,Finished,6097014,8
+2016,rodriguez,williams,massa,Finished,6107608,9
+2016,rodriguez,force_india,perez,Finished,6108200,10
+2016,rodriguez,sauber,ericsson,+1 Lap,-1,11
+2016,rodriguez,mclaren,button,+1 Lap,-1,12
+2016,rodriguez,mclaren,alonso,+1 Lap,-1,13
+2016,rodriguez,renault,jolyon_palmer,+1 Lap,-1,14
+2016,rodriguez,sauber,nasr,+1 Lap,-1,15
+2016,rodriguez,toro_rosso,sainz,+1 Lap,-1,16
+2016,rodriguez,renault,kevin_magnussen,+1 Lap,-1,17
+2016,rodriguez,toro_rosso,kvyat,+1 Lap,-1,18
+2016,rodriguez,haas,gutierrez,+1 Lap,-1,19
+2016,rodriguez,haas,grosjean,+1 Lap,-1,20
+2016,rodriguez,manor,ocon,+2 Laps,-1,21
+2016,rodriguez,manor,wehrlein,Collision,-1,22

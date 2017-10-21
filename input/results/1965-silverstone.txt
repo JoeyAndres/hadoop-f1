@@ -1,0 +1,23 @@
+1965,silverstone,lotus-climax,clark,Finished,7525400,1
+1965,silverstone,brm,hill,Finished,7528600,2
+1965,silverstone,ferrari,surtees,Finished,7553000,3
+1965,silverstone,lotus-climax,spence,Finished,7565000,4
+1965,silverstone,brm,stewart,Finished,7600000,5
+1965,silverstone,brabham-climax,gurney,+1 Lap,-1,6
+1965,silverstone,brabham-climax,bonnier,+1 Lap,-1,7
+1965,silverstone,brabham-brm,gardner,+2 Laps,-1,8
+1965,silverstone,brabham-brm,siffert,+2 Laps,-1,9
+1965,silverstone,cooper-climax,mclaren,+3 Laps,-1,10
+1965,silverstone,brabham-brm,raby,+7 Laps,-1,11
+1965,silverstone,brm,gregory,+10 Laps,-1,12
+1965,silverstone,lotus-brm,attwood,+17 Laps,-1,13
+1965,silverstone,cooper-climax,rindt,Engine,-1,14
+1965,silverstone,lotus-brm,ireland,Engine,-1,15
+1965,silverstone,cooper-climax,rhodes,Ignition,-1,16
+1965,silverstone,brabham-climax,anderson,Gearbox,-1,17
+1965,silverstone,brabham-climax,hulme,Alternator,-1,18
+1965,silverstone,honda,ginther,Injection,-1,19
+1965,silverstone,ferrari,bandini,Engine,-1,20
+1965,silverstone,brabham-climax,jack_brabham,Withdrew,-1,21
+1965,silverstone,cooper-ford,rollinson,Did not qualify,-1,22
+1965,silverstone,lotus-climax,gubby,Did not qualify,-1,23

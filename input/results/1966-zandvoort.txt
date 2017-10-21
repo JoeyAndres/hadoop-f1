@@ -1,0 +1,17 @@
+1966,zandvoort,brabham-repco,jack_brabham,Finished,8432500,1
+1966,zandvoort,brm,hill,+1 Lap,-1,2
+1966,zandvoort,lotus-climax,clark,+2 Laps,-1,3
+1966,zandvoort,brm,stewart,+2 Laps,-1,4
+1966,zandvoort,lotus-brm,spence,+3 Laps,-1,5
+1966,zandvoort,ferrari,bandini,+3 Laps,-1,6
+1966,zandvoort,cooper-maserati,bonnier,+6 Laps,-1,7
+1966,zandvoort,brabham-brm,taylor,+6 Laps,-1,8
+1966,zandvoort,cooper-maserati,ligier,+6 Laps,-1,9
+1966,zandvoort,cooper-maserati,siffert,Engine,-1,10
+1966,zandvoort,brabham-climax,anderson,Suspension,-1,11
+1966,zandvoort,cooper-maserati,surtees,Electrical,-1,12
+1966,zandvoort,brabham-repco,hulme,Ignition,-1,13
+1966,zandvoort,lotus-brm,arundell,Ignition,-1,14
+1966,zandvoort,eagle-climax,gurney,Oil leak,-1,15
+1966,zandvoort,ferrari,parkes,Accident,-1,16
+1966,zandvoort,cooper-maserati,rindt,Accident,-1,17

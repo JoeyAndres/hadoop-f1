@@ -1,0 +1,17 @@
+1969,silverstone,matra-ford,stewart,Finished,6955600,1
+1969,silverstone,brabham-ford,ickx,+1 Lap,-1,2
+1969,silverstone,mclaren-ford,mclaren,+1 Lap,-1,3
+1969,silverstone,lotus-ford,rindt,+1 Lap,-1,4
+1969,silverstone,brabham-ford,courage,+1 Lap,-1,5
+1969,silverstone,mclaren-ford,elford,+2 Laps,-1,6
+1969,silverstone,lotus-ford,hill,+2 Laps,-1,7
+1969,silverstone,lotus-ford,siffert,+3 Laps,-1,8
+1969,silverstone,matra-ford,beltoise,+6 Laps,-1,9
+1969,silverstone,lotus-ford,miles,+9 Laps,-1,10
+1969,silverstone,ferrari,rodriguez,Engine,-1,11
+1969,silverstone,ferrari,amon,Gearbox,-1,12
+1969,silverstone,mclaren-ford,hulme,Ignition,-1,13
+1969,silverstone,brm,oliver,Transmission,-1,14
+1969,silverstone,lotus-ford,bonnier,Engine,-1,15
+1969,silverstone,mclaren-ford,bell,Suspension,-1,16
+1969,silverstone,brm,surtees,Suspension,-1,17

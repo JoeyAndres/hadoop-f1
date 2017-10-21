@@ -1,0 +1,22 @@
+2006,nurburgring,ferrari,michael_schumacher,Finished,5758765,1
+2006,nurburgring,renault,alonso,Finished,5762516,2
+2006,nurburgring,ferrari,massa,Finished,5763212,3
+2006,nurburgring,mclaren,raikkonen,Finished,5763644,4
+2006,nurburgring,honda,barrichello,Finished,5831351,5
+2006,nurburgring,renault,fisichella,Finished,5832881,6
+2006,nurburgring,williams,rosberg,Finished,5833330,7
+2006,nurburgring,bmw_sauber,villeneuve,Finished,5848129,8
+2006,nurburgring,toyota,trulli,+1 Lap,-1,9
+2006,nurburgring,bmw_sauber,heidfeld,+1 Lap,-1,10
+2006,nurburgring,toro_rosso,speed,+1 Lap,-1,11
+2006,nurburgring,mf1,monteiro,+1 Lap,-1,12
+2006,nurburgring,mf1,albers,+1 Lap,-1,13
+2006,nurburgring,toyota,ralf_schumacher,Engine,-1,14
+2006,nurburgring,mclaren,montoya,Engine,-1,15
+2006,nurburgring,super_aguri,sato,Hydraulics,-1,16
+2006,nurburgring,super_aguri,montagny,Hydraulics,-1,17
+2006,nurburgring,honda,button,Engine,-1,18
+2006,nurburgring,red_bull,klien,Gearbox,-1,19
+2006,nurburgring,williams,webber,Hydraulics,-1,20
+2006,nurburgring,red_bull,coulthard,Accident,-1,21
+2006,nurburgring,toro_rosso,liuzzi,Accident,-1,22

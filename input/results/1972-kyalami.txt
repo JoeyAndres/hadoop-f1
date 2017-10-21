@@ -1,0 +1,26 @@
+1972,kyalami,mclaren,hulme,Finished,6349100,1
+1972,kyalami,team_lotus,emerson_fittipaldi,Finished,6363200,2
+1972,kyalami,mclaren,revson,Finished,6374900,3
+1972,kyalami,ferrari,mario_andretti,Finished,6387600,4
+1972,kyalami,march,peterson,Finished,6398100,5
+1972,kyalami,brabham,hill,+1 Lap,-1,6
+1972,kyalami,march,lauda,+1 Lap,-1,7
+1972,kyalami,ferrari,ickx,+1 Lap,-1,8
+1972,kyalami,tyrrell,cevert,+1 Lap,-1,9
+1972,kyalami,team_lotus,walker,+1 Lap,-1,10
+1972,kyalami,march,pescarolo,+1 Lap,-1,11
+1972,kyalami,ferrari,regazzoni,+2 Laps,-1,12
+1972,kyalami,march,stommelen,+2 Laps,-1,13
+1972,kyalami,brm,marko,+3 Laps,-1,14
+1972,kyalami,matra,amon,+3 Laps,-1,15
+1972,kyalami,surtees,love,Spun off,-1,16
+1972,kyalami,march,pace,+6 Laps,-1,17
+1972,kyalami,brm,ganley,Not classified,-1,18
+1972,kyalami,surtees,adamich,Not classified,-1,19
+1972,kyalami,brm,gethin,Not classified,-1,20
+1972,kyalami,brm,beltoise,Engine,-1,21
+1972,kyalami,tyrrell,stewart,Gearbox,-1,22
+1972,kyalami,surtees,hailwood,Suspension,-1,23
+1972,kyalami,brabham,reutemann,Fuel system,-1,24
+1972,kyalami,surtees,schenken,Engine,-1,25
+1972,kyalami,team_lotus,charlton,Fuel pump,-1,26

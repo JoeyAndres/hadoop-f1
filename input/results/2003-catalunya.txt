@@ -1,0 +1,20 @@
+2003,catalunya,ferrari,michael_schumacher,Finished,5626933,1
+2003,catalunya,renault,alonso,Finished,5632633,2
+2003,catalunya,ferrari,barrichello,Finished,5644933,3
+2003,catalunya,williams,montoya,Finished,5688933,4
+2003,catalunya,williams,ralf_schumacher,+1 Lap,-1,5
+2003,catalunya,toyota,matta,+1 Lap,-1,6
+2003,catalunya,jaguar,webber,+1 Lap,-1,7
+2003,catalunya,jordan,firman,+2 Laps,-1,8
+2003,catalunya,bar,button,+2 Laps,-1,9
+2003,catalunya,sauber,heidfeld,+2 Laps,-1,10
+2003,catalunya,minardi,wilson,+2 Laps,-1,11
+2003,catalunya,minardi,verstappen,+3 Laps,-1,12
+2003,catalunya,jordan,fisichella,Engine,-1,13
+2003,catalunya,toyota,panis,Gearbox,-1,14
+2003,catalunya,sauber,frentzen,Suspension,-1,15
+2003,catalunya,mclaren,coulthard,Collision,-1,16
+2003,catalunya,bar,villeneuve,Electrical,-1,17
+2003,catalunya,renault,trulli,Collision,-1,18
+2003,catalunya,jaguar,pizzonia,Launch control,-1,19
+2003,catalunya,mclaren,raikkonen,Collision,-1,20

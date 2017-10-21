@@ -1,0 +1,18 @@
+1969,kyalami,matra-ford,stewart,Finished,6639100,1
+1969,kyalami,lotus-ford,hill,Finished,6657900,2
+1969,kyalami,mclaren-ford,hulme,Finished,6670900,3
+1969,kyalami,lotus-ford,siffert,Finished,6688300,4
+1969,kyalami,mclaren-ford,mclaren,+1 Lap,-1,5
+1969,kyalami,matra-ford,beltoise,+2 Laps,-1,6
+1969,kyalami,brm,oliver,+3 Laps,-1,7
+1969,kyalami,brabham-repco,tingle,+7 Laps,-1,8
+1969,kyalami,brabham-repco,klerk,Not classified,-1,9
+1969,kyalami,lotus-ford,rindt,Fuel pump,-1,10
+1969,kyalami,brm,surtees,Engine,-1,11
+1969,kyalami,brm,rodriguez,Water leak,-1,12
+1969,kyalami,ferrari,amon,Engine,-1,13
+1969,kyalami,brabham-ford,jack_brabham,Handling,-1,14
+1969,kyalami,lotus-ford,mario_andretti,Gearbox,-1,15
+1969,kyalami,lotus-ford,love,Ignition,-1,16
+1969,kyalami,brabham-ford,ickx,Ignition,-1,17
+1969,kyalami,mclaren-ford,rooyen,Brakes,-1,18

@@ -1,0 +1,24 @@
+1959,monaco,cooper-climax,jack_brabham,Finished,10551300,1
+1959,monaco,ferrari,brooks,Finished,10571700,2
+1959,monaco,cooper-climax,trintignant,+2 Laps,-1,3
+1959,monaco,ferrari,phil_hill,+3 Laps,-1,4
+1959,monaco,cooper-climax,mclaren,+4 Laps,-1,5
+1959,monaco,cooper-maserati,salvadori,+17 Laps,-1,6
+1959,monaco,cooper-climax,moss,Transmission,-1,7
+1959,monaco,brm,flockhart,Spun off,-1,8
+1959,monaco,brm,schell,Accident,-1,9
+1959,monaco,brm,bonnier,Brakes,-1,10
+1959,monaco,ferrari,behra,Engine,-1,11
+1959,monaco,team_lotus,hill,Heat shield fire,-1,12
+1959,monaco,cooper-climax,gregory,Gearbox,-1,13
+1959,monaco,porsche,trips,Collision,-1,14
+1959,monaco,ferrari,allison,Collision,-1,15
+1959,monaco,team_lotus,halford,Collision,-1,16
+1959,monaco,cooper-climax,bueb,Did not qualify,-1,17
+1959,monaco,maserati,scarlatti,Did not qualify,-1,18
+1959,monaco,cooper-climax,Changy,Did not qualify,-1,19
+1959,monaco,cooper-climax,bianchi,Did not qualify,-1,20
+1959,monaco,porsche,filippis,Did not qualify,-1,21
+1959,monaco,team_lotus,lovely,Did not qualify,-1,22
+1959,monaco,cooper-climax,lucienbonnet,Did not qualify,-1,23
+1959,monaco,maserati,testut,Did not qualify,-1,24

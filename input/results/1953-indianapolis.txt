@@ -1,0 +1,30 @@
+1953,indianapolis,kurtis_kraft,vukovich,Finished,13981690,1
+1953,indianapolis,kurtis_kraft,cross,Finished,14192560,2
+1953,indianapolis,kurtis_kraft,darter,Finished,14233190,3
+1953,indianapolis,kurtis_kraft,hanks,Finished,14233190,3
+1953,indianapolis,kurtis_kraft,paul_russo,Finished,14260930,4
+1953,indianapolis,kurtis_kraft,agabashian,Finished,14260930,4
+1953,indianapolis,kurtis_kraft,mcgrath,Finished,14451330,5
+1953,indianapolis,kurtis_kraft,daywalt,Finished,14471900,6
+1953,indianapolis,kurtis_kraft,johnson,Finished,14507710,7
+1953,indianapolis,kurtis_kraft,rathmann,Finished,14507710,7
+1953,indianapolis,stevens,mccoy,Finished,14586240,8
+1953,indianapolis,kuzma,hartley,Accident,-1,9
+1953,indianapolis,kuzma,bettenhausen,Accident,-1,9
+1953,indianapolis,kuzma,stevenson,Accident,-1,9
+1953,indianapolis,kurtis_kraft,davies,+7 Laps,-1,10
+1953,indianapolis,kurtis_kraft,nalon,Accident,-1,11
+1953,indianapolis,kurtis_kraft,bob_scott,+10 Laps,-1,12
+1953,indianapolis,kurtis_kraft,scarborough,+10 Laps,-1,12
+1953,indianapolis,kuzma,ayulo,Engine,-1,13
+1953,indianapolis,schroeder,bryan,+17 Laps,-1,14
+1953,indianapolis,kurtis_kraft,holland,Magneto,-1,15
+1953,indianapolis,kurtis_kraft,rathmann,Magneto,-1,15
+1953,indianapolis,kurtis_kraft,dinsmore,Axle,-1,16
+1953,indianapolis,kurtis_kraft,ward,Axle,-1,16
+1953,indianapolis,kurtis_kraft,linden,Axle,-1,16
+1953,indianapolis,kurtis_kraft,mantz,+24 Laps,-1,17
+1953,indianapolis,kurtis_kraft,faulkner,+24 Laps,-1,17
+1953,indianapolis,kurtis_kraft,teague,Oil leak,-1,18
+1953,indianapolis,kurtis_kraft,webb,Oil leak,-1,19
+1953,indianapolis,kurtis_kraft,thomson,Oil leak,-1,19

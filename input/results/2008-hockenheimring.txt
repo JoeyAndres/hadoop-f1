@@ -1,0 +1,20 @@
+2008,hockenheimring,mclaren,hamilton,Finished,5480874,1
+2008,hockenheimring,renault,piquet_jr,Finished,5486460,2
+2008,hockenheimring,ferrari,massa,Finished,5490213,3
+2008,hockenheimring,bmw_sauber,heidfeld,Finished,5490699,4
+2008,hockenheimring,mclaren,kovalainen,Finished,5493285,5
+2008,hockenheimring,ferrari,raikkonen,Finished,5495277,6
+2008,hockenheimring,bmw_sauber,kubica,Finished,5503556,7
+2008,hockenheimring,toro_rosso,vettel,Finished,5514173,8
+2008,hockenheimring,toyota,trulli,Finished,5518032,9
+2008,hockenheimring,williams,rosberg,Finished,5518499,10
+2008,hockenheimring,renault,alonso,Finished,5519474,11
+2008,hockenheimring,toro_rosso,bourdais,Finished,5519985,12
+2008,hockenheimring,red_bull,coulthard,Finished,5535845,13
+2008,hockenheimring,williams,nakajima,Finished,5540877,14
+2008,hockenheimring,force_india,sutil,Finished,5550362,15
+2008,hockenheimring,force_india,fisichella,Finished,5564967,16
+2008,hockenheimring,honda,button,+1 Lap,-1,17
+2008,hockenheimring,honda,barrichello,Collision,-1,18
+2008,hockenheimring,red_bull,webber,Engine,-1,19
+2008,hockenheimring,toyota,glock,Suspension,-1,20

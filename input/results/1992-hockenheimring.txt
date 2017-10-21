@@ -1,0 +1,30 @@
+1992,hockenheimring,williams,mansell,Finished,4702032,1
+1992,hockenheimring,mclaren,senna,Finished,4706532,2
+1992,hockenheimring,benetton,michael_schumacher,Finished,4736494,3
+1992,hockenheimring,benetton,brundle,Finished,4738991,4
+1992,hockenheimring,ferrari,alesi,Finished,4774639,5
+1992,hockenheimring,ligier,comas,Finished,4798530,6
+1992,hockenheimring,ligier,boutsen,Finished,4799212,7
+1992,hockenheimring,williams,patrese,Spun off,-1,8
+1992,hockenheimring,footwork,alboreto,+1 Lap,-1,9
+1992,hockenheimring,dallara,lehto,+1 Lap,-1,10
+1992,hockenheimring,dallara,martini,+1 Lap,-1,11
+1992,hockenheimring,minardi,morbidelli,+1 Lap,-1,12
+1992,hockenheimring,march,belmondo,+1 Lap,-1,13
+1992,hockenheimring,larrousse,gachot,+1 Lap,-1,14
+1992,hockenheimring,jordan,gugelmin,+2 Laps,-1,15
+1992,hockenheimring,march,wendlinger,+3 Laps,-1,16
+1992,hockenheimring,fondmetal,tarquini,Engine,-1,17
+1992,hockenheimring,tyrrell,cesaris,Engine,-1,18
+1992,hockenheimring,team_lotus,herbert,Engine,-1,19
+1992,hockenheimring,ferrari,capelli,Engine,-1,20
+1992,hockenheimring,team_lotus,hakkinen,Engine,-1,21
+1992,hockenheimring,mclaren,berger,Electrical,-1,22
+1992,hockenheimring,tyrrell,grouillard,Engine,-1,23
+1992,hockenheimring,larrousse,katayama,Spun off,-1,24
+1992,hockenheimring,footwork,suzuki,Spun off,-1,25
+1992,hockenheimring,minardi,zanardi,Gearbox,-1,26
+1992,hockenheimring,jordan,modena,Did not qualify,-1,27
+1992,hockenheimring,brabham,poele,Did not qualify,-1,28
+1992,hockenheimring,fondmetal,chiesa,Did not qualify,-1,29
+1992,hockenheimring,brabham,damon_hill,Did not qualify,-1,30

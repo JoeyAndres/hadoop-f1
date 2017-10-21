@@ -1,0 +1,28 @@
+1994,hungaroring,benetton,michael_schumacher,Finished,6480185,1
+1994,hungaroring,williams,damon_hill,Finished,6501012,2
+1994,hungaroring,benetton,verstappen,Finished,6550514,3
+1994,hungaroring,mclaren,brundle,Electrical,-1,4
+1994,hungaroring,tyrrell,blundell,+1 Lap,-1,5
+1994,hungaroring,ligier,panis,+1 Lap,-1,6
+1994,hungaroring,minardi,alboreto,+2 Laps,-1,7
+1994,hungaroring,larrousse,comas,+2 Laps,-1,8
+1994,hungaroring,larrousse,beretta,+2 Laps,-1,9
+1994,hungaroring,ligier,bernard,+2 Laps,-1,10
+1994,hungaroring,simtek,brabham,+3 Laps,-1,11
+1994,hungaroring,ferrari,berger,Engine,-1,12
+1994,hungaroring,team_lotus,zanardi,+5 Laps,-1,13
+1994,hungaroring,footwork,fittipaldi,Transmission,-1,14
+1994,hungaroring,williams,coulthard,Spun off,-1,15
+1994,hungaroring,ferrari,alesi,Gearbox,-1,16
+1994,hungaroring,minardi,martini,Spun off,-1,17
+1994,hungaroring,sauber,frentzen,Gearbox,-1,18
+1994,hungaroring,team_lotus,herbert,Electrical,-1,19
+1994,hungaroring,sauber,cesaris,Collision,-1,20
+1994,hungaroring,footwork,morbidelli,Collision,-1,21
+1994,hungaroring,mclaren,alliot,Water leak,-1,22
+1994,hungaroring,simtek,gounon,Handling,-1,23
+1994,hungaroring,tyrrell,katayama,Collision,-1,24
+1994,hungaroring,jordan,irvine,Collision,-1,25
+1994,hungaroring,jordan,barrichello,Collision,-1,26
+1994,hungaroring,pacific,gachot,Did not qualify,-1,27
+1994,hungaroring,pacific,belmondo,Did not qualify,-1,28

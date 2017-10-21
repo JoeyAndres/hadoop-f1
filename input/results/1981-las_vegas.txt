@@ -1,0 +1,30 @@
+1981,las_vegas,williams,jones,Finished,6249077,1
+1981,las_vegas,renault,prost,Finished,6269125,2
+1981,las_vegas,alfa,giacomelli,Finished,6269505,3
+1981,las_vegas,team_lotus,mansell,Finished,6296550,4
+1981,las_vegas,brabham,piquet,Finished,6325515,5
+1981,las_vegas,ligier,laffite,Finished,6327252,6
+1981,las_vegas,mclaren,watson,Finished,6327574,7
+1981,las_vegas,williams,reutemann,+1 Lap,-1,8
+1981,las_vegas,ferrari,pironi,+2 Laps,-1,9
+1981,las_vegas,fittipaldi,keke_rosberg,+2 Laps,-1,10
+1981,las_vegas,arrows,patrese,+4 Laps,-1,11
+1981,las_vegas,mclaren,cesaris,+6 Laps,-1,12
+1981,las_vegas,tyrrell,alboreto,Engine,-1,13
+1981,las_vegas,ensign,salazar,Not classified,-1,14
+1981,las_vegas,toleman,warwick,Gearbox,-1,15
+1981,las_vegas,alfa,mario_andretti,Suspension,-1,16
+1981,las_vegas,ferrari,gilles_villeneuve,Disqualified,-1,17
+1981,las_vegas,brabham,rebaque,Throttle,-1,18
+1981,las_vegas,theodore,surer,Suspension,-1,19
+1981,las_vegas,tyrrell,cheever,Engine,-1,20
+1981,las_vegas,renault,arnoux,Electrical,-1,21
+1981,las_vegas,ligier,tambay,Accident,-1,22
+1981,las_vegas,team_lotus,angelis,Water leak,-1,23
+1981,las_vegas,osella,jarier,Transmission,-1,24
+1981,las_vegas,ats,borgudd,Did not qualify,-1,25
+1981,las_vegas,fittipaldi,serra,Did not qualify,-1,26
+1981,las_vegas,march,daly,Did not qualify,-1,27
+1981,las_vegas,arrows,villeneuve_sr,Did not qualify,-1,28
+1981,las_vegas,toleman,henton,Did not qualify,-1,29
+1981,las_vegas,osella,gabbiani,Did not qualify,-1,30

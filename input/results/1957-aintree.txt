@@ -1,0 +1,22 @@
+1957,aintree,vanwall,moss,Finished,11197800,1
+1957,aintree,vanwall,brooks,Finished,11197800,1
+1957,aintree,ferrari,musso,Finished,11223400,2
+1957,aintree,ferrari,hawthorn,Finished,11240600,3
+1957,aintree,ferrari,trintignant,+2 Laps,-1,4
+1957,aintree,ferrari,collins,+2 Laps,-1,4
+1957,aintree,cooper,salvadori,+5 Laps,-1,5
+1957,aintree,cooper,gerard,+8 Laps,-1,6
+1957,aintree,vanwall,lewis-evans,+8 Laps,-1,7
+1957,aintree,maserati,bueb,+19 Laps,-1,8
+1957,aintree,cooper,jack_brabham,Clutch,-1,9
+1957,aintree,maserati,behra,Clutch,-1,10
+1957,aintree,ferrari,collins,Water leak,-1,11
+1957,aintree,vanwall,moss,Engine,-1,12
+1957,aintree,vanwall,brooks,Engine,-1,12
+1957,aintree,maserati,fangio,Engine,-1,13
+1957,aintree,brm,fairman,Engine,-1,14
+1957,aintree,brm,leston,Engine,-1,15
+1957,aintree,maserati,schell,Water pump,-1,16
+1957,aintree,maserati,menditeguy,Transmission,-1,17
+1957,aintree,maserati,bonnier,Gearbox,-1,18
+1957,aintree,maserati,gould,Accident,-1,19

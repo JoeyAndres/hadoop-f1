@@ -1,0 +1,26 @@
+1977,monaco,wolf,scheckter,Finished,7072770,1
+1977,monaco,ferrari,lauda,Finished,7073659,2
+1977,monaco,ferrari,reutemann,Finished,7105570,3
+1977,monaco,mclaren,mass,Finished,7107370,4
+1977,monaco,team_lotus,mario_andretti,Finished,7108320,5
+1977,monaco,shadow,jones,Finished,7109380,6
+1977,monaco,ligier,laffite,Finished,7137210,7
+1977,monaco,surtees,brambilla,Finished,7141410,8
+1977,monaco,shadow,patrese,+1 Lap,-1,9
+1977,monaco,ensign,ickx,+1 Lap,-1,10
+1977,monaco,penske,jarier,+2 Laps,-1,11
+1977,monaco,hesketh,keegan,+3 Laps,-1,12
+1977,monaco,team_lotus,nilsson,Gearbox,-1,13
+1977,monaco,brabham,watson,Gearbox,-1,14
+1977,monaco,tyrrell,depailler,Gearbox,-1,15
+1977,monaco,surtees,binder,Fuel system,-1,16
+1977,monaco,fittipaldi,emerson_fittipaldi,Engine,-1,17
+1977,monaco,mclaren,hunt,Engine,-1,18
+1977,monaco,brabham,stuck,Electrical,-1,19
+1977,monaco,tyrrell,peterson,Brakes,-1,20
+1977,monaco,march,merzario,Did not qualify,-1,21
+1977,monaco,march,hayje,Did not qualify,-1,22
+1977,monaco,hesketh,ertl,Did not qualify,-1,23
+1977,monaco,ensign,regazzoni,Did not qualify,-1,24
+1977,monaco,march,ribeiro,Did not qualify,-1,25
+1977,monaco,march,ian_scheckter,Did not qualify,-1,26

@@ -1,0 +1,20 @@
+2003,albert_park,mclaren,coulthard,Finished,5682100,1
+2003,albert_park,williams,montoya,Finished,5690775,2
+2003,albert_park,mclaren,raikkonen,Finished,5691292,3
+2003,albert_park,ferrari,michael_schumacher,Finished,5691582,4
+2003,albert_park,renault,trulli,Finished,5720901,5
+2003,albert_park,sauber,frentzen,Finished,5726028,6
+2003,albert_park,renault,alonso,Finished,5727174,7
+2003,albert_park,williams,ralf_schumacher,Finished,5727845,8
+2003,albert_park,bar,villeneuve,Finished,5747636,9
+2003,albert_park,bar,button,Finished,5748074,10
+2003,albert_park,minardi,verstappen,+1 Lap,-1,11
+2003,albert_park,jordan,fisichella,Gearbox,-1,12
+2003,albert_park,jaguar,pizzonia,Suspension,-1,13
+2003,albert_park,toyota,panis,Fuel pressure,-1,14
+2003,albert_park,sauber,heidfeld,Suspension,-1,15
+2003,albert_park,minardi,wilson,Radiator,-1,16
+2003,albert_park,jaguar,webber,Suspension,-1,17
+2003,albert_park,toyota,matta,Spun off,-1,18
+2003,albert_park,jordan,firman,Accident,-1,19
+2003,albert_park,ferrari,barrichello,Accident,-1,20

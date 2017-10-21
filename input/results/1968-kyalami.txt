@@ -1,0 +1,23 @@
+1968,kyalami,lotus-ford,clark,Finished,6836600,1
+1968,kyalami,lotus-ford,hill,Finished,6861900,2
+1968,kyalami,brabham-repco,rindt,Finished,6867000,3
+1968,kyalami,ferrari,amon,+2 Laps,-1,4
+1968,kyalami,mclaren-brm,hulme,+2 Laps,-1,5
+1968,kyalami,matra-ford,beltoise,+3 Laps,-1,6
+1968,kyalami,cooper-maserati,siffert,+3 Laps,-1,7
+1968,kyalami,honda,surtees,+5 Laps,-1,8
+1968,kyalami,brabham-repco,love,+5 Laps,-1,9
+1968,kyalami,brabham-climax,pretorius,Not classified,-1,10
+1968,kyalami,eagle-weslake,gurney,Oil leak,-1,11
+1968,kyalami,ferrari,ickx,Oil leak,-1,12
+1968,kyalami,cooper-maserati,bonnier,Overheating,-1,13
+1968,kyalami,matra-ford,stewart,Engine,-1,14
+1968,kyalami,lds,tingle,Overheating,-1,15
+1968,kyalami,cooper-climax,rooyen,Engine,-1,16
+1968,kyalami,brm,rodriguez,Fuel system,-1,17
+1968,kyalami,brabham-repco,jack_brabham,Engine,-1,18
+1968,kyalami,ferrari,adamich,Accident,-1,19
+1968,kyalami,brm,spence,Fuel system,-1,20
+1968,kyalami,cooper-maserati,redman,Oil leak,-1,21
+1968,kyalami,brabham-repco,charlton,Differential,-1,22
+1968,kyalami,cooper-brm,scarfiotti,Water pipe,-1,23

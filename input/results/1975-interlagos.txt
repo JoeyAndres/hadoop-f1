@@ -1,0 +1,23 @@
+1975,interlagos,brabham,pace,Finished,6281170,1
+1975,interlagos,mclaren,emerson_fittipaldi,Finished,6286960,2
+1975,interlagos,mclaren,mass,Finished,6307830,3
+1975,interlagos,ferrari,regazzoni,Finished,6324450,4
+1975,interlagos,ferrari,lauda,Finished,6343050,5
+1975,interlagos,hesketh,hunt,Finished,6346290,6
+1975,interlagos,parnelli,mario_andretti,Finished,6347980,7
+1975,interlagos,brabham,reutemann,Finished,6380790,8
+1975,interlagos,team_lotus,ickx,Finished,6393010,9
+1975,interlagos,surtees,watson,Finished,6430770,10
+1975,interlagos,williams,laffite,+1 Lap,-1,11
+1975,interlagos,lola,hill,+1 Lap,-1,12
+1975,interlagos,fittipaldi,wilson_fittipaldi,+1 Lap,-1,13
+1975,interlagos,lola,stommelen,+1 Lap,-1,14
+1975,interlagos,team_lotus,peterson,+2 Laps,-1,15
+1975,interlagos,shadow-ford,jarier,Fuel system,-1,16
+1975,interlagos,tyrrell,depailler,Suspension,-1,17
+1975,interlagos,shadow-ford,pryce,Accident,-1,18
+1975,interlagos,williams,merzario,Fuel system,-1,19
+1975,interlagos,penske,donohue,Handling,-1,20
+1975,interlagos,brm,wilds,Electrical,-1,21
+1975,interlagos,tyrrell,scheckter,Oil leak,-1,22
+1975,interlagos,march,brambilla,Engine,-1,23

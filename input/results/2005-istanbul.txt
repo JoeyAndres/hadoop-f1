@@ -1,0 +1,20 @@
+2005,istanbul,mclaren,raikkonen,Finished,5074454,1
+2005,istanbul,renault,alonso,Finished,5093063,2
+2005,istanbul,mclaren,montoya,Finished,5094089,3
+2005,istanbul,renault,fisichella,Finished,5112427,4
+2005,istanbul,bar,button,Finished,5113758,5
+2005,istanbul,toyota,trulli,Finished,5129874,6
+2005,istanbul,red_bull,coulthard,Finished,5143746,7
+2005,istanbul,red_bull,klien,Finished,5146076,8
+2005,istanbul,bar,sato,Finished,5154441,9
+2005,istanbul,ferrari,barrichello,+1 Lap,-1,10
+2005,istanbul,sauber,villeneuve,+1 Lap,-1,11
+2005,istanbul,toyota,ralf_schumacher,+1 Lap,-1,12
+2005,istanbul,minardi,doornbos,+3 Laps,-1,13
+2005,istanbul,jordan,karthikeyan,+3 Laps,-1,14
+2005,istanbul,jordan,monteiro,+3 Laps,-1,15
+2005,istanbul,minardi,albers,Retired,-1,16
+2005,istanbul,ferrari,michael_schumacher,Retired,-1,17
+2005,istanbul,williams,heidfeld,Tyre,-1,18
+2005,istanbul,sauber,massa,Engine,-1,19
+2005,istanbul,williams,webber,Tyre,-1,20

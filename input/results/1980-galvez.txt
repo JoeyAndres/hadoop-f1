@@ -1,0 +1,28 @@
+1980,galvez,williams,jones,Finished,6204380,1
+1980,galvez,brabham,piquet,Finished,6228970,2
+1980,galvez,fittipaldi,keke_rosberg,Finished,6283020,3
+1980,galvez,tyrrell,daly,Finished,6287860,4
+1980,galvez,alfa,giacomelli,+1 Lap,-1,5
+1980,galvez,mclaren,prost,+1 Lap,-1,6
+1980,galvez,brabham,zunino,+2 Laps,-1,7
+1980,galvez,alfa,depailler,Engine,-1,8
+1980,galvez,ferrari,scheckter,Engine,-1,9
+1980,galvez,ensign,regazzoni,Not classified,-1,10
+1980,galvez,fittipaldi,emerson_fittipaldi,Not classified,-1,11
+1980,galvez,ferrari,gilles_villeneuve,Accident,-1,12
+1980,galvez,ligier,laffite,Engine,-1,13
+1980,galvez,arrows,patrese,Engine,-1,14
+1980,galvez,ats,surer,Heat shield fire,-1,15
+1980,galvez,team_lotus,mario_andretti,Fuel system,-1,16
+1980,galvez,arrows,mass,Gearbox,-1,17
+1980,galvez,williams,reutemann,Engine,-1,18
+1980,galvez,team_lotus,angelis,Suspension,-1,19
+1980,galvez,mclaren,watson,Gearbox,-1,20
+1980,galvez,renault,jabouille,Gearbox,-1,21
+1980,galvez,renault,arnoux,Suspension,-1,22
+1980,galvez,ligier,pironi,Engine,-1,23
+1980,galvez,tyrrell,jarier,Collision,-1,24
+1980,galvez,shadow,kennedy,Did not qualify,-1,25
+1980,galvez,shadow,johansson,Did not qualify,-1,26
+1980,galvez,ats,lammers,Did not qualify,-1,27
+1980,galvez,osella,cheever,Did not qualify,-1,28

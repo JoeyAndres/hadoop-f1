@@ -1,0 +1,29 @@
+1982,villeneuve,brabham,piquet,Finished,6399577,1
+1982,villeneuve,brabham,patrese,Finished,6413376,2
+1982,villeneuve,mclaren,watson,Finished,6461413,3
+1982,villeneuve,team_lotus,angelis,+1 Lap,-1,4
+1982,villeneuve,arrows,surer,+1 Lap,-1,5
+1982,villeneuve,alfa,cesaris,Out of fuel,-1,6
+1982,villeneuve,williams,daly,Out of fuel,-1,7
+1982,villeneuve,arrows,baldi,+2 Laps,-1,8
+1982,villeneuve,ferrari,pironi,+3 Laps,-1,9
+1982,villeneuve,ligier,cheever,Out of fuel,-1,10
+1982,villeneuve,march,mass,+4 Laps,-1,11
+1982,villeneuve,tyrrell,henton,Not classified,-1,12
+1982,villeneuve,williams,keke_rosberg,Gearbox,-1,13
+1982,villeneuve,march,boesel,Engine,-1,14
+1982,villeneuve,tyrrell,alboreto,Engine,-1,15
+1982,villeneuve,renault,prost,Engine,-1,16
+1982,villeneuve,renault,arnoux,Spun off,-1,17
+1982,villeneuve,ats,salazar,Engine,-1,18
+1982,villeneuve,mclaren,lauda,Clutch,-1,19
+1982,villeneuve,ligier,laffite,Fuel system,-1,20
+1982,villeneuve,ensign,guerrero,Clutch,-1,21
+1982,villeneuve,alfa,giacomelli,Collision,-1,22
+1982,villeneuve,team_lotus,mansell,Collision,-1,23
+1982,villeneuve,osella,jarier,Withdrew,-1,24
+1982,villeneuve,osella,paletti,Fatal accident,-1,25
+1982,villeneuve,theodore,lees,Collision,-1,26
+1982,villeneuve,ats,manfred_winkelhock,Did not qualify,-1,27
+1982,villeneuve,march,villota,Did not qualify,-1,28
+1982,villeneuve,fittipaldi,serra,Did not qualify,-1,29

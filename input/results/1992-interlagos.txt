@@ -1,0 +1,30 @@
+1992,interlagos,williams,mansell,Finished,5811856,1
+1992,interlagos,williams,patrese,Finished,5841186,2
+1992,interlagos,benetton,michael_schumacher,+1 Lap,-1,3
+1992,interlagos,ferrari,alesi,+1 Lap,-1,4
+1992,interlagos,ferrari,capelli,+1 Lap,-1,5
+1992,interlagos,footwork,alboreto,+1 Lap,-1,6
+1992,interlagos,minardi,morbidelli,+2 Laps,-1,7
+1992,interlagos,dallara,lehto,+2 Laps,-1,8
+1992,interlagos,larrousse,katayama,+3 Laps,-1,9
+1992,interlagos,team_lotus,hakkinen,+4 Laps,-1,10
+1992,interlagos,fondmetal,tarquini,Engine,-1,11
+1992,interlagos,march,wendlinger,Clutch,-1,12
+1992,interlagos,minardi,fittipaldi,Gearbox,-1,13
+1992,interlagos,tyrrell,grouillard,Engine,-1,14
+1992,interlagos,ligier,comas,Gearbox,-1,15
+1992,interlagos,team_lotus,herbert,Spun off,-1,16
+1992,interlagos,ligier,boutsen,Collision,-1,17
+1992,interlagos,jordan,gugelmin,Gearbox,-1,18
+1992,interlagos,benetton,brundle,Collision,-1,19
+1992,interlagos,dallara,martini,Clutch,-1,20
+1992,interlagos,larrousse,gachot,Suspension,-1,21
+1992,interlagos,tyrrell,cesaris,Engine,-1,22
+1992,interlagos,mclaren,senna,Engine,-1,23
+1992,interlagos,mclaren,berger,Electrical,-1,24
+1992,interlagos,footwork,suzuki,Engine,-1,25
+1992,interlagos,jordan,modena,Gearbox,-1,26
+1992,interlagos,fondmetal,chiesa,Did not qualify,-1,27
+1992,interlagos,march,belmondo,Did not qualify,-1,28
+1992,interlagos,brabham,poele,Did not qualify,-1,29
+1992,interlagos,brabham,amati,Did not qualify,-1,30

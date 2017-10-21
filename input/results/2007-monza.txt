@@ -1,0 +1,22 @@
+2007,monza,mclaren,alonso,Finished,4717806,1
+2007,monza,mclaren,hamilton,Finished,4723868,2
+2007,monza,ferrari,raikkonen,Finished,4745131,3
+2007,monza,bmw_sauber,heidfeld,Finished,4774368,4
+2007,monza,bmw_sauber,kubica,Finished,4778364,5
+2007,monza,williams,rosberg,Finished,4783616,6
+2007,monza,renault,kovalainen,Finished,4784557,7
+2007,monza,honda,button,Finished,4779974,8
+2007,monza,red_bull,webber,Finished,4783685,9
+2007,monza,honda,barrichello,Finished,4784764,10
+2007,monza,toyota,trulli,Finished,4785542,11
+2007,monza,renault,fisichella,+1 Lap,-1,12
+2007,monza,williams,wurz,+1 Lap,-1,13
+2007,monza,super_aguri,davidson,+1 Lap,-1,14
+2007,monza,toyota,ralf_schumacher,+1 Lap,-1,15
+2007,monza,super_aguri,sato,+1 Lap,-1,16
+2007,monza,toro_rosso,liuzzi,+1 Lap,-1,17
+2007,monza,toro_rosso,vettel,+1 Lap,-1,18
+2007,monza,spyker,sutil,+1 Lap,-1,19
+2007,monza,spyker,yamamoto,+1 Lap,-1,20
+2007,monza,ferrari,massa,Suspension,-1,21
+2007,monza,red_bull,coulthard,Accident,-1,22

@@ -1,0 +1,24 @@
+1975,zolder,ferrari,lauda,Finished,6233980,1
+1975,zolder,tyrrell,scheckter,Finished,6253200,2
+1975,zolder,brabham,reutemann,Finished,6275800,3
+1975,zolder,tyrrell,depailler,Finished,6294060,4
+1975,zolder,ferrari,regazzoni,Finished,6297820,5
+1975,zolder,shadow-ford,pryce,Finished,6322430,6
+1975,zolder,mclaren,emerson_fittipaldi,+1 Lap,-1,7
+1975,zolder,brabham,pace,+1 Lap,-1,8
+1975,zolder,brm,evans,+2 Laps,-1,9
+1975,zolder,surtees,watson,+2 Laps,-1,10
+1975,zolder,penske,donohue,+3 Laps,-1,11
+1975,zolder,fittipaldi,wilson_fittipaldi,+3 Laps,-1,12
+1975,zolder,hill,migault,Suspension,-1,13
+1975,zolder,march,brambilla,Brakes,-1,14
+1975,zolder,team_lotus,ickx,Brakes,-1,15
+1975,zolder,team_lotus,peterson,Brakes,-1,16
+1975,zolder,williams,laffite,Gearbox,-1,17
+1975,zolder,march,lombardi,Engine,-1,18
+1975,zolder,hill,brise,Engine,-1,19
+1975,zolder,hesketh,hunt,Transmission,-1,20
+1975,zolder,shadow-ford,jarier,Spun off,-1,21
+1975,zolder,williams,merzario,Clutch,-1,22
+1975,zolder,hesketh,jones,Accident,-1,23
+1975,zolder,mclaren,mass,Accident,-1,24

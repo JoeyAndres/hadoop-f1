@@ -1,0 +1,16 @@
+1956,spa,ferrari,collins,Finished,9600300,1
+1956,spa,ferrari,frere,Finished,9711600,2
+1956,spa,maserati,perdisa,Finished,9796900,3
+1956,spa,maserati,moss,Finished,9796900,3
+1956,spa,vanwall,schell,+1 Lap,-1,4
+1956,spa,maserati,villoresi,+2 Laps,-1,5
+1956,spa,ferrari,andre_pilette,+3 Laps,-1,6
+1956,spa,maserati,behra,+3 Laps,-1,7
+1956,spa,maserati,rosier,+3 Laps,-1,8
+1956,spa,ferrari,fangio,Transmission,-1,9
+1956,spa,vanwall,trintignant,Fuel system,-1,10
+1956,spa,maserati,moss,Wheel,-1,11
+1956,spa,ferrari,castellotti,Transmission,-1,12
+1956,spa,connaught,scotti,Engine,-1,13
+1956,spa,maserati,gould,Gearbox,-1,14
+1956,spa,maserati,godia,Accident,-1,15

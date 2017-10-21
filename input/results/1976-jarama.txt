@@ -1,0 +1,30 @@
+1976,jarama,mclaren,hunt,Finished,6140430,1
+1976,jarama,ferrari,lauda,Finished,6171400,2
+1976,jarama,team_lotus,nilsson,Finished,6188450,3
+1976,jarama,brabham-alfa_romeo,reutemann,+1 Lap,-1,4
+1976,jarama,ensign,amon,+1 Lap,-1,5
+1976,jarama,brabham-alfa_romeo,pace,+1 Lap,-1,6
+1976,jarama,wolf,ickx,+1 Lap,-1,7
+1976,jarama,shadow,pryce,+1 Lap,-1,8
+1976,jarama,surtees,jones,+1 Lap,-1,9
+1976,jarama,wolf,leclere,+2 Laps,-1,10
+1976,jarama,ferrari,regazzoni,+3 Laps,-1,11
+1976,jarama,ligier,laffite,+3 Laps,-1,12
+1976,jarama,boro,perkins,+3 Laps,-1,13
+1976,jarama,mclaren,mass,Engine,-1,14
+1976,jarama,shadow,jarier,Electrical,-1,15
+1976,jarama,tyrrell,scheckter,Engine,-1,16
+1976,jarama,penske,watson,Engine,-1,17
+1976,jarama,march,merzario,Gearbox,-1,18
+1976,jarama,team_lotus,mario_andretti,Gearbox,-1,19
+1976,jarama,tyrrell,depailler,Accident,-1,20
+1976,jarama,march,brambilla,Suspension,-1,21
+1976,jarama,march,stuck,Gearbox,-1,22
+1976,jarama,march,peterson,Transmission,-1,23
+1976,jarama,fittipaldi,emerson_fittipaldi,Transmission,-1,24
+1976,jarama,surtees,lunger,Did not qualify,-1,25
+1976,jarama,brabham-ford,kessel,Did not qualify,-1,26
+1976,jarama,williams,zapico,Did not qualify,-1,27
+1976,jarama,brabham-ford,villota,Did not qualify,-1,28
+1976,jarama,hesketh,ertl,Did not qualify,-1,29
+1976,jarama,fittipaldi,hoffmann,Did not qualify,-1,30

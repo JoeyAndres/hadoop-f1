@@ -1,0 +1,22 @@
+2016,bahrain,mercedes,rosberg,Finished,5614696,1
+2016,bahrain,ferrari,raikkonen,Finished,5624978,2
+2016,bahrain,mercedes,hamilton,Finished,5644844,3
+2016,bahrain,red_bull,ricciardo,Finished,5677190,4
+2016,bahrain,haas,grosjean,Finished,5692995,5
+2016,bahrain,toro_rosso,max_verstappen,Finished,5695625,6
+2016,bahrain,red_bull,kvyat,+1 Lap,-1,7
+2016,bahrain,williams,massa,+1 Lap,-1,8
+2016,bahrain,williams,bottas,+1 Lap,-1,9
+2016,bahrain,mclaren,vandoorne,+1 Lap,-1,10
+2016,bahrain,renault,kevin_magnussen,+1 Lap,-1,11
+2016,bahrain,sauber,ericsson,+1 Lap,-1,12
+2016,bahrain,manor,wehrlein,+1 Lap,-1,13
+2016,bahrain,sauber,nasr,+1 Lap,-1,14
+2016,bahrain,force_india,hulkenberg,+1 Lap,-1,15
+2016,bahrain,force_india,perez,+1 Lap,-1,16
+2016,bahrain,manor,haryanto,+1 Lap,-1,17
+2016,bahrain,toro_rosso,sainz,Retired,-1,18
+2016,bahrain,haas,gutierrez,Retired,-1,19
+2016,bahrain,mclaren,button,Power Unit,-1,20
+2016,bahrain,ferrari,vettel,Engine,-1,21
+2016,bahrain,renault,jolyon_palmer,Hydraulics,-1,22

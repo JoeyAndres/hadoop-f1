@@ -1,0 +1,25 @@
+1985,monaco,mclaren,prost,Finished,6718034,1
+1985,monaco,ferrari,alboreto,Finished,6725575,2
+1985,monaco,team_lotus,angelis,Finished,6805205,3
+1985,monaco,ligier,cesaris,+1 Lap,-1,4
+1985,monaco,renault,warwick,+1 Lap,-1,5
+1985,monaco,ligier,laffite,+1 Lap,-1,6
+1985,monaco,williams,mansell,+1 Lap,-1,7
+1985,monaco,williams,keke_rosberg,+2 Laps,-1,8
+1985,monaco,arrows,boutsen,+2 Laps,-1,9
+1985,monaco,tyrrell,brundle,+4 Laps,-1,10
+1985,monaco,zakspeed,palmer,+4 Laps,-1,11
+1985,monaco,mclaren,lauda,Spun off,-1,12
+1985,monaco,alfa,patrese,Accident,-1,13
+1985,monaco,brabham,piquet,Accident,-1,14
+1985,monaco,toleman,fabi,Turbo,-1,15
+1985,monaco,team_lotus,senna,Engine,-1,16
+1985,monaco,alfa,cheever,Alternator,-1,17
+1985,monaco,ferrari,johansson,Accident,-1,18
+1985,monaco,arrows,berger,Accident,-1,19
+1985,monaco,renault,tambay,Accident,-1,20
+1985,monaco,osella,ghinzani,Did not qualify,-1,21
+1985,monaco,tyrrell,bellof,Did not qualify,-1,22
+1985,monaco,ram,alliot,Did not qualify,-1,23
+1985,monaco,ram,manfred_winkelhock,Did not qualify,-1,24
+1985,monaco,brabham,hesnault,Did not qualify,-1,25

@@ -1,0 +1,26 @@
+1985,monza,mclaren,prost,Finished,4679451,1
+1985,monza,brabham,piquet,Finished,4731086,2
+1985,monza,team_lotus,senna,Finished,4739841,3
+1985,monza,brabham,surer,Finished,4740060,4
+1985,monza,ferrari,johansson,+1 Lap,-1,5
+1985,monza,team_lotus,angelis,+1 Lap,-1,6
+1985,monza,renault,tambay,+1 Lap,-1,7
+1985,monza,tyrrell,brundle,+1 Lap,-1,8
+1985,monza,arrows,boutsen,+1 Lap,-1,9
+1985,monza,ligier,streiff,+2 Laps,-1,10
+1985,monza,williams,mansell,Engine,-1,11
+1985,monza,toleman,fabi,+4 Laps,-1,12
+1985,monza,ferrari,alboreto,Engine,-1,13
+1985,monza,williams,keke_rosberg,Engine,-1,14
+1985,monza,ligier,laffite,Engine,-1,15
+1985,monza,mclaren,lauda,Transmission,-1,16
+1985,monza,alfa,patrese,Exhaust,-1,17
+1985,monza,osella,rothengatter,Engine,-1,18
+1985,monza,ram,alliot,Turbo,-1,19
+1985,monza,arrows,berger,Engine,-1,20
+1985,monza,renault,warwick,Transmission,-1,21
+1985,monza,lola,jones,Engine,-1,22
+1985,monza,alfa,cheever,Engine,-1,23
+1985,monza,ram,acheson,Clutch,-1,24
+1985,monza,minardi,martini,Fuel pump,-1,25
+1985,monza,toleman,ghinzani,Withdrew,-1,26

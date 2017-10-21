@@ -1,0 +1,27 @@
+1984,hockenheimring,mclaren,prost,Finished,5083210,1
+1984,hockenheimring,mclaren,lauda,Finished,5086359,2
+1984,hockenheimring,renault,warwick,Finished,5119633,3
+1984,hockenheimring,team_lotus,mansell,Finished,5134873,4
+1984,hockenheimring,renault,tambay,Finished,5155159,5
+1984,hockenheimring,ferrari,arnoux,+1 Lap,-1,6
+1984,hockenheimring,ligier,cesaris,+1 Lap,-1,7
+1984,hockenheimring,ligier,hesnault,+1 Lap,-1,8
+1984,hockenheimring,spirit,rothengatter,+4 Laps,-1,9
+1984,hockenheimring,tyrrell,johansson,Disqualified,-1,10
+1984,hockenheimring,ats,manfred_winkelhock,Gearbox,-1,11
+1984,hockenheimring,alfa,cheever,Engine,-1,12
+1984,hockenheimring,brabham,fabi,Turbo,-1,13
+1984,hockenheimring,brabham,piquet,Gearbox,-1,14
+1984,hockenheimring,alfa,patrese,Fuel system,-1,15
+1984,hockenheimring,osella,ghinzani,Electrical,-1,16
+1984,hockenheimring,osella,gartner,Turbo,-1,17
+1984,hockenheimring,ferrari,alboreto,Engine,-1,18
+1984,hockenheimring,ram,palmer,Turbo,-1,19
+1984,hockenheimring,williams,keke_rosberg,Electrical,-1,20
+1984,hockenheimring,williams,laffite,Engine,-1,21
+1984,hockenheimring,arrows,boutsen,Engine,-1,22
+1984,hockenheimring,team_lotus,angelis,Turbo,-1,23
+1984,hockenheimring,ram,alliot,Overheating,-1,24
+1984,hockenheimring,toleman,senna,Accident,-1,25
+1984,hockenheimring,arrows,surer,Turbo,-1,26
+1984,hockenheimring,tyrrell,thackwell,Did not qualify,-1,27

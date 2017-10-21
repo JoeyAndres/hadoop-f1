@@ -1,0 +1,22 @@
+1999,magny_cours,jordan,frentzen,Finished,7104343,1
+1999,magny_cours,mclaren,hakkinen,Finished,7115435,2
+1999,magny_cours,stewart,barrichello,Finished,7147775,3
+1999,magny_cours,williams,ralf_schumacher,Finished,7149818,4
+1999,magny_cours,ferrari,michael_schumacher,Finished,7152224,5
+1999,magny_cours,ferrari,irvine,Finished,7153244,6
+1999,magny_cours,prost,trulli,Finished,7162114,7
+1999,magny_cours,prost,panis,Finished,7162874,8
+1999,magny_cours,bar,zonta,Finished,7193107,9
+1999,magny_cours,minardi,badoer,+1 Lap,-1,10
+1999,magny_cours,arrows,rosa,+1 Lap,-1,11
+1999,magny_cours,benetton,fisichella,Spun off,-1,12
+1999,magny_cours,jordan,damon_hill,Electrical,-1,13
+1999,magny_cours,williams,zanardi,Engine,-1,14
+1999,magny_cours,bar,villeneuve,Spun off,-1,15
+1999,magny_cours,benetton,wurz,Spun off,-1,16
+1999,magny_cours,minardi,gene,Spun off,-1,17
+1999,magny_cours,sauber,alesi,Spun off,-1,18
+1999,magny_cours,mclaren,coulthard,Electrical,-1,19
+1999,magny_cours,sauber,diniz,Transmission,-1,20
+1999,magny_cours,stewart,herbert,Gearbox,-1,21
+1999,magny_cours,arrows,takagi,Disqualified,-1,22

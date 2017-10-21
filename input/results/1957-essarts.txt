@@ -1,0 +1,16 @@
+1957,essarts,maserati,fangio,Finished,11266400,1
+1957,essarts,ferrari,musso,Finished,11317200,2
+1957,essarts,ferrari,collins,Finished,11392400,3
+1957,essarts,ferrari,hawthorn,+1 Lap,-1,4
+1957,essarts,maserati,schell,+7 Laps,-1,5
+1957,essarts,maserati,behra,+8 Laps,-1,6
+1957,essarts,cooper,jack_brabham,+9 Laps,-1,7
+1957,essarts,cooper,macdowel,+9 Laps,-1,7
+1957,essarts,maserati,menditeguy,Engine,-1,8
+1957,essarts,vanwall,lewis-evans,Steering,-1,9
+1957,essarts,vanwall,salvadori,Engine,-1,10
+1957,essarts,brm,mackay-fraser,Transmission,-1,11
+1957,essarts,ferrari,trintignant,Electrical,-1,12
+1957,essarts,cooper,jack_brabham,Accident,-1,13
+1957,essarts,maserati,gould,Halfshaft,-1,14
+1957,essarts,brm,flockhart,Accident,-1,15

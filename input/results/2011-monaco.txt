@@ -1,0 +1,24 @@
+2011,monaco,red_bull,vettel,Finished,7778373,1
+2011,monaco,ferrari,alonso,Finished,7779511,2
+2011,monaco,mclaren,button,Finished,7780751,3
+2011,monaco,red_bull,webber,Finished,7801474,4
+2011,monaco,sauber,kobayashi,Finished,7805289,5
+2011,monaco,mclaren,hamilton,Finished,7805583,6
+2011,monaco,force_india,sutil,+1 Lap,-1,7
+2011,monaco,renault,heidfeld,+1 Lap,-1,8
+2011,monaco,williams,barrichello,+1 Lap,-1,9
+2011,monaco,toro_rosso,buemi,+1 Lap,-1,10
+2011,monaco,mercedes,rosberg,+2 Laps,-1,11
+2011,monaco,force_india,resta,+2 Laps,-1,12
+2011,monaco,lotus_racing,trulli,+2 Laps,-1,13
+2011,monaco,lotus_racing,kovalainen,+2 Laps,-1,14
+2011,monaco,virgin,ambrosio,+3 Laps,-1,15
+2011,monaco,hrt,liuzzi,+3 Laps,-1,16
+2011,monaco,hrt,karthikeyan,+4 Laps,-1,17
+2011,monaco,williams,maldonado,Accident,-1,18
+2011,monaco,renault,petrov,Collision,-1,19
+2011,monaco,toro_rosso,alguersuari,Collision,-1,20
+2011,monaco,ferrari,massa,Accident,-1,21
+2011,monaco,mercedes,michael_schumacher,Engine,-1,22
+2011,monaco,virgin,glock,Suspension,-1,23
+2011,monaco,sauber,perez,Injury,-1,24

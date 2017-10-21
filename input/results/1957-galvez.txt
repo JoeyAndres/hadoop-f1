@@ -1,0 +1,17 @@
+1957,galvez,maserati,fangio,Finished,10855900,1
+1957,galvez,maserati,behra,Finished,10874200,2
+1957,galvez,maserati,menditeguy,+1 Lap,-1,3
+1957,galvez,maserati,schell,+2 Laps,-1,4
+1957,galvez,ferrari,portago,+2 Laps,-1,5
+1957,galvez,ferrari,gonzalez,+2 Laps,-1,5
+1957,galvez,ferrari,collins,+2 Laps,-1,6
+1957,galvez,ferrari,trips,+2 Laps,-1,6
+1957,galvez,ferrari,perdisa,+2 Laps,-1,6
+1957,galvez,maserati,bonnier,+5 Laps,-1,7
+1957,galvez,maserati,moss,+7 Laps,-1,8
+1957,galvez,ferrari,tomaso,+9 Laps,-1,9
+1957,galvez,maserati,piotti,+10 Laps,-1,10
+1957,galvez,ferrari,castellotti,Wheel,-1,11
+1957,galvez,ferrari,hawthorn,Clutch,-1,12
+1957,galvez,ferrari,musso,Clutch,-1,13
+1957,galvez,ferrari,collins,Clutch,-1,14

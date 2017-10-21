@@ -1,0 +1,20 @@
+2004,nurburgring,ferrari,michael_schumacher,Finished,5555101,1
+2004,nurburgring,ferrari,barrichello,Finished,5573090,2
+2004,nurburgring,bar,button,Finished,5577634,3
+2004,nurburgring,renault,trulli,Finished,5608774,4
+2004,nurburgring,renault,alonso,Finished,5616088,5
+2004,nurburgring,sauber,fisichella,Finished,5628549,6
+2004,nurburgring,jaguar,webber,Finished,5631307,7
+2004,nurburgring,williams,montoya,+1 Lap,-1,8
+2004,nurburgring,sauber,massa,+1 Lap,-1,9
+2004,nurburgring,jordan,heidfeld,+1 Lap,-1,10
+2004,nurburgring,toyota,panis,+1 Lap,-1,11
+2004,nurburgring,jaguar,klien,+1 Lap,-1,12
+2004,nurburgring,jordan,pantano,+2 Laps,-1,13
+2004,nurburgring,minardi,bruni,+3 Laps,-1,14
+2004,nurburgring,minardi,baumgartner,+3 Laps,-1,15
+2004,nurburgring,bar,sato,Engine,-1,16
+2004,nurburgring,mclaren,coulthard,Engine,-1,17
+2004,nurburgring,mclaren,raikkonen,Engine,-1,18
+2004,nurburgring,williams,ralf_schumacher,Collision,-1,19
+2004,nurburgring,toyota,matta,Collision,-1,20

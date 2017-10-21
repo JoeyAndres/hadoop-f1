@@ -1,0 +1,26 @@
+1994,monaco,benetton,michael_schumacher,Finished,6595300,1
+1994,monaco,mclaren,brundle,Finished,6632578,2
+1994,monaco,ferrari,berger,Finished,6672124,3
+1994,monaco,jordan,cesaris,+1 Lap,-1,4
+1994,monaco,ferrari,alesi,+1 Lap,-1,5
+1994,monaco,minardi,alboreto,+1 Lap,-1,6
+1994,monaco,benetton,lehto,+1 Lap,-1,7
+1994,monaco,larrousse,beretta,+2 Laps,-1,8
+1994,monaco,ligier,panis,+2 Laps,-1,9
+1994,monaco,larrousse,comas,+3 Laps,-1,10
+1994,monaco,team_lotus,lamy,+5 Laps,-1,11
+1994,monaco,team_lotus,herbert,Gearbox,-1,12
+1994,monaco,pacific,belmondo,Physical,-1,13
+1994,monaco,pacific,gachot,Gearbox,-1,14
+1994,monaco,footwork,fittipaldi,Gearbox,-1,15
+1994,monaco,simtek,brabham,Engine,-1,16
+1994,monaco,tyrrell,blundell,Engine,-1,17
+1994,monaco,tyrrell,katayama,Gearbox,-1,18
+1994,monaco,ligier,bernard,Spun off,-1,19
+1994,monaco,jordan,barrichello,Electrical,-1,20
+1994,monaco,mclaren,hakkinen,Collision,-1,21
+1994,monaco,williams,damon_hill,Collision,-1,22
+1994,monaco,footwork,morbidelli,Collision,-1,23
+1994,monaco,minardi,martini,Collision,-1,24
+1994,monaco,sauber,frentzen,Withdrew,-1,25
+1994,monaco,sauber,wendlinger,Injury,-1,26

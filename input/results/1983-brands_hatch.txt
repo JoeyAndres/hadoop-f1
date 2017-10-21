@@ -1,0 +1,29 @@
+1983,brands_hatch,brabham,piquet,Finished,5805865,1
+1983,brands_hatch,renault,prost,Finished,5812436,2
+1983,brands_hatch,team_lotus,mansell,Finished,5836180,3
+1983,brands_hatch,alfa,cesaris,Finished,5840261,4
+1983,brands_hatch,toleman,warwick,Finished,5850780,5
+1983,brands_hatch,toleman,giacomelli,Finished,5858055,6
+1983,brands_hatch,brabham,patrese,Finished,5878549,7
+1983,brands_hatch,ats,manfred_winkelhock,+1 Lap,-1,8
+1983,brands_hatch,ferrari,arnoux,+1 Lap,-1,9
+1983,brands_hatch,renault,cheever,+1 Lap,-1,10
+1983,brands_hatch,arrows,boutsen,+1 Lap,-1,11
+1983,brands_hatch,theodore,guerrero,+1 Lap,-1,12
+1983,brands_hatch,williams,palmer,+2 Laps,-1,13
+1983,brands_hatch,spirit,johansson,+2 Laps,-1,14
+1983,brands_hatch,ligier,boesel,+3 Laps,-1,15
+1983,brands_hatch,ferrari,tambay,Spun off,-1,16
+1983,brands_hatch,tyrrell,alboreto,Engine,-1,17
+1983,brands_hatch,osella,ghinzani,Throttle,-1,18
+1983,brands_hatch,arrows,surer,Engine,-1,19
+1983,brands_hatch,williams,keke_rosberg,Engine,-1,20
+1983,brands_hatch,alfa,baldi,Clutch,-1,21
+1983,brands_hatch,mclaren,watson,Spun off,-1,22
+1983,brands_hatch,tyrrell,sullivan,Oil leak,-1,23
+1983,brands_hatch,mclaren,lauda,Engine,-1,24
+1983,brands_hatch,team_lotus,angelis,Oil pump,-1,25
+1983,brands_hatch,ligier,jarier,Clutch,-1,26
+1983,brands_hatch,ram,acheson,Did not qualify,-1,27
+1983,brands_hatch,osella,corrado_fabi,Did not qualify,-1,28
+1983,brands_hatch,williams,laffite,Did not qualify,-1,29

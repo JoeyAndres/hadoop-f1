@@ -1,0 +1,30 @@
+1958,monaco,cooper,trintignant,Finished,10347900,1
+1958,monaco,ferrari,musso,Finished,10368100,2
+1958,monaco,ferrari,collins,Finished,10386700,3
+1958,monaco,cooper,jack_brabham,+3 Laps,-1,4
+1958,monaco,brm,schell,+9 Laps,-1,5
+1958,monaco,team_lotus,allison,+13 Laps,-1,6
+1958,monaco,ferrari,trips,Engine,-1,7
+1958,monaco,maserati,bonnier,Accident,-1,8
+1958,monaco,team_lotus,hill,Halfshaft,-1,9
+1958,monaco,cooper,salvadori,Gearbox,-1,10
+1958,monaco,ferrari,hawthorn,Fuel pump,-1,11
+1958,monaco,vanwall,moss,Engine,-1,12
+1958,monaco,brm,behra,Brakes,-1,13
+1958,monaco,maserati,scarlatti,Engine,-1,14
+1958,monaco,vanwall,brooks,Engine,-1,15
+1958,monaco,vanwall,lewis-evans,Overheating,-1,16
+1958,monaco,cooper,flockhart,Did not qualify,-1,17
+1958,monaco,maserati,kavanagh,Did not qualify,-1,18
+1958,monaco,maserati,gerini,Did not qualify,-1,19
+1958,monaco,connaught,kessler,Did not qualify,-1,20
+1958,monaco,connaught,emery,Did not qualify,-1,21
+1958,monaco,maserati,filippis,Did not qualify,-1,22
+1958,monaco,maserati,testut,Did not qualify,-1,23
+1958,monaco,osca,cabianca,Did not qualify,-1,24
+1958,monaco,osca,piotti,Did not qualify,-1,25
+1958,monaco,maserati,gould,Did not qualify,-1,26
+1958,monaco,brm,flockhart,Did not qualify,-1,27
+1958,monaco,connaught,ecclestone,Did not qualify,-1,28
+1958,monaco,maserati,taramazzo,Did not qualify,-1,29
+1958,monaco,maserati,chiron,Did not qualify,-1,30

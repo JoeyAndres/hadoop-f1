@@ -1,0 +1,24 @@
+2012,bahrain,red_bull,vettel,Finished,5710990,1
+2012,bahrain,lotus_f1,raikkonen,Finished,5714323,2
+2012,bahrain,lotus_f1,grosjean,Finished,5721184,3
+2012,bahrain,red_bull,webber,Finished,5749778,4
+2012,bahrain,mercedes,rosberg,Finished,5766450,5
+2012,bahrain,force_india,resta,Finished,5768533,6
+2012,bahrain,ferrari,alonso,Finished,5768793,7
+2012,bahrain,mclaren,hamilton,Finished,5769974,8
+2012,bahrain,ferrari,massa,Finished,5775989,9
+2012,bahrain,mercedes,michael_schumacher,Finished,5782480,10
+2012,bahrain,sauber,perez,Finished,5783692,11
+2012,bahrain,force_india,hulkenberg,Finished,5787529,12
+2012,bahrain,sauber,kobayashi,Finished,5801324,13
+2012,bahrain,toro_rosso,vergne,Finished,5804713,14
+2012,bahrain,toro_rosso,ricciardo,+1 Lap,-1,15
+2012,bahrain,caterham,petrov,+1 Lap,-1,16
+2012,bahrain,caterham,kovalainen,+1 Lap,-1,17
+2012,bahrain,mclaren,button,Exhaust,-1,18
+2012,bahrain,marussia,glock,+2 Laps,-1,19
+2012,bahrain,hrt,rosa,+2 Laps,-1,20
+2012,bahrain,hrt,karthikeyan,+2 Laps,-1,21
+2012,bahrain,williams,bruno_senna,Vibrations,-1,22
+2012,bahrain,williams,maldonado,Puncture,-1,23
+2012,bahrain,marussia,pic,Engine,-1,24

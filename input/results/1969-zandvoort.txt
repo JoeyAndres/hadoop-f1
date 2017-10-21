@@ -1,0 +1,15 @@
+1969,zandvoort,matra-ford,stewart,Finished,7602080,1
+1969,zandvoort,lotus-ford,siffert,Finished,7626600,2
+1969,zandvoort,ferrari,amon,Finished,7632590,3
+1969,zandvoort,mclaren-ford,hulme,Finished,7639240,4
+1969,zandvoort,brabham-ford,ickx,Finished,7639750,5
+1969,zandvoort,brabham-ford,jack_brabham,Finished,7672890,6
+1969,zandvoort,lotus-ford,hill,+2 Laps,-1,7
+1969,zandvoort,mclaren-ford,beltoise,+3 Laps,-1,8
+1969,zandvoort,brm,surtees,+3 Laps,-1,9
+1969,zandvoort,mclaren-ford,elford,+6 Laps,-1,10
+1969,zandvoort,brabham-ford,moser,Ignition,-1,11
+1969,zandvoort,mclaren-ford,mclaren,Suspension,-1,12
+1969,zandvoort,lotus-ford,rindt,Halfshaft,-1,13
+1969,zandvoort,brabham-ford,courage,Clutch,-1,14
+1969,zandvoort,brm,oliver,Gearbox,-1,15

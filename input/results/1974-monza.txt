@@ -1,0 +1,30 @@
+1974,monza,team_lotus,peterson,Finished,4976600,1
+1974,monza,mclaren,emerson_fittipaldi,Finished,4977400,2
+1974,monza,tyrrell,scheckter,Finished,5001300,3
+1974,monza,iso_marlboro,merzario,Finished,5064300,4
+1974,monza,brabham,pace,+1 Lap,-1,5
+1974,monza,mclaren,hulme,+1 Lap,-1,6
+1974,monza,brabham,watson,+1 Lap,-1,7
+1974,monza,lola,hill,+1 Lap,-1,8
+1974,monza,mclaren,hobbs,+1 Lap,-1,9
+1974,monza,shadow,pryce,+2 Laps,-1,10
+1974,monza,tyrrell,depailler,+2 Laps,-1,11
+1974,monza,ferrari,regazzoni,Engine,-1,12
+1974,monza,ferrari,lauda,Engine,-1,13
+1974,monza,team_lotus,ickx,Throttle,-1,14
+1974,monza,lola,stommelen,Suspension,-1,15
+1974,monza,iso_marlboro,laffite,Engine,-1,16
+1974,monza,shadow,jarier,Engine,-1,17
+1974,monza,march,brambilla,Accident,-1,18
+1974,monza,trojan,schenken,Gearbox,-1,19
+1974,monza,brabham,reutemann,Gearbox,-1,20
+1974,monza,march,stuck,Chassis,-1,21
+1974,monza,brm,pescarolo,Engine,-1,22
+1974,monza,hesketh,hunt,Engine,-1,23
+1974,monza,brm,migault,Gearbox,-1,24
+1974,monza,brm,beltoise,Electrical,-1,25
+1974,monza,surtees,dolhem,Did not qualify,-1,26
+1974,monza,brabham,facetti,Did not qualify,-1,27
+1974,monza,surtees,bell,Did not qualify,-1,28
+1974,monza,ensign,wilds,Did not qualify,-1,29
+1974,monza,amon,amon,Did not qualify,-1,30

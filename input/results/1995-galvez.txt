@@ -1,0 +1,26 @@
+1995,galvez,williams,damon_hill,Finished,6794532,1
+1995,galvez,ferrari,alesi,Finished,6800939,2
+1995,galvez,benetton,michael_schumacher,Finished,6827908,3
+1995,galvez,benetton,herbert,+1 Lap,-1,4
+1995,galvez,sauber,frentzen,+2 Laps,-1,5
+1995,galvez,ferrari,berger,+2 Laps,-1,6
+1995,galvez,ligier,panis,+2 Laps,-1,7
+1995,galvez,tyrrell,katayama,+3 Laps,-1,8
+1995,galvez,simtek,schiattarella,+4 Laps,-1,9
+1995,galvez,forti,diniz,Not classified,-1,10
+1995,galvez,forti,moreno,Not classified,-1,11
+1995,galvez,tyrrell,salo,Collision,-1,12
+1995,galvez,ligier,suzuki,Collision,-1,13
+1995,galvez,minardi,martini,Spun off,-1,14
+1995,galvez,footwork,morbidelli,Electrical,-1,15
+1995,galvez,footwork,inoue,Spun off,-1,16
+1995,galvez,jordan,barrichello,Oil pressure,-1,17
+1995,galvez,simtek,verstappen,Gearbox,-1,18
+1995,galvez,williams,coulthard,Electrical,-1,19
+1995,galvez,mclaren,blundell,Oil leak,-1,20
+1995,galvez,jordan,irvine,Engine,-1,21
+1995,galvez,pacific,montermini,Collision,-1,22
+1995,galvez,mclaren,hakkinen,Collision,-1,23
+1995,galvez,pacific,gachot,Collision,-1,24
+1995,galvez,sauber,wendlinger,Collision,-1,25
+1995,galvez,minardi,badoer,Collision,-1,26

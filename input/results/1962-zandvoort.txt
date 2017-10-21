@@ -1,0 +1,22 @@
+1962,zandvoort,brm,hill,Finished,7862100,1
+1962,zandvoort,lotus-climax,trevor_taylor,Finished,7889300,2
+1962,zandvoort,ferrari,phil_hill,Finished,7943200,3
+1962,zandvoort,ferrari,baghetti,+1 Lap,-1,4
+1962,zandvoort,cooper-climax,maggs,+2 Laps,-1,5
+1962,zandvoort,porsche,beaufort,+4 Laps,-1,6
+1962,zandvoort,porsche,bonnier,+5 Laps,-1,7
+1962,zandvoort,cooper-climax,lewis,+10 Laps,-1,8
+1962,zandvoort,lotus-climax,clark,+10 Laps,-1,9
+1962,zandvoort,ferrari,ricardo_rodriguez,Accident,-1,10
+1962,zandvoort,brm,ginther,Accident,-1,11
+1962,zandvoort,lotus-climax,ireland,Accident,-1,12
+1962,zandvoort,lotus-climax,gregory,Halfshaft,-1,13
+1962,zandvoort,emeryson,seidel,Not classified,-1,14
+1962,zandvoort,porsche,gurney,Gearbox,-1,15
+1962,zandvoort,cooper-climax,mclaren,Gearbox,-1,16
+1962,zandvoort,lola,salvadori,Withdrew,-1,17
+1962,zandvoort,lola,surtees,Accident,-1,18
+1962,zandvoort,lotus-climax,jack_brabham,Accident,-1,19
+1962,zandvoort,porsche,pon,Accident,-1,20
+1962,zandvoort,porsche,slotemaker,Withdrew,-1,21
+1962,zandvoort,lotus-climax,trintignant,Withdrew,-1,22

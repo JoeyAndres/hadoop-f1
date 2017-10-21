@@ -1,0 +1,26 @@
+1976,fuji,team_lotus,mario_andretti,Finished,6238860,1
+1976,fuji,tyrrell,depailler,+1 Lap,-1,2
+1976,fuji,mclaren,hunt,+1 Lap,-1,3
+1976,fuji,surtees,jones,+1 Lap,-1,4
+1976,fuji,ferrari,regazzoni,+1 Lap,-1,5
+1976,fuji,team_lotus,nilsson,+1 Lap,-1,6
+1976,fuji,ligier,laffite,+1 Lap,-1,7
+1976,fuji,hesketh,ertl,+1 Lap,-1,8
+1976,fuji,surtees,takahara,+3 Laps,-1,9
+1976,fuji,shadow,jarier,+4 Laps,-1,10
+1976,fuji,kojima,hasemi,+7 Laps,-1,11
+1976,fuji,tyrrell,scheckter,Overheating,-1,12
+1976,fuji,wolf,binder,Wheel,-1,13
+1976,fuji,shadow,pryce,Physical,-1,14
+1976,fuji,march,brambilla,Electrical,-1,15
+1976,fuji,march,stuck,Electrical,-1,16
+1976,fuji,mclaren,mass,Accident,-1,17
+1976,fuji,penske,watson,Engine,-1,18
+1976,fuji,tyrrell,hoshino,Tyre,-1,19
+1976,fuji,wolf,merzario,Gearbox,-1,20
+1976,fuji,fittipaldi,emerson_fittipaldi,Withdrew,-1,21
+1976,fuji,brabham-alfa_romeo,pace,Withdrew,-1,22
+1976,fuji,ferrari,lauda,Withdrew,-1,23
+1976,fuji,brabham-alfa_romeo,perkins,Withdrew,-1,24
+1976,fuji,march,peterson,Engine,-1,25
+1976,fuji,maki,trimmer,Did not qualify,-1,26

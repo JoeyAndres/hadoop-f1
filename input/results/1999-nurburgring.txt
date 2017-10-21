@@ -1,0 +1,22 @@
+1999,nurburgring,stewart,herbert,Finished,6114314,1
+1999,nurburgring,prost,trulli,Finished,6136933,2
+1999,nurburgring,stewart,barrichello,Finished,6137180,3
+1999,nurburgring,williams,ralf_schumacher,Finished,6153822,4
+1999,nurburgring,mclaren,hakkinen,Finished,6177264,5
+1999,nurburgring,minardi,gene,Finished,6179468,6
+1999,nurburgring,ferrari,irvine,Finished,6180997,7
+1999,nurburgring,bar,zonta,+1 Lap,-1,8
+1999,nurburgring,prost,panis,+1 Lap,-1,9
+1999,nurburgring,bar,villeneuve,Clutch,-1,10
+1999,nurburgring,minardi,badoer,Gearbox,-1,11
+1999,nurburgring,arrows,rosa,Gearbox,-1,12
+1999,nurburgring,benetton,fisichella,Spun off,-1,13
+1999,nurburgring,ferrari,salo,Brakes,-1,14
+1999,nurburgring,arrows,takagi,Spun off,-1,15
+1999,nurburgring,mclaren,coulthard,Spun off,-1,16
+1999,nurburgring,sauber,alesi,Halfshaft,-1,17
+1999,nurburgring,jordan,frentzen,Electrical,-1,18
+1999,nurburgring,williams,zanardi,Collision,-1,19
+1999,nurburgring,jordan,damon_hill,Electrical,-1,20
+1999,nurburgring,benetton,wurz,Collision,-1,21
+1999,nurburgring,sauber,diniz,Collision,-1,22

@@ -1,0 +1,22 @@
+2014,albert_park,mercedes,rosberg,Finished,5578710,1
+2014,albert_park,mclaren,kevin_magnussen,Finished,5605487,2
+2014,albert_park,mclaren,button,Finished,5608737,3
+2014,albert_park,ferrari,alonso,Finished,5613994,4
+2014,albert_park,williams,bottas,Finished,5626349,5
+2014,albert_park,force_india,hulkenberg,Finished,5629428,6
+2014,albert_park,ferrari,raikkonen,Finished,5636385,7
+2014,albert_park,toro_rosso,vergne,Finished,5639151,8
+2014,albert_park,toro_rosso,kvyat,Finished,5642295,9
+2014,albert_park,force_india,perez,Finished,5664626,10
+2014,albert_park,sauber,sutil,+1 Lap,-1,11
+2014,albert_park,sauber,gutierrez,+1 Lap,-1,12
+2014,albert_park,marussia,chilton,+2 Laps,-1,13
+2014,albert_park,marussia,jules_bianchi,+8 Laps,-1,14
+2014,albert_park,lotus_f1,grosjean,ERS,-1,15
+2014,albert_park,lotus_f1,maldonado,ERS,-1,16
+2014,albert_park,caterham,ericsson,Oil pressure,-1,17
+2014,albert_park,red_bull,vettel,Engine,-1,18
+2014,albert_park,mercedes,hamilton,Engine,-1,19
+2014,albert_park,williams,massa,Collision,-1,20
+2014,albert_park,caterham,kobayashi,Collision,-1,21
+2014,albert_park,red_bull,ricciardo,Disqualified,5603235,22

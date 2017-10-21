@@ -1,0 +1,27 @@
+1972,monza,team_lotus,emerson_fittipaldi,Finished,5398400,1
+1972,monza,surtees,hailwood,Finished,5412900,2
+1972,monza,mclaren,hulme,Finished,5422200,3
+1972,monza,mclaren,revson,Finished,5434100,4
+1972,monza,brabham,hill,Finished,5464000,5
+1972,monza,brm,gethin,Finished,5480300,6
+1972,monza,ferrari,mario_andretti,+1 Lap,-1,7
+1972,monza,brm,beltoise,+1 Lap,-1,8
+1972,monza,march,peterson,+1 Lap,-1,9
+1972,monza,march,beuttler,+1 Lap,-1,10
+1972,monza,brm,ganley,+3 Laps,-1,11
+1972,monza,brm,wisell,+4 Laps,-1,12
+1972,monza,march,lauda,+5 Laps,-1,13
+1972,monza,ferrari,ickx,Electrical,-1,14
+1972,monza,matra,amon,Brakes,-1,15
+1972,monza,surtees,adamich,Brakes,-1,16
+1972,monza,brabham,wilson_fittipaldi,Suspension,-1,17
+1972,monza,surtees,surtees,Fuel system,-1,18
+1972,monza,surtees,schenken,Spun off,-1,19
+1972,monza,ferrari,regazzoni,Collision,-1,20
+1972,monza,march,pace,Collision,-1,21
+1972,monza,brabham,reutemann,Suspension,-1,22
+1972,monza,tyrrell,cevert,Engine,-1,23
+1972,monza,tecno,galli,Engine,-1,24
+1972,monza,tyrrell,stewart,Clutch,-1,25
+1972,monza,march,pescarolo,Did not qualify,-1,26
+1972,monza,tecno,bell,Did not qualify,-1,27

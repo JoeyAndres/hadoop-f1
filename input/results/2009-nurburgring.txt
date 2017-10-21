@@ -1,0 +1,20 @@
+2009,nurburgring,red_bull,webber,Finished,5803310,1
+2009,nurburgring,red_bull,vettel,Finished,5812562,2
+2009,nurburgring,ferrari,massa,Finished,5819216,3
+2009,nurburgring,williams,rosberg,Finished,5824409,4
+2009,nurburgring,brawn,button,Finished,5826919,5
+2009,nurburgring,brawn,barrichello,Finished,5827778,6
+2009,nurburgring,renault,alonso,Finished,5828198,7
+2009,nurburgring,mclaren,kovalainen,Finished,5862002,8
+2009,nurburgring,toyota,glock,Finished,5864767,9
+2009,nurburgring,bmw_sauber,heidfeld,Finished,5865235,10
+2009,nurburgring,force_india,fisichella,Finished,5865637,11
+2009,nurburgring,williams,nakajima,Finished,5866186,12
+2009,nurburgring,renault,piquet_jr,Finished,5871638,13
+2009,nurburgring,bmw_sauber,kubica,Finished,5872865,14
+2009,nurburgring,force_india,sutil,Finished,5875251,15
+2009,nurburgring,toro_rosso,buemi,Finished,5893535,16
+2009,nurburgring,toyota,trulli,Finished,5894280,17
+2009,nurburgring,mclaren,hamilton,+1 Lap,-1,18
+2009,nurburgring,ferrari,raikkonen,Engine,-1,19
+2009,nurburgring,toro_rosso,bourdais,Hydraulics,-1,20

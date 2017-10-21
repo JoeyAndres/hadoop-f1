@@ -1,0 +1,20 @@
+2008,fuji,renault,alonso,Finished,5421892,1
+2008,fuji,bmw_sauber,kubica,Finished,5427175,2
+2008,fuji,ferrari,raikkonen,Finished,5428292,3
+2008,fuji,renault,piquet_jr,Finished,5442462,4
+2008,fuji,toyota,trulli,Finished,5445659,5
+2008,fuji,toro_rosso,vettel,Finished,5461099,6
+2008,fuji,ferrari,massa,Finished,5468050,7
+2008,fuji,red_bull,webber,Finished,5472703,8
+2008,fuji,bmw_sauber,heidfeld,Finished,5476012,9
+2008,fuji,toro_rosso,bourdais,Finished,5480977,10
+2008,fuji,williams,rosberg,Finished,5483988,11
+2008,fuji,mclaren,hamilton,Finished,5500792,12
+2008,fuji,honda,barrichello,+1 Lap,-1,13
+2008,fuji,honda,button,+1 Lap,-1,14
+2008,fuji,williams,nakajima,+1 Lap,-1,15
+2008,fuji,force_india,fisichella,Gearbox,-1,16
+2008,fuji,mclaren,kovalainen,Engine,-1,17
+2008,fuji,force_india,sutil,Tyre,-1,18
+2008,fuji,toyota,glock,Driver Seat,-1,19
+2008,fuji,red_bull,coulthard,Collision,-1,20

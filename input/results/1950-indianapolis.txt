@@ -1,0 +1,30 @@
+1950,indianapolis,kurtis_kraft,parsons,Finished,10015970,1
+1950,indianapolis,deidt,holland,+1 Lap,-1,2
+1950,indianapolis,deidt,rose,+1 Lap,-1,3
+1950,indianapolis,kurtis_kraft,green,+1 Lap,-1,4
+1950,indianapolis,kurtis_kraft,bettenhausen,+2 Laps,-1,5
+1950,indianapolis,kurtis_kraft,chitwood,+2 Laps,-1,5
+1950,indianapolis,moore,wallard,+2 Laps,-1,6
+1950,indianapolis,kurtis_kraft,faulkner,+3 Laps,-1,7
+1950,indianapolis,lesovsky,george_connor,+3 Laps,-1,8
+1950,indianapolis,nichels,paul_russo,+3 Laps,-1,9
+1950,indianapolis,kurtis_kraft,flaherty,+3 Laps,-1,10
+1950,indianapolis,marchese,fohr,+5 Laps,-1,11
+1950,indianapolis,stevens,darter,+5 Laps,-1,12
+1950,indianapolis,kurtis_kraft,hellings,+6 Laps,-1,13
+1950,indianapolis,kurtis_kraft,mcgrath,Spun off,-1,14
+1950,indianapolis,lesovsky,ruttman,+8 Laps,-1,15
+1950,indianapolis,langley,hartley,+10 Laps,-1,16
+1950,indianapolis,ewing,davies,+10 Laps,-1,17
+1950,indianapolis,kurtis_kraft,mcdowell,+10 Laps,-1,18
+1950,indianapolis,kurtis_kraft,walt_brown,+11 Laps,-1,19
+1950,indianapolis,maserati,webb,+12 Laps,-1,20
+1950,indianapolis,kurtis_kraft,hoyt,+13 Laps,-1,21
+1950,indianapolis,rae,ader,+15 Laps,-1,22
+1950,indianapolis,olson,holmes,Spun off,-1,23
+1950,indianapolis,wetteroth,rathmann,+16 Laps,-1,24
+1950,indianapolis,maserati,banks,Oil line,-1,25
+1950,indianapolis,snowberger,schindler,Transmission,-1,26
+1950,indianapolis,adams,levrett,Oil pressure,-1,27
+1950,indianapolis,adams,cantrell,Oil pressure,-1,27
+1950,indianapolis,kurtis_kraft,agabashian,Oil leak,-1,28

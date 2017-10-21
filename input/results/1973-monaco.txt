@@ -1,0 +1,25 @@
+1973,monaco,tyrrell,stewart,Finished,7064300,1
+1973,monaco,team_lotus,emerson_fittipaldi,Finished,7065600,2
+1973,monaco,team_lotus,peterson,+1 Lap,-1,3
+1973,monaco,tyrrell,cevert,+1 Lap,-1,4
+1973,monaco,mclaren,revson,+2 Laps,-1,5
+1973,monaco,mclaren,hulme,+2 Laps,-1,6
+1973,monaco,brabham,adamich,+3 Laps,-1,7
+1973,monaco,surtees,hailwood,+3 Laps,-1,8
+1973,monaco,march,hunt,Engine,-1,9
+1973,monaco,shadow,oliver,+6 Laps,-1,10
+1973,monaco,brabham,wilson_fittipaldi,Fuel system,-1,11
+1973,monaco,march,jarier,Gearbox,-1,12
+1973,monaco,shadow,hill,Suspension,-1,13
+1973,monaco,ferrari,merzario,Oil pressure,-1,14
+1973,monaco,brabham,reutemann,Gearbox,-1,15
+1973,monaco,ferrari,ickx,Halfshaft,-1,16
+1973,monaco,iso_marlboro,ganley,Halfshaft,-1,17
+1973,monaco,brm,beltoise,Accident,-1,18
+1973,monaco,surtees,pace,Halfshaft,-1,19
+1973,monaco,march,purley,Fuel leak,-1,20
+1973,monaco,iso_marlboro,galli,Halfshaft,-1,21
+1973,monaco,brm,lauda,Gearbox,-1,22
+1973,monaco,tecno,amon,Overheating,-1,23
+1973,monaco,brm,regazzoni,Brakes,-1,24
+1973,monaco,march,beuttler,Engine,-1,25

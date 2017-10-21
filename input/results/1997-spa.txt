@@ -1,0 +1,22 @@
+1997,spa,ferrari,michael_schumacher,Finished,5626717,1
+1997,spa,jordan,fisichella,Finished,5653470,2
+1997,spa,williams,frentzen,Finished,5658864,3
+1997,spa,sauber,herbert,Finished,5665742,4
+1997,spa,williams,villeneuve,Finished,5668820,5
+1997,spa,benetton,berger,Finished,5690458,6
+1997,spa,arrows,diniz,Finished,5712648,7
+1997,spa,benetton,alesi,Finished,5728725,8
+1997,spa,sauber,morbidelli,Finished,5729299,9
+1997,spa,ferrari,irvine,+1 Lap,-1,10
+1997,spa,tyrrell,salo,+1 Lap,-1,11
+1997,spa,stewart,magnussen,+1 Lap,-1,12
+1997,spa,arrows,damon_hill,+2 Laps,-1,13
+1997,spa,minardi,katayama,+2 Laps,-1,14
+1997,spa,prost,trulli,+2 Laps,-1,15
+1997,spa,mclaren,hakkinen,Disqualified,-1,16
+1997,spa,tyrrell,verstappen,Spun off,-1,17
+1997,spa,jordan,ralf_schumacher,Spun off,-1,18
+1997,spa,mclaren,coulthard,Spun off,-1,19
+1997,spa,minardi,marques,Spun off,-1,20
+1997,spa,stewart,barrichello,Steering,-1,21
+1997,spa,prost,nakano,Electrical,-1,22

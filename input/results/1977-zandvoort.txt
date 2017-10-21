@@ -1,0 +1,30 @@
+1977,zandvoort,ferrari,lauda,Finished,6105930,1
+1977,zandvoort,ligier,laffite,Finished,6107820,2
+1977,zandvoort,wolf,scheckter,+1 Lap,-1,3
+1977,zandvoort,fittipaldi,emerson_fittipaldi,+1 Lap,-1,4
+1977,zandvoort,ensign,tambay,Out of fuel,-1,5
+1977,zandvoort,ferrari,reutemann,+2 Laps,-1,6
+1977,zandvoort,brabham,stuck,+2 Laps,-1,7
+1977,zandvoort,penske,binder,+2 Laps,-1,8
+1977,zandvoort,mclaren,lunger,+2 Laps,-1,9
+1977,zandvoort,march,ian_scheckter,+2 Laps,-1,10
+1977,zandvoort,march,ribeiro,+3 Laps,-1,11
+1977,zandvoort,surtees,brambilla,Accident,-1,12
+1977,zandvoort,shadow,patrese,Engine,-1,13
+1977,zandvoort,boro,henton,Disqualified,-1,14
+1977,zandvoort,renault,jabouille,Suspension,-1,15
+1977,zandvoort,team_lotus,nilsson,Accident,-1,16
+1977,zandvoort,shadow,jones,Engine,-1,17
+1977,zandvoort,tyrrell,depailler,Engine,-1,18
+1977,zandvoort,tyrrell,peterson,Ignition,-1,19
+1977,zandvoort,ensign,regazzoni,Throttle,-1,20
+1977,zandvoort,team_lotus,mario_andretti,Engine,-1,21
+1977,zandvoort,hesketh,keegan,Accident,-1,22
+1977,zandvoort,mclaren,hunt,Accident,-1,23
+1977,zandvoort,penske,jarier,Ignition,-1,24
+1977,zandvoort,brabham,watson,Oil leak,-1,25
+1977,zandvoort,mclaren,mass,Accident,-1,26
+1977,zandvoort,march,neve,Did not qualify,-1,27
+1977,zandvoort,march,merzario,Did not qualify,-1,28
+1977,zandvoort,surtees,schuppan,Did not qualify,-1,29
+1977,zandvoort,hesketh,ashley,Did not qualify,-1,30

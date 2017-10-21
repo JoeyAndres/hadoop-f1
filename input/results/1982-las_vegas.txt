@@ -1,0 +1,30 @@
+1982,las_vegas,tyrrell,alboreto,Finished,6116888,1
+1982,las_vegas,mclaren,watson,Finished,6144180,2
+1982,las_vegas,ligier,cheever,Finished,6173338,3
+1982,las_vegas,renault,prost,Finished,6185536,4
+1982,las_vegas,williams,keke_rosberg,Finished,6188263,5
+1982,las_vegas,williams,daly,+1 Lap,-1,6
+1982,las_vegas,arrows,surer,+1 Lap,-1,7
+1982,las_vegas,tyrrell,henton,+1 Lap,-1,8
+1982,las_vegas,alfa,cesaris,+2 Laps,-1,9
+1982,las_vegas,alfa,giacomelli,+2 Laps,-1,10
+1982,las_vegas,arrows,baldi,+2 Laps,-1,11
+1982,las_vegas,march,keegan,+2 Laps,-1,12
+1982,las_vegas,march,boesel,+6 Laps,-1,13
+1982,las_vegas,ats,manfred_winkelhock,Not classified,-1,14
+1982,las_vegas,mclaren,lauda,Engine,-1,15
+1982,las_vegas,theodore,byrne,Spun off,-1,16
+1982,las_vegas,toleman,warwick,Spark plugs,-1,17
+1982,las_vegas,team_lotus,angelis,Engine,-1,18
+1982,las_vegas,ferrari,mario_andretti,Suspension,-1,19
+1982,las_vegas,brabham,piquet,Spark plugs,-1,20
+1982,las_vegas,renault,arnoux,Engine,-1,21
+1982,las_vegas,brabham,patrese,Clutch,-1,22
+1982,las_vegas,team_lotus,mansell,Collision,-1,23
+1982,las_vegas,ligier,laffite,Ignition,-1,24
+1982,las_vegas,ferrari,tambay,Withdrew,-1,25
+1982,las_vegas,ensign,guerrero,Engine,-1,26
+1982,las_vegas,osella,jarier,Accident,-1,27
+1982,las_vegas,toleman,fabi,Did not qualify,-1,28
+1982,las_vegas,ats,salazar,Did not qualify,-1,29
+1982,las_vegas,fittipaldi,serra,Did not qualify,-1,30

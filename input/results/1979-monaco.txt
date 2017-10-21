@@ -1,0 +1,25 @@
+1979,monaco,ferrari,scheckter,Finished,6922480,1
+1979,monaco,williams,regazzoni,Finished,6922920,2
+1979,monaco,team_lotus,reutemann,Finished,6931050,3
+1979,monaco,mclaren,watson,Finished,6963790,4
+1979,monaco,ligier,depailler,Engine,-1,5
+1979,monaco,arrows,mass,+7 Laps,-1,6
+1979,monaco,brabham-alfa_romeo,piquet,Transmission,-1,7
+1979,monaco,renault,jabouille,+8 Laps,-1,8
+1979,monaco,ligier,laffite,Gearbox,-1,9
+1979,monaco,ferrari,gilles_villeneuve,Transmission,-1,10
+1979,monaco,williams,jones,Steering,-1,11
+1979,monaco,tyrrell,jarier,Suspension,-1,12
+1979,monaco,ats,stuck,Wheel,-1,13
+1979,monaco,brabham-alfa_romeo,lauda,Accident,-1,14
+1979,monaco,tyrrell,pironi,Accident,-1,15
+1979,monaco,team_lotus,mario_andretti,Suspension,-1,16
+1979,monaco,fittipaldi,emerson_fittipaldi,Engine,-1,17
+1979,monaco,renault,arnoux,Accident,-1,18
+1979,monaco,wolf,hunt,Transmission,-1,19
+1979,monaco,arrows,patrese,Suspension,-1,20
+1979,monaco,shadow,angelis,Did not qualify,-1,21
+1979,monaco,mclaren,tambay,Did not qualify,-1,22
+1979,monaco,shadow,lammers,Did not qualify,-1,23
+1979,monaco,ensign,daly,Did not qualify,-1,24
+1979,monaco,merzario,brancatelli,Did not prequalify,-1,25

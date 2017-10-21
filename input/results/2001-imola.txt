@@ -1,0 +1,22 @@
+2001,imola,williams,ralf_schumacher,Finished,5444817,1
+2001,imola,mclaren,coulthard,Finished,5449169,2
+2001,imola,ferrari,barrichello,Finished,5479583,3
+2001,imola,mclaren,hakkinen,Finished,5481132,4
+2001,imola,jordan,trulli,Finished,5530375,5
+2001,imola,jordan,frentzen,+1 Lap,-1,6
+2001,imola,sauber,heidfeld,+1 Lap,-1,7
+2001,imola,bar,panis,+1 Lap,-1,8
+2001,imola,prost,alesi,+1 Lap,-1,9
+2001,imola,arrows,bernoldi,+2 Laps,-1,10
+2001,imola,jaguar,burti,+2 Laps,-1,11
+2001,imola,benetton,button,+2 Laps,-1,12
+2001,imola,minardi,marques,Engine,-1,13
+2001,imola,williams,montoya,Clutch,-1,14
+2001,imola,jaguar,irvine,Engine,-1,15
+2001,imola,benetton,fisichella,Engine,-1,16
+2001,imola,bar,villeneuve,Engine,-1,17
+2001,imola,prost,mazzacane,Engine,-1,18
+2001,imola,ferrari,michael_schumacher,Suspension,-1,19
+2001,imola,sauber,raikkonen,Steering,-1,20
+2001,imola,arrows,verstappen,Exhaust,-1,21
+2001,imola,minardi,alonso,Brakes,-1,22

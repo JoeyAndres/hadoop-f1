@@ -1,0 +1,28 @@
+1981,osterreichring,ligier,laffite,Finished,5256470,1
+1981,osterreichring,renault,arnoux,Finished,5261640,2
+1981,osterreichring,brabham,piquet,Finished,5263810,3
+1981,osterreichring,williams,jones,Finished,5268510,4
+1981,osterreichring,williams,reutemann,Finished,5288320,5
+1981,osterreichring,mclaren,watson,Finished,5347610,6
+1981,osterreichring,team_lotus,angelis,+1 Lap,-1,7
+1981,osterreichring,mclaren,cesaris,+1 Lap,-1,8
+1981,osterreichring,ferrari,pironi,+1 Lap,-1,9
+1981,osterreichring,osella,jarier,+2 Laps,-1,10
+1981,osterreichring,march,daly,+6 Laps,-1,11
+1981,osterreichring,alfa,mario_andretti,Engine,-1,12
+1981,osterreichring,ats,borgudd,Brakes,-1,13
+1981,osterreichring,arrows,patrese,Engine,-1,14
+1981,osterreichring,ensign,salazar,Oil pressure,-1,15
+1981,osterreichring,tyrrell,alboreto,Gearbox,-1,16
+1981,osterreichring,alfa,giacomelli,Heat shield fire,-1,17
+1981,osterreichring,brabham,rebaque,Clutch,-1,18
+1981,osterreichring,arrows,stohr,Overheating,-1,19
+1981,osterreichring,renault,prost,Suspension,-1,20
+1981,osterreichring,ligier,tambay,Engine,-1,21
+1981,osterreichring,team_lotus,mansell,Engine,-1,22
+1981,osterreichring,ferrari,gilles_villeneuve,Accident,-1,23
+1981,osterreichring,theodore,surer,Distributor,-1,24
+1981,osterreichring,tyrrell,cheever,Did not qualify,-1,25
+1981,osterreichring,toleman,warwick,Did not qualify,-1,26
+1981,osterreichring,toleman,henton,Did not qualify,-1,27
+1981,osterreichring,osella,gabbiani,Did not qualify,-1,28

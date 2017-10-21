@@ -1,0 +1,22 @@
+2016,shanghai,mercedes,rosberg,Finished,5933891,1
+2016,shanghai,ferrari,vettel,Finished,5971667,2
+2016,shanghai,red_bull,kvyat,Finished,5979827,3
+2016,shanghai,red_bull,ricciardo,Finished,5986579,4
+2016,shanghai,ferrari,raikkonen,Finished,5999763,5
+2016,shanghai,williams,massa,Finished,6009402,6
+2016,shanghai,mercedes,hamilton,Finished,6012121,7
+2016,shanghai,toro_rosso,max_verstappen,Finished,6013159,8
+2016,shanghai,toro_rosso,sainz,Finished,6018018,9
+2016,shanghai,williams,bottas,Finished,6020083,10
+2016,shanghai,force_india,perez,Finished,6028174,11
+2016,shanghai,mclaren,alonso,Finished,6031144,12
+2016,shanghai,mclaren,button,Finished,6035881,13
+2016,shanghai,haas,gutierrez,+1 Lap,-1,14
+2016,shanghai,force_india,hulkenberg,+1 Lap,-1,15
+2016,shanghai,sauber,ericsson,+1 Lap,-1,16
+2016,shanghai,renault,kevin_magnussen,+1 Lap,-1,17
+2016,shanghai,manor,wehrlein,+1 Lap,-1,18
+2016,shanghai,haas,grosjean,+1 Lap,-1,19
+2016,shanghai,sauber,nasr,+1 Lap,-1,20
+2016,shanghai,manor,haryanto,+1 Lap,-1,21
+2016,shanghai,renault,jolyon_palmer,+1 Lap,-1,22

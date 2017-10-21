@@ -1,0 +1,24 @@
+2012,valencia,ferrari,alonso,Finished,6256649,1
+2012,valencia,lotus_f1,raikkonen,Finished,6263070,2
+2012,valencia,mercedes,michael_schumacher,Finished,6269288,3
+2012,valencia,red_bull,webber,Finished,6270277,4
+2012,valencia,force_india,hulkenberg,Finished,6276642,5
+2012,valencia,mercedes,rosberg,Finished,6277825,6
+2012,valencia,force_india,resta,Finished,6279515,7
+2012,valencia,mclaren,button,Finished,6281302,8
+2012,valencia,sauber,perez,Finished,6284426,9
+2012,valencia,williams,bruno_senna,Finished,6292610,10
+2012,valencia,toro_rosso,ricciardo,Finished,6293690,11
+2012,valencia,williams,maldonado,Finished,6311279,12
+2012,valencia,caterham,petrov,Finished,6332520,13
+2012,valencia,caterham,kovalainen,Finished,6351303,14
+2012,valencia,marussia,pic,Finished,6353200,15
+2012,valencia,ferrari,massa,+1 Lap,-1,16
+2012,valencia,hrt,rosa,+1 Lap,-1,17
+2012,valencia,hrt,karthikeyan,+1 Lap,-1,18
+2012,valencia,mclaren,hamilton,Collision,-1,19
+2012,valencia,lotus_f1,grosjean,Electronics,-1,20
+2012,valencia,red_bull,vettel,Gearbox,-1,21
+2012,valencia,sauber,kobayashi,Collision,-1,22
+2012,valencia,toro_rosso,vergne,Collision,-1,23
+2012,valencia,marussia,glock,Withdrew,-1,24

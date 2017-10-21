@@ -1,0 +1,20 @@
+1973,interlagos,team_lotus,emerson_fittipaldi,Finished,6235600,1
+1973,interlagos,tyrrell,stewart,Finished,6249100,2
+1973,interlagos,mclaren,hulme,Finished,6342000,3
+1973,interlagos,ferrari,merzario,+1 Lap,-1,4
+1973,interlagos,ferrari,ickx,+1 Lap,-1,5
+1973,interlagos,brm,regazzoni,+1 Lap,-1,6
+1973,interlagos,iso_marlboro,ganley,+1 Lap,-1,7
+1973,interlagos,brm,lauda,+2 Laps,-1,8
+1973,interlagos,iso_marlboro,galli,+2 Laps,-1,9
+1973,interlagos,tyrrell,cevert,+2 Laps,-1,10
+1973,interlagos,brabham,reutemann,+2 Laps,-1,11
+1973,interlagos,surtees,bueno,+4 Laps,-1,12
+1973,interlagos,brm,beltoise,Electrical,-1,13
+1973,interlagos,march,beuttler,Overheating,-1,14
+1973,interlagos,surtees,pace,Suspension,-1,15
+1973,interlagos,surtees,hailwood,Gearbox,-1,16
+1973,interlagos,march,jarier,Gearbox,-1,17
+1973,interlagos,team_lotus,peterson,Wheel,-1,18
+1973,interlagos,brabham,wilson_fittipaldi,Overheating,-1,19
+1973,interlagos,mclaren,revson,Gearbox,-1,20

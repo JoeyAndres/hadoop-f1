@@ -1,0 +1,20 @@
+1970,tremblant,ferrari,ickx,Finished,4878400,1
+1970,tremblant,ferrari,regazzoni,Finished,4893200,2
+1970,tremblant,march,amon,Finished,4936300,3
+1970,tremblant,brm,rodriguez,+1 Lap,-1,4
+1970,tremblant,surtees,surtees,+1 Lap,-1,5
+1970,tremblant,mclaren-ford,gethin,+2 Laps,-1,6
+1970,tremblant,matra,pescarolo,+3 Laps,-1,7
+1970,tremblant,matra,beltoise,Clutch,-1,8
+1970,tremblant,march,cevert,+5 Laps,-1,9
+1970,tremblant,brm,eaton,+5 Laps,-1,10
+1970,tremblant,tomaso,schenken,Not classified,-1,11
+1970,tremblant,team_lotus,hill,Not classified,-1,12
+1970,tremblant,mclaren-alfa_romeo,adamich,Oil pressure,-1,13
+1970,tremblant,march,peterson,Not classified,-1,14
+1970,tremblant,mclaren-ford,hulme,Engine,-1,15
+1970,tremblant,brabham,jack_brabham,Oil leak,-1,16
+1970,tremblant,brm,oliver,Not classified,-1,17
+1970,tremblant,tyrrell,stewart,Axle,-1,18
+1970,tremblant,brabham,stommelen,Handling,-1,19
+1970,tremblant,march,siffert,Engine,-1,20

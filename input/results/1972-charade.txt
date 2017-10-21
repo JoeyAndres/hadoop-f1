@@ -1,0 +1,25 @@
+1972,charade,tyrrell,stewart,Finished,6742500,1
+1972,charade,team_lotus,emerson_fittipaldi,Finished,6770200,2
+1972,charade,matra,amon,Finished,6774400,3
+1972,charade,tyrrell,cevert,Finished,6791800,4
+1972,charade,march,peterson,Finished,6799300,5
+1972,charade,surtees,hailwood,Finished,6838600,6
+1972,charade,mclaren,hulme,Finished,6850600,7
+1972,charade,brabham,wilson_fittipaldi,Finished,6887600,8
+1972,charade,mclaren,redman,Finished,6918000,9
+1972,charade,brabham,hill,Finished,6922000,10
+1972,charade,ferrari,ickx,+1 Lap,-1,11
+1972,charade,brabham,reutemann,+1 Lap,-1,12
+1972,charade,ferrari,galli,+1 Lap,-1,13
+1972,charade,surtees,adamich,+1 Lap,-1,14
+1972,charade,brm,beltoise,+1 Lap,-1,15
+1972,charade,march,stommelen,+1 Lap,-1,16
+1972,charade,surtees,schenken,+2 Laps,-1,17
+1972,charade,team_lotus,walker,Halfshaft,-1,18
+1972,charade,march,beuttler,Out of fuel,-1,19
+1972,charade,tyrrell,depailler,Not classified,-1,20
+1972,charade,brm,wisell,Gearbox,-1,21
+1972,charade,march,pace,Engine,-1,22
+1972,charade,brm,marko,Eye injury,-1,23
+1972,charade,march,lauda,Halfshaft,-1,24
+1972,charade,team_lotus,charlton,Did not qualify,-1,25

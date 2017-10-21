@@ -1,0 +1,25 @@
+1974,galvez,mclaren,hulme,Finished,6062010,1
+1974,galvez,ferrari,lauda,Finished,6071280,2
+1974,galvez,ferrari,regazzoni,Finished,6082420,3
+1974,galvez,mclaren,hailwood,Finished,6093800,4
+1974,galvez,brm,beltoise,Finished,6113850,5
+1974,galvez,tyrrell,depailler,Finished,6174490,6
+1974,galvez,brabham,reutemann,Out of fuel,-1,7
+1974,galvez,march,ganley,Out of fuel,-1,8
+1974,galvez,brm,pescarolo,+1 Lap,-1,9
+1974,galvez,mclaren,emerson_fittipaldi,+1 Lap,-1,10
+1974,galvez,lola,edwards,+2 Laps,-1,11
+1974,galvez,brabham,watson,+4 Laps,-1,12
+1974,galvez,team_lotus,peterson,+5 Laps,-1,13
+1974,galvez,lola,hill,Engine,-1,14
+1974,galvez,team_lotus,ickx,Clutch,-1,15
+1974,galvez,brabham,robarts,Gearbox,-1,16
+1974,galvez,march,stuck,Clutch,-1,17
+1974,galvez,brm,migault,Water leak,-1,18
+1974,galvez,tyrrell,scheckter,Engine,-1,19
+1974,galvez,surtees,pace,Suspension,-1,20
+1974,galvez,iso_marlboro,merzario,Overheating,-1,21
+1974,galvez,march,hunt,Overheating,-1,22
+1974,galvez,surtees,mass,Engine,-1,23
+1974,galvez,shadow,revson,Accident,-1,24
+1974,galvez,shadow,jarier,Accident,-1,25

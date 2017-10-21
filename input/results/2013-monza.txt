@@ -1,0 +1,22 @@
+2013,monza,red_bull,vettel,Finished,4713352,1
+2013,monza,ferrari,alonso,Finished,4718819,2
+2013,monza,red_bull,webber,Finished,4719702,3
+2013,monza,ferrari,massa,Finished,4722713,4
+2013,monza,sauber,hulkenberg,Finished,4723707,5
+2013,monza,mercedes,rosberg,Finished,4724351,6
+2013,monza,toro_rosso,ricciardo,Finished,4745681,7
+2013,monza,lotus_f1,grosjean,Finished,4746482,8
+2013,monza,mercedes,hamilton,Finished,4746879,9
+2013,monza,mclaren,button,Finished,4751679,10
+2013,monza,lotus_f1,raikkonen,Finished,4752047,11
+2013,monza,mclaren,perez,Finished,4753117,12
+2013,monza,sauber,gutierrez,Finished,4754232,13
+2013,monza,williams,maldonado,Finished,4762437,14
+2013,monza,williams,bottas,Finished,4770179,15
+2013,monza,force_india,sutil,+1 Lap,-1,16
+2013,monza,caterham,pic,+1 Lap,-1,17
+2013,monza,caterham,garde,+1 Lap,-1,18
+2013,monza,marussia,jules_bianchi,+1 Lap,-1,19
+2013,monza,marussia,chilton,+1 Lap,-1,20
+2013,monza,toro_rosso,vergne,Transmission,-1,21
+2013,monza,force_india,resta,Accident,-1,22

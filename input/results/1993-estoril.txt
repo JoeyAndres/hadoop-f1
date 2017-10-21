@@ -1,0 +1,26 @@
+1993,estoril,benetton,michael_schumacher,Finished,5566309,1
+1993,estoril,williams,prost,Finished,5567291,2
+1993,estoril,williams,damon_hill,Finished,5574515,3
+1993,estoril,ferrari,alesi,Finished,5633914,4
+1993,estoril,sauber,wendlinger,+1 Lap,-1,5
+1993,estoril,ligier,brundle,+1 Lap,-1,6
+1993,estoril,sauber,lehto,+2 Laps,-1,7
+1993,estoril,minardi,martini,+2 Laps,-1,8
+1993,estoril,minardi,fittipaldi,+2 Laps,-1,9
+1993,estoril,larrousse,alliot,+2 Laps,-1,10
+1993,estoril,larrousse,comas,+3 Laps,-1,11
+1993,estoril,tyrrell,cesaris,+3 Laps,-1,12
+1993,estoril,jordan,barrichello,+3 Laps,-1,13
+1993,estoril,lola,badoer,+3 Laps,-1,14
+1993,estoril,footwork,warwick,Accident,-1,15
+1993,estoril,benetton,patrese,Accident,-1,16
+1993,estoril,team_lotus,lamy,Spun off,-1,17
+1993,estoril,team_lotus,herbert,Spun off,-1,18
+1993,estoril,ligier,blundell,Accident,-1,19
+1993,estoril,lola,alboreto,Gearbox,-1,20
+1993,estoril,ferrari,berger,Accident,-1,21
+1993,estoril,mclaren,hakkinen,Spun off,-1,22
+1993,estoril,footwork,suzuki,Gearbox,-1,23
+1993,estoril,mclaren,senna,Engine,-1,24
+1993,estoril,tyrrell,katayama,Spun off,-1,25
+1993,estoril,jordan,naspetti,Engine,-1,26

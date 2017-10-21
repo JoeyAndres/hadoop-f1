@@ -1,0 +1,20 @@
+2004,spa,mclaren,raikkonen,Finished,5555274,1
+2004,spa,ferrari,michael_schumacher,Finished,5558406,2
+2004,spa,ferrari,barrichello,Finished,5559645,3
+2004,spa,sauber,massa,Finished,5567778,4
+2004,spa,sauber,fisichella,Finished,5569378,5
+2004,spa,jaguar,klien,Finished,5569888,6
+2004,spa,mclaren,coulthard,Finished,5573244,7
+2004,spa,toyota,panis,Finished,5573967,8
+2004,spa,renault,trulli,Finished,5577389,9
+2004,spa,toyota,zonta,Engine,-1,10
+2004,spa,jordan,heidfeld,+4 Laps,-1,11
+2004,spa,williams,montoya,Tyre,-1,12
+2004,spa,williams,pizzonia,Gearbox,-1,13
+2004,spa,bar,button,Collision,-1,14
+2004,spa,minardi,baumgartner,Collision,-1,15
+2004,spa,renault,alonso,Engine,-1,16
+2004,spa,jaguar,webber,Collision,-1,17
+2004,spa,bar,sato,Collision,-1,18
+2004,spa,minardi,bruni,Collision,-1,19
+2004,spa,jordan,pantano,Collision,-1,20

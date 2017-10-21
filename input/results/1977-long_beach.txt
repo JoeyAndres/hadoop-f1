@@ -1,0 +1,22 @@
+1977,long_beach,team_lotus,mario_andretti,Finished,6695470,1
+1977,long_beach,ferrari,lauda,Finished,6696243,2
+1977,long_beach,wolf,scheckter,Finished,6700327,3
+1977,long_beach,tyrrell,depailler,Finished,6769957,4
+1977,long_beach,fittipaldi,emerson_fittipaldi,Finished,6776378,5
+1977,long_beach,penske,jarier,+1 Lap,-1,6
+1977,long_beach,mclaren,hunt,+1 Lap,-1,7
+1977,long_beach,team_lotus,nilsson,+1 Lap,-1,8
+1977,long_beach,ligier,laffite,Electrical,-1,9
+1977,long_beach,march,henton,+3 Laps,-1,10
+1977,long_beach,surtees,binder,+3 Laps,-1,11
+1977,long_beach,tyrrell,peterson,Fuel system,-1,12
+1977,long_beach,ensign,regazzoni,Gearbox,-1,13
+1977,long_beach,brabham,stuck,Brakes,-1,14
+1977,long_beach,shadow,jones,Gearbox,-1,15
+1977,long_beach,mclaren,mass,Handling,-1,16
+1977,long_beach,brabham,watson,Disqualified,-1,17
+1977,long_beach,shadow,zorzi,Gearbox,-1,18
+1977,long_beach,march,ribeiro,Gearbox,-1,19
+1977,long_beach,ferrari,reutemann,Accident,-1,20
+1977,long_beach,march,lunger,Accident,-1,21
+1977,long_beach,surtees,brambilla,Accident,-1,22

@@ -1,0 +1,28 @@
+1994,hockenheimring,ferrari,berger,Finished,4957200,1
+1994,hockenheimring,ligier,panis,Finished,5011979,2
+1994,hockenheimring,ligier,bernard,Finished,5022621,3
+1994,hockenheimring,footwork,fittipaldi,Finished,5038809,4
+1994,hockenheimring,footwork,morbidelli,Finished,5047744,5
+1994,hockenheimring,larrousse,comas,Finished,5062645,6
+1994,hockenheimring,larrousse,beretta,+1 Lap,-1,7
+1994,hockenheimring,williams,damon_hill,+1 Lap,-1,8
+1994,hockenheimring,simtek,gounon,Engine,-1,9
+1994,hockenheimring,simtek,brabham,Clutch,-1,10
+1994,hockenheimring,benetton,michael_schumacher,Engine,-1,11
+1994,hockenheimring,mclaren,brundle,Engine,-1,12
+1994,hockenheimring,williams,coulthard,Electrical,-1,13
+1994,hockenheimring,benetton,verstappen,Heat shield fire,-1,14
+1994,hockenheimring,tyrrell,katayama,Throttle,-1,15
+1994,hockenheimring,ferrari,alesi,Electrical,-1,16
+1994,hockenheimring,tyrrell,blundell,Collision,-1,17
+1994,hockenheimring,mclaren,hakkinen,Collision,-1,18
+1994,hockenheimring,sauber,frentzen,Collision,-1,19
+1994,hockenheimring,jordan,irvine,Collision,-1,20
+1994,hockenheimring,jordan,barrichello,Collision,-1,21
+1994,hockenheimring,team_lotus,herbert,Collision,-1,22
+1994,hockenheimring,sauber,cesaris,Collision,-1,23
+1994,hockenheimring,minardi,martini,Collision,-1,24
+1994,hockenheimring,team_lotus,zanardi,Collision,-1,25
+1994,hockenheimring,minardi,alboreto,Collision,-1,26
+1994,hockenheimring,pacific,gachot,Did not qualify,-1,27
+1994,hockenheimring,pacific,belmondo,Did not qualify,-1,28

@@ -1,0 +1,20 @@
+2017,monaco,ferrari,vettel,Finished,6284340,1
+2017,monaco,ferrari,raikkonen,Finished,6287485,2
+2017,monaco,red_bull,ricciardo,Finished,6288085,3
+2017,monaco,mercedes,bottas,Finished,6289857,4
+2017,monaco,red_bull,max_verstappen,Finished,6290539,5
+2017,monaco,toro_rosso,sainz,Finished,6296378,6
+2017,monaco,mercedes,hamilton,Finished,6300141,7
+2017,monaco,haas,grosjean,Finished,6302490,8
+2017,monaco,williams,massa,Finished,6303785,9
+2017,monaco,haas,kevin_magnussen,Finished,6305783,10
+2017,monaco,renault,jolyon_palmer,Finished,6307077,11
+2017,monaco,force_india,ocon,Finished,6308065,12
+2017,monaco,force_india,perez,Finished,6323429,13
+2017,monaco,toro_rosso,kvyat,Collision damage,-1,14
+2017,monaco,williams,stroll,Brakes,-1,15
+2017,monaco,mclaren,vandoorne,Accident,-1,16
+2017,monaco,sauber,ericsson,Accident,-1,17
+2017,monaco,mclaren,button,Collision damage,-1,18
+2017,monaco,sauber,wehrlein,Collision,-1,19
+2017,monaco,renault,hulkenberg,Gearbox,-1,20

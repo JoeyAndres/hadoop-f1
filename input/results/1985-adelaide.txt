@@ -1,0 +1,25 @@
+1985,adelaide,williams,keke_rosberg,Finished,7240473,1
+1985,adelaide,ligier,laffite,Finished,7283603,2
+1985,adelaide,ligier,streiff,Finished,7329009,3
+1985,adelaide,tyrrell,capelli,+1 Lap,-1,4
+1985,adelaide,ferrari,johansson,+1 Lap,-1,5
+1985,adelaide,arrows,berger,+1 Lap,-1,6
+1985,adelaide,osella,rothengatter,+4 Laps,-1,7
+1985,adelaide,minardi,martini,+4 Laps,-1,8
+1985,adelaide,team_lotus,senna,Engine,-1,9
+1985,adelaide,ferrari,alboreto,Transmission,-1,10
+1985,adelaide,mclaren,lauda,Accident,-1,11
+1985,adelaide,renault,warwick,Transmission,-1,12
+1985,adelaide,tyrrell,brundle,Not classified,-1,13
+1985,adelaide,brabham,surer,Engine,-1,14
+1985,adelaide,alfa,patrese,Exhaust,-1,15
+1985,adelaide,toleman,fabi,Engine,-1,16
+1985,adelaide,arrows,boutsen,Oil leak,-1,17
+1985,adelaide,toleman,ghinzani,Clutch,-1,18
+1985,adelaide,mclaren,prost,Engine,-1,19
+1985,adelaide,renault,tambay,Transmission,-1,20
+1985,adelaide,lola,jones,Electrical,-1,21
+1985,adelaide,team_lotus,angelis,Disqualified,-1,22
+1985,adelaide,brabham,piquet,Heat shield fire,-1,23
+1985,adelaide,alfa,cheever,Engine,-1,24
+1985,adelaide,williams,mansell,Transmission,-1,25

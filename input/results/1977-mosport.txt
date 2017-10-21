@@ -1,0 +1,27 @@
+1977,mosport,wolf,scheckter,Finished,6000000,1
+1977,mosport,tyrrell,depailler,Finished,6006770,2
+1977,mosport,mclaren,mass,Finished,6015760,3
+1977,mosport,shadow,jones,Finished,6046690,4
+1977,mosport,ensign,tambay,Finished,6063260,5
+1977,mosport,surtees,brambilla,Accident,-1,6
+1977,mosport,penske,ongais,+2 Laps,-1,7
+1977,mosport,march,ribeiro,+2 Laps,-1,8
+1977,mosport,team_lotus,mario_andretti,Engine,-1,9
+1977,mosport,shadow,patrese,Spun off,-1,10
+1977,mosport,mclaren,lunger,Engine,-1,11
+1977,mosport,ferrari,gilles_villeneuve,Transmission,-1,12
+1977,mosport,mclaren,hunt,Accident,-1,13
+1977,mosport,march,neve,Engine,-1,14
+1977,mosport,tyrrell,peterson,Fuel leak,-1,15
+1977,mosport,hesketh,keegan,Accident,-1,16
+1977,mosport,surtees,binder,Accident,-1,17
+1977,mosport,march,ian_scheckter,Engine,-1,18
+1977,mosport,fittipaldi,emerson_fittipaldi,Engine,-1,19
+1977,mosport,ferrari,reutemann,Fuel system,-1,20
+1977,mosport,brabham,stuck,Engine,-1,21
+1977,mosport,team_lotus,nilsson,Accident,-1,22
+1977,mosport,ligier,laffite,Transmission,-1,23
+1977,mosport,brabham,watson,Suspension,-1,24
+1977,mosport,ensign,regazzoni,Accident,-1,25
+1977,mosport,hesketh,ashley,Withdrew,-1,26
+1977,mosport,renault,jabouille,Did not qualify,-1,27

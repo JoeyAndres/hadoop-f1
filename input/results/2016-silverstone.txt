@@ -1,0 +1,22 @@
+2016,silverstone,mercedes,hamilton,Finished,5695831,1
+2016,silverstone,red_bull,max_verstappen,Finished,5704081,2
+2016,silverstone,mercedes,rosberg,Finished,5712742,3
+2016,silverstone,red_bull,ricciardo,Finished,5722042,4
+2016,silverstone,ferrari,raikkonen,Finished,5765574,5
+2016,silverstone,force_india,perez,Finished,5772772,6
+2016,silverstone,force_india,hulkenberg,Finished,5773543,7
+2016,silverstone,toro_rosso,sainz,Finished,5781689,8
+2016,silverstone,ferrari,vettel,Finished,5787485,9
+2016,silverstone,toro_rosso,kvyat,Finished,5788431,10
+2016,silverstone,williams,massa,+1 Lap,-1,11
+2016,silverstone,mclaren,button,+1 Lap,-1,12
+2016,silverstone,mclaren,alonso,+1 Lap,-1,13
+2016,silverstone,williams,bottas,+1 Lap,-1,14
+2016,silverstone,sauber,nasr,+1 Lap,-1,15
+2016,silverstone,haas,gutierrez,+1 Lap,-1,16
+2016,silverstone,renault,kevin_magnussen,Gearbox,-1,17
+2016,silverstone,renault,jolyon_palmer,Gearbox,-1,18
+2016,silverstone,manor,haryanto,Spun off,-1,19
+2016,silverstone,haas,grosjean,Retired,-1,20
+2016,silverstone,sauber,ericsson,Power Unit,-1,21
+2016,silverstone,manor,wehrlein,Spun off,-1,22

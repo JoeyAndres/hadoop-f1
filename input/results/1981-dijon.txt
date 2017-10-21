@@ -1,0 +1,29 @@
+1981,dijon,renault,prost,Finished,5748130,1
+1981,dijon,mclaren,watson,Finished,5750420,2
+1981,dijon,brabham,piquet,Finished,5772350,3
+1981,dijon,renault,arnoux,Finished,5790430,4
+1981,dijon,ferrari,pironi,+1 Lap,-1,5
+1981,dijon,team_lotus,angelis,+1 Lap,-1,6
+1981,dijon,team_lotus,mansell,+1 Lap,-1,7
+1981,dijon,alfa,mario_andretti,+1 Lap,-1,8
+1981,dijon,brabham,rebaque,+2 Laps,-1,9
+1981,dijon,williams,reutemann,+2 Laps,-1,10
+1981,dijon,mclaren,cesaris,+2 Laps,-1,11
+1981,dijon,theodore,surer,+2 Laps,-1,12
+1981,dijon,tyrrell,cheever,+3 Laps,-1,13
+1981,dijon,arrows,patrese,+3 Laps,-1,14
+1981,dijon,alfa,giacomelli,+3 Laps,-1,15
+1981,dijon,tyrrell,alboreto,+3 Laps,-1,16
+1981,dijon,williams,jones,Collision,-1,17
+1981,dijon,ligier,laffite,Suspension,-1,18
+1981,dijon,march,daly,Engine,-1,19
+1981,dijon,ferrari,gilles_villeneuve,Electrical,-1,20
+1981,dijon,ligier,tambay,Wheel bearing,-1,21
+1981,dijon,fittipaldi,keke_rosberg,Suspension,-1,22
+1981,dijon,ensign,salazar,Suspension,-1,23
+1981,dijon,fittipaldi,serra,Withdrew,-1,24
+1981,dijon,arrows,stohr,Did not qualify,-1,25
+1981,dijon,toleman,henton,Did not qualify,-1,26
+1981,dijon,ats,borgudd,Did not qualify,-1,27
+1981,dijon,osella,gabbiani,Did not qualify,-1,28
+1981,dijon,toleman,warwick,Did not qualify,-1,29

@@ -1,0 +1,27 @@
+1976,anderstorp,tyrrell,scheckter,Finished,6413729,1
+1976,anderstorp,tyrrell,depailler,Finished,6433495,2
+1976,anderstorp,ferrari,lauda,Finished,6447595,3
+1976,anderstorp,ligier,laffite,Finished,6469548,4
+1976,anderstorp,mclaren,hunt,Finished,6473212,5
+1976,anderstorp,ferrari,regazzoni,Finished,6474095,6
+1976,anderstorp,march,peterson,Finished,6477222,7
+1976,anderstorp,brabham-alfa_romeo,pace,Finished,6485342,8
+1976,anderstorp,shadow,pryce,+1 Lap,-1,9
+1976,anderstorp,march,brambilla,+1 Lap,-1,10
+1976,anderstorp,mclaren,mass,+1 Lap,-1,11
+1976,anderstorp,shadow,jarier,+1 Lap,-1,12
+1976,anderstorp,surtees,jones,+1 Lap,-1,13
+1976,anderstorp,march,merzario,Engine,-1,14
+1976,anderstorp,surtees,lunger,+2 Laps,-1,15
+1976,anderstorp,hesketh,ertl,Spun off,-1,16
+1976,anderstorp,march,stuck,Engine,-1,17
+1976,anderstorp,team_lotus,mario_andretti,Engine,-1,18
+1976,anderstorp,ensign,amon,Accident,-1,19
+1976,anderstorp,wolf,leclere,Engine,-1,20
+1976,anderstorp,boro,perkins,Engine,-1,21
+1976,anderstorp,fittipaldi,emerson_fittipaldi,Handling,-1,22
+1976,anderstorp,brabham-ford,kessel,Accident,-1,23
+1976,anderstorp,team_lotus,nilsson,Accident,-1,24
+1976,anderstorp,brabham-alfa_romeo,reutemann,Engine,-1,25
+1976,anderstorp,penske,watson,Accident,-1,26
+1976,anderstorp,brabham-ford,nelleman,Did not qualify,-1,27

@@ -1,0 +1,20 @@
+2003,villeneuve,ferrari,michael_schumacher,Finished,5473591,1
+2003,villeneuve,williams,ralf_schumacher,Finished,5474375,2
+2003,villeneuve,williams,montoya,Finished,5474946,3
+2003,villeneuve,renault,alonso,Finished,5478072,4
+2003,villeneuve,ferrari,barrichello,Finished,5537852,5
+2003,villeneuve,mclaren,raikkonen,Finished,5544093,6
+2003,villeneuve,jaguar,webber,+1 Lap,-1,7
+2003,villeneuve,toyota,panis,+1 Lap,-1,8
+2003,villeneuve,minardi,verstappen,+2 Laps,-1,9
+2003,villeneuve,jaguar,pizzonia,+4 Laps,-1,10
+2003,villeneuve,toyota,matta,+6 Laps,-1,11
+2003,villeneuve,minardi,wilson,Gearbox,-1,12
+2003,villeneuve,bar,button,Gearbox,-1,13
+2003,villeneuve,mclaren,coulthard,Gearbox,-1,14
+2003,villeneuve,sauber,heidfeld,Engine,-1,15
+2003,villeneuve,renault,trulli,Accident,-1,16
+2003,villeneuve,jordan,fisichella,Gearbox,-1,17
+2003,villeneuve,jordan,firman,Engine,-1,18
+2003,villeneuve,bar,villeneuve,Brakes,-1,19
+2003,villeneuve,sauber,frentzen,Electronics,-1,20

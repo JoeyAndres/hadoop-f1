@@ -1,0 +1,22 @@
+2014,silverstone,mercedes,hamilton,Finished,8812094,1
+2014,silverstone,williams,bottas,Finished,8842229,2
+2014,silverstone,red_bull,ricciardo,Finished,8858589,3
+2014,silverstone,mclaren,button,Finished,8859484,4
+2014,silverstone,red_bull,vettel,Finished,8865958,5
+2014,silverstone,ferrari,alonso,Finished,8872040,6
+2014,silverstone,mclaren,kevin_magnussen,Finished,8874657,7
+2014,silverstone,force_india,hulkenberg,Finished,8900786,8
+2014,silverstone,toro_rosso,kvyat,Finished,8901434,9
+2014,silverstone,toro_rosso,vergne,+1 Lap,-1,10
+2014,silverstone,force_india,perez,+1 Lap,-1,11
+2014,silverstone,lotus_f1,grosjean,+1 Lap,-1,12
+2014,silverstone,sauber,sutil,+1 Lap,-1,13
+2014,silverstone,marussia,jules_bianchi,+1 Lap,-1,14
+2014,silverstone,caterham,kobayashi,+2 Laps,-1,15
+2014,silverstone,marussia,chilton,+2 Laps,-1,16
+2014,silverstone,lotus_f1,maldonado,+3 Laps,-1,17
+2014,silverstone,mercedes,rosberg,Gearbox,-1,18
+2014,silverstone,caterham,ericsson,Suspension,-1,19
+2014,silverstone,sauber,gutierrez,Collision,-1,20
+2014,silverstone,williams,massa,Collision,-1,21
+2014,silverstone,ferrari,raikkonen,Collision,-1,22

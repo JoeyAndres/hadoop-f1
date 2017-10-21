@@ -1,0 +1,24 @@
+2010,hungaroring,red_bull,webber,Finished,6065571,1
+2010,hungaroring,ferrari,alonso,Finished,6083392,2
+2010,hungaroring,red_bull,vettel,Finished,6084823,3
+2010,hungaroring,ferrari,massa,Finished,6093045,4
+2010,hungaroring,renault,petrov,Finished,6138763,5
+2010,hungaroring,williams,hulkenberg,Finished,6142294,6
+2010,hungaroring,sauber,rosa,+1 Lap,-1,7
+2010,hungaroring,mclaren,button,+1 Lap,-1,8
+2010,hungaroring,sauber,kobayashi,+1 Lap,-1,9
+2010,hungaroring,williams,barrichello,+1 Lap,-1,10
+2010,hungaroring,mercedes,michael_schumacher,+1 Lap,-1,11
+2010,hungaroring,toro_rosso,buemi,+1 Lap,-1,12
+2010,hungaroring,force_india,liuzzi,+1 Lap,-1,13
+2010,hungaroring,lotus_racing,kovalainen,+3 Laps,-1,14
+2010,hungaroring,lotus_racing,trulli,+3 Laps,-1,15
+2010,hungaroring,virgin,glock,+3 Laps,-1,16
+2010,hungaroring,hrt,bruno_senna,+3 Laps,-1,17
+2010,hungaroring,virgin,grassi,+4 Laps,-1,18
+2010,hungaroring,hrt,yamamoto,+4 Laps,-1,19
+2010,hungaroring,mclaren,hamilton,Gearbox,-1,20
+2010,hungaroring,renault,kubica,Retired,-1,21
+2010,hungaroring,mercedes,rosberg,Wheel,-1,22
+2010,hungaroring,force_india,sutil,Collision,-1,23
+2010,hungaroring,toro_rosso,alguersuari,Engine,-1,24

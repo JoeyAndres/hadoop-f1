@@ -1,0 +1,20 @@
+2015,interlagos,mercedes,rosberg,Finished,5469090,1
+2015,interlagos,mercedes,hamilton,Finished,5476846,2
+2015,interlagos,ferrari,vettel,Finished,5483334,3
+2015,interlagos,ferrari,raikkonen,Finished,5516633,4
+2015,interlagos,williams,bottas,+1 Lap,-1,5
+2015,interlagos,force_india,hulkenberg,+1 Lap,-1,6
+2015,interlagos,red_bull,kvyat,+1 Lap,-1,7
+2015,interlagos,lotus_f1,grosjean,+1 Lap,-1,8
+2015,interlagos,toro_rosso,max_verstappen,+1 Lap,-1,9
+2015,interlagos,lotus_f1,maldonado,+1 Lap,-1,10
+2015,interlagos,red_bull,ricciardo,+1 Lap,-1,11
+2015,interlagos,force_india,perez,+1 Lap,-1,12
+2015,interlagos,sauber,nasr,+1 Lap,-1,13
+2015,interlagos,mclaren,button,+1 Lap,-1,14
+2015,interlagos,mclaren,alonso,+1 Lap,-1,15
+2015,interlagos,sauber,ericsson,+2 Laps,-1,16
+2015,interlagos,manor,stevens,+4 Laps,-1,17
+2015,interlagos,manor,rossi,+4 Laps,-1,18
+2015,interlagos,toro_rosso,sainz,Retired,-1,19
+2015,interlagos,williams,massa,Excluded,-1,20

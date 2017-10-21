@@ -1,0 +1,27 @@
+1980,ricard,williams,jones,Finished,5563400,1
+1980,ricard,ligier,pironi,Finished,5567920,2
+1980,ricard,ligier,laffite,Finished,5593660,3
+1980,ricard,brabham,piquet,Finished,5638280,4
+1980,ricard,renault,arnoux,Finished,5639550,5
+1980,ricard,williams,reutemann,Finished,5640140,6
+1980,ricard,mclaren,watson,+1 Lap,-1,7
+1980,ricard,ferrari,gilles_villeneuve,+1 Lap,-1,8
+1980,ricard,arrows,patrese,+1 Lap,-1,9
+1980,ricard,arrows,mass,+1 Lap,-1,10
+1980,ricard,tyrrell,daly,+2 Laps,-1,11
+1980,ricard,ferrari,scheckter,+2 Laps,-1,12
+1980,ricard,fittipaldi,emerson_fittipaldi,Engine,-1,13
+1980,ricard,tyrrell,jarier,+4 Laps,-1,14
+1980,ricard,osella,cheever,Engine,-1,15
+1980,ricard,ats,surer,Gearbox,-1,16
+1980,ricard,alfa,depailler,Handling,-1,17
+1980,ricard,team_lotus,mario_andretti,Gearbox,-1,18
+1980,ricard,fittipaldi,keke_rosberg,Spun off,-1,19
+1980,ricard,alfa,giacomelli,Handling,-1,20
+1980,ricard,mclaren,prost,Transmission,-1,21
+1980,ricard,team_lotus,angelis,Clutch,-1,22
+1980,ricard,renault,jabouille,Transmission,-1,23
+1980,ricard,brabham,zunino,Clutch,-1,24
+1980,ricard,shadow,lees,Did not qualify,-1,25
+1980,ricard,ensign,lammers,Did not qualify,-1,26
+1980,ricard,shadow,kennedy,Did not qualify,-1,27

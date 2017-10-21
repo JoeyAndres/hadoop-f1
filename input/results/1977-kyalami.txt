@@ -1,0 +1,23 @@
+1977,kyalami,ferrari,lauda,Finished,6141600,1
+1977,kyalami,wolf,scheckter,Finished,6146800,2
+1977,kyalami,tyrrell,depailler,Finished,6147300,3
+1977,kyalami,mclaren,hunt,Finished,6151100,4
+1977,kyalami,mclaren,mass,Finished,6161500,5
+1977,kyalami,brabham,watson,Finished,6161800,6
+1977,kyalami,surtees,brambilla,Finished,6165200,7
+1977,kyalami,ferrari,reutemann,Finished,6168300,8
+1977,kyalami,ensign,regazzoni,Finished,6187800,9
+1977,kyalami,fittipaldi,emerson_fittipaldi,Finished,6213300,10
+1977,kyalami,surtees,binder,+1 Lap,-1,11
+1977,kyalami,team_lotus,nilsson,+1 Lap,-1,12
+1977,kyalami,brabham,pace,+2 Laps,-1,13
+1977,kyalami,march,lunger,+2 Laps,-1,14
+1977,kyalami,brm,perkins,+5 Laps,-1,15
+1977,kyalami,march,ribeiro,Engine,-1,16
+1977,kyalami,march,stuck,Engine,-1,17
+1977,kyalami,team_lotus,mario_andretti,Accident,-1,18
+1977,kyalami,march,hayje,Gearbox,-1,19
+1977,kyalami,ligier,laffite,Accident,-1,20
+1977,kyalami,shadow,pryce,Accident,-1,21
+1977,kyalami,shadow,zorzi,Fuel leak,-1,22
+1977,kyalami,tyrrell,peterson,Fuel system,-1,23

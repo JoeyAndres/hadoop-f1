@@ -1,0 +1,29 @@
+1977,hockenheimring,ferrari,lauda,Finished,5509300,1
+1977,hockenheimring,wolf,scheckter,Finished,5523630,2
+1977,hockenheimring,brabham,stuck,Finished,5530200,3
+1977,hockenheimring,ferrari,reutemann,Finished,5569570,4
+1977,hockenheimring,surtees,brambilla,Finished,5596670,5
+1977,hockenheimring,ensign,tambay,Finished,5599110,6
+1977,hockenheimring,surtees,schuppan,+1 Lap,-1,7
+1977,hockenheimring,march,ribeiro,+1 Lap,-1,8
+1977,hockenheimring,tyrrell,peterson,Engine,-1,9
+1977,hockenheimring,shadow,patrese,Wheel,-1,10
+1977,hockenheimring,hesketh,keegan,Accident,-1,11
+1977,hockenheimring,team_lotus,mario_andretti,Engine,-1,12
+1977,hockenheimring,mclaren,hunt,Fuel pump,-1,13
+1977,hockenheimring,team_lotus,nilsson,Engine,-1,14
+1977,hockenheimring,mclaren,mass,Gearbox,-1,15
+1977,hockenheimring,tyrrell,depailler,Engine,-1,16
+1977,hockenheimring,ligier,laffite,Engine,-1,17
+1977,hockenheimring,hesketh,rebaque,Engine,-1,18
+1977,hockenheimring,mclaren,lunger,Accident,-1,19
+1977,hockenheimring,march,ian_scheckter,Clutch,-1,20
+1977,hockenheimring,brabham,watson,Engine,-1,21
+1977,hockenheimring,penske,jarier,Transmission,-1,22
+1977,hockenheimring,shadow,jones,Accident,-1,23
+1977,hockenheimring,penske,heyer,Did not qualify,-1,24
+1977,hockenheimring,march,neve,Did not qualify,-1,25
+1977,hockenheimring,mclaren,villota,Did not qualify,-1,26
+1977,hockenheimring,fittipaldi,emerson_fittipaldi,Did not qualify,-1,27
+1977,hockenheimring,march,merzario,Did not qualify,-1,28
+1977,hockenheimring,brm,pilette,Did not qualify,-1,29

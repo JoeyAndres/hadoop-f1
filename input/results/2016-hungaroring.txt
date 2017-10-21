@@ -1,0 +1,22 @@
+2016,hungaroring,mercedes,hamilton,Finished,6030115,1
+2016,hungaroring,mercedes,rosberg,Finished,6032092,2
+2016,hungaroring,red_bull,ricciardo,Finished,6057654,3
+2016,hungaroring,ferrari,vettel,Finished,6058328,4
+2016,hungaroring,red_bull,max_verstappen,Finished,6078774,5
+2016,hungaroring,ferrari,raikkonen,Finished,6079159,6
+2016,hungaroring,mclaren,alonso,+1 Lap,-1,7
+2016,hungaroring,toro_rosso,sainz,+1 Lap,-1,8
+2016,hungaroring,williams,bottas,+1 Lap,-1,9
+2016,hungaroring,force_india,hulkenberg,+1 Lap,-1,10
+2016,hungaroring,force_india,perez,+1 Lap,-1,11
+2016,hungaroring,renault,jolyon_palmer,+1 Lap,-1,12
+2016,hungaroring,haas,gutierrez,+1 Lap,-1,13
+2016,hungaroring,haas,grosjean,+1 Lap,-1,14
+2016,hungaroring,renault,kevin_magnussen,+1 Lap,-1,15
+2016,hungaroring,toro_rosso,kvyat,+1 Lap,-1,16
+2016,hungaroring,sauber,nasr,+1 Lap,-1,17
+2016,hungaroring,williams,massa,+2 Laps,-1,18
+2016,hungaroring,manor,wehrlein,+2 Laps,-1,19
+2016,hungaroring,sauber,ericsson,+2 Laps,-1,20
+2016,hungaroring,manor,haryanto,+2 Laps,-1,21
+2016,hungaroring,mclaren,button,Oil leak,-1,22

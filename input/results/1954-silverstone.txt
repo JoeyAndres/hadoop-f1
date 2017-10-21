@@ -1,0 +1,30 @@
+1954,silverstone,ferrari,gonzalez,Finished,10574000,1
+1954,silverstone,ferrari,hawthorn,Finished,,2
+1954,silverstone,maserati,marimon,+1 Lap,-1,3
+1954,silverstone,mercedes,fangio,+1 Lap,-1,4
+1954,silverstone,ferrari,trintignant,+3 Laps,-1,5
+1954,silverstone,maserati,mieres,+3 Laps,-1,6
+1954,silverstone,mercedes,kling,+3 Laps,-1,7
+1954,silverstone,maserati,wharton,+4 Laps,-1,8
+1954,silverstone,gordini,andre_pilette,+4 Laps,-1,9
+1954,silverstone,cooper,gerard,+5 Laps,-1,10
+1954,silverstone,connaught,beauman,+6 Laps,-1,11
+1954,silverstone,maserati,schell,+7 Laps,-1,12
+1954,silverstone,connaught,marr,+8 Laps,-1,13
+1954,silverstone,connaught,thorne,+12 Laps,-1,14
+1954,silverstone,cooper,gould,+46 Laps,-1,15
+1954,silverstone,maserati,moss,Axle,-1,16
+1954,silverstone,connaught,whitehouse,Fuel system,-1,17
+1954,silverstone,gordini,behra,Suspension,-1,18
+1954,silverstone,maserati,salvadori,Transmission,-1,19
+1954,silverstone,maserati,flockhart,Accident,-1,20
+1954,silverstone,maserati,bira,Accident,-1,20
+1954,silverstone,maserati,villoresi,Engine,-1,21
+1954,silverstone,maserati,ascari,Engine,-1,21
+1954,silverstone,connaught,riseley_prichard,Accident,-1,22
+1954,silverstone,ferrari,reg_parnell,Engine,-1,23
+1954,silverstone,maserati,ascari,Engine,-1,24
+1954,silverstone,gordini,bucci,Accident,-1,25
+1954,silverstone,vanwall,collins,Engine,-1,26
+1954,silverstone,ferrari,manzon,Engine,-1,27
+1954,silverstone,cooper,whitehead,Oil leak,-1,28

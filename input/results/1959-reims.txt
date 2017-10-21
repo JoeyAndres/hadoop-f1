@@ -1,0 +1,22 @@
+1959,reims,ferrari,brooks,Finished,7286500,1
+1959,reims,ferrari,phil_hill,Finished,7314000,2
+1959,reims,cooper-climax,jack_brabham,Finished,7384200,3
+1959,reims,ferrari,gendebien,Finished,7394000,4
+1959,reims,cooper-climax,mclaren,Finished,7394200,5
+1959,reims,brm,flockhart,Finished,7412200,6
+1959,reims,brm,schell,+3 Laps,-1,7
+1959,reims,maserati,scarlatti,+9 Laps,-1,8
+1959,reims,maserati,beaufort,+10 Laps,-1,9
+1959,reims,maserati,orey,+10 Laps,-1,10
+1959,reims,cooper-climax,trintignant,+14 Laps,-1,11
+1959,reims,brm,moss,Disqualified,-1,12
+1959,reims,ferrari,behra,Engine,-1,13
+1959,reims,cooper-maserati,salvadori,Engine,-1,14
+1959,reims,ferrari,gurney,Radiator,-1,15
+1959,reims,team_lotus,ireland,Wheel,-1,16
+1959,reims,cooper-maserati,burgess,Engine,-1,17
+1959,reims,cooper-climax,gregory,Physical,-1,18
+1959,reims,team_lotus,hill,Radiator,-1,19
+1959,reims,cooper-maserati,davis,Oil leak,-1,20
+1959,reims,brm,bonnier,Engine,-1,21
+1959,reims,maserati,fontes,Withdrew,-1,22

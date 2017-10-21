@@ -1,0 +1,30 @@
+1991,phoenix,mclaren,senna,Finished,7247828,1
+1991,phoenix,ferrari,prost,Finished,7264150,2
+1991,phoenix,benetton,piquet,Finished,7325204,3
+1991,phoenix,tyrrell,modena,Finished,7333237,4
+1991,phoenix,tyrrell,satoru_nakajima,+1 Lap,-1,5
+1991,phoenix,larrousse,suzuki,+2 Laps,-1,6
+1991,phoenix,lambo,larini,+3 Laps,-1,7
+1991,phoenix,ags,tarquini,+4 Laps,-1,8
+1991,phoenix,minardi,martini,Engine,-1,9
+1991,phoenix,jordan,gachot,Engine,-1,10
+1991,phoenix,brabham,brundle,+8 Laps,-1,11
+1991,phoenix,ferrari,alesi,Gearbox,-1,12
+1991,phoenix,team_lotus,hakkinen,Engine,-1,13
+1991,phoenix,williams,patrese,Gearbox,-1,14
+1991,phoenix,benetton,moreno,Collision,-1,15
+1991,phoenix,footwork,alboreto,Engine,-1,16
+1991,phoenix,leyton,capelli,Gearbox,-1,17
+1991,phoenix,ligier,boutsen,Engine,-1,18
+1991,phoenix,mclaren,berger,Fuel pump,-1,19
+1991,phoenix,williams,mansell,Gearbox,-1,20
+1991,phoenix,leyton,gugelmin,Gearbox,-1,21
+1991,phoenix,brabham,blundell,Spun off,-1,22
+1991,phoenix,dallara,pirro,Gearbox,-1,23
+1991,phoenix,minardi,morbidelli,Gearbox,-1,24
+1991,phoenix,dallara,lehto,Gearbox,-1,25
+1991,phoenix,larrousse,bernard,Engine,-1,26
+1991,phoenix,footwork,caffi,Did not qualify,-1,27
+1991,phoenix,ags,johansson,Did not qualify,-1,28
+1991,phoenix,ligier,comas,Did not qualify,-1,29
+1991,phoenix,team_lotus,bailey,Did not qualify,-1,30

@@ -1,0 +1,26 @@
+1975,nurburgring,brabham,reutemann,Finished,6074100,1
+1975,nurburgring,williams,laffite,Finished,6171800,2
+1975,nurburgring,ferrari,lauda,Finished,6217400,3
+1975,nurburgring,shadow-ford,pryce,Finished,6285500,4
+1975,nurburgring,hill,jones,Finished,6304400,5
+1975,nurburgring,ensign,lennep,Finished,6379600,6
+1975,nurburgring,march,lombardi,Finished,6524500,7
+1975,nurburgring,hesketh,ertl,Finished,6535000,8
+1975,nurburgring,tyrrell,depailler,+1 Lap,-1,9
+1975,nurburgring,parnelli,mario_andretti,Out of fuel,-1,10
+1975,nurburgring,hesketh,hunt,Wheel,-1,11
+1975,nurburgring,ferrari,regazzoni,Engine,-1,12
+1975,nurburgring,hill,brise,Accident,-1,13
+1975,nurburgring,tyrrell,scheckter,Accident,-1,14
+1975,nurburgring,shadow-ford,jarier,Tyre,-1,15
+1975,nurburgring,brabham,pace,Suspension,-1,16
+1975,nurburgring,fittipaldi,wilson_fittipaldi,Engine,-1,17
+1975,nurburgring,march,stuck,Engine,-1,18
+1975,nurburgring,mclaren,emerson_fittipaldi,Suspension,-1,19
+1975,nurburgring,march,brambilla,Suspension,-1,20
+1975,nurburgring,team_lotus,watson,Suspension,-1,21
+1975,nurburgring,team_lotus,peterson,Clutch,-1,22
+1975,nurburgring,march,donohue,Tyre,-1,23
+1975,nurburgring,mclaren,mass,Accident,-1,24
+1975,nurburgring,williams,ashley,Accident,-1,25
+1975,nurburgring,maki,trimmer,Did not qualify,-1,26

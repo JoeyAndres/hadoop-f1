@@ -1,0 +1,22 @@
+1997,hungaroring,williams,villeneuve,Finished,6347149,1
+1997,hungaroring,arrows,damon_hill,Finished,6356228,2
+1997,hungaroring,sauber,herbert,Finished,6367594,3
+1997,hungaroring,ferrari,michael_schumacher,Finished,6377650,4
+1997,hungaroring,jordan,ralf_schumacher,Finished,6377864,5
+1997,hungaroring,prost,nakano,Finished,6388661,6
+1997,hungaroring,prost,trulli,Finished,6422701,7
+1997,hungaroring,benetton,berger,Finished,6423558,8
+1997,hungaroring,ferrari,irvine,Spun off,-1,9
+1997,hungaroring,minardi,katayama,+1 Lap,-1,10
+1997,hungaroring,benetton,alesi,+1 Lap,-1,11
+1997,hungaroring,minardi,marques,+2 Laps,-1,12
+1997,hungaroring,tyrrell,salo,+2 Laps,-1,13
+1997,hungaroring,mclaren,coulthard,Electrical,-1,14
+1997,hungaroring,tyrrell,verstappen,Gearbox,-1,15
+1997,hungaroring,arrows,diniz,Electrical,-1,16
+1997,hungaroring,jordan,fisichella,Spun off,-1,17
+1997,hungaroring,williams,frentzen,Fuel,-1,18
+1997,hungaroring,stewart,barrichello,Engine,-1,19
+1997,hungaroring,mclaren,hakkinen,Hydraulics,-1,20
+1997,hungaroring,sauber,morbidelli,Engine,-1,21
+1997,hungaroring,stewart,magnussen,Accident,-1,22

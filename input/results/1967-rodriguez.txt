@@ -1,0 +1,19 @@
+1967,rodriguez,lotus-ford,clark,Finished,7168700,1
+1967,rodriguez,brabham-repco,jack_brabham,Finished,7254060,2
+1967,rodriguez,brabham-repco,hulme,+1 Lap,-1,3
+1967,rodriguez,honda,surtees,+1 Lap,-1,4
+1967,rodriguez,brm,spence,+2 Laps,-1,5
+1967,rodriguez,cooper-maserati,rodriguez,+2 Laps,-1,6
+1967,rodriguez,mclaren-ford,beltoise,+2 Laps,-1,7
+1967,rodriguez,ferrari,williams,+2 Laps,-1,8
+1967,rodriguez,ferrari,amon,Out of fuel,-1,9
+1967,rodriguez,cooper-maserati,bonnier,+4 Laps,-1,10
+1967,rodriguez,brabham-repco,ligier,+4 Laps,-1,11
+1967,rodriguez,cooper-maserati,siffert,Overheating,-1,12
+1967,rodriguez,mclaren-brm,mclaren,Oil pressure,-1,13
+1967,rodriguez,brm,irwin,Oil leak,-1,14
+1967,rodriguez,brm,stewart,Engine,-1,15
+1967,rodriguez,lotus-ford,hill,Halfshaft,-1,16
+1967,rodriguez,lotus-brm,solana,Suspension,-1,17
+1967,rodriguez,eagle-climax,gurney,Radiator,-1,18
+1967,rodriguez,lotus-brm,fisher,Fuel system,-1,19

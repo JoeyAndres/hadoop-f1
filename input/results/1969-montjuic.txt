@@ -1,0 +1,14 @@
+1969,montjuic,matra-ford,stewart,Finished,8214000,1
+1969,montjuic,mclaren-ford,mclaren,+2 Laps,-1,2
+1969,montjuic,matra-ford,beltoise,+3 Laps,-1,3
+1969,montjuic,mclaren-ford,hulme,+3 Laps,-1,4
+1969,montjuic,brm,surtees,+6 Laps,-1,5
+1969,montjuic,brabham-ford,ickx,+7 Laps,-1,6
+1969,montjuic,brm,rodriguez,Engine,-1,7
+1969,montjuic,ferrari,amon,Engine,-1,8
+1969,montjuic,brabham-ford,jack_brabham,Engine,-1,9
+1969,montjuic,lotus-ford,siffert,Oil leak,-1,10
+1969,montjuic,lotus-ford,rindt,Accident,-1,11
+1969,montjuic,brabham-ford,courage,Engine,-1,12
+1969,montjuic,lotus-ford,hill,Accident,-1,13
+1969,montjuic,brm,oliver,Oil pipe,-1,14

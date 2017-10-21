@@ -1,0 +1,28 @@
+1979,zolder,ferrari,scheckter,Finished,5999530,1
+1979,zolder,ligier,laffite,Finished,6014890,2
+1979,zolder,tyrrell,pironi,Finished,6034700,3
+1979,zolder,team_lotus,reutemann,Finished,6046020,4
+1979,zolder,arrows,patrese,Finished,6063840,5
+1979,zolder,mclaren,watson,Finished,6065380,6
+1979,zolder,ferrari,gilles_villeneuve,+1 Lap,-1,7
+1979,zolder,ats,stuck,+1 Lap,-1,8
+1979,zolder,fittipaldi,emerson_fittipaldi,+2 Laps,-1,9
+1979,zolder,shadow,lammers,+2 Laps,-1,10
+1979,zolder,tyrrell,jarier,+3 Laps,-1,11
+1979,zolder,ligier,depailler,Accident,-1,12
+1979,zolder,wolf,hunt,Accident,-1,13
+1979,zolder,williams,jones,Electrical,-1,14
+1979,zolder,team_lotus,mario_andretti,Brakes,-1,15
+1979,zolder,brabham-alfa_romeo,piquet,Engine,-1,16
+1979,zolder,brabham-alfa_romeo,lauda,Engine,-1,17
+1979,zolder,renault,arnoux,Turbo,-1,18
+1979,zolder,alfa,giacomelli,Accident,-1,19
+1979,zolder,shadow,angelis,Accident,-1,20
+1979,zolder,arrows,mass,Spun off,-1,21
+1979,zolder,team_lotus,rebaque,Transmission,-1,22
+1979,zolder,renault,jabouille,Turbo,-1,23
+1979,zolder,williams,regazzoni,Accident,-1,24
+1979,zolder,mclaren,tambay,Did not qualify,-1,25
+1979,zolder,merzario,merzario,Did not qualify,-1,26
+1979,zolder,ensign,daly,Did not qualify,-1,27
+1979,zolder,kauhsen,brancatelli,Did not qualify,-1,28

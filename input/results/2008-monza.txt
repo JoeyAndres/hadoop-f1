@@ -1,0 +1,20 @@
+2008,monza,toro_rosso,vettel,Finished,5207494,1
+2008,monza,mclaren,kovalainen,Finished,5220006,2
+2008,monza,bmw_sauber,kubica,Finished,5227965,3
+2008,monza,renault,alonso,Finished,5231397,4
+2008,monza,bmw_sauber,heidfeld,Finished,5235242,5
+2008,monza,ferrari,massa,Finished,5236310,6
+2008,monza,mclaren,hamilton,Finished,5237406,7
+2008,monza,red_bull,webber,Finished,5239542,8
+2008,monza,ferrari,raikkonen,Finished,5246962,9
+2008,monza,renault,piquet_jr,Finished,5261939,10
+2008,monza,toyota,glock,Finished,5266382,11
+2008,monza,williams,nakajima,Finished,5269509,12
+2008,monza,toyota,trulli,Finished,5273448,13
+2008,monza,williams,rosberg,Finished,5276129,14
+2008,monza,honda,button,Finished,5280864,15
+2008,monza,red_bull,coulthard,+1 Lap,-1,16
+2008,monza,honda,barrichello,+1 Lap,-1,17
+2008,monza,toro_rosso,bourdais,+1 Lap,-1,18
+2008,monza,force_india,sutil,+2 Laps,-1,19
+2008,monza,force_india,fisichella,Accident,-1,20

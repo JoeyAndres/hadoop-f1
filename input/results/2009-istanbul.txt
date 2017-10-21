@@ -1,0 +1,20 @@
+2009,istanbul,brawn,button,Finished,5184848,1
+2009,istanbul,red_bull,webber,Finished,5191562,2
+2009,istanbul,red_bull,vettel,Finished,5192309,3
+2009,istanbul,toyota,trulli,Finished,5212691,4
+2009,istanbul,williams,rosberg,Finished,5216387,5
+2009,istanbul,ferrari,massa,Finished,5224844,6
+2009,istanbul,bmw_sauber,kubica,Finished,5231095,7
+2009,istanbul,toyota,glock,Finished,5231807,8
+2009,istanbul,ferrari,raikkonen,Finished,5235094,9
+2009,istanbul,renault,alonso,Finished,5247268,10
+2009,istanbul,bmw_sauber,heidfeld,Finished,5249175,11
+2009,istanbul,williams,nakajima,Finished,5251224,12
+2009,istanbul,mclaren,hamilton,Finished,5265302,13
+2009,istanbul,mclaren,kovalainen,+1 Lap,-1,14
+2009,istanbul,toro_rosso,buemi,+1 Lap,-1,15
+2009,istanbul,renault,piquet_jr,+1 Lap,-1,16
+2009,istanbul,force_india,sutil,+1 Lap,-1,17
+2009,istanbul,toro_rosso,bourdais,+1 Lap,-1,18
+2009,istanbul,brawn,barrichello,Gearbox,-1,19
+2009,istanbul,force_india,fisichella,Brakes,-1,20

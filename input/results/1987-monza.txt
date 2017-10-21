@@ -1,0 +1,28 @@
+1987,monza,williams,piquet,Finished,4487707,1
+1987,monza,team_lotus,senna,Finished,4489513,2
+1987,monza,williams,mansell,Finished,4536743,3
+1987,monza,ferrari,berger,Finished,4545686,4
+1987,monza,benetton,boutsen,Finished,4569026,5
+1987,monza,mclaren,johansson,Finished,4576494,6
+1987,monza,benetton,fabi,+1 Lap,-1,7
+1987,monza,ligier,ghinzani,+2 Laps,-1,8
+1987,monza,zakspeed,danner,+2 Laps,-1,9
+1987,monza,ligier,arnoux,+2 Laps,-1,10
+1987,monza,team_lotus,satoru_nakajima,+3 Laps,-1,11
+1987,monza,tyrrell,streiff,+3 Laps,-1,12
+1987,monza,march,capelli,+3 Laps,-1,13
+1987,monza,tyrrell,palmer,+3 Laps,-1,14
+1987,monza,mclaren,prost,+4 Laps,-1,15
+1987,monza,minardi,nannini,+5 Laps,-1,16
+1987,monza,zakspeed,brundle,Gearbox,-1,17
+1987,monza,larrousse,alliot,Spun off,-1,18
+1987,monza,minardi,campos,Engine,-1,19
+1987,monza,arrows,cheever,Halfshaft,-1,20
+1987,monza,osella,forini,Turbo,-1,21
+1987,monza,osella,caffi,Suspension,-1,22
+1987,monza,ferrari,alboreto,Turbo,-1,23
+1987,monza,arrows,warwick,Electrical,-1,24
+1987,monza,brabham,cesaris,Suspension,-1,25
+1987,monza,brabham,patrese,Engine,-1,26
+1987,monza,coloni,larini,Did not qualify,-1,27
+1987,monza,ags,fabre,Did not qualify,-1,28

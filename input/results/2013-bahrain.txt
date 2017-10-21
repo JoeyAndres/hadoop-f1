@@ -1,0 +1,22 @@
+2013,bahrain,red_bull,vettel,Finished,5760498,1
+2013,bahrain,lotus_f1,raikkonen,Finished,5769609,2
+2013,bahrain,lotus_f1,grosjean,Finished,5780005,3
+2013,bahrain,force_india,resta,Finished,5782225,4
+2013,bahrain,mercedes,hamilton,Finished,5795728,5
+2013,bahrain,mclaren,perez,Finished,5796496,6
+2013,bahrain,red_bull,webber,Finished,5797742,7
+2013,bahrain,ferrari,alonso,Finished,5798072,8
+2013,bahrain,mercedes,rosberg,Finished,5801624,9
+2013,bahrain,mclaren,button,Finished,5807129,10
+2013,bahrain,williams,maldonado,Finished,5826948,11
+2013,bahrain,sauber,hulkenberg,Finished,5833431,12
+2013,bahrain,force_india,sutil,Finished,5837217,13
+2013,bahrain,williams,bottas,Finished,5842009,14
+2013,bahrain,ferrari,massa,Finished,5846862,15
+2013,bahrain,toro_rosso,ricciardo,+1 Lap,-1,16
+2013,bahrain,caterham,pic,+1 Lap,-1,17
+2013,bahrain,sauber,gutierrez,+1 Lap,-1,18
+2013,bahrain,marussia,jules_bianchi,+1 Lap,-1,19
+2013,bahrain,marussia,chilton,+1 Lap,-1,20
+2013,bahrain,caterham,garde,+2 Laps,-1,21
+2013,bahrain,toro_rosso,vergne,Puncture,-1,22

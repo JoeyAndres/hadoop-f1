@@ -1,0 +1,22 @@
+2007,indianapolis,mclaren,hamilton,Finished,5469965,1
+2007,indianapolis,mclaren,alonso,Finished,5471465,2
+2007,indianapolis,ferrari,massa,Finished,5482765,3
+2007,indianapolis,ferrari,raikkonen,Finished,5485365,4
+2007,indianapolis,renault,kovalainen,Finished,5511365,5
+2007,indianapolis,toyota,trulli,Finished,5536665,6
+2007,indianapolis,red_bull,webber,Finished,5537265,7
+2007,indianapolis,bmw_sauber,vettel,Finished,5537665,8
+2007,indianapolis,renault,fisichella,+1 Lap,-1,9
+2007,indianapolis,williams,wurz,+1 Lap,-1,10
+2007,indianapolis,super_aguri,davidson,+1 Lap,-1,11
+2007,indianapolis,honda,button,+1 Lap,-1,12
+2007,indianapolis,toro_rosso,speed,+2 Laps,-1,13
+2007,indianapolis,spyker,sutil,+2 Laps,-1,14
+2007,indianapolis,spyker,albers,+3 Laps,-1,15
+2007,indianapolis,williams,rosberg,Engine,-1,16
+2007,indianapolis,toro_rosso,liuzzi,Water pressure,-1,17
+2007,indianapolis,bmw_sauber,heidfeld,Transmission,-1,18
+2007,indianapolis,super_aguri,sato,Spun off,-1,19
+2007,indianapolis,red_bull,coulthard,Collision,-1,20
+2007,indianapolis,honda,barrichello,Collision,-1,21
+2007,indianapolis,toyota,ralf_schumacher,Collision,-1,22

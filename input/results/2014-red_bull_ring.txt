@@ -1,0 +1,22 @@
+2014,red_bull_ring,mercedes,rosberg,Finished,5274976,1
+2014,red_bull_ring,mercedes,hamilton,Finished,5276908,2
+2014,red_bull_ring,williams,bottas,Finished,5283148,3
+2014,red_bull_ring,williams,massa,Finished,5292334,4
+2014,red_bull_ring,ferrari,alonso,Finished,5293529,5
+2014,red_bull_ring,force_india,perez,Finished,5303522,6
+2014,red_bull_ring,mclaren,kevin_magnussen,Finished,5307007,7
+2014,red_bull_ring,red_bull,ricciardo,Finished,5318498,8
+2014,red_bull_ring,force_india,hulkenberg,Finished,5319113,9
+2014,red_bull_ring,ferrari,raikkonen,Finished,5322753,10
+2014,red_bull_ring,mclaren,button,Finished,5325942,11
+2014,red_bull_ring,lotus_f1,maldonado,+1 Lap,-1,12
+2014,red_bull_ring,sauber,sutil,+1 Lap,-1,13
+2014,red_bull_ring,lotus_f1,grosjean,+1 Lap,-1,14
+2014,red_bull_ring,marussia,jules_bianchi,+2 Laps,-1,15
+2014,red_bull_ring,caterham,kobayashi,+2 Laps,-1,16
+2014,red_bull_ring,marussia,chilton,+2 Laps,-1,17
+2014,red_bull_ring,caterham,ericsson,+2 Laps,-1,18
+2014,red_bull_ring,sauber,gutierrez,+2 Laps,-1,19
+2014,red_bull_ring,toro_rosso,vergne,Brakes,-1,20
+2014,red_bull_ring,red_bull,vettel,Electrical,-1,21
+2014,red_bull_ring,toro_rosso,kvyat,Suspension,-1,22

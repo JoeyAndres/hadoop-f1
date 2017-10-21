@@ -1,0 +1,27 @@
+1985,nurburgring,ferrari,alboreto,Finished,5731337,1
+1985,nurburgring,mclaren,prost,Finished,5742998,2
+1985,nurburgring,ligier,laffite,Finished,5782491,3
+1985,nurburgring,arrows,boutsen,Finished,5786616,4
+1985,nurburgring,mclaren,lauda,Finished,5805309,5
+1985,nurburgring,williams,mansell,Finished,5808157,6
+1985,nurburgring,arrows,berger,+1 Lap,-1,7
+1985,nurburgring,tyrrell,bellof,+1 Lap,-1,8
+1985,nurburgring,ferrari,johansson,+1 Lap,-1,9
+1985,nurburgring,tyrrell,brundle,+4 Laps,-1,10
+1985,nurburgring,minardi,martini,Engine,-1,11
+1985,nurburgring,williams,keke_rosberg,Brakes,-1,12
+1985,nurburgring,alfa,cheever,Turbo,-1,13
+1985,nurburgring,team_lotus,angelis,Engine,-1,14
+1985,nurburgring,osella,rothengatter,Gearbox,-1,15
+1985,nurburgring,toleman,fabi,Clutch,-1,16
+1985,nurburgring,team_lotus,senna,CV joint,-1,17
+1985,nurburgring,renault,warwick,Ignition,-1,18
+1985,nurburgring,brabham,piquet,Turbo,-1,19
+1985,nurburgring,renault,tambay,Spun off,-1,20
+1985,nurburgring,brabham,surer,Engine,-1,21
+1985,nurburgring,ram,manfred_winkelhock,Engine,-1,22
+1985,nurburgring,alfa,patrese,Gearbox,-1,23
+1985,nurburgring,renault,hesnault,Clutch,-1,24
+1985,nurburgring,ram,alliot,Oil pressure,-1,25
+1985,nurburgring,zakspeed,palmer,Alternator,-1,26
+1985,nurburgring,ligier,cesaris,Collision,-1,27

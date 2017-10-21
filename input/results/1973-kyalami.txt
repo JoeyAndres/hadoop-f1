@@ -1,0 +1,25 @@
+1973,kyalami,tyrrell,stewart,Finished,6191070,1
+1973,kyalami,mclaren,revson,Finished,6215620,2
+1973,kyalami,team_lotus,emerson_fittipaldi,Finished,6216130,3
+1973,kyalami,ferrari,merzario,+1 Lap,-1,4
+1973,kyalami,mclaren,hulme,+2 Laps,-1,5
+1973,kyalami,shadow,follmer,+2 Laps,-1,6
+1973,kyalami,brabham,reutemann,+2 Laps,-1,7
+1973,kyalami,surtees,adamich,+2 Laps,-1,8
+1973,kyalami,mclaren,scheckter,Engine,-1,9
+1973,kyalami,iso_marlboro,ganley,+6 Laps,-1,10
+1973,kyalami,team_lotus,peterson,+6 Laps,-1,11
+1973,kyalami,surtees,pace,Accident,-1,12
+1973,kyalami,tyrrell,keizan,Not classified,-1,13
+1973,kyalami,march,jarier,Not classified,-1,14
+1973,kyalami,tyrrell,cevert,Not classified,-1,15
+1973,kyalami,march,beuttler,Not classified,-1,16
+1973,kyalami,brabham,wilson_fittipaldi,Gearbox,-1,17
+1973,kyalami,iso_marlboro,pretorius,Overheating,-1,18
+1973,kyalami,brm,lauda,Engine,-1,19
+1973,kyalami,shadow,oliver,Engine,-1,20
+1973,kyalami,brm,beltoise,Clutch,-1,21
+1973,kyalami,team_lotus,charlton,Accident,-1,22
+1973,kyalami,brm,regazzoni,Accident,-1,23
+1973,kyalami,ferrari,ickx,Accident,-1,24
+1973,kyalami,surtees,hailwood,Accident,-1,25

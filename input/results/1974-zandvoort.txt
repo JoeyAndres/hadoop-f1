@@ -1,0 +1,27 @@
+1974,zandvoort,ferrari,lauda,Finished,6180350,1
+1974,zandvoort,ferrari,regazzoni,Finished,6188600,2
+1974,zandvoort,mclaren,emerson_fittipaldi,Finished,6210620,3
+1974,zandvoort,mclaren,hailwood,Finished,6211640,4
+1974,zandvoort,tyrrell,scheckter,Finished,6214630,5
+1974,zandvoort,tyrrell,depailler,Finished,6231870,6
+1974,zandvoort,brabham,watson,Finished,6254300,7
+1974,zandvoort,team_lotus,peterson,+2 Laps,-1,8
+1974,zandvoort,brabham,opel,+2 Laps,-1,9
+1974,zandvoort,march,brambilla,+3 Laps,-1,10
+1974,zandvoort,team_lotus,ickx,+4 Laps,-1,11
+1974,zandvoort,brabham,reutemann,+4 Laps,-1,12
+1974,zandvoort,ensign,schuppan,Disqualified,-1,13
+1974,zandvoort,mclaren,hulme,Ignition,-1,14
+1974,zandvoort,brm,migault,Gearbox,-1,15
+1974,zandvoort,iso_marlboro,merzario,Gearbox,-1,16
+1974,zandvoort,lola,edwards,Fuel system,-1,17
+1974,zandvoort,shadow,jarier,Clutch,-1,18
+1974,zandvoort,brm,beltoise,Gearbox,-1,19
+1974,zandvoort,lola,hill,Gearbox,-1,20
+1974,zandvoort,brm,pescarolo,Handling,-1,21
+1974,zandvoort,surtees,mass,Transmission,-1,22
+1974,zandvoort,hesketh,hunt,Collision,-1,23
+1974,zandvoort,shadow,pryce,Collision,-1,24
+1974,zandvoort,march,stuck,Accident,-1,25
+1974,zandvoort,trojan,schenken,Did not qualify,-1,26
+1974,zandvoort,iso_marlboro,lennep,Did not qualify,-1,27

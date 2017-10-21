@@ -1,0 +1,24 @@
+1985,spa,team_lotus,senna,Finished,5659893,1
+1985,spa,williams,mansell,Finished,5688315,2
+1985,spa,mclaren,prost,Finished,5715002,3
+1985,spa,williams,keke_rosberg,Finished,5735183,4
+1985,spa,brabham,piquet,+1 Lap,-1,5
+1985,spa,renault,warwick,+1 Lap,-1,6
+1985,spa,arrows,berger,+1 Lap,-1,7
+1985,spa,brabham,surer,+1 Lap,-1,8
+1985,spa,ligier,streiff,+1 Lap,-1,9
+1985,spa,arrows,boutsen,+3 Laps,-1,10
+1985,spa,ligier,laffite,Accident,-1,11
+1985,spa,minardi,martini,+5 Laps,-1,12
+1985,spa,tyrrell,brundle,+5 Laps,-1,13
+1985,spa,osella,rothengatter,Not classified,-1,14
+1985,spa,alfa,patrese,Engine,-1,15
+1985,spa,alfa,cheever,Gearbox,-1,16
+1985,spa,renault,tambay,Gearbox,-1,17
+1985,spa,toleman,fabi,Throttle,-1,18
+1985,spa,team_lotus,angelis,Turbo,-1,19
+1985,spa,zakspeed,danner,Gearbox,-1,20
+1985,spa,ram,alliot,Accident,-1,21
+1985,spa,ferrari,johansson,Spun off,-1,22
+1985,spa,toleman,ghinzani,Accident,-1,23
+1985,spa,ferrari,alboreto,Clutch,-1,24

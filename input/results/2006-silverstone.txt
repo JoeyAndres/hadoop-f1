@@ -1,0 +1,22 @@
+2006,silverstone,renault,alonso,Finished,5151927,1
+2006,silverstone,ferrari,michael_schumacher,Finished,5165878,2
+2006,silverstone,mclaren,raikkonen,Finished,5170599,3
+2006,silverstone,renault,fisichella,Finished,5171903,4
+2006,silverstone,ferrari,massa,Finished,5183486,5
+2006,silverstone,mclaren,montoya,Finished,5216696,6
+2006,silverstone,bmw_sauber,heidfeld,Finished,5226521,7
+2006,silverstone,bmw_sauber,villeneuve,Finished,5230226,8
+2006,silverstone,williams,rosberg,Finished,5230935,9
+2006,silverstone,honda,barrichello,+1 Lap,-1,10
+2006,silverstone,toyota,trulli,+1 Lap,-1,11
+2006,silverstone,red_bull,coulthard,+1 Lap,-1,12
+2006,silverstone,toro_rosso,liuzzi,+1 Lap,-1,13
+2006,silverstone,red_bull,klien,+1 Lap,-1,14
+2006,silverstone,mf1,albers,+1 Lap,-1,15
+2006,silverstone,mf1,monteiro,+2 Laps,-1,16
+2006,silverstone,super_aguri,sato,+3 Laps,-1,17
+2006,silverstone,super_aguri,montagny,+3 Laps,-1,18
+2006,silverstone,honda,button,Oil leak,-1,19
+2006,silverstone,toro_rosso,speed,Accident,-1,20
+2006,silverstone,toyota,ralf_schumacher,Accident,-1,21
+2006,silverstone,williams,webber,Accident,-1,22

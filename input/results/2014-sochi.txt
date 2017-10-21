@@ -1,0 +1,21 @@
+2014,sochi,mercedes,hamilton,Finished,5510744,1
+2014,sochi,mercedes,rosberg,Finished,5524401,2
+2014,sochi,williams,bottas,Finished,5528169,3
+2014,sochi,mclaren,button,Finished,5540978,4
+2014,sochi,mclaren,kevin_magnussen,Finished,5564360,5
+2014,sochi,ferrari,alonso,Finished,5570760,6
+2014,sochi,red_bull,ricciardo,Finished,5572556,7
+2014,sochi,red_bull,vettel,Finished,5576929,8
+2014,sochi,ferrari,raikkonen,Finished,5589621,9
+2014,sochi,force_india,perez,Finished,5590811,10
+2014,sochi,williams,massa,Finished,5591621,11
+2014,sochi,force_india,hulkenberg,Finished,5592053,12
+2014,sochi,toro_rosso,vergne,Finished,5608039,13
+2014,sochi,toro_rosso,kvyat,+1 Lap,-1,14
+2014,sochi,sauber,gutierrez,+1 Lap,-1,15
+2014,sochi,sauber,sutil,+1 Lap,-1,16
+2014,sochi,lotus_f1,grosjean,+1 Lap,-1,17
+2014,sochi,lotus_f1,maldonado,+1 Lap,-1,18
+2014,sochi,caterham,ericsson,+2 Laps,-1,19
+2014,sochi,caterham,kobayashi,Brakes,-1,20
+2014,sochi,marussia,chilton,Suspension,-1,21

@@ -1,0 +1,26 @@
+1993,hockenheimring,williams,prost,Finished,4720885,1
+1993,hockenheimring,benetton,michael_schumacher,Finished,4737549,2
+1993,hockenheimring,ligier,blundell,Finished,4780234,3
+1993,hockenheimring,mclaren,senna,Finished,4789114,4
+1993,hockenheimring,benetton,patrese,Finished,4812401,5
+1993,hockenheimring,ferrari,berger,Finished,4815639,6
+1993,hockenheimring,ferrari,alesi,Finished,4816726,7
+1993,hockenheimring,ligier,brundle,+1 Lap,-1,8
+1993,hockenheimring,sauber,wendlinger,+1 Lap,-1,9
+1993,hockenheimring,team_lotus,herbert,+1 Lap,-1,10
+1993,hockenheimring,minardi,fittipaldi,+1 Lap,-1,11
+1993,hockenheimring,larrousse,alliot,+1 Lap,-1,12
+1993,hockenheimring,jordan,boutsen,+1 Lap,-1,13
+1993,hockenheimring,minardi,martini,+1 Lap,-1,14
+1993,hockenheimring,williams,damon_hill,Tyre,-1,15
+1993,hockenheimring,lola,alboreto,+2 Laps,-1,16
+1993,hockenheimring,footwork,warwick,+3 Laps,-1,17
+1993,hockenheimring,jordan,barrichello,Wheel bearing,-1,18
+1993,hockenheimring,tyrrell,katayama,Halfshaft,-1,19
+1993,hockenheimring,sauber,lehto,Spun off,-1,20
+1993,hockenheimring,team_lotus,zanardi,Spun off,-1,21
+1993,hockenheimring,footwork,suzuki,Collision,-1,22
+1993,hockenheimring,mclaren,andretti,Collision,-1,23
+1993,hockenheimring,lola,badoer,Suspension,-1,24
+1993,hockenheimring,tyrrell,cesaris,Gearbox,-1,25
+1993,hockenheimring,larrousse,comas,Gearbox,-1,26

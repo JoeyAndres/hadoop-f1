@@ -1,0 +1,30 @@
+1991,monza,williams,mansell,Finished,4674319,1
+1991,monza,mclaren,senna,Finished,4690581,2
+1991,monza,ferrari,prost,Finished,4691148,3
+1991,monza,mclaren,berger,Finished,4702038,4
+1991,monza,benetton,michael_schumacher,Finished,4708782,5
+1991,monza,benetton,piquet,Finished,4719919,6
+1991,monza,jordan,cesaris,Finished,4725455,7
+1991,monza,leyton,capelli,Finished,4749338,8
+1991,monza,minardi,morbidelli,+1 Lap,-1,9
+1991,monza,dallara,pirro,+1 Lap,-1,10
+1991,monza,ligier,comas,+1 Lap,-1,11
+1991,monza,brabham,blundell,+1 Lap,-1,12
+1991,monza,brabham,brundle,+1 Lap,-1,13
+1991,monza,team_lotus,hakkinen,+4 Laps,-1,14
+1991,monza,leyton,gugelmin,+4 Laps,-1,15
+1991,monza,lambo,larini,+5 Laps,-1,16
+1991,monza,fondmetal,grouillard,Engine,-1,17
+1991,monza,dallara,lehto,Overheating,-1,18
+1991,monza,tyrrell,modena,Engine,-1,19
+1991,monza,ferrari,alesi,Engine,-1,20
+1991,monza,williams,patrese,Gearbox,-1,21
+1991,monza,tyrrell,satoru_nakajima,Throttle,-1,22
+1991,monza,lola,bernard,Engine,-1,23
+1991,monza,minardi,martini,Spun off,-1,24
+1991,monza,jordan,moreno,Spun off,-1,25
+1991,monza,ligier,boutsen,Spun off,-1,26
+1991,monza,footwork,alboreto,Did not qualify,-1,27
+1991,monza,team_lotus,bartels,Did not qualify,-1,28
+1991,monza,lambo,poele,Did not qualify,-1,29
+1991,monza,lola,suzuki,Did not qualify,-1,30

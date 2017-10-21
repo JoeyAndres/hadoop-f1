@@ -1,0 +1,17 @@
+1968,essarts,ferrari,ickx,Finished,8740900,1
+1968,essarts,honda,surtees,Finished,8859500,2
+1968,essarts,matra-ford,stewart,+1 Lap,-1,3
+1968,essarts,cooper-brm,elford,+2 Laps,-1,4
+1968,essarts,mclaren-ford,hulme,+2 Laps,-1,5
+1968,essarts,brm,courage,+3 Laps,-1,6
+1968,essarts,brm,attwood,+3 Laps,-1,7
+1968,essarts,mclaren-ford,mclaren,+4 Laps,-1,8
+1968,essarts,matra,beltoise,+4 Laps,-1,9
+1968,essarts,ferrari,amon,+5 Laps,-1,10
+1968,essarts,lotus-ford,siffert,+6 Laps,-1,11
+1968,essarts,brm,rodriguez,Not classified,-1,12
+1968,essarts,brabham-repco,rindt,Fuel leak,-1,13
+1968,essarts,brabham-repco,jack_brabham,Fuel pump,-1,14
+1968,essarts,lotus-ford,hill,Halfshaft,-1,15
+1968,essarts,cooper-brm,gavin,Accident,-1,16
+1968,essarts,honda,jo_schlesser,Accident,-1,17

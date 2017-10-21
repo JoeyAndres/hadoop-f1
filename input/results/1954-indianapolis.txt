@@ -1,0 +1,30 @@
+1954,indianapolis,kurtis_kraft,vukovich,Finished,13757270,1
+1954,indianapolis,kuzma,bryan,Finished,13827220,2
+1954,indianapolis,kurtis_kraft,mcgrath,Finished,13837000,3
+1954,indianapolis,kurtis_kraft,darter,Finished,13929950,4
+1954,indianapolis,kurtis_kraft,ruttman,Finished,13929950,4
+1954,indianapolis,kurtis_kraft,nazaruk,Finished,13961820,5
+1954,indianapolis,kurtis_kraft,agabashian,Finished,13984820,6
+1954,indianapolis,phillips,freeland,Finished,14010620,7
+1954,indianapolis,kurtis_kraft,paul_russo,Finished,14058440,8
+1954,indianapolis,kurtis_kraft,hoyt,Finished,14058440,8
+1954,indianapolis,kurtis_kraft,crockett,Finished,14184510,9
+1954,indianapolis,stevens,niday,Finished,14184960,10
+1954,indianapolis,kurtis_kraft,parsons,Finished,14259460,11
+1954,indianapolis,kurtis_kraft,hanks,Finished,14259460,11
+1954,indianapolis,kurtis_kraft,cross,Finished,14259460,11
+1954,indianapolis,kurtis_kraft,linden,Finished,14259460,11
+1954,indianapolis,kurtis_kraft,davies,Finished,14259460,11
+1954,indianapolis,kuzma,faulkner,+1 Lap,-1,12
+1954,indianapolis,kuzma,stevenson,+1 Lap,-1,12
+1954,indianapolis,kuzma,ayulo,+3 Laps,-1,13
+1954,indianapolis,kurtis_kraft,sweikert,+3 Laps,-1,14
+1954,indianapolis,kurtis_kraft,teague,+4 Laps,-1,15
+1954,indianapolis,kurtis_kraft,darter,+4 Laps,-1,15
+1954,indianapolis,kurtis_kraft,jackson,+4 Laps,-1,15
+1954,indianapolis,kurtis_kraft,bettenhausen,+4 Laps,-1,15
+1954,indianapolis,kurtis_kraft,mccoy,+6 Laps,-1,16
+1954,indianapolis,pankratz,reece,+6 Laps,-1,17
+1954,indianapolis,stevens,bob_scott,+7 Laps,-1,18
+1954,indianapolis,stevens,elisian,+7 Laps,-1,18
+1954,indianapolis,kurtis_kraft,fonder,+7 Laps,-1,19

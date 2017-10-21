@@ -1,0 +1,26 @@
+1961,spa,ferrari,phil_hill,Finished,7383800,1
+1961,spa,ferrari,trips,Finished,7384500,2
+1961,spa,ferrari,ginther,Finished,7403300,3
+1961,spa,ferrari,gendebien,Finished,7429400,4
+1961,spa,cooper-climax,surtees,Finished,7470600,5
+1961,spa,porsche,gurney,Finished,7474800,6
+1961,spa,porsche,bonnier,Finished,7550900,7
+1961,spa,lotus-climax,moss,Finished,7619400,8
+1961,spa,cooper-climax,lewis,+1 Lap,-1,9
+1961,spa,cooper-climax,gregory,+1 Lap,-1,10
+1961,spa,porsche,beaufort,+2 Laps,-1,11
+1961,spa,lotus-climax,clark,+6 Laps,-1,12
+1961,spa,brm,brooks,+6 Laps,-1,13
+1961,spa,brm,hill,Ignition,-1,14
+1961,spa,cooper-maserati,trintignant,Gearbox,-1,15
+1961,spa,cooper-maserati,bandini,Wheel bearing,-1,16
+1961,spa,cooper-climax,jack_brabham,Engine,-1,17
+1961,spa,cooper-climax,mclaren,Ignition,-1,18
+1961,spa,lotus-climax,ireland,Engine,-1,19
+1961,spa,lotus-climax,bianchi,Oil leak,-1,20
+1961,spa,lotus-climax,mairesse,Ignition,-1,21
+1961,spa,lotus-climax,marsh,Withdrew,-1,22
+1961,spa,lotus-climax,seidel,Withdrew,-1,23
+1961,spa,lotus-climax,burgess,Withdrew,-1,24
+1961,spa,lotus-climax,allison,Withdrew,-1,25
+1961,spa,lotus-climax,henry_taylor,Withdrew,-1,26

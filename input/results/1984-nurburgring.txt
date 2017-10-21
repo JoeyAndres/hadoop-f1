@@ -1,0 +1,26 @@
+1984,nurburgring,mclaren,prost,Finished,5713284,1
+1984,nurburgring,ferrari,alboreto,Finished,5737195,2
+1984,nurburgring,brabham,piquet,Finished,5738206,3
+1984,nurburgring,mclaren,lauda,Finished,5756370,4
+1984,nurburgring,ferrari,arnoux,Finished,5774714,5
+1984,nurburgring,alfa,patrese,+1 Lap,-1,6
+1984,nurburgring,ligier,cesaris,+2 Laps,-1,7
+1984,nurburgring,spirit,baldi,+2 Laps,-1,8
+1984,nurburgring,arrows,boutsen,Ignition,-1,9
+1984,nurburgring,ligier,hesnault,+3 Laps,-1,10
+1984,nurburgring,renault,warwick,Overheating,-1,11
+1984,nurburgring,osella,gartner,Fuel system,-1,12
+1984,nurburgring,brabham,fabi,Gearbox,-1,13
+1984,nurburgring,team_lotus,mansell,Engine,-1,14
+1984,nurburgring,renault,tambay,Fuel system,-1,15
+1984,nurburgring,alfa,cheever,Fuel system,-1,16
+1984,nurburgring,ram,alliot,Turbo,-1,17
+1984,nurburgring,ram,palmer,Turbo,-1,18
+1984,nurburgring,williams,laffite,Engine,-1,19
+1984,nurburgring,team_lotus,angelis,Turbo,-1,20
+1984,nurburgring,toleman,johansson,Overheating,-1,21
+1984,nurburgring,williams,keke_rosberg,Accident,-1,22
+1984,nurburgring,toleman,senna,Accident,-1,23
+1984,nurburgring,arrows,surer,Accident,-1,24
+1984,nurburgring,ats,berger,Accident,-1,25
+1984,nurburgring,osella,ghinzani,Accident,-1,26

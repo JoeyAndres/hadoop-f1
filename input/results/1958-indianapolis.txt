@@ -1,0 +1,30 @@
+1958,indianapolis,epperly,bryan,Finished,13453800,1
+1958,indianapolis,epperly,george_amick,Finished,13481430,2
+1958,indianapolis,kurtis_kraft,boyd,Finished,13523470,3
+1958,indianapolis,epperly,bettenhausen,Finished,13548610,4
+1958,indianapolis,epperly,rathmann,Finished,13549420,5
+1958,indianapolis,watson,reece,Finished,13590750,6
+1958,indianapolis,phillips,freeland,Finished,13594860,7
+1958,indianapolis,watson,larson,Finished,13787820,8
+1958,indianapolis,kurtis_kraft,johnson,Finished,13829560,9
+1958,indianapolis,kurtis_kraft,cheesbourg,Finished,13937390,10
+1958,indianapolis,kurtis_kraft,keller,Finished,14008000,11
+1958,indianapolis,kurtis_kraft,parsons,Finished,14034650,12
+1958,indianapolis,kuzma,tolan,Finished,14046040,13
+1958,indianapolis,kurtis_kraft,christie,Spun off,-1,14
+1958,indianapolis,kuzma,dempsey_wilson,Heat shield fire,-1,15
+1958,indianapolis,kuzma,foyt,Spun off,-1,16
+1958,indianapolis,kurtis_kraft,magill,Disqualified,-1,17
+1958,indianapolis,kurtis_kraft,paul_russo,Throttle,-1,18
+1958,indianapolis,kurtis_kraft,templeman,Brakes,-1,19
+1958,indianapolis,lesovsky,ward,Magneto,-1,20
+1958,indianapolis,kurtis_kraft,garrett,Magneto,-1,21
+1958,indianapolis,kuzma,sachs,Transmission,-1,22
+1958,indianapolis,kurtis_kraft,thomson,Steering,-1,23
+1958,indianapolis,dunn,weyant,Accident,-1,24
+1958,indianapolis,lesovsky,turner,Fuel pump,-1,25
+1958,indianapolis,kurtis_kraft,veith,Accident,-1,26
+1958,indianapolis,watson,dick_rathmann,Accident,-1,27
+1958,indianapolis,watson,elisian,Accident,-1,28
+1958,indianapolis,kurtis_kraft,connor,Accident,-1,29
+1958,indianapolis,kurtis_kraft,goldsmith,Accident,-1,30

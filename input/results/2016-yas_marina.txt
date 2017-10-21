@@ -1,0 +1,22 @@
+2016,yas_marina,mercedes,hamilton,Finished,5884013,1
+2016,yas_marina,mercedes,rosberg,Finished,5884452,2
+2016,yas_marina,ferrari,vettel,Finished,5884856,3
+2016,yas_marina,red_bull,max_verstappen,Finished,5885698,4
+2016,yas_marina,red_bull,ricciardo,Finished,5889328,5
+2016,yas_marina,ferrari,raikkonen,Finished,5902829,6
+2016,yas_marina,force_india,hulkenberg,Finished,5934127,7
+2016,yas_marina,force_india,perez,Finished,5942789,8
+2016,yas_marina,williams,massa,Finished,5943449,9
+2016,yas_marina,mclaren,alonso,Finished,5943909,10
+2016,yas_marina,haas,grosjean,Finished,5960790,11
+2016,yas_marina,haas,gutierrez,Finished,5979126,12
+2016,yas_marina,manor,ocon,+1 Lap,-1,13
+2016,yas_marina,manor,wehrlein,+1 Lap,-1,14
+2016,yas_marina,sauber,ericsson,+1 Lap,-1,15
+2016,yas_marina,sauber,nasr,+1 Lap,-1,16
+2016,yas_marina,renault,jolyon_palmer,+1 Lap,-1,17
+2016,yas_marina,toro_rosso,sainz,Collision damage,-1,18
+2016,yas_marina,toro_rosso,kvyat,Gearbox,-1,19
+2016,yas_marina,mclaren,button,Suspension,-1,20
+2016,yas_marina,williams,bottas,Suspension,-1,21
+2016,yas_marina,renault,kevin_magnussen,Suspension,-1,22

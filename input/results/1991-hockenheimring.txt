@@ -1,0 +1,30 @@
+1991,hockenheimring,williams,mansell,Finished,4769661,1
+1991,hockenheimring,williams,patrese,Finished,4783440,2
+1991,hockenheimring,ferrari,alesi,Finished,4787279,3
+1991,hockenheimring,mclaren,berger,Finished,4802312,4
+1991,hockenheimring,jordan,cesaris,Finished,4847198,5
+1991,hockenheimring,jordan,gachot,Finished,4870266,6
+1991,hockenheimring,mclaren,senna,Out of fuel,-1,7
+1991,hockenheimring,benetton,moreno,+1 Lap,-1,8
+1991,hockenheimring,ligier,boutsen,+1 Lap,-1,9
+1991,hockenheimring,dallara,pirro,+1 Lap,-1,10
+1991,hockenheimring,brabham,brundle,+2 Laps,-1,11
+1991,hockenheimring,brabham,blundell,+2 Laps,-1,12
+1991,hockenheimring,tyrrell,modena,+4 Laps,-1,13
+1991,hockenheimring,ferrari,prost,Spun off,-1,14
+1991,hockenheimring,leyton,capelli,Engine,-1,15
+1991,hockenheimring,dallara,lehto,Engine,-1,16
+1991,hockenheimring,benetton,piquet,Engine,-1,17
+1991,hockenheimring,tyrrell,satoru_nakajima,Gearbox,-1,18
+1991,hockenheimring,ligier,comas,Engine,-1,19
+1991,hockenheimring,leyton,gugelmin,Gearbox,-1,20
+1991,hockenheimring,team_lotus,hakkinen,Engine,-1,21
+1991,hockenheimring,lola,suzuki,Engine,-1,22
+1991,hockenheimring,minardi,morbidelli,Differential,-1,23
+1991,hockenheimring,minardi,martini,Differential,-1,24
+1991,hockenheimring,lola,bernard,Transmission,-1,25
+1991,hockenheimring,lambo,larini,Spun off,-1,26
+1991,hockenheimring,footwork,alboreto,Did not qualify,-1,27
+1991,hockenheimring,team_lotus,bartels,Did not qualify,-1,28
+1991,hockenheimring,ags,tarquini,Did not qualify,-1,29
+1991,hockenheimring,lambo,poele,Did not qualify,-1,30

@@ -1,0 +1,20 @@
+2015,sochi,mercedes,hamilton,Finished,5831024,1
+2015,sochi,ferrari,vettel,Finished,5836977,2
+2015,sochi,force_india,perez,Finished,5859942,3
+2015,sochi,williams,massa,Finished,5869855,4
+2015,sochi,red_bull,kvyat,Finished,5878590,5
+2015,sochi,sauber,nasr,Finished,5887532,6
+2015,sochi,lotus_f1,maldonado,Finished,5892112,7
+2015,sochi,ferrari,raikkonen,Finished,5903382,8
+2015,sochi,mclaren,button,Finished,5910491,9
+2015,sochi,toro_rosso,max_verstappen,Finished,5919448,10
+2015,sochi,mclaren,alonso,Finished,5922234,11
+2015,sochi,williams,bottas,Collision,-1,12
+2015,sochi,manor,merhi,+1 Lap,-1,13
+2015,sochi,manor,stevens,+2 Laps,-1,14
+2015,sochi,red_bull,ricciardo,Suspension,-1,15
+2015,sochi,toro_rosso,sainz,Brakes,-1,16
+2015,sochi,lotus_f1,grosjean,Accident,-1,17
+2015,sochi,mercedes,rosberg,Throttle,-1,18
+2015,sochi,force_india,hulkenberg,Collision,-1,19
+2015,sochi,sauber,ericsson,Collision,-1,20

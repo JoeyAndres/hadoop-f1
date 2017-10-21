@@ -1,0 +1,28 @@
+1980,kyalami,renault,arnoux,Finished,5812540,1
+1980,kyalami,ligier,laffite,Finished,5846610,2
+1980,kyalami,ligier,pironi,Finished,5865030,3
+1980,kyalami,brabham,piquet,Finished,5873560,4
+1980,kyalami,williams,reutemann,+1 Lap,-1,5
+1980,kyalami,arrows,mass,+1 Lap,-1,6
+1980,kyalami,tyrrell,jarier,+1 Lap,-1,7
+1980,kyalami,fittipaldi,emerson_fittipaldi,+1 Lap,-1,8
+1980,kyalami,ensign,regazzoni,+1 Lap,-1,9
+1980,kyalami,brabham,zunino,+1 Lap,-1,10
+1980,kyalami,mclaren,watson,+2 Laps,-1,11
+1980,kyalami,team_lotus,mario_andretti,+2 Laps,-1,12
+1980,kyalami,shadow,lees,Suspension,-1,13
+1980,kyalami,alfa,giacomelli,Engine,-1,14
+1980,kyalami,renault,jabouille,Puncture,-1,15
+1980,kyalami,tyrrell,daly,Puncture,-1,16
+1980,kyalami,fittipaldi,keke_rosberg,Accident,-1,17
+1980,kyalami,alfa,depailler,Not classified,-1,18
+1980,kyalami,williams,jones,Gearbox,-1,19
+1980,kyalami,ferrari,gilles_villeneuve,Transmission,-1,20
+1980,kyalami,ferrari,scheckter,Engine,-1,21
+1980,kyalami,arrows,patrese,Spun off,-1,22
+1980,kyalami,osella,cheever,Spun off,-1,23
+1980,kyalami,team_lotus,angelis,Spun off,-1,24
+1980,kyalami,mclaren,prost,Accident,-1,25
+1980,kyalami,ats,surer,Accident,-1,26
+1980,kyalami,shadow,kennedy,Did not qualify,-1,27
+1980,kyalami,ats,lammers,Did not qualify,-1,28

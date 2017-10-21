@@ -1,0 +1,20 @@
+2009,monaco,brawn,button,Finished,6044282,1
+2009,monaco,brawn,barrichello,Finished,6051948,2
+2009,monaco,ferrari,raikkonen,Finished,6057724,3
+2009,monaco,ferrari,massa,Finished,6059392,4
+2009,monaco,red_bull,webber,Finished,6060012,5
+2009,monaco,williams,rosberg,Finished,6077868,6
+2009,monaco,renault,alonso,Finished,6082121,7
+2009,monaco,toro_rosso,bourdais,Finished,6107424,8
+2009,monaco,force_india,fisichella,Finished,6109322,9
+2009,monaco,toyota,glock,+1 Lap,-1,10
+2009,monaco,bmw_sauber,heidfeld,+1 Lap,-1,11
+2009,monaco,mclaren,hamilton,+1 Lap,-1,12
+2009,monaco,toyota,trulli,+1 Lap,-1,13
+2009,monaco,force_india,sutil,+1 Lap,-1,14
+2009,monaco,williams,nakajima,Accident,-1,15
+2009,monaco,mclaren,kovalainen,Accident,-1,16
+2009,monaco,bmw_sauber,kubica,Brakes,-1,17
+2009,monaco,red_bull,vettel,Accident,-1,18
+2009,monaco,renault,piquet_jr,Collision,-1,19
+2009,monaco,toro_rosso,buemi,Collision,-1,20

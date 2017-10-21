@@ -1,0 +1,20 @@
+2005,albert_park,renault,fisichella,Finished,5057336,1
+2005,albert_park,ferrari,barrichello,Finished,5062889,2
+2005,albert_park,renault,alonso,Finished,5064048,3
+2005,albert_park,red_bull,coulthard,Finished,5073467,4
+2005,albert_park,williams,webber,Finished,5074244,5
+2005,albert_park,mclaren,montoya,Finished,5092369,6
+2005,albert_park,red_bull,klien,Finished,5096333,7
+2005,albert_park,mclaren,raikkonen,Finished,5096969,8
+2005,albert_park,toyota,trulli,Finished,5120444,9
+2005,albert_park,sauber,massa,Finished,5121729,10
+2005,albert_park,bar,button,+1 Lap,-1,11
+2005,albert_park,toyota,ralf_schumacher,+1 Lap,-1,12
+2005,albert_park,sauber,villeneuve,+1 Lap,-1,13
+2005,albert_park,bar,sato,+2 Laps,-1,14
+2005,albert_park,jordan,karthikeyan,+2 Laps,-1,15
+2005,albert_park,jordan,monteiro,+2 Laps,-1,16
+2005,albert_park,minardi,friesacher,+4 Laps,-1,17
+2005,albert_park,ferrari,michael_schumacher,Accident,-1,18
+2005,albert_park,williams,heidfeld,Accident,-1,19
+2005,albert_park,minardi,albers,Gearbox,-1,20

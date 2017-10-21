@@ -1,0 +1,22 @@
+2006,sepang,renault,fisichella,Finished,5440529,1
+2006,sepang,renault,alonso,Finished,5445114,2
+2006,sepang,honda,button,Finished,5450160,3
+2006,sepang,mclaren,montoya,Finished,5479880,4
+2006,sepang,ferrari,massa,Finished,5483783,5
+2006,sepang,ferrari,michael_schumacher,Finished,5484383,6
+2006,sepang,bmw_sauber,villeneuve,Finished,5520990,7
+2006,sepang,toyota,ralf_schumacher,Finished,5521817,8
+2006,sepang,toyota,trulli,+1 Lap,-1,9
+2006,sepang,honda,barrichello,+1 Lap,-1,10
+2006,sepang,toro_rosso,liuzzi,+2 Laps,-1,11
+2006,sepang,mf1,albers,+2 Laps,-1,12
+2006,sepang,mf1,monteiro,+2 Laps,-1,13
+2006,sepang,super_aguri,sato,+3 Laps,-1,14
+2006,sepang,bmw_sauber,heidfeld,Engine,-1,15
+2006,sepang,toro_rosso,speed,Clutch,-1,16
+2006,sepang,super_aguri,ide,Mechanical,-1,17
+2006,sepang,red_bull,klien,Hydraulics,-1,18
+2006,sepang,williams,webber,Hydraulics,-1,19
+2006,sepang,red_bull,coulthard,Hydraulics,-1,20
+2006,sepang,williams,rosberg,Engine,-1,21
+2006,sepang,mclaren,raikkonen,Accident,-1,22

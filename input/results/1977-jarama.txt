@@ -1,0 +1,30 @@
+1977,jarama,team_lotus,mario_andretti,Finished,6172220,1
+1977,jarama,ferrari,reutemann,Finished,6188070,2
+1977,jarama,wolf,scheckter,Finished,6196730,3
+1977,jarama,mclaren,mass,Finished,6197090,4
+1977,jarama,team_lotus,nilsson,Finished,6238050,5
+1977,jarama,brabham,stuck,+1 Lap,-1,6
+1977,jarama,ligier,laffite,+1 Lap,-1,7
+1977,jarama,tyrrell,peterson,+1 Lap,-1,8
+1977,jarama,surtees,binder,+2 Laps,-1,9
+1977,jarama,march,lunger,+3 Laps,-1,10
+1977,jarama,march,ian_scheckter,+3 Laps,-1,11
+1977,jarama,march,neve,+4 Laps,-1,12
+1977,jarama,mclaren,villota,+5 Laps,-1,13
+1977,jarama,fittipaldi,emerson_fittipaldi,+5 Laps,-1,14
+1977,jarama,brabham,watson,Fuel system,-1,15
+1977,jarama,shadow,jones,Accident,-1,16
+1977,jarama,hesketh,keegan,Accident,-1,17
+1977,jarama,hesketh,ertl,Radiator,-1,18
+1977,jarama,shadow,zorzi,Engine,-1,19
+1977,jarama,march,merzario,Suspension,-1,20
+1977,jarama,tyrrell,depailler,Engine,-1,21
+1977,jarama,mclaren,hunt,Engine,-1,22
+1977,jarama,ensign,regazzoni,Accident,-1,23
+1977,jarama,surtees,brambilla,Accident,-1,24
+1977,jarama,ferrari,lauda,Injured,-1,25
+1977,jarama,penske,jarier,Did not qualify,-1,26
+1977,jarama,march,ribeiro,Did not qualify,-1,27
+1977,jarama,march,hayje,Did not qualify,-1,28
+1977,jarama,march,henton,Did not qualify,-1,29
+1977,jarama,lec,purley,Did not qualify,-1,30

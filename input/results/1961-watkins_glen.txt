@@ -1,0 +1,20 @@
+1961,watkins_glen,lotus-climax,ireland,Finished,8025800,1
+1961,watkins_glen,porsche,gurney,Finished,8030100,2
+1961,watkins_glen,brm,brooks,Finished,8074800,3
+1961,watkins_glen,cooper-climax,mclaren,Finished,8083800,4
+1961,watkins_glen,brm,hill,+1 Lap,-1,5
+1961,watkins_glen,porsche,bonnier,+2 Laps,-1,6
+1961,watkins_glen,lotus-climax,clark,+4 Laps,-1,7
+1961,watkins_glen,cooper-climax,penske,+4 Laps,-1,8
+1961,watkins_glen,lotus-climax,ryan,+4 Laps,-1,9
+1961,watkins_glen,cooper-climax,sharp,+7 Laps,-1,10
+1961,watkins_glen,lotus-climax,gendebien,+8 Laps,-1,11
+1961,watkins_glen,cooper-climax,salvadori,Engine,-1,12
+1961,watkins_glen,lotus-climax,hall,Fuel leak,-1,13
+1961,watkins_glen,lotus-climax,ruby,Magneto,-1,14
+1961,watkins_glen,lotus-climax,moss,Engine,-1,15
+1961,watkins_glen,cooper-climax,jack_brabham,Overheating,-1,16
+1961,watkins_glen,lotus-climax,gregory,Gearbox,-1,17
+1961,watkins_glen,cooper-climax,hansgen,Accident,-1,18
+1961,watkins_glen,cooper-climax,surtees,Engine,-1,19
+1961,watkins_glen,lotus-climax,ken_miles,Withdrew,-1,20

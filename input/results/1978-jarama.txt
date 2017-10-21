@@ -1,0 +1,29 @@
+1978,jarama,team_lotus,mario_andretti,Finished,6107060,1
+1978,jarama,team_lotus,peterson,Finished,6126620,2
+1978,jarama,ligier,laffite,Finished,6144300,3
+1978,jarama,wolf,scheckter,Finished,6167120,4
+1978,jarama,brabham,watson,Finished,6172990,5
+1978,jarama,mclaren,hunt,+1 Lap,-1,6
+1978,jarama,surtees,brambilla,+1 Lap,-1,7
+1978,jarama,williams,jones,+1 Lap,-1,8
+1978,jarama,ats,mass,+1 Lap,-1,9
+1978,jarama,ferrari,gilles_villeneuve,+1 Lap,-1,10
+1978,jarama,surtees,keegan,+2 Laps,-1,11
+1978,jarama,tyrrell,pironi,+4 Laps,-1,12
+1978,jarama,renault,jabouille,+4 Laps,-1,13
+1978,jarama,arrows,stommelen,+4 Laps,-1,14
+1978,jarama,shadow,regazzoni,Fuel pipe,-1,15
+1978,jarama,ensign,ickx,Engine,-1,16
+1978,jarama,fittipaldi,emerson_fittipaldi,Throttle,-1,17
+1978,jarama,ferrari,reutemann,Accident,-1,18
+1978,jarama,brabham,lauda,Engine,-1,19
+1978,jarama,tyrrell,depailler,Engine,-1,20
+1978,jarama,shadow,stuck,Suspension,-1,21
+1978,jarama,arrows,patrese,Engine,-1,22
+1978,jarama,team_lotus,rebaque,Exhaust,-1,23
+1978,jarama,mclaren,tambay,Spun off,-1,24
+1978,jarama,merzario,merzario,Did not qualify,-1,25
+1978,jarama,mclaren,lunger,Did not qualify,-1,26
+1978,jarama,mclaren,villota,Did not qualify,-1,27
+1978,jarama,ats,colombo,Did not qualify,-1,28
+1978,jarama,theodore,keke_rosberg,Did not prequalify,-1,29

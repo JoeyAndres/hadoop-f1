@@ -1,0 +1,27 @@
+1984,monza,mclaren,lauda,Finished,4829065,1
+1984,monza,ferrari,alboreto,Finished,4853314,2
+1984,monza,alfa,patrese,+1 Lap,-1,3
+1984,monza,toleman,johansson,+2 Laps,-1,4
+1984,monza,osella,gartner,+2 Laps,-1,5
+1984,monza,ats,berger,+2 Laps,-1,6
+1984,monza,osella,ghinzani,Out of fuel,-1,7
+1984,monza,spirit,rothengatter,+3 Laps,-1,8
+1984,monza,alfa,cheever,Out of fuel,-1,9
+1984,monza,arrows,boutsen,+6 Laps,-1,10
+1984,monza,renault,tambay,Throttle,-1,11
+1984,monza,brabham,fabi,Engine,-1,12
+1984,monza,arrows,surer,Engine,-1,13
+1984,monza,renault,warwick,Oil pressure,-1,14
+1984,monza,ram,palmer,Oil pressure,-1,15
+1984,monza,brabham,piquet,Engine,-1,16
+1984,monza,team_lotus,angelis,Gearbox,-1,17
+1984,monza,team_lotus,mansell,Spun off,-1,18
+1984,monza,williams,laffite,Turbo,-1,19
+1984,monza,williams,keke_rosberg,Turbo,-1,20
+1984,monza,ligier,cesaris,Engine,-1,21
+1984,monza,ligier,hesnault,Spun off,-1,22
+1984,monza,ram,alliot,Electrical,-1,23
+1984,monza,ferrari,arnoux,Gearbox,-1,24
+1984,monza,mclaren,prost,Engine,-1,25
+1984,monza,ats,manfred_winkelhock,Withdrew,-1,26
+1984,monza,toleman,martini,Did not qualify,-1,27

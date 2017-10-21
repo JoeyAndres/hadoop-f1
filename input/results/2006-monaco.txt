@@ -1,0 +1,22 @@
+2006,monaco,renault,alonso,Finished,6223116,1
+2006,monaco,mclaren,montoya,Finished,6237683,2
+2006,monaco,red_bull,coulthard,Finished,6275414,3
+2006,monaco,honda,barrichello,Finished,6276453,4
+2006,monaco,ferrari,michael_schumacher,Finished,6276946,5
+2006,monaco,renault,fisichella,Finished,6285188,6
+2006,monaco,bmw_sauber,heidfeld,+1 Lap,-1,7
+2006,monaco,toyota,ralf_schumacher,+1 Lap,-1,8
+2006,monaco,ferrari,massa,+1 Lap,-1,9
+2006,monaco,toro_rosso,liuzzi,+1 Lap,-1,10
+2006,monaco,honda,button,+1 Lap,-1,11
+2006,monaco,mf1,albers,+1 Lap,-1,12
+2006,monaco,toro_rosso,speed,+1 Lap,-1,13
+2006,monaco,bmw_sauber,villeneuve,+1 Lap,-1,14
+2006,monaco,mf1,monteiro,+2 Laps,-1,15
+2006,monaco,super_aguri,montagny,+3 Laps,-1,16
+2006,monaco,toyota,trulli,Hydraulics,-1,17
+2006,monaco,red_bull,klien,Transmission,-1,18
+2006,monaco,williams,rosberg,Accident,-1,19
+2006,monaco,mclaren,raikkonen,Heat shield fire,-1,20
+2006,monaco,williams,webber,Exhaust,-1,21
+2006,monaco,super_aguri,sato,Electrical,-1,22

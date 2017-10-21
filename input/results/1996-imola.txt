@@ -1,0 +1,22 @@
+1996,imola,williams,damon_hill,Finished,5726156,1
+1996,imola,ferrari,michael_schumacher,Finished,5742616,2
+1996,imola,benetton,berger,Finished,5773047,3
+1996,imola,ferrari,irvine,Finished,5787739,4
+1996,imola,jordan,barrichello,Finished,5804646,5
+1996,imola,benetton,alesi,+1 Lap,-1,6
+1996,imola,ligier,diniz,+1 Lap,-1,7
+1996,imola,mclaren,hakkinen,Engine,-1,8
+1996,imola,minardi,lamy,+2 Laps,-1,9
+1996,imola,forti,badoer,+4 Laps,-1,10
+1996,imola,williams,villeneuve,Suspension,-1,11
+1996,imola,ligier,panis,Engine,-1,12
+1996,imola,tyrrell,katayama,Spun off,-1,13
+1996,imola,mclaren,coulthard,Hydraulics,-1,14
+1996,imola,footwork,rosset,Engine,-1,15
+1996,imola,footwork,verstappen,Hydraulics,-1,16
+1996,imola,jordan,brundle,Spun off,-1,17
+1996,imola,sauber,frentzen,Brakes,-1,18
+1996,imola,minardi,fisichella,Engine,-1,19
+1996,imola,sauber,herbert,Electrical,-1,20
+1996,imola,tyrrell,salo,Engine,-1,21
+1996,imola,forti,montermini,107% Rule,-1,22

@@ -1,0 +1,17 @@
+1964,essarts,brabham-climax,gurney,Finished,7669100,1
+1964,essarts,brm,hill,Finished,7693200,2
+1964,essarts,brabham-climax,jack_brabham,Finished,7694000,3
+1964,essarts,lotus-climax,arundell,Finished,7739700,4
+1964,essarts,brm,ginther,Finished,7801200,5
+1964,essarts,cooper-climax,mclaren,+1 Lap,-1,6
+1964,essarts,cooper-climax,phil_hill,+1 Lap,-1,7
+1964,essarts,lotus-brm,hailwood,+1 Lap,-1,8
+1964,essarts,ferrari,bandini,+2 Laps,-1,9
+1964,essarts,lotus-brm,amon,+4 Laps,-1,10
+1964,essarts,brm,trintignant,+5 Laps,-1,11
+1964,essarts,brabham-climax,anderson,+7 Laps,-1,12
+1964,essarts,brp,ireland,Accident,-1,13
+1964,essarts,lotus-climax,clark,Engine,-1,14
+1964,essarts,ferrari,surtees,Engine,-1,15
+1964,essarts,brp,trevor_taylor,Accident,-1,16
+1964,essarts,brabham-brm,siffert,Clutch,-1,17

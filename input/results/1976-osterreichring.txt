@@ -1,0 +1,25 @@
+1976,osterreichring,penske,watson,Finished,5407860,1
+1976,osterreichring,ligier,laffite,Finished,5418650,2
+1976,osterreichring,team_lotus,nilsson,Finished,5419840,3
+1976,osterreichring,mclaren,hunt,Finished,5420300,4
+1976,osterreichring,team_lotus,mario_andretti,Finished,5429350,5
+1976,osterreichring,march,peterson,Finished,5442200,6
+1976,osterreichring,mclaren,mass,Finished,5467310,7
+1976,osterreichring,hesketh,ertl,+1 Lap,-1,8
+1976,osterreichring,surtees,pescarolo,+2 Laps,-1,9
+1976,osterreichring,surtees,lunger,Accident,-1,10
+1976,osterreichring,tyrrell,pesenti_rossi,+3 Laps,-1,11
+1976,osterreichring,brabham-ford,lombardi,+4 Laps,-1,12
+1976,osterreichring,ensign,binder,Throttle,-1,13
+1976,osterreichring,brabham-ford,kessel,Not classified,-1,14
+1976,osterreichring,march,brambilla,Accident,-1,15
+1976,osterreichring,fittipaldi,emerson_fittipaldi,Accident,-1,16
+1976,osterreichring,brabham-alfa_romeo,pace,Accident,-1,17
+1976,osterreichring,shadow,jarier,Fuel pump,-1,18
+1976,osterreichring,surtees,jones,Accident,-1,19
+1976,osterreichring,march,stuck,Fuel system,-1,20
+1976,osterreichring,tyrrell,depailler,Suspension,-1,21
+1976,osterreichring,wolf,merzario,Accident,-1,22
+1976,osterreichring,shadow,pryce,Brakes,-1,23
+1976,osterreichring,tyrrell,scheckter,Suspension,-1,24
+1976,osterreichring,brabham-alfa_romeo,reutemann,Clutch,-1,25

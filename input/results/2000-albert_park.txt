@@ -1,0 +1,22 @@
+2000,albert_park,ferrari,michael_schumacher,Finished,5641987,1
+2000,albert_park,ferrari,barrichello,Finished,5653402,2
+2000,albert_park,williams,ralf_schumacher,Finished,5661996,3
+2000,albert_park,bar,villeneuve,Finished,5686434,4
+2000,albert_park,benetton,fisichella,Finished,5687152,5
+2000,albert_park,bar,zonta,Finished,5688455,6
+2000,albert_park,benetton,wurz,Finished,5688902,7
+2000,albert_park,minardi,gene,+1 Lap,-1,8
+2000,albert_park,prost,heidfeld,+2 Laps,-1,9
+2000,albert_park,sauber,salo,Disqualified,-1,10
+2000,albert_park,williams,button,Engine,-1,11
+2000,albert_park,sauber,diniz,Transmission,-1,12
+2000,albert_park,minardi,mazzacane,Gearbox,-1,13
+2000,albert_park,jordan,frentzen,Hydraulics,-1,14
+2000,albert_park,jordan,trulli,Engine,-1,15
+2000,albert_park,prost,alesi,Hydraulics,-1,16
+2000,albert_park,mclaren,hakkinen,Engine,-1,17
+2000,albert_park,arrows,verstappen,Suspension,-1,18
+2000,albert_park,mclaren,coulthard,Engine,-1,19
+2000,albert_park,arrows,rosa,Suspension,-1,20
+2000,albert_park,jaguar,irvine,Spun off,-1,21
+2000,albert_park,jaguar,herbert,Clutch,-1,22

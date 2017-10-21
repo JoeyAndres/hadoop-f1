@@ -1,0 +1,16 @@
+1969,monaco,lotus-ford,hill,Finished,7019400,1
+1969,monaco,brabham-ford,courage,Finished,7036700,2
+1969,monaco,lotus-ford,siffert,Finished,7054000,3
+1969,monaco,lotus-ford,attwood,Finished,7072300,4
+1969,monaco,mclaren-ford,mclaren,+1 Lap,-1,5
+1969,monaco,mclaren-ford,hulme,+2 Laps,-1,6
+1969,monaco,cooper-maserati,elford,+6 Laps,-1,7
+1969,monaco,brabham-ford,ickx,Suspension,-1,8
+1969,monaco,matra-ford,stewart,Halfshaft,-1,9
+1969,monaco,matra-ford,beltoise,Halfshaft,-1,10
+1969,monaco,ferrari,amon,Differential,-1,11
+1969,monaco,brm,rodriguez,Engine,-1,12
+1969,monaco,brabham-ford,moser,Halfshaft,-1,13
+1969,monaco,brm,surtees,Gearbox,-1,14
+1969,monaco,brabham-ford,jack_brabham,Accident,-1,15
+1969,monaco,brm,oliver,Accident,-1,16

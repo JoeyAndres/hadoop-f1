@@ -1,0 +1,22 @@
+2014,hockenheimring,mercedes,rosberg,Finished,5622914,1
+2014,hockenheimring,williams,bottas,Finished,5643703,2
+2014,hockenheimring,mercedes,hamilton,Finished,5645444,3
+2014,hockenheimring,red_bull,vettel,Finished,5666928,4
+2014,hockenheimring,ferrari,alonso,Finished,5675381,5
+2014,hockenheimring,red_bull,ricciardo,Finished,5675463,6
+2014,hockenheimring,force_india,hulkenberg,Finished,5687092,7
+2014,hockenheimring,mclaren,button,Finished,5707625,8
+2014,hockenheimring,mclaren,kevin_magnussen,+1 Lap,-1,9
+2014,hockenheimring,force_india,perez,+1 Lap,-1,10
+2014,hockenheimring,ferrari,raikkonen,+1 Lap,-1,11
+2014,hockenheimring,lotus_f1,maldonado,+1 Lap,-1,12
+2014,hockenheimring,toro_rosso,vergne,+1 Lap,-1,13
+2014,hockenheimring,sauber,gutierrez,+1 Lap,-1,14
+2014,hockenheimring,marussia,jules_bianchi,+1 Lap,-1,15
+2014,hockenheimring,caterham,kobayashi,+2 Laps,-1,16
+2014,hockenheimring,marussia,chilton,+2 Laps,-1,17
+2014,hockenheimring,caterham,ericsson,+2 Laps,-1,18
+2014,hockenheimring,sauber,sutil,Brakes,-1,19
+2014,hockenheimring,toro_rosso,kvyat,Oil leak,-1,20
+2014,hockenheimring,lotus_f1,grosjean,Water leak,-1,21
+2014,hockenheimring,williams,massa,Collision,-1,22

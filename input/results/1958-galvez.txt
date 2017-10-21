@@ -1,0 +1,10 @@
+1958,galvez,cooper,moss,Finished,8373700,1
+1958,galvez,ferrari,musso,Finished,8376400,2
+1958,galvez,ferrari,hawthorn,Finished,8386300,3
+1958,galvez,maserati,fangio,Finished,8426700,4
+1958,galvez,maserati,behra,+2 Laps,-1,5
+1958,galvez,maserati,schell,+3 Laps,-1,6
+1958,galvez,maserati,menditeguy,+4 Laps,-1,7
+1958,galvez,maserati,godia,+5 Laps,-1,8
+1958,galvez,maserati,gould,+9 Laps,-1,9
+1958,galvez,ferrari,collins,Halfshaft,-1,10

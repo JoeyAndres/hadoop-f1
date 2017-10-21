@@ -1,0 +1,28 @@
+1983,monaco,williams,keke_rosberg,Finished,6998121,1
+1983,monaco,brabham,piquet,Finished,7016596,2
+1983,monaco,renault,prost,Finished,7029487,3
+1983,monaco,ferrari,tambay,Finished,7062418,4
+1983,monaco,tyrrell,sullivan,+2 Laps,-1,5
+1983,monaco,alfa,baldi,+2 Laps,-1,6
+1983,monaco,arrows,serra,+2 Laps,-1,7
+1983,monaco,brabham,patrese,Electrical,-1,8
+1983,monaco,williams,laffite,Gearbox,-1,9
+1983,monaco,arrows,surer,Collision,-1,10
+1983,monaco,toleman,warwick,Collision,-1,11
+1983,monaco,team_lotus,angelis,Halfshaft,-1,12
+1983,monaco,ligier,jarier,Suspension,-1,13
+1983,monaco,renault,cheever,Engine,-1,14
+1983,monaco,alfa,cesaris,Gearbox,-1,15
+1983,monaco,ferrari,arnoux,Suspension,-1,16
+1983,monaco,ligier,boesel,Collision,-1,17
+1983,monaco,ats,manfred_winkelhock,Collision,-1,18
+1983,monaco,tyrrell,alboreto,Collision,-1,19
+1983,monaco,team_lotus,mansell,Collision,-1,20
+1983,monaco,toleman,giacomelli,Did not qualify,-1,21
+1983,monaco,mclaren,lauda,Did not qualify,-1,22
+1983,monaco,mclaren,watson,Did not qualify,-1,23
+1983,monaco,osella,corrado_fabi,Did not qualify,-1,24
+1983,monaco,ram,salazar,Did not qualify,-1,25
+1983,monaco,osella,ghinzani,Did not qualify,-1,26
+1983,monaco,theodore,cecotto,Did not prequalify,-1,27
+1983,monaco,theodore,guerrero,Did not prequalify,-1,28

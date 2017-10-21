@@ -1,0 +1,22 @@
+1997,magny_cours,ferrari,michael_schumacher,Finished,5930492,1
+1997,magny_cours,williams,frentzen,Finished,5954029,2
+1997,magny_cours,ferrari,irvine,Finished,6005293,3
+1997,magny_cours,williams,villeneuve,Finished,6012276,4
+1997,magny_cours,benetton,alesi,Finished,6013227,5
+1997,magny_cours,jordan,ralf_schumacher,Finished,6020363,6
+1997,magny_cours,mclaren,coulthard,Collision,-1,7
+1997,magny_cours,sauber,herbert,+1 Lap,-1,8
+1997,magny_cours,jordan,fisichella,+1 Lap,-1,9
+1997,magny_cours,prost,trulli,+2 Laps,-1,10
+1997,magny_cours,minardi,katayama,+2 Laps,-1,11
+1997,magny_cours,arrows,damon_hill,+3 Laps,-1,12
+1997,magny_cours,tyrrell,salo,Electrical,-1,13
+1997,magny_cours,benetton,wurz,Spun off,-1,14
+1997,magny_cours,arrows,diniz,Spun off,-1,15
+1997,magny_cours,sauber,fontana,Spun off,-1,16
+1997,magny_cours,stewart,barrichello,Engine,-1,17
+1997,magny_cours,stewart,magnussen,Brakes,-1,18
+1997,magny_cours,mclaren,hakkinen,Engine,-1,19
+1997,magny_cours,tyrrell,verstappen,Spun off,-1,20
+1997,magny_cours,prost,nakano,Spun off,-1,21
+1997,magny_cours,minardi,marques,Engine,-1,22

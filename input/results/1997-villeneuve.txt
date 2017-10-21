@@ -1,0 +1,22 @@
+1997,villeneuve,ferrari,michael_schumacher,Finished,4660646,1
+1997,villeneuve,benetton,alesi,Finished,4663211,2
+1997,villeneuve,jordan,fisichella,Finished,4663865,3
+1997,villeneuve,williams,frentzen,Finished,4664414,4
+1997,villeneuve,sauber,herbert,Finished,4665362,5
+1997,villeneuve,prost,nakano,Finished,4697347,6
+1997,villeneuve,mclaren,coulthard,Finished,4698399,7
+1997,villeneuve,arrows,diniz,+1 Lap,-1,8
+1997,villeneuve,arrows,damon_hill,+1 Lap,-1,9
+1997,villeneuve,sauber,morbidelli,+1 Lap,-1,10
+1997,villeneuve,prost,panis,Spun off,-1,11
+1997,villeneuve,tyrrell,salo,Engine,-1,12
+1997,villeneuve,tyrrell,verstappen,Gearbox,-1,13
+1997,villeneuve,benetton,wurz,Transmission,-1,14
+1997,villeneuve,stewart,barrichello,Gearbox,-1,15
+1997,villeneuve,minardi,trulli,Engine,-1,16
+1997,villeneuve,jordan,ralf_schumacher,Accident,-1,17
+1997,villeneuve,minardi,katayama,Spun off,-1,18
+1997,villeneuve,williams,villeneuve,Accident,-1,19
+1997,villeneuve,mclaren,hakkinen,Engine,-1,20
+1997,villeneuve,ferrari,irvine,Accident,-1,21
+1997,villeneuve,stewart,magnussen,Spun off,-1,22

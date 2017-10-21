@@ -1,0 +1,22 @@
+2013,nurburgring,red_bull,vettel,Finished,6074711,1
+2013,nurburgring,lotus_f1,raikkonen,Finished,6075719,2
+2013,nurburgring,lotus_f1,grosjean,Finished,6080541,3
+2013,nurburgring,ferrari,alonso,Finished,6082432,4
+2013,nurburgring,mercedes,hamilton,Finished,6101638,5
+2013,nurburgring,mclaren,button,Finished,6102707,6
+2013,nurburgring,red_bull,webber,Finished,6112273,7
+2013,nurburgring,mclaren,perez,Finished,6113017,8
+2013,nurburgring,mercedes,rosberg,Finished,6121532,9
+2013,nurburgring,sauber,hulkenberg,Finished,6124603,10
+2013,nurburgring,force_india,resta,Finished,6128482,11
+2013,nurburgring,toro_rosso,ricciardo,Finished,6131686,12
+2013,nurburgring,force_india,sutil,Finished,6132449,13
+2013,nurburgring,sauber,gutierrez,Finished,6134871,14
+2013,nurburgring,williams,maldonado,Finished,6136640,15
+2013,nurburgring,williams,bottas,+1 Lap,-1,16
+2013,nurburgring,caterham,pic,+1 Lap,-1,17
+2013,nurburgring,caterham,garde,+1 Lap,-1,18
+2013,nurburgring,marussia,chilton,+1 Lap,-1,19
+2013,nurburgring,toro_rosso,vergne,Hydraulics,-1,20
+2013,nurburgring,marussia,jules_bianchi,Engine,-1,21
+2013,nurburgring,ferrari,massa,Spun off,-1,22

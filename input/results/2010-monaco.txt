@@ -1,0 +1,24 @@
+2010,monaco,red_bull,webber,Finished,6613355,1
+2010,monaco,red_bull,vettel,Finished,6613803,2
+2010,monaco,renault,kubica,Finished,6615030,3
+2010,monaco,ferrari,massa,Finished,6616021,4
+2010,monaco,mclaren,hamilton,Finished,6617718,5
+2010,monaco,ferrari,alonso,Finished,6619696,6
+2010,monaco,mercedes,rosberg,Finished,6620006,7
+2010,monaco,force_india,sutil,Finished,6620325,8
+2010,monaco,force_india,liuzzi,Finished,6620660,9
+2010,monaco,toro_rosso,buemi,Finished,6621554,10
+2010,monaco,toro_rosso,alguersuari,Finished,6622490,11
+2010,monaco,mercedes,michael_schumacher,Finished,6619067,12
+2010,monaco,renault,petrov,Brakes,-1,13
+2010,monaco,hrt,chandhok,Collision,-1,14
+2010,monaco,lotus_racing,trulli,Collision,-1,15
+2010,monaco,lotus_racing,kovalainen,Steering,-1,16
+2010,monaco,hrt,bruno_senna,Hydraulics,-1,17
+2010,monaco,williams,barrichello,Suspension,-1,18
+2010,monaco,sauber,kobayashi,Gearbox,-1,19
+2010,monaco,virgin,grassi,Wheel,-1,20
+2010,monaco,virgin,glock,Track rod,-1,21
+2010,monaco,sauber,rosa,Hydraulics,-1,22
+2010,monaco,mclaren,button,Engine,-1,23
+2010,monaco,williams,hulkenberg,Front wing,-1,24

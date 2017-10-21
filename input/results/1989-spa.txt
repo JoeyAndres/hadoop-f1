@@ -1,0 +1,30 @@
+1989,spa,mclaren,senna,Finished,6054196,1
+1989,spa,mclaren,prost,Finished,6055500,2
+1989,spa,ferrari,mansell,Finished,6056020,3
+1989,spa,williams,boutsen,Finished,6108604,4
+1989,spa,benetton,nannini,Finished,6123001,5
+1989,spa,arrows,warwick,Finished,6132512,6
+1989,spa,march,gugelmin,+1 Lap,-1,7
+1989,spa,onyx,johansson,+1 Lap,-1,8
+1989,spa,minardi,martini,+1 Lap,-1,9
+1989,spa,benetton,pirro,+1 Lap,-1,10
+1989,spa,dallara,cesaris,+1 Lap,-1,11
+1989,spa,march,capelli,+1 Lap,-1,12
+1989,spa,ligier,grouillard,+1 Lap,-1,13
+1989,spa,tyrrell,palmer,+2 Laps,-1,14
+1989,spa,minardi,sala,+3 Laps,-1,15
+1989,spa,larrousse,alliot,Engine,-1,16
+1989,spa,arrows,cheever,Wheel,-1,17
+1989,spa,onyx,gachot,Spun off,-1,18
+1989,spa,williams,patrese,Collision,-1,19
+1989,spa,larrousse,alboreto,Collision,-1,20
+1989,spa,dallara,caffi,Spun off,-1,21
+1989,spa,brabham,brundle,Brakes,-1,22
+1989,spa,ferrari,berger,Spun off,-1,23
+1989,spa,brabham,modena,Handling,-1,24
+1989,spa,ligier,arnoux,Collision,-1,25
+1989,spa,tyrrell,herbert,Spun off,-1,26
+1989,spa,team_lotus,satoru_nakajima,Did not qualify,-1,27
+1989,spa,team_lotus,piquet,Did not qualify,-1,28
+1989,spa,rial,danner,Did not qualify,-1,29
+1989,spa,rial,raphanel,Did not qualify,-1,30

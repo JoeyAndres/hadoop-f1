@@ -1,0 +1,29 @@
+1982,dijon,williams,keke_rosberg,Finished,5561087,1
+1982,dijon,renault,prost,Finished,5565529,2
+1982,dijon,mclaren,lauda,Finished,5621430,3
+1982,dijon,brabham,piquet,+1 Lap,-1,4
+1982,dijon,brabham,patrese,+1 Lap,-1,5
+1982,dijon,team_lotus,angelis,+1 Lap,-1,6
+1982,dijon,tyrrell,alboreto,+1 Lap,-1,7
+1982,dijon,team_lotus,mansell,+1 Lap,-1,8
+1982,dijon,williams,daly,+1 Lap,-1,9
+1982,dijon,alfa,cesaris,+2 Laps,-1,10
+1982,dijon,tyrrell,henton,+2 Laps,-1,11
+1982,dijon,alfa,giacomelli,+2 Laps,-1,12
+1982,dijon,mclaren,watson,+3 Laps,-1,13
+1982,dijon,ats,salazar,+4 Laps,-1,14
+1982,dijon,arrows,surer,+4 Laps,-1,15
+1982,dijon,renault,arnoux,Injection,-1,16
+1982,dijon,ligier,cheever,Handling,-1,17
+1982,dijon,ats,manfred_winkelhock,Chassis,-1,18
+1982,dijon,osella,jarier,Engine,-1,19
+1982,dijon,ligier,laffite,Handling,-1,20
+1982,dijon,toleman,fabi,Engine,-1,21
+1982,dijon,march,boesel,Water leak,-1,22
+1982,dijon,march,keegan,Spun off,-1,23
+1982,dijon,toleman,warwick,Engine,-1,24
+1982,dijon,ensign,guerrero,Engine,-1,25
+1982,dijon,ferrari,tambay,Injury,-1,26
+1982,dijon,fittipaldi,serra,Did not qualify,-1,27
+1982,dijon,theodore,byrne,Did not qualify,-1,28
+1982,dijon,arrows,baldi,Did not qualify,-1,29

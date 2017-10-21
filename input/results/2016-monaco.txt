@@ -1,0 +1,22 @@
+2016,monaco,mercedes,hamilton,Finished,7169133,1
+2016,monaco,red_bull,ricciardo,Finished,7176385,2
+2016,monaco,force_india,perez,Finished,7182958,3
+2016,monaco,ferrari,vettel,Finished,7184979,4
+2016,monaco,mclaren,alonso,Finished,7254209,5
+2016,monaco,force_india,hulkenberg,Finished,7262132,6
+2016,monaco,mercedes,rosberg,Finished,7262423,7
+2016,monaco,toro_rosso,sainz,+1 Lap,-1,8
+2016,monaco,mclaren,button,+1 Lap,-1,9
+2016,monaco,williams,massa,+1 Lap,-1,10
+2016,monaco,haas,gutierrez,+1 Lap,-1,11
+2016,monaco,williams,bottas,+1 Lap,-1,12
+2016,monaco,haas,grosjean,+2 Laps,-1,13
+2016,monaco,manor,wehrlein,+2 Laps,-1,14
+2016,monaco,manor,haryanto,+4 Laps,-1,15
+2016,monaco,sauber,ericsson,Collision,-1,16
+2016,monaco,sauber,nasr,Retired,-1,17
+2016,monaco,red_bull,max_verstappen,Accident,-1,18
+2016,monaco,renault,kevin_magnussen,Retired,-1,19
+2016,monaco,toro_rosso,kvyat,Accident,-1,20
+2016,monaco,ferrari,raikkonen,Accident,-1,21
+2016,monaco,renault,jolyon_palmer,Accident,-1,22

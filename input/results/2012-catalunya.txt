@@ -1,0 +1,24 @@
+2012,catalunya,williams,maldonado,Finished,5949145,1
+2012,catalunya,ferrari,alonso,Finished,5952340,2
+2012,catalunya,lotus_f1,raikkonen,Finished,5953029,3
+2012,catalunya,lotus_f1,grosjean,Finished,5963944,4
+2012,catalunya,sauber,kobayashi,Finished,6013786,5
+2012,catalunya,red_bull,vettel,Finished,6016721,6
+2012,catalunya,mercedes,rosberg,Finished,6027064,7
+2012,catalunya,mclaren,hamilton,Finished,6027285,8
+2012,catalunya,mclaren,button,Finished,6034391,9
+2012,catalunya,force_india,hulkenberg,+1 Lap,-1,10
+2012,catalunya,red_bull,webber,+1 Lap,-1,11
+2012,catalunya,toro_rosso,vergne,+1 Lap,-1,12
+2012,catalunya,toro_rosso,ricciardo,+1 Lap,-1,13
+2012,catalunya,force_india,resta,+1 Lap,-1,14
+2012,catalunya,ferrari,massa,+1 Lap,-1,15
+2012,catalunya,caterham,kovalainen,+1 Lap,-1,16
+2012,catalunya,caterham,petrov,+1 Lap,-1,17
+2012,catalunya,marussia,glock,+2 Laps,-1,18
+2012,catalunya,hrt,rosa,+3 Laps,-1,19
+2012,catalunya,sauber,perez,Wheel nut,-1,20
+2012,catalunya,marussia,pic,Mechanical,-1,21
+2012,catalunya,hrt,karthikeyan,Mechanical,-1,22
+2012,catalunya,williams,bruno_senna,Collision,-1,23
+2012,catalunya,mercedes,michael_schumacher,Collision,-1,24

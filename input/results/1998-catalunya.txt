@@ -1,0 +1,21 @@
+1998,catalunya,mclaren,hakkinen,Finished,5618300,1
+1998,catalunya,mclaren,coulthard,Finished,5627739,2
+1998,catalunya,ferrari,michael_schumacher,Finished,5665395,3
+1998,catalunya,benetton,wurz,Finished,5680838,4
+1998,catalunya,stewart,barrichello,+1 Lap,-1,5
+1998,catalunya,williams,villeneuve,+1 Lap,-1,6
+1998,catalunya,sauber,herbert,+1 Lap,-1,7
+1998,catalunya,williams,frentzen,+2 Laps,-1,8
+1998,catalunya,prost,trulli,+2 Laps,-1,9
+1998,catalunya,sauber,alesi,+2 Laps,-1,10
+1998,catalunya,jordan,ralf_schumacher,+2 Laps,-1,11
+1998,catalunya,stewart,magnussen,+2 Laps,-1,12
+1998,catalunya,tyrrell,takagi,+2 Laps,-1,13
+1998,catalunya,minardi,nakano,+2 Laps,-1,14
+1998,catalunya,minardi,tuero,+2 Laps,-1,15
+1998,catalunya,prost,panis,+5 Laps,-1,16
+1998,catalunya,jordan,damon_hill,Engine,-1,17
+1998,catalunya,ferrari,irvine,Collision,-1,18
+1998,catalunya,benetton,fisichella,Collision,-1,19
+1998,catalunya,arrows,salo,Engine,-1,20
+1998,catalunya,arrows,diniz,Engine,-1,21

@@ -1,0 +1,26 @@
+1986,hockenheimring,williams,piquet,Finished,4928263,1
+1986,hockenheimring,team_lotus,senna,Finished,4943700,2
+1986,hockenheimring,williams,mansell,Finished,4972843,3
+1986,hockenheimring,ligier,arnoux,Finished,5003439,4
+1986,hockenheimring,mclaren,keke_rosberg,Out of fuel,-1,5
+1986,hockenheimring,mclaren,prost,Out of fuel,-1,6
+1986,hockenheimring,brabham,warwick,+1 Lap,-1,7
+1986,hockenheimring,lola,tambay,+1 Lap,-1,8
+1986,hockenheimring,lola,jones,+2 Laps,-1,9
+1986,hockenheimring,benetton,berger,+2 Laps,-1,10
+1986,hockenheimring,ferrari,johansson,Broken wing,-1,11
+1986,hockenheimring,osella,berg,+4 Laps,-1,12
+1986,hockenheimring,arrows,danner,Turbo,-1,13
+1986,hockenheimring,zakspeed,rothengatter,Gearbox,-1,14
+1986,hockenheimring,zakspeed,palmer,Engine,-1,15
+1986,hockenheimring,tyrrell,brundle,Electrical,-1,16
+1986,hockenheimring,brabham,patrese,Turbo,-1,17
+1986,hockenheimring,minardi,cesaris,Gearbox,-1,18
+1986,hockenheimring,minardi,nannini,Overheating,-1,19
+1986,hockenheimring,team_lotus,dumfries,Radiator,-1,20
+1986,hockenheimring,arrows,boutsen,Turbo,-1,21
+1986,hockenheimring,ligier,alliot,Engine,-1,22
+1986,hockenheimring,osella,ghinzani,Clutch,-1,23
+1986,hockenheimring,tyrrell,streiff,Engine,-1,24
+1986,hockenheimring,ferrari,alboreto,Transmission,-1,25
+1986,hockenheimring,benetton,fabi,Accident,-1,26

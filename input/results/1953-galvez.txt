@@ -1,0 +1,17 @@
+1953,galvez,ferrari,ascari,Finished,10864600,1
+1953,galvez,ferrari,villoresi,+1 Lap,-1,2
+1953,galvez,maserati,gonzalez,+1 Lap,-1,3
+1953,galvez,ferrari,hawthorn,+1 Lap,-1,4
+1953,galvez,maserati,galvez,+1 Lap,-1,5
+1953,galvez,gordini,behra,+3 Laps,-1,6
+1953,galvez,gordini,trintignant,+6 Laps,-1,7
+1953,galvez,gordini,schell,+6 Laps,-1,7
+1953,galvez,cooper,john_barber,+7 Laps,-1,8
+1953,galvez,cooper,alan_brown,+10 Laps,-1,9
+1953,galvez,gordini,manzon,Wheel,-1,10
+1953,galvez,maserati,fangio,Transmission,-1,11
+1953,galvez,maserati,bonetto,Transmission,-1,12
+1953,galvez,ferrari,farina,Accident,-1,13
+1953,galvez,gordini,menditeguy,Gearbox,-1,14
+1953,galvez,simca,birger,Differential,-1,15
+1953,galvez,cooper,cruz,Wheel,-1,16

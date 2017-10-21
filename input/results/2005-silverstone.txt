@@ -1,0 +1,20 @@
+2005,silverstone,mclaren,montoya,Finished,5069588,1
+2005,silverstone,renault,alonso,Finished,5072288,2
+2005,silverstone,mclaren,raikkonen,Finished,5083988,3
+2005,silverstone,renault,fisichella,Finished,5087488,4
+2005,silverstone,bar,button,Finished,5109888,5
+2005,silverstone,ferrari,michael_schumacher,Finished,5144888,6
+2005,silverstone,ferrari,barrichello,Finished,5146188,7
+2005,silverstone,toyota,ralf_schumacher,Finished,5148788,8
+2005,silverstone,toyota,trulli,Finished,5150488,9
+2005,silverstone,sauber,massa,+1 Lap,-1,10
+2005,silverstone,williams,webber,+1 Lap,-1,11
+2005,silverstone,williams,heidfeld,+1 Lap,-1,12
+2005,silverstone,red_bull,coulthard,+1 Lap,-1,13
+2005,silverstone,sauber,villeneuve,+1 Lap,-1,14
+2005,silverstone,red_bull,klien,+1 Lap,-1,15
+2005,silverstone,bar,sato,+2 Laps,-1,16
+2005,silverstone,jordan,monteiro,+2 Laps,-1,17
+2005,silverstone,minardi,albers,+3 Laps,-1,18
+2005,silverstone,minardi,friesacher,+4 Laps,-1,19
+2005,silverstone,jordan,karthikeyan,Electrical,-1,20

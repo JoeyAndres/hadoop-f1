@@ -1,0 +1,20 @@
+2003,hockenheimring,williams,montoya,Finished,5328769,1
+2003,hockenheimring,mclaren,coulthard,Finished,5394228,2
+2003,hockenheimring,renault,trulli,Finished,5397829,3
+2003,hockenheimring,renault,alonso,Finished,5398113,4
+2003,hockenheimring,toyota,panis,+1 Lap,-1,5
+2003,hockenheimring,toyota,matta,+1 Lap,-1,6
+2003,hockenheimring,ferrari,michael_schumacher,+1 Lap,-1,7
+2003,hockenheimring,bar,button,+1 Lap,-1,8
+2003,hockenheimring,bar,villeneuve,+2 Laps,-1,9
+2003,hockenheimring,sauber,heidfeld,+2 Laps,-1,10
+2003,hockenheimring,jaguar,webber,Accident,-1,11
+2003,hockenheimring,minardi,kiesa,+5 Laps,-1,12
+2003,hockenheimring,jordan,fisichella,Engine,-1,13
+2003,hockenheimring,minardi,verstappen,Hydraulics,-1,14
+2003,hockenheimring,jaguar,wilson,Gearbox,-1,15
+2003,hockenheimring,williams,ralf_schumacher,Accident,-1,16
+2003,hockenheimring,sauber,frentzen,Accident,-1,17
+2003,hockenheimring,ferrari,barrichello,Accident,-1,18
+2003,hockenheimring,mclaren,raikkonen,Accident,-1,19
+2003,hockenheimring,jordan,firman,Accident,-1,20

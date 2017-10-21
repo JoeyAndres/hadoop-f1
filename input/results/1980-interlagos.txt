@@ -1,0 +1,28 @@
+1980,interlagos,renault,arnoux,Finished,6001330,1
+1980,interlagos,team_lotus,angelis,Finished,6023190,2
+1980,interlagos,williams,jones,Finished,6067440,3
+1980,interlagos,ligier,pironi,Finished,6101460,4
+1980,interlagos,mclaren,prost,Finished,6106740,5
+1980,interlagos,arrows,patrese,+1 Lap,-1,6
+1980,interlagos,ats,surer,+1 Lap,-1,7
+1980,interlagos,brabham,zunino,+1 Lap,-1,8
+1980,interlagos,fittipaldi,keke_rosberg,+1 Lap,-1,9
+1980,interlagos,arrows,mass,+1 Lap,-1,10
+1980,interlagos,mclaren,watson,+1 Lap,-1,11
+1980,interlagos,tyrrell,jarier,+1 Lap,-1,12
+1980,interlagos,alfa,giacomelli,+1 Lap,-1,13
+1980,interlagos,tyrrell,daly,+2 Laps,-1,14
+1980,interlagos,fittipaldi,emerson_fittipaldi,+2 Laps,-1,15
+1980,interlagos,ferrari,gilles_villeneuve,Throttle,-1,16
+1980,interlagos,alfa,depailler,Electrical,-1,17
+1980,interlagos,renault,jabouille,Turbo,-1,18
+1980,interlagos,brabham,piquet,Suspension,-1,19
+1980,interlagos,ligier,laffite,Electrical,-1,20
+1980,interlagos,ensign,regazzoni,Engine,-1,21
+1980,interlagos,ferrari,scheckter,Engine,-1,22
+1980,interlagos,team_lotus,mario_andretti,Spun off,-1,23
+1980,interlagos,williams,reutemann,Halfshaft,-1,24
+1980,interlagos,ats,lammers,Did not qualify,-1,25
+1980,interlagos,shadow,kennedy,Did not qualify,-1,26
+1980,interlagos,shadow,johansson,Did not qualify,-1,27
+1980,interlagos,osella,cheever,Did not qualify,-1,28

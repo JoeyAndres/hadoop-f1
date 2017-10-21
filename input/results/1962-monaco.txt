@@ -1,0 +1,24 @@
+1962,monaco,cooper-climax,mclaren,Finished,9989700,1
+1962,monaco,ferrari,phil_hill,Finished,9991000,2
+1962,monaco,ferrari,bandini,Finished,10073800,3
+1962,monaco,lola,surtees,+1 Lap,-1,4
+1962,monaco,porsche,bonnier,+7 Laps,-1,5
+1962,monaco,brm,hill,Engine,-1,6
+1962,monaco,ferrari,mairesse,Oil pressure,-1,7
+1962,monaco,lotus-climax,jack_brabham,Accident,-1,8
+1962,monaco,lotus-climax,ireland,Fuel pump,-1,9
+1962,monaco,lotus-climax,clark,Clutch,-1,10
+1962,monaco,lola,salvadori,Suspension,-1,11
+1962,monaco,cooper-climax,maggs,Gearbox,-1,12
+1962,monaco,lotus-climax,trevor_taylor,Oil leak,-1,13
+1962,monaco,porsche,gurney,Accident,-1,14
+1962,monaco,lotus-climax,trintignant,Accident,-1,15
+1962,monaco,brm,ginther,Accident,-1,16
+1962,monaco,lotus-climax,siffert,Did not qualify,-1,17
+1962,monaco,brm,lewis,Did not qualify,-1,18
+1962,monaco,lotus-brm,gregory,Did not qualify,-1,19
+1962,monaco,porsche,beaufort,Did not qualify,-1,20
+1962,monaco,lotus-climax,vaccarella,Did not qualify,-1,21
+1962,monaco,ferrari,ricardo_rodriguez,Withdrew,-1,22
+1962,monaco,de_tomaso-alfa_romeo,bussinello,Withdrew,-1,23
+1962,monaco,brm,marsh,Withdrew,-1,24

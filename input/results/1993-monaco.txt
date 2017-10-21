@@ -1,0 +1,26 @@
+1993,monaco,mclaren,senna,Finished,6730947,1
+1993,monaco,williams,damon_hill,Finished,6783065,2
+1993,monaco,ferrari,alesi,Finished,6794309,3
+1993,monaco,williams,prost,+1 Lap,-1,4
+1993,monaco,minardi,fittipaldi,+2 Laps,-1,5
+1993,monaco,ligier,brundle,+2 Laps,-1,6
+1993,monaco,team_lotus,zanardi,+2 Laps,-1,7
+1993,monaco,mclaren,andretti,+2 Laps,-1,8
+1993,monaco,jordan,barrichello,+2 Laps,-1,9
+1993,monaco,tyrrell,cesaris,+2 Laps,-1,10
+1993,monaco,minardi,barbazza,+3 Laps,-1,11
+1993,monaco,larrousse,alliot,+3 Laps,-1,12
+1993,monaco,sauber,wendlinger,+4 Laps,-1,13
+1993,monaco,ferrari,berger,Collision,-1,14
+1993,monaco,team_lotus,herbert,Gearbox,-1,15
+1993,monaco,benetton,patrese,Engine,-1,16
+1993,monaco,larrousse,comas,Engine,-1,17
+1993,monaco,footwork,suzuki,Spun off,-1,18
+1993,monaco,footwork,warwick,Throttle,-1,19
+1993,monaco,benetton,michael_schumacher,Hydraulics,-1,20
+1993,monaco,tyrrell,katayama,Engine,-1,21
+1993,monaco,lola,alboreto,Gearbox,-1,22
+1993,monaco,sauber,lehto,Accident,-1,23
+1993,monaco,jordan,boutsen,Suspension,-1,24
+1993,monaco,ligier,blundell,Spun off,-1,25
+1993,monaco,lola,badoer,Did not qualify,-1,26

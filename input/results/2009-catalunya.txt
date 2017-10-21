@@ -1,0 +1,20 @@
+2009,catalunya,brawn,button,Finished,5839202,1
+2009,catalunya,brawn,barrichello,Finished,5852258,2
+2009,catalunya,red_bull,webber,Finished,5853126,3
+2009,catalunya,red_bull,vettel,Finished,5858143,4
+2009,catalunya,renault,alonso,Finished,5882368,5
+2009,catalunya,ferrari,massa,Finished,5890029,6
+2009,catalunya,bmw_sauber,heidfeld,Finished,5891514,7
+2009,catalunya,williams,rosberg,Finished,5904413,8
+2009,catalunya,mclaren,hamilton,+1 Lap,-1,9
+2009,catalunya,toyota,glock,+1 Lap,-1,10
+2009,catalunya,bmw_sauber,kubica,+1 Lap,-1,11
+2009,catalunya,renault,piquet_jr,+1 Lap,-1,12
+2009,catalunya,williams,nakajima,+1 Lap,-1,13
+2009,catalunya,force_india,fisichella,+1 Lap,-1,14
+2009,catalunya,ferrari,raikkonen,Hydraulics,-1,15
+2009,catalunya,mclaren,kovalainen,Gearbox,-1,16
+2009,catalunya,toyota,trulli,Collision,-1,17
+2009,catalunya,toro_rosso,buemi,Collision,-1,18
+2009,catalunya,toro_rosso,bourdais,Collision,-1,19
+2009,catalunya,force_india,sutil,Collision,-1,20

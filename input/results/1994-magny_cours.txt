@@ -1,0 +1,28 @@
+1994,magny_cours,benetton,michael_schumacher,Finished,5916200,1
+1994,magny_cours,williams,damon_hill,Finished,5928842,2
+1994,magny_cours,ferrari,berger,Finished,5968965,3
+1994,magny_cours,sauber,frentzen,+1 Lap,-1,4
+1994,magny_cours,minardi,martini,+2 Laps,-1,5
+1994,magny_cours,sauber,cesaris,+2 Laps,-1,6
+1994,magny_cours,team_lotus,herbert,+2 Laps,-1,7
+1994,magny_cours,footwork,fittipaldi,+2 Laps,-1,8
+1994,magny_cours,simtek,gounon,+4 Laps,-1,9
+1994,magny_cours,tyrrell,blundell,+5 Laps,-1,10
+1994,magny_cours,larrousse,comas,Engine,-1,11
+1994,magny_cours,tyrrell,katayama,Spun off,-1,12
+1994,magny_cours,mclaren,hakkinen,Engine,-1,13
+1994,magny_cours,williams,mansell,Gearbox,-1,14
+1994,magny_cours,ferrari,alesi,Collision,-1,15
+1994,magny_cours,jordan,barrichello,Collision,-1,16
+1994,magny_cours,ligier,bernard,Gearbox,-1,17
+1994,magny_cours,larrousse,beretta,Engine,-1,18
+1994,magny_cours,mclaren,brundle,Engine,-1,19
+1994,magny_cours,footwork,morbidelli,Collision,-1,20
+1994,magny_cours,ligier,panis,Collision,-1,21
+1994,magny_cours,simtek,brabham,Transmission,-1,22
+1994,magny_cours,benetton,verstappen,Spun off,-1,23
+1994,magny_cours,jordan,irvine,Gearbox,-1,24
+1994,magny_cours,minardi,alboreto,Engine,-1,25
+1994,magny_cours,team_lotus,zanardi,Engine,-1,26
+1994,magny_cours,pacific,belmondo,Did not qualify,-1,27
+1994,magny_cours,pacific,gachot,Did not qualify,-1,28

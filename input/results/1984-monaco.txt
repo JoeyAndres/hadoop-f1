@@ -1,0 +1,27 @@
+1984,monaco,mclaren,prost,Finished,3667740,1
+1984,monaco,toleman,senna,Finished,3675186,2
+1984,monaco,ferrari,arnoux,Finished,3696817,3
+1984,monaco,williams,keke_rosberg,Finished,3702986,4
+1984,monaco,team_lotus,angelis,Finished,3712179,5
+1984,monaco,ferrari,alboreto,+1 Lap,-1,6
+1984,monaco,osella,ghinzani,+1 Lap,-1,7
+1984,monaco,williams,laffite,+1 Lap,-1,8
+1984,monaco,tyrrell,bellof,Disqualified,-1,9
+1984,monaco,alfa,patrese,Steering,-1,10
+1984,monaco,mclaren,lauda,Spun off,-1,11
+1984,monaco,ats,manfred_winkelhock,Spun off,-1,12
+1984,monaco,team_lotus,mansell,Spun off,-1,13
+1984,monaco,brabham,piquet,Electrical,-1,14
+1984,monaco,ligier,hesnault,Electrical,-1,15
+1984,monaco,brabham,corrado_fabi,Electrical,-1,16
+1984,monaco,toleman,cecotto,Spun off,-1,17
+1984,monaco,renault,warwick,Collision,-1,18
+1984,monaco,renault,tambay,Collision,-1,19
+1984,monaco,ligier,cesaris,Accident,-1,20
+1984,monaco,arrows,surer,Did not qualify,-1,21
+1984,monaco,tyrrell,brundle,Did not qualify,-1,22
+1984,monaco,alfa,cheever,Did not qualify,-1,23
+1984,monaco,arrows,boutsen,Did not qualify,-1,24
+1984,monaco,ram,palmer,Did not qualify,-1,25
+1984,monaco,spirit,baldi,Did not qualify,-1,26
+1984,monaco,ram,alliot,Did not qualify,-1,27

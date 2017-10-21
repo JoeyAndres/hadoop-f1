@@ -1,0 +1,24 @@
+2012,villeneuve,mclaren,hamilton,Finished,5549586,1
+2012,villeneuve,lotus_f1,grosjean,Finished,5552099,2
+2012,villeneuve,sauber,perez,Finished,5554846,3
+2012,villeneuve,red_bull,vettel,Finished,5556881,4
+2012,villeneuve,ferrari,alonso,Finished,5562997,5
+2012,villeneuve,mercedes,rosberg,Finished,5563428,6
+2012,villeneuve,red_bull,webber,Finished,5564671,7
+2012,villeneuve,lotus_f1,raikkonen,Finished,5565153,8
+2012,villeneuve,sauber,kobayashi,Finished,5574018,9
+2012,villeneuve,ferrari,massa,Finished,5574858,10
+2012,villeneuve,force_india,resta,Finished,5587279,11
+2012,villeneuve,force_india,hulkenberg,Finished,5595822,12
+2012,villeneuve,williams,maldonado,Finished,5596638,13
+2012,villeneuve,toro_rosso,ricciardo,Finished,5614061,14
+2012,villeneuve,toro_rosso,vergne,+1 Lap,-1,15
+2012,villeneuve,mclaren,button,+1 Lap,-1,16
+2012,villeneuve,williams,bruno_senna,+1 Lap,-1,17
+2012,villeneuve,caterham,kovalainen,+1 Lap,-1,18
+2012,villeneuve,caterham,petrov,+1 Lap,-1,19
+2012,villeneuve,marussia,pic,+3 Laps,-1,20
+2012,villeneuve,marussia,glock,Suspension,-1,21
+2012,villeneuve,mercedes,michael_schumacher,Rear wing,-1,22
+2012,villeneuve,hrt,rosa,Brakes,-1,23
+2012,villeneuve,hrt,karthikeyan,Suspension,-1,24

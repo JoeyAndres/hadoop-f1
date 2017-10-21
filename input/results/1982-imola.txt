@@ -1,0 +1,14 @@
+1982,imola,ferrari,pironi,Finished,5798887,1
+1982,imola,ferrari,gilles_villeneuve,Finished,5799253,2
+1982,imola,tyrrell,alboreto,Finished,5866571,3
+1982,imola,osella,jarier,+1 Lap,-1,4
+1982,imola,ats,salazar,+3 Laps,-1,5
+1982,imola,ats,manfred_winkelhock,Disqualified,-1,6
+1982,imola,toleman,fabi,Not classified,-1,7
+1982,imola,renault,arnoux,Turbo,-1,8
+1982,imola,alfa,giacomelli,Engine,-1,9
+1982,imola,osella,paletti,Suspension,-1,10
+1982,imola,renault,prost,Engine,-1,11
+1982,imola,alfa,cesaris,Electrical,-1,12
+1982,imola,tyrrell,henton,Transmission,-1,13
+1982,imola,toleman,warwick,Electrical,-1,14

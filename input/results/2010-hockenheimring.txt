@@ -1,0 +1,24 @@
+2010,hockenheimring,ferrari,alonso,Finished,5258864,1
+2010,hockenheimring,ferrari,massa,Finished,5263060,2
+2010,hockenheimring,red_bull,vettel,Finished,5263985,3
+2010,hockenheimring,mclaren,hamilton,Finished,5285760,4
+2010,hockenheimring,mclaren,button,Finished,5288346,5
+2010,hockenheimring,red_bull,webber,Finished,5302470,6
+2010,hockenheimring,renault,kubica,+1 Lap,-1,7
+2010,hockenheimring,mercedes,rosberg,+1 Lap,-1,8
+2010,hockenheimring,mercedes,michael_schumacher,+1 Lap,-1,9
+2010,hockenheimring,renault,petrov,+1 Lap,-1,10
+2010,hockenheimring,sauber,kobayashi,+1 Lap,-1,11
+2010,hockenheimring,williams,barrichello,+1 Lap,-1,12
+2010,hockenheimring,williams,hulkenberg,+1 Lap,-1,13
+2010,hockenheimring,sauber,rosa,+1 Lap,-1,14
+2010,hockenheimring,toro_rosso,alguersuari,+1 Lap,-1,15
+2010,hockenheimring,force_india,liuzzi,+2 Laps,-1,16
+2010,hockenheimring,force_india,sutil,+2 Laps,-1,17
+2010,hockenheimring,virgin,glock,+3 Laps,-1,18
+2010,hockenheimring,hrt,bruno_senna,+4 Laps,-1,19
+2010,hockenheimring,lotus_racing,kovalainen,Collision,-1,20
+2010,hockenheimring,virgin,grassi,Gearbox,-1,21
+2010,hockenheimring,hrt,yamamoto,Engine,-1,22
+2010,hockenheimring,lotus_racing,trulli,Gearbox,-1,23
+2010,hockenheimring,toro_rosso,buemi,Collision,-1,24

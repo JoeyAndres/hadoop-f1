@@ -1,0 +1,26 @@
+1993,interlagos,mclaren,senna,Finished,6675485,1
+1993,interlagos,williams,damon_hill,Finished,6692110,2
+1993,interlagos,benetton,michael_schumacher,Finished,6720921,3
+1993,interlagos,team_lotus,herbert,Finished,6722042,4
+1993,interlagos,ligier,blundell,Finished,6727612,5
+1993,interlagos,team_lotus,zanardi,+1 Lap,-1,6
+1993,interlagos,larrousse,alliot,+1 Lap,-1,7
+1993,interlagos,ferrari,alesi,+1 Lap,-1,8
+1993,interlagos,footwork,warwick,+2 Laps,-1,9
+1993,interlagos,larrousse,comas,+2 Laps,-1,10
+1993,interlagos,lola,alboreto,+3 Laps,-1,11
+1993,interlagos,lola,badoer,+3 Laps,-1,12
+1993,interlagos,sauber,wendlinger,Engine,-1,13
+1993,interlagos,sauber,lehto,Electrical,-1,14
+1993,interlagos,tyrrell,cesaris,Fuel system,-1,15
+1993,interlagos,williams,prost,Collision,-1,16
+1993,interlagos,minardi,fittipaldi,Collision,-1,17
+1993,interlagos,footwork,suzuki,Spun off,-1,18
+1993,interlagos,tyrrell,katayama,Spun off,-1,19
+1993,interlagos,jordan,barrichello,Gearbox,-1,20
+1993,interlagos,benetton,patrese,Suspension,-1,21
+1993,interlagos,mclaren,andretti,Collision,-1,22
+1993,interlagos,ferrari,berger,Collision,-1,23
+1993,interlagos,ligier,brundle,Collision,-1,24
+1993,interlagos,minardi,barbazza,Collision,-1,25
+1993,interlagos,jordan,capelli,Did not qualify,-1,26

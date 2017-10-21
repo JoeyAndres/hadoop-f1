@@ -1,0 +1,30 @@
+1989,silverstone,mclaren,prost,Finished,4762131,1
+1989,silverstone,ferrari,mansell,Finished,4781500,2
+1989,silverstone,benetton,nannini,Finished,4810150,3
+1989,silverstone,team_lotus,piquet,Finished,4828866,4
+1989,silverstone,minardi,martini,+1 Lap,-1,5
+1989,silverstone,minardi,sala,+1 Lap,-1,6
+1989,silverstone,ligier,grouillard,+1 Lap,-1,7
+1989,silverstone,team_lotus,satoru_nakajima,+1 Lap,-1,8
+1989,silverstone,arrows,warwick,+2 Laps,-1,9
+1989,silverstone,williams,boutsen,+2 Laps,-1,10
+1989,silverstone,benetton,pirro,+2 Laps,-1,11
+1989,silverstone,onyx,gachot,+2 Laps,-1,12
+1989,silverstone,march,gugelmin,Gearbox,-1,13
+1989,silverstone,brabham,brundle,Engine,-1,14
+1989,silverstone,ferrari,berger,Fire,-1,15
+1989,silverstone,larrousse,bernard,Engine,-1,16
+1989,silverstone,larrousse,alliot,Engine,-1,17
+1989,silverstone,tyrrell,palmer,Spun off,-1,18
+1989,silverstone,brabham,modena,Engine,-1,19
+1989,silverstone,tyrrell,alesi,Spun off,-1,20
+1989,silverstone,osella,larini,Handling,-1,21
+1989,silverstone,williams,patrese,Radiator,-1,22
+1989,silverstone,march,capelli,Transmission,-1,23
+1989,silverstone,dallara,cesaris,Engine,-1,24
+1989,silverstone,mclaren,senna,Spun off,-1,25
+1989,silverstone,coloni,moreno,Gearbox,-1,26
+1989,silverstone,ligier,arnoux,Did not qualify,-1,27
+1989,silverstone,arrows,cheever,Did not qualify,-1,28
+1989,silverstone,ags,tarquini,Did not qualify,-1,29
+1989,silverstone,rial,danner,Did not qualify,-1,30

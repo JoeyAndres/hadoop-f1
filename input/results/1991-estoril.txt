@@ -1,0 +1,30 @@
+1991,estoril,williams,patrese,Finished,5742304,1
+1991,estoril,mclaren,senna,Finished,5763245,2
+1991,estoril,ferrari,alesi,Finished,5795858,3
+1991,estoril,minardi,martini,Finished,5805802,4
+1991,estoril,benetton,piquet,Finished,5812337,5
+1991,estoril,benetton,michael_schumacher,Finished,5818886,6
+1991,estoril,leyton,gugelmin,+1 Lap,-1,7
+1991,estoril,jordan,cesaris,+1 Lap,-1,8
+1991,estoril,minardi,morbidelli,+1 Lap,-1,9
+1991,estoril,jordan,moreno,+1 Lap,-1,10
+1991,estoril,ligier,comas,+1 Lap,-1,11
+1991,estoril,brabham,brundle,+2 Laps,-1,12
+1991,estoril,tyrrell,satoru_nakajima,+3 Laps,-1,13
+1991,estoril,team_lotus,hakkinen,+3 Laps,-1,14
+1991,estoril,footwork,alboreto,+3 Laps,-1,15
+1991,estoril,ligier,boutsen,+3 Laps,-1,16
+1991,estoril,leyton,capelli,Spun off,-1,17
+1991,estoril,tyrrell,modena,Engine,-1,18
+1991,estoril,williams,mansell,Disqualified,-1,19
+1991,estoril,lola,suzuki,Transmission,-1,20
+1991,estoril,ferrari,prost,Engine,-1,21
+1991,estoril,mclaren,berger,Engine,-1,22
+1991,estoril,dallara,pirro,Engine,-1,23
+1991,estoril,dallara,lehto,Gearbox,-1,24
+1991,estoril,brabham,blundell,Suspension,-1,25
+1991,estoril,team_lotus,herbert,Engine,-1,26
+1991,estoril,lola,bernard,Did not qualify,-1,27
+1991,estoril,ags,tarquini,Did not qualify,-1,28
+1991,estoril,lambo,larini,Did not qualify,-1,29
+1991,estoril,lambo,poele,Did not qualify,-1,30

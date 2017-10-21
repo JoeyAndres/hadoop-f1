@@ -1,0 +1,20 @@
+2009,monza,brawn,barrichello,Finished,4581706,1
+2009,monza,brawn,button,Finished,4584572,2
+2009,monza,ferrari,raikkonen,Finished,4612370,3
+2009,monza,force_india,sutil,Finished,4612837,4
+2009,monza,renault,alonso,Finished,4640888,5
+2009,monza,mclaren,kovalainen,Finished,4642399,6
+2009,monza,bmw_sauber,heidfeld,Finished,4664118,7
+2009,monza,red_bull,vettel,Finished,4667113,8
+2009,monza,ferrari,fisichella,Finished,4668562,9
+2009,monza,williams,nakajima,Finished,4743869,10
+2009,monza,toyota,glock,Finished,4745631,11
+2009,monza,mclaren,hamilton,Accident,-1,12
+2009,monza,toro_rosso,buemi,+1 Lap,-1,13
+2009,monza,toyota,trulli,+1 Lap,-1,14
+2009,monza,renault,grosjean,+1 Lap,-1,15
+2009,monza,williams,rosberg,+2 Laps,-1,16
+2009,monza,force_india,liuzzi,Transmission,-1,17
+2009,monza,toro_rosso,alguersuari,Retired,-1,18
+2009,monza,bmw_sauber,kubica,Oil leak,-1,19
+2009,monza,red_bull,webber,Collision,-1,20

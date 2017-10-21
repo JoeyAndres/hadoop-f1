@@ -1,0 +1,27 @@
+1974,anderstorp,tyrrell,scheckter,Finished,7111391,1
+1974,anderstorp,tyrrell,depailler,Finished,7111771,2
+1974,anderstorp,hesketh,hunt,Finished,7114716,3
+1974,anderstorp,mclaren,emerson_fittipaldi,Finished,7164898,4
+1974,anderstorp,shadow,jarier,Finished,7187794,5
+1974,anderstorp,lola,hill,+1 Lap,-1,6
+1974,anderstorp,lola,edwards,+1 Lap,-1,7
+1974,anderstorp,iso_marlboro,belso,+1 Lap,-1,8
+1974,anderstorp,brabham,opel,+1 Lap,-1,9
+1974,anderstorp,march,brambilla,Engine,-1,10
+1974,anderstorp,brabham,watson,+3 Laps,-1,11
+1974,anderstorp,ensign,schuppan,Disqualified,-1,12
+1974,anderstorp,ferrari,lauda,Gearbox,-1,13
+1974,anderstorp,march,wisell,Suspension,-1,14
+1974,anderstorp,mclaren,hulme,Suspension,-1,15
+1974,anderstorp,surtees,mass,Suspension,-1,16
+1974,anderstorp,brabham,reutemann,Oil leak,-1,17
+1974,anderstorp,team_lotus,ickx,Engine,-1,18
+1974,anderstorp,ferrari,regazzoni,Gearbox,-1,19
+1974,anderstorp,surtees,pace,Handling,-1,20
+1974,anderstorp,team_lotus,peterson,Halfshaft,-1,21
+1974,anderstorp,surtees,kinnunen,Engine,-1,22
+1974,anderstorp,mclaren,hailwood,Fuel leak,-1,23
+1974,anderstorp,brm,beltoise,Engine,-1,24
+1974,anderstorp,shadow,roos,Gearbox,-1,25
+1974,anderstorp,brm,pescarolo,Heat shield fire,-1,26
+1974,anderstorp,iso_marlboro,robarts,Did not qualify,-1,27

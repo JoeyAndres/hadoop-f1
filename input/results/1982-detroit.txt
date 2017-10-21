@@ -1,0 +1,29 @@
+1982,detroit,mclaren,watson,Finished,7121043,1
+1982,detroit,ligier,cheever,Finished,7136769,2
+1982,detroit,ferrari,pironi,Finished,7149120,3
+1982,detroit,williams,keke_rosberg,Finished,7193019,4
+1982,detroit,williams,daly,Finished,7204800,5
+1982,detroit,ligier,laffite,+1 Lap,-1,6
+1982,detroit,march,mass,+1 Lap,-1,7
+1982,detroit,arrows,surer,+1 Lap,-1,8
+1982,detroit,tyrrell,henton,+2 Laps,-1,9
+1982,detroit,renault,arnoux,+3 Laps,-1,10
+1982,detroit,fittipaldi,serra,+3 Laps,-1,11
+1982,detroit,renault,prost,Not classified,-1,12
+1982,detroit,team_lotus,mansell,Engine,-1,13
+1982,detroit,mclaren,lauda,Collision,-1,14
+1982,detroit,tyrrell,alboreto,Spun off,-1,15
+1982,detroit,alfa,giacomelli,Collision,-1,16
+1982,detroit,team_lotus,angelis,Gearbox,-1,17
+1982,detroit,ats,salazar,Spun off,-1,18
+1982,detroit,ensign,guerrero,Collision,-1,19
+1982,detroit,brabham,patrese,Collision,-1,20
+1982,detroit,alfa,cesaris,Transmission,-1,21
+1982,detroit,osella,jarier,Ignition,-1,22
+1982,detroit,ats,manfred_winkelhock,Spun off,-1,23
+1982,detroit,march,boesel,Collision,-1,24
+1982,detroit,arrows,baldi,Collision,-1,25
+1982,detroit,osella,paletti,Retired,-1,26
+1982,detroit,march,villota,Did not qualify,-1,27
+1982,detroit,brabham,piquet,Did not qualify,-1,28
+1982,detroit,theodore,lammers,Did not qualify,-1,29

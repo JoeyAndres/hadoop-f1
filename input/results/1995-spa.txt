@@ -1,0 +1,24 @@
+1995,spa,benetton,michael_schumacher,Finished,5807875,1
+1995,spa,williams,damon_hill,Finished,5827368,2
+1995,spa,ligier,brundle,Finished,5832873,3
+1995,spa,sauber,frentzen,Finished,5834847,4
+1995,spa,mclaren,blundell,Finished,5841647,5
+1995,spa,jordan,barrichello,Finished,5847549,6
+1995,spa,benetton,herbert,Finished,5861918,7
+1995,spa,tyrrell,salo,Finished,5862423,8
+1995,spa,ligier,panis,Finished,5874045,9
+1995,spa,minardi,lamy,Finished,5887664,10
+1995,spa,sauber,boullion,+1 Lap,-1,11
+1995,spa,footwork,inoue,+1 Lap,-1,12
+1995,spa,forti,diniz,+2 Laps,-1,13
+1995,spa,forti,moreno,+2 Laps,-1,14
+1995,spa,tyrrell,katayama,Spun off,-1,15
+1995,spa,pacific,lavaggi,Gearbox,-1,16
+1995,spa,minardi,badoer,Spun off,-1,17
+1995,spa,ferrari,berger,Electrical,-1,18
+1995,spa,jordan,irvine,Heat shield fire,-1,19
+1995,spa,footwork,papis,Spun off,-1,20
+1995,spa,pacific,montermini,Out of fuel,-1,21
+1995,spa,williams,coulthard,Gearbox,-1,22
+1995,spa,ferrari,alesi,Suspension,-1,23
+1995,spa,mclaren,hakkinen,Spun off,-1,24

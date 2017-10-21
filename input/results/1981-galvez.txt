@@ -1,0 +1,29 @@
+1981,galvez,brabham,piquet,Finished,5672740,1
+1981,galvez,williams,reutemann,Finished,5699350,2
+1981,galvez,renault,prost,Finished,5722720,3
+1981,galvez,williams,jones,Finished,5740620,4
+1981,galvez,renault,arnoux,Finished,5764590,5
+1981,galvez,team_lotus,angelis,+1 Lap,-1,6
+1981,galvez,arrows,patrese,+1 Lap,-1,7
+1981,galvez,alfa,mario_andretti,+1 Lap,-1,8
+1981,galvez,arrows,stohr,+1 Lap,-1,9
+1981,galvez,alfa,giacomelli,Out of fuel,-1,10
+1981,galvez,mclaren,cesaris,+2 Laps,-1,11
+1981,galvez,ats,lammers,+2 Laps,-1,12
+1981,galvez,tyrrell,zunino,+2 Laps,-1,13
+1981,galvez,ferrari,gilles_villeneuve,Transmission,-1,14
+1981,galvez,theodore,tambay,Oil leak,-1,15
+1981,galvez,mclaren,watson,Transmission,-1,16
+1981,galvez,brabham,rebaque,Electrical,-1,17
+1981,galvez,fittipaldi,serra,Gearbox,-1,18
+1981,galvez,ligier,laffite,Handling,-1,19
+1981,galvez,ensign,surer,Engine,-1,20
+1981,galvez,fittipaldi,keke_rosberg,Fuel system,-1,21
+1981,galvez,team_lotus,mansell,Engine,-1,22
+1981,galvez,ferrari,pironi,Engine,-1,23
+1981,galvez,tyrrell,cheever,Clutch,-1,24
+1981,galvez,osella,guerra,Did not qualify,-1,25
+1981,galvez,osella,gabbiani,Did not qualify,-1,26
+1981,galvez,march,daly,Did not qualify,-1,27
+1981,galvez,ligier,jabouille,Did not qualify,-1,28
+1981,galvez,march,salazar,Did not qualify,-1,29

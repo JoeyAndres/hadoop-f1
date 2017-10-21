@@ -1,0 +1,22 @@
+2006,bahrain,renault,alonso,Finished,5386205,1
+2006,bahrain,ferrari,michael_schumacher,Finished,5387451,2
+2006,bahrain,mclaren,raikkonen,Finished,5405565,3
+2006,bahrain,honda,button,Finished,5406197,4
+2006,bahrain,mclaren,montoya,Finished,5423253,5
+2006,bahrain,williams,webber,Finished,5428137,6
+2006,bahrain,williams,rosberg,Finished,5449248,7
+2006,bahrain,red_bull,klien,Finished,5452976,8
+2006,bahrain,ferrari,massa,Finished,5456112,9
+2006,bahrain,red_bull,coulthard,Finished,5461746,10
+2006,bahrain,toro_rosso,liuzzi,Finished,5472202,11
+2006,bahrain,bmw_sauber,heidfeld,+1 Lap,-1,12
+2006,bahrain,toro_rosso,speed,+1 Lap,-1,13
+2006,bahrain,toyota,ralf_schumacher,+1 Lap,-1,14
+2006,bahrain,honda,barrichello,+1 Lap,-1,15
+2006,bahrain,toyota,trulli,+1 Lap,-1,16
+2006,bahrain,mf1,monteiro,+2 Laps,-1,17
+2006,bahrain,super_aguri,sato,+4 Laps,-1,18
+2006,bahrain,super_aguri,ide,Mechanical,-1,19
+2006,bahrain,bmw_sauber,villeneuve,Engine,-1,20
+2006,bahrain,renault,fisichella,Hydraulics,-1,21
+2006,bahrain,mf1,albers,Driveshaft,-1,22

@@ -1,0 +1,26 @@
+1986,detroit,team_lotus,senna,Finished,6672847,1
+1986,detroit,ligier,laffite,Finished,6703864,2
+1986,detroit,mclaren,prost,Finished,6704671,3
+1986,detroit,ferrari,alboreto,Finished,6763783,4
+1986,detroit,williams,mansell,+1 Lap,-1,5
+1986,detroit,brabham,patrese,+1 Lap,-1,6
+1986,detroit,team_lotus,dumfries,+2 Laps,-1,7
+1986,detroit,zakspeed,palmer,+2 Laps,-1,8
+1986,detroit,tyrrell,streiff,+2 Laps,-1,9
+1986,detroit,brabham,warwick,+3 Laps,-1,10
+1986,detroit,arrows,danner,Electrical,-1,11
+1986,detroit,ligier,arnoux,Accident,-1,12
+1986,detroit,arrows,boutsen,Accident,-1,13
+1986,detroit,minardi,cesaris,Gearbox,-1,14
+1986,detroit,williams,piquet,Accident,-1,15
+1986,detroit,ferrari,johansson,Electrical,-1,16
+1986,detroit,benetton,fabi,Gearbox,-1,17
+1986,detroit,lola,cheever,Steering,-1,18
+1986,detroit,lola,jones,Steering,-1,19
+1986,detroit,osella,berg,Electrical,-1,20
+1986,detroit,tyrrell,brundle,Electrical,-1,21
+1986,detroit,osella,ghinzani,Turbo,-1,22
+1986,detroit,mclaren,keke_rosberg,Transmission,-1,23
+1986,detroit,benetton,berger,Engine,-1,24
+1986,detroit,minardi,nannini,Turbo,-1,25
+1986,detroit,zakspeed,rothengatter,Electrical,-1,26

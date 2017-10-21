@@ -1,0 +1,20 @@
+2004,hockenheimring,ferrari,michael_schumacher,Finished,5034848,1
+2004,hockenheimring,bar,button,Finished,5043236,2
+2004,hockenheimring,renault,alonso,Finished,5051199,3
+2004,hockenheimring,mclaren,coulthard,Finished,5054079,4
+2004,hockenheimring,williams,montoya,Finished,5057903,5
+2004,hockenheimring,jaguar,webber,Finished,5075956,6
+2004,hockenheimring,williams,pizzonia,Finished,5076804,7
+2004,hockenheimring,bar,sato,Finished,5081690,8
+2004,hockenheimring,sauber,fisichella,Finished,5101950,9
+2004,hockenheimring,jaguar,klien,Finished,5103426,10
+2004,hockenheimring,renault,trulli,Finished,5105106,11
+2004,hockenheimring,ferrari,barrichello,Finished,5108100,12
+2004,hockenheimring,sauber,massa,+1 Lap,-1,13
+2004,hockenheimring,toyota,panis,+1 Lap,-1,14
+2004,hockenheimring,jordan,pantano,+3 Laps,-1,15
+2004,hockenheimring,minardi,baumgartner,+4 Laps,-1,16
+2004,hockenheimring,minardi,bruni,+4 Laps,-1,17
+2004,hockenheimring,jordan,heidfeld,Handling,-1,18
+2004,hockenheimring,toyota,matta,Puncture,-1,19
+2004,hockenheimring,mclaren,raikkonen,Rear wing,-1,20

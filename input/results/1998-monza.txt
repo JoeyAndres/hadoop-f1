@@ -1,0 +1,22 @@
+1998,monza,ferrari,michael_schumacher,Finished,4630300,1
+1998,monza,ferrari,irvine,Finished,4668277,2
+1998,monza,jordan,ralf_schumacher,Finished,4671452,3
+1998,monza,mclaren,hakkinen,Finished,4685971,4
+1998,monza,sauber,alesi,Finished,4692172,5
+1998,monza,jordan,damon_hill,Finished,4696988,6
+1998,monza,williams,frentzen,+1 Lap,-1,7
+1998,monza,benetton,fisichella,+1 Lap,-1,8
+1998,monza,tyrrell,takagi,+1 Lap,-1,9
+1998,monza,stewart,barrichello,+1 Lap,-1,10
+1998,monza,minardi,tuero,+2 Laps,-1,11
+1998,monza,tyrrell,rosset,+2 Laps,-1,12
+1998,monza,prost,trulli,+3 Laps,-1,13
+1998,monza,stewart,verstappen,Gearbox,-1,14
+1998,monza,williams,villeneuve,Spun off,-1,15
+1998,monza,arrows,salo,Throttle,-1,16
+1998,monza,benetton,wurz,Gearbox,-1,17
+1998,monza,mclaren,coulthard,Engine,-1,18
+1998,monza,prost,panis,Vibrations,-1,19
+1998,monza,minardi,nakano,Engine,-1,20
+1998,monza,sauber,herbert,Spun off,-1,21
+1998,monza,arrows,diniz,Spun off,-1,22

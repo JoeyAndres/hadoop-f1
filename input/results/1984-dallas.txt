@@ -1,0 +1,26 @@
+1984,dallas,williams,keke_rosberg,Finished,7282617,1
+1984,dallas,ferrari,arnoux,Finished,7305081,2
+1984,dallas,team_lotus,angelis,+1 Lap,-1,3
+1984,dallas,williams,laffite,+2 Laps,-1,4
+1984,dallas,osella,ghinzani,+2 Laps,-1,5
+1984,dallas,team_lotus,mansell,Gearbox,-1,6
+1984,dallas,brabham,corrado_fabi,+3 Laps,-1,7
+1984,dallas,ats,manfred_winkelhock,+3 Laps,-1,8
+1984,dallas,mclaren,lauda,Spun off,-1,9
+1984,dallas,mclaren,prost,Spun off,-1,10
+1984,dallas,arrows,boutsen,Spun off,-1,11
+1984,dallas,ferrari,alboreto,Spun off,-1,12
+1984,dallas,arrows,surer,Spun off,-1,13
+1984,dallas,toleman,senna,Clutch,-1,14
+1984,dallas,ram,palmer,Electrical,-1,15
+1984,dallas,brabham,piquet,Spun off,-1,16
+1984,dallas,renault,tambay,Spun off,-1,17
+1984,dallas,toleman,cecotto,Spun off,-1,18
+1984,dallas,ligier,cesaris,Spun off,-1,19
+1984,dallas,spirit,rothengatter,Fuel leak,-1,20
+1984,dallas,alfa,patrese,Spun off,-1,21
+1984,dallas,renault,warwick,Spun off,-1,22
+1984,dallas,tyrrell,bellof,Disqualified,-1,23
+1984,dallas,alfa,cheever,Spun off,-1,24
+1984,dallas,ligier,hesnault,Accident,-1,25
+1984,dallas,tyrrell,brundle,Did not qualify,-1,26

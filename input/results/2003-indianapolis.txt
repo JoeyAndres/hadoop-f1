@@ -1,0 +1,20 @@
+2003,indianapolis,ferrari,michael_schumacher,Finished,5615997,1
+2003,indianapolis,mclaren,raikkonen,Finished,5634255,2
+2003,indianapolis,sauber,frentzen,Finished,5653961,3
+2003,indianapolis,renault,trulli,Finished,5664326,4
+2003,indianapolis,sauber,heidfeld,Finished,5672400,5
+2003,indianapolis,williams,montoya,+1 Lap,-1,6
+2003,indianapolis,jordan,fisichella,+1 Lap,-1,7
+2003,indianapolis,jaguar,wilson,+2 Laps,-1,8
+2003,indianapolis,toyota,matta,+2 Laps,-1,9
+2003,indianapolis,minardi,verstappen,+4 Laps,-1,10
+2003,indianapolis,minardi,kiesa,+4 Laps,-1,11
+2003,indianapolis,bar,villeneuve,Engine,-1,12
+2003,indianapolis,jordan,firman,Spun off,-1,13
+2003,indianapolis,mclaren,coulthard,Gearbox,-1,14
+2003,indianapolis,renault,alonso,Engine,-1,15
+2003,indianapolis,bar,button,Engine,-1,16
+2003,indianapolis,toyota,panis,Accident,-1,17
+2003,indianapolis,jaguar,webber,Accident,-1,18
+2003,indianapolis,williams,ralf_schumacher,Accident,-1,19
+2003,indianapolis,ferrari,barrichello,Collision,-1,20

@@ -1,0 +1,22 @@
+1973,nurburgring,tyrrell,stewart,Finished,6123000,1
+1973,nurburgring,tyrrell,cevert,Finished,6124600,2
+1973,nurburgring,mclaren,ickx,Finished,6164200,3
+1973,nurburgring,surtees,pace,Finished,6176800,4
+1973,nurburgring,brabham,wilson_fittipaldi,Finished,6202900,5
+1973,nurburgring,team_lotus,emerson_fittipaldi,Finished,6207300,6
+1973,nurburgring,surtees,mass,Finished,6208200,7
+1973,nurburgring,shadow,oliver,Finished,6208700,8
+1973,nurburgring,mclaren,revson,Finished,6254800,9
+1973,nurburgring,iso_marlboro,pescarolo,Finished,6265500,10
+1973,nurburgring,brabham,stommelen,Finished,6330300,11
+1973,nurburgring,mclaren,hulme,Finished,6341700,12
+1973,nurburgring,shadow,hill,Finished,6352000,13
+1973,nurburgring,surtees,hailwood,+1 Lap,-1,14
+1973,nurburgring,march,purley,+1 Lap,-1,15
+1973,nurburgring,march,beuttler,+1 Lap,-1,16
+1973,nurburgring,brabham,reutemann,Engine,-1,17
+1973,nurburgring,brm,regazzoni,Engine,-1,18
+1973,nurburgring,shadow,follmer,Accident,-1,19
+1973,nurburgring,brm,beltoise,Gearbox,-1,20
+1973,nurburgring,brm,lauda,Accident,-1,21
+1973,nurburgring,team_lotus,peterson,Ignition,-1,22

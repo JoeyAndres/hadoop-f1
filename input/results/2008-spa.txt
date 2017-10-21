@@ -1,0 +1,20 @@
+2008,spa,ferrari,massa,Finished,4979394,1
+2008,spa,bmw_sauber,heidfeld,Finished,4988777,2
+2008,spa,mclaren,hamilton,Finished,4989933,3
+2008,spa,renault,alonso,Finished,4993872,4
+2008,spa,toro_rosso,vettel,Finished,4993970,5
+2008,spa,bmw_sauber,kubica,Finished,4994431,6
+2008,spa,toro_rosso,bourdais,Finished,4996129,7
+2008,spa,red_bull,webber,Finished,5022170,8
+2008,spa,toyota,glock,Finished,5046439,9
+2008,spa,mclaren,kovalainen,Gearbox,-1,10
+2008,spa,red_bull,coulthard,+1 Lap,-1,11
+2008,spa,williams,rosberg,+1 Lap,-1,12
+2008,spa,force_india,sutil,+1 Lap,-1,13
+2008,spa,williams,nakajima,+1 Lap,-1,14
+2008,spa,honda,button,+1 Lap,-1,15
+2008,spa,toyota,trulli,+1 Lap,-1,16
+2008,spa,force_india,fisichella,+1 Lap,-1,17
+2008,spa,ferrari,raikkonen,Spun off,-1,18
+2008,spa,honda,barrichello,Gearbox,-1,19
+2008,spa,renault,piquet_jr,Spun off,-1,20

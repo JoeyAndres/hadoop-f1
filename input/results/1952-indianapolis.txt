@@ -1,0 +1,30 @@
+1952,indianapolis,kuzma,ruttman,Finished,13961880,1
+1952,indianapolis,kurtis_kraft,rathmann,Finished,14204210,2
+1952,indianapolis,kurtis_kraft,hanks,Finished,14333490,3
+1952,indianapolis,lesovsky,darter,Finished,14370220,4
+1952,indianapolis,kurtis_kraft,cross,Finished,14482030,5
+1952,indianapolis,kurtis_kraft,bryan,Finished,14526200,6
+1952,indianapolis,kurtis_kraft,reece,Finished,14597120,7
+1952,indianapolis,kurtis_kraft,george_connor,Finished,14682490,8
+1952,indianapolis,kurtis_kraft,griffith,Finished,14705640,9
+1952,indianapolis,kurtis_kraft,parsons,Finished,14779660,10
+1952,indianapolis,kurtis_kraft,mcgrath,Finished,14823600,11
+1952,indianapolis,watson,rigsby,Finished,14926980,12
+1952,indianapolis,kurtis_kraft,james,Finished,14977530,13
+1952,indianapolis,stevens,schindler,Finished,15090540,14
+1952,indianapolis,sherman,fonder,+3 Laps,-1,15
+1952,indianapolis,trevis,johnson,+7 Laps,-1,16
+1952,indianapolis,kurtis_kraft,vukovich,Steering,-1,17
+1952,indianapolis,kurtis_kraft,stevenson,+13 Laps,-1,18
+1952,indianapolis,lesovsky,banks,+16 Laps,-1,19
+1952,indianapolis,lesovsky,ayulo,+16 Laps,-1,20
+1952,indianapolis,kurtis_kraft,mcdowell,+18 Laps,-1,21
+1952,indianapolis,bromme,webb,Oil leak,-1,22
+1952,indianapolis,kurtis_kraft,ward,Oil pressure,-1,23
+1952,indianapolis,deidt,bettenhausen,Oil pressure,-1,24
+1952,indianapolis,kurtis_kraft,nalon,Supercharger,-1,25
+1952,indianapolis,kurtis_kraft,sweikert,Differential,-1,26
+1952,indianapolis,kurtis_kraft,agabashian,Turbo,-1,27
+1952,indianapolis,kurtis_kraft,hartley,Exhaust,-1,28
+1952,indianapolis,kurtis_kraft,bob_scott,Transmission,-1,29
+1952,indianapolis,kurtis_kraft,miller,Supercharger,-1,30

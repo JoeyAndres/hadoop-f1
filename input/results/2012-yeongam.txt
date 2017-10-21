@@ -1,0 +1,24 @@
+2012,yeongam,red_bull,vettel,Finished,5788651,1
+2012,yeongam,red_bull,webber,Finished,5796882,2
+2012,yeongam,ferrari,alonso,Finished,5802595,3
+2012,yeongam,ferrari,massa,Finished,5808819,4
+2012,yeongam,lotus_f1,raikkonen,Finished,5825390,5
+2012,yeongam,force_india,hulkenberg,Finished,5833952,6
+2012,yeongam,lotus_f1,grosjean,Finished,5843463,7
+2012,yeongam,toro_rosso,vergne,Finished,5858240,8
+2012,yeongam,toro_rosso,ricciardo,Finished,5860438,9
+2012,yeongam,mclaren,hamilton,Finished,5868343,10
+2012,yeongam,sauber,perez,Finished,5868713,11
+2012,yeongam,force_india,resta,Finished,5873099,12
+2012,yeongam,mercedes,michael_schumacher,Finished,5877892,13
+2012,yeongam,williams,maldonado,Finished,5883575,14
+2012,yeongam,williams,bruno_senna,Finished,5885553,15
+2012,yeongam,caterham,petrov,+1 Lap,-1,16
+2012,yeongam,caterham,kovalainen,+1 Lap,-1,17
+2012,yeongam,marussia,glock,+1 Lap,-1,18
+2012,yeongam,marussia,pic,+2 Laps,-1,19
+2012,yeongam,hrt,karthikeyan,+2 Laps,-1,20
+2012,yeongam,hrt,rosa,Throttle,-1,21
+2012,yeongam,sauber,kobayashi,Collision damage,-1,22
+2012,yeongam,mercedes,rosberg,Collision,-1,23
+2012,yeongam,mclaren,button,Collision,-1,24

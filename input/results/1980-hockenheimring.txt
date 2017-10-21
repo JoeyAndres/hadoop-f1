@@ -1,0 +1,26 @@
+1980,hockenheimring,ligier,laffite,Finished,5039730,1
+1980,hockenheimring,williams,reutemann,Finished,5042920,2
+1980,hockenheimring,williams,jones,Finished,5083260,3
+1980,hockenheimring,brabham,piquet,Finished,5084210,4
+1980,hockenheimring,alfa,giacomelli,Finished,5116220,5
+1980,hockenheimring,ferrari,gilles_villeneuve,Finished,5128450,6
+1980,hockenheimring,team_lotus,mario_andretti,Finished,5132740,7
+1980,hockenheimring,arrows,mass,Finished,5147480,8
+1980,hockenheimring,arrows,patrese,+1 Lap,-1,9
+1980,hockenheimring,tyrrell,daly,+1 Lap,-1,10
+1980,hockenheimring,mclaren,prost,+1 Lap,-1,11
+1980,hockenheimring,ats,surer,+1 Lap,-1,12
+1980,hockenheimring,ferrari,scheckter,+1 Lap,-1,13
+1980,hockenheimring,ensign,lammers,+1 Lap,-1,14
+1980,hockenheimring,tyrrell,jarier,+1 Lap,-1,15
+1980,hockenheimring,team_lotus,angelis,Wheel bearing,-1,16
+1980,hockenheimring,mclaren,watson,Engine,-1,17
+1980,hockenheimring,renault,jabouille,Engine,-1,18
+1980,hockenheimring,renault,arnoux,Engine,-1,19
+1980,hockenheimring,osella,cheever,Gearbox,-1,20
+1980,hockenheimring,ligier,pironi,Transmission,-1,21
+1980,hockenheimring,fittipaldi,emerson_fittipaldi,Brakes,-1,22
+1980,hockenheimring,fittipaldi,keke_rosberg,Wheel bearing,-1,23
+1980,hockenheimring,brabham,rebaque,Gearbox,-1,24
+1980,hockenheimring,williams,keegan,Did not qualify,-1,25
+1980,hockenheimring,ats,ertl,Did not qualify,-1,26

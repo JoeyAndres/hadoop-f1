@@ -1,0 +1,22 @@
+2000,hockenheimring,ferrari,barrichello,Finished,5134418,1
+2000,hockenheimring,mclaren,hakkinen,Finished,5141870,2
+2000,hockenheimring,mclaren,coulthard,Finished,5155586,3
+2000,hockenheimring,williams,button,Finished,5157103,4
+2000,hockenheimring,sauber,salo,Finished,5161530,5
+2000,hockenheimring,arrows,rosa,Finished,5163498,6
+2000,hockenheimring,williams,ralf_schumacher,Finished,5165316,7
+2000,hockenheimring,bar,villeneuve,Finished,5181955,8
+2000,hockenheimring,jordan,trulli,Finished,5185319,9
+2000,hockenheimring,jaguar,irvine,Finished,5214082,10
+2000,hockenheimring,minardi,mazzacane,Finished,5223922,11
+2000,hockenheimring,prost,heidfeld,Alternator,-1,12
+2000,hockenheimring,jordan,frentzen,Gearbox,-1,13
+2000,hockenheimring,arrows,verstappen,Spun off,-1,14
+2000,hockenheimring,bar,zonta,Spun off,-1,15
+2000,hockenheimring,minardi,gene,Engine,-1,16
+2000,hockenheimring,benetton,wurz,Electrical,-1,17
+2000,hockenheimring,sauber,diniz,Collision,-1,18
+2000,hockenheimring,prost,alesi,Collision,-1,19
+2000,hockenheimring,jaguar,herbert,Gearbox,-1,20
+2000,hockenheimring,ferrari,michael_schumacher,Collision,-1,21
+2000,hockenheimring,benetton,fisichella,Collision,-1,22

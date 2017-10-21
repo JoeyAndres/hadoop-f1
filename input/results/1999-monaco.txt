@@ -1,0 +1,22 @@
+1999,monaco,ferrari,michael_schumacher,Finished,6571812,1
+1999,monaco,ferrari,irvine,Finished,6602288,2
+1999,monaco,mclaren,hakkinen,Finished,6609295,3
+1999,monaco,jordan,frentzen,Finished,6625821,4
+1999,monaco,benetton,fisichella,+1 Lap,-1,5
+1999,monaco,benetton,wurz,+1 Lap,-1,6
+1999,monaco,prost,trulli,+1 Lap,-1,7
+1999,monaco,williams,zanardi,+2 Laps,-1,8
+1999,monaco,stewart,barrichello,Spun off,-1,9
+1999,monaco,williams,ralf_schumacher,Spun off,-1,10
+1999,monaco,sauber,alesi,Suspension,-1,11
+1999,monaco,sauber,diniz,Suspension,-1,12
+1999,monaco,prost,panis,Engine,-1,13
+1999,monaco,mclaren,coulthard,Gearbox,-1,14
+1999,monaco,bar,salo,Brakes,-1,15
+1999,monaco,arrows,takagi,Engine,-1,16
+1999,monaco,bar,villeneuve,Oil leak,-1,17
+1999,monaco,stewart,herbert,Suspension,-1,18
+1999,monaco,arrows,rosa,Gearbox,-1,19
+1999,monaco,minardi,gene,Spun off,-1,20
+1999,monaco,minardi,badoer,Gearbox,-1,21
+1999,monaco,jordan,damon_hill,Collision,-1,22

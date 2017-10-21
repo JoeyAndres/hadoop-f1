@@ -1,0 +1,27 @@
+1985,osterreichring,mclaren,prost,Finished,4812583,1
+1985,osterreichring,team_lotus,senna,Finished,4842585,2
+1985,osterreichring,ferrari,alboreto,Finished,4846939,3
+1985,osterreichring,ferrari,johansson,Finished,4851656,4
+1985,osterreichring,team_lotus,angelis,Finished,4894675,5
+1985,osterreichring,brabham,surer,+1 Lap,-1,6
+1985,osterreichring,tyrrell,bellof,Out of fuel,-1,7
+1985,osterreichring,arrows,boutsen,+3 Laps,-1,8
+1985,osterreichring,osella,rothengatter,+4 Laps,-1,9
+1985,osterreichring,renault,tambay,Engine,-1,10
+1985,osterreichring,ligier,laffite,Accident,-1,11
+1985,osterreichring,minardi,martini,Suspension,-1,12
+1985,osterreichring,mclaren,lauda,Engine,-1,13
+1985,osterreichring,arrows,berger,Turbo,-1,14
+1985,osterreichring,toleman,fabi,Electrical,-1,15
+1985,osterreichring,renault,warwick,Engine,-1,16
+1985,osterreichring,ram,acheson,Engine,-1,17
+1985,osterreichring,brabham,piquet,Exhaust,-1,18
+1985,osterreichring,williams,mansell,Engine,-1,19
+1985,osterreichring,alfa,patrese,Engine,-1,20
+1985,osterreichring,zakspeed,palmer,Engine,-1,21
+1985,osterreichring,ram,alliot,Turbo,-1,22
+1985,osterreichring,ligier,cesaris,Accident,-1,23
+1985,osterreichring,alfa,cheever,Turbo,-1,24
+1985,osterreichring,williams,keke_rosberg,Oil pressure,-1,25
+1985,osterreichring,toleman,ghinzani,Withdrew,-1,26
+1985,osterreichring,tyrrell,brundle,Did not qualify,-1,27

@@ -1,0 +1,22 @@
+2002,magny_cours,ferrari,michael_schumacher,Finished,5529837,1
+2002,magny_cours,mclaren,raikkonen,Finished,5530941,2
+2002,magny_cours,mclaren,coulthard,Finished,5561812,3
+2002,magny_cours,williams,montoya,Finished,5570512,4
+2002,magny_cours,williams,ralf_schumacher,Finished,5571609,5
+2002,magny_cours,renault,button,+1 Lap,-1,6
+2002,magny_cours,sauber,heidfeld,+1 Lap,-1,7
+2002,magny_cours,minardi,webber,+1 Lap,-1,8
+2002,magny_cours,jaguar,rosa,+2 Laps,-1,9
+2002,magny_cours,minardi,yoong,+4 Laps,-1,10
+2002,magny_cours,toyota,mcnish,Engine,-1,11
+2002,magny_cours,jaguar,irvine,Rear wing,-1,12
+2002,magny_cours,renault,trulli,Engine,-1,13
+2002,magny_cours,sauber,massa,Mechanical,-1,14
+2002,magny_cours,toyota,salo,Engine,-1,15
+2002,magny_cours,bar,villeneuve,Engine,-1,16
+2002,magny_cours,bar,panis,Accident,-1,17
+2002,magny_cours,jordan,sato,Spun off,-1,18
+2002,magny_cours,ferrari,barrichello,Ignition,-1,19
+2002,magny_cours,arrows,frentzen,Did not qualify,-1,20
+2002,magny_cours,arrows,bernoldi,Did not qualify,-1,21
+2002,magny_cours,jordan,fisichella,Injury,-1,22

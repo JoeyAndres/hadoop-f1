@@ -1,0 +1,26 @@
+1985,imola,team_lotus,angelis,Finished,5675955,1
+1985,imola,arrows,boutsen,+1 Lap,-1,2
+1985,imola,renault,tambay,+1 Lap,-1,3
+1985,imola,mclaren,lauda,+1 Lap,-1,4
+1985,imola,williams,mansell,+2 Laps,-1,5
+1985,imola,ferrari,johansson,Out of fuel,-1,6
+1985,imola,team_lotus,senna,Out of fuel,-1,7
+1985,imola,brabham,piquet,Out of fuel,-1,8
+1985,imola,tyrrell,brundle,Out of fuel,-1,9
+1985,imola,renault,warwick,Out of fuel,-1,10
+1985,imola,mclaren,prost,Disqualified,-1,11
+1985,imola,alfa,cheever,Engine,-1,12
+1985,imola,osella,ghinzani,Not classified,-1,13
+1985,imola,ferrari,alboreto,Electrical,-1,14
+1985,imola,ram,manfred_winkelhock,Engine,-1,15
+1985,imola,ram,alliot,Engine,-1,16
+1985,imola,williams,keke_rosberg,Brakes,-1,17
+1985,imola,ligier,laffite,Turbo,-1,18
+1985,imola,minardi,martini,Turbo,-1,19
+1985,imola,ligier,cesaris,Spun off,-1,20
+1985,imola,spirit,baldi,Electrical,-1,21
+1985,imola,brabham,hesnault,Engine,-1,22
+1985,imola,tyrrell,bellof,Engine,-1,23
+1985,imola,arrows,berger,Engine,-1,24
+1985,imola,alfa,patrese,Engine,-1,25
+1985,imola,zakspeed,palmer,Retired,-1,26

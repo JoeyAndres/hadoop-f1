@@ -1,0 +1,27 @@
+1984,detroit,brabham,piquet,Finished,6941842,1
+1984,detroit,team_lotus,angelis,Finished,6974480,2
+1984,detroit,brabham,fabi,Finished,7028370,3
+1984,detroit,mclaren,prost,Finished,7057100,4
+1984,detroit,williams,laffite,+1 Lap,-1,5
+1984,detroit,tyrrell,brundle,Disqualified,-1,6
+1984,detroit,ferrari,alboreto,Engine,-1,7
+1984,detroit,williams,keke_rosberg,Turbo,-1,8
+1984,detroit,renault,warwick,Gearbox,-1,9
+1984,detroit,tyrrell,bellof,Accident,-1,10
+1984,detroit,renault,tambay,Transmission,-1,11
+1984,detroit,ram,alliot,Brakes,-1,12
+1984,detroit,mclaren,lauda,Electrical,-1,13
+1984,detroit,team_lotus,mansell,Gearbox,-1,14
+1984,detroit,arrows,boutsen,Engine,-1,15
+1984,detroit,ligier,cesaris,Overheating,-1,16
+1984,detroit,toleman,cecotto,Clutch,-1,17
+1984,detroit,alfa,cheever,Engine,-1,18
+1984,detroit,toleman,senna,Accident,-1,19
+1984,detroit,alfa,patrese,Spun off,-1,20
+1984,detroit,ligier,hesnault,Accident,-1,21
+1984,detroit,osella,ghinzani,Accident,-1,22
+1984,detroit,ferrari,arnoux,Accident,-1,23
+1984,detroit,ram,palmer,Tyre,-1,24
+1984,detroit,ats,manfred_winkelhock,Engine,-1,25
+1984,detroit,arrows,surer,Accident,-1,26
+1984,detroit,spirit,rothengatter,Did not qualify,-1,27

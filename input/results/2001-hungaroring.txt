@@ -1,0 +1,22 @@
+2001,hungaroring,ferrari,michael_schumacher,Finished,6109675,1
+2001,hungaroring,ferrari,barrichello,Finished,6113038,2
+2001,hungaroring,mclaren,coulthard,Finished,6113615,3
+2001,hungaroring,williams,ralf_schumacher,Finished,6159362,4
+2001,hungaroring,mclaren,hakkinen,Finished,6179968,5
+2001,hungaroring,sauber,heidfeld,+1 Lap,-1,6
+2001,hungaroring,sauber,raikkonen,+1 Lap,-1,7
+2001,hungaroring,williams,montoya,+1 Lap,-1,8
+2001,hungaroring,bar,villeneuve,+2 Laps,-1,9
+2001,hungaroring,jordan,alesi,+2 Laps,-1,10
+2001,hungaroring,jaguar,rosa,+2 Laps,-1,11
+2001,hungaroring,arrows,verstappen,+3 Laps,-1,12
+2001,hungaroring,benetton,fisichella,Engine,-1,13
+2001,hungaroring,prost,frentzen,Spun off,-1,14
+2001,hungaroring,minardi,marques,Oil pressure,-1,15
+2001,hungaroring,bar,panis,Electrical,-1,16
+2001,hungaroring,jordan,trulli,Hydraulics,-1,17
+2001,hungaroring,minardi,alonso,Brakes,-1,18
+2001,hungaroring,benetton,button,Spun off,-1,19
+2001,hungaroring,arrows,bernoldi,Spun off,-1,20
+2001,hungaroring,prost,burti,Spun off,-1,21
+2001,hungaroring,jaguar,irvine,Spun off,-1,22

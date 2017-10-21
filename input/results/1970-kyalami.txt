@@ -1,0 +1,23 @@
+1970,kyalami,brabham,jack_brabham,Finished,6575400,1
+1970,kyalami,mclaren-ford,hulme,Finished,6583500,2
+1970,kyalami,march,stewart,Finished,6592500,3
+1970,kyalami,matra,beltoise,Finished,6648500,4
+1970,kyalami,team_lotus,miles,+1 Lap,-1,5
+1970,kyalami,team_lotus,hill,+1 Lap,-1,6
+1970,kyalami,matra,pescarolo,+2 Laps,-1,7
+1970,kyalami,team_lotus,love,+2 Laps,-1,8
+1970,kyalami,brm,rodriguez,+4 Laps,-1,9
+1970,kyalami,march,siffert,+5 Laps,-1,10
+1970,kyalami,brabham,klerk,+5 Laps,-1,11
+1970,kyalami,team_lotus,charlton,Engine,-1,12
+1970,kyalami,team_lotus,rindt,Engine,-1,13
+1970,kyalami,ferrari,ickx,Engine,-1,14
+1970,kyalami,mclaren-ford,surtees,Engine,-1,15
+1970,kyalami,brm,eaton,Engine,-1,16
+1970,kyalami,march,gavin,Engine,-1,17
+1970,kyalami,mclaren-ford,mclaren,Engine,-1,18
+1970,kyalami,tomaso,courage,Accident,-1,19
+1970,kyalami,march,mario_andretti,Overheating,-1,20
+1970,kyalami,brabham,stommelen,Engine,-1,21
+1970,kyalami,brm,oliver,Gearbox,-1,22
+1970,kyalami,march,amon,Overheating,-1,23

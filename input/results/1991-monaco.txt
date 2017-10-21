@@ -1,0 +1,30 @@
+1991,monaco,mclaren,senna,Finished,6782334,1
+1991,monaco,williams,mansell,Finished,6800682,2
+1991,monaco,ferrari,alesi,Finished,6829789,3
+1991,monaco,benetton,moreno,+1 Lap,-1,4
+1991,monaco,ferrari,prost,+1 Lap,-1,5
+1991,monaco,dallara,pirro,+1 Lap,-1,6
+1991,monaco,ligier,boutsen,+2 Laps,-1,7
+1991,monaco,jordan,gachot,+2 Laps,-1,8
+1991,monaco,lola,bernard,+2 Laps,-1,9
+1991,monaco,ligier,comas,+2 Laps,-1,10
+1991,monaco,dallara,lehto,+3 Laps,-1,11
+1991,monaco,minardi,martini,+6 Laps,-1,12
+1991,monaco,team_lotus,hakkinen,Oil leak,-1,13
+1991,monaco,minardi,morbidelli,Gearbox,-1,14
+1991,monaco,leyton,gugelmin,Throttle,-1,15
+1991,monaco,tyrrell,modena,Engine,-1,16
+1991,monaco,williams,patrese,Spun off,-1,17
+1991,monaco,brabham,blundell,Spun off,-1,18
+1991,monaco,footwork,alboreto,Engine,-1,19
+1991,monaco,tyrrell,satoru_nakajima,Spun off,-1,20
+1991,monaco,lola,suzuki,Engine,-1,21
+1991,monaco,jordan,cesaris,Throttle,-1,22
+1991,monaco,leyton,capelli,Brakes,-1,23
+1991,monaco,ags,tarquini,Gearbox,-1,24
+1991,monaco,mclaren,berger,Spun off,-1,25
+1991,monaco,benetton,piquet,Suspension,-1,26
+1991,monaco,team_lotus,bailey,Did not qualify,-1,27
+1991,monaco,ags,barbazza,Did not qualify,-1,28
+1991,monaco,footwork,caffi,Did not qualify,-1,29
+1991,monaco,brabham,brundle,Did not qualify,-1,30

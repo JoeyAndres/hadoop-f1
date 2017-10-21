@@ -1,0 +1,27 @@
+1980,watkins_glen,williams,jones,Finished,5676050,1
+1980,watkins_glen,williams,reutemann,Finished,5680260,2
+1980,watkins_glen,ligier,pironi,Finished,5688620,3
+1980,watkins_glen,team_lotus,angelis,Finished,5705740,4
+1980,watkins_glen,ligier,laffite,+1 Lap,-1,5
+1980,watkins_glen,team_lotus,mario_andretti,+1 Lap,-1,6
+1980,watkins_glen,renault,arnoux,+1 Lap,-1,7
+1980,watkins_glen,ats,surer,+2 Laps,-1,8
+1980,watkins_glen,williams,keegan,+2 Laps,-1,9
+1980,watkins_glen,fittipaldi,keke_rosberg,+2 Laps,-1,10
+1980,watkins_glen,ferrari,scheckter,+3 Laps,-1,11
+1980,watkins_glen,mclaren,watson,+9 Laps,-1,12
+1980,watkins_glen,ferrari,gilles_villeneuve,Accident,-1,13
+1980,watkins_glen,tyrrell,jarier,Not classified,-1,14
+1980,watkins_glen,arrows,mass,Transmission,-1,15
+1980,watkins_glen,alfa,giacomelli,Electrical,-1,16
+1980,watkins_glen,brabham,piquet,Spun off,-1,17
+1980,watkins_glen,brabham,rebaque,Engine,-1,18
+1980,watkins_glen,osella,cheever,Suspension,-1,19
+1980,watkins_glen,arrows,patrese,Spun off,-1,20
+1980,watkins_glen,ensign,lammers,Steering,-1,21
+1980,watkins_glen,fittipaldi,emerson_fittipaldi,Suspension,-1,22
+1980,watkins_glen,tyrrell,daly,Spun off,-1,23
+1980,watkins_glen,alfa,cesaris,Accident,-1,24
+1980,watkins_glen,mclaren,prost,Withdrew,-1,25
+1980,watkins_glen,tyrrell,thackwell,Did not qualify,-1,26
+1980,watkins_glen,williams,lees,Did not qualify,-1,27

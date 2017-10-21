@@ -1,0 +1,15 @@
+1959,avus,ferrari,brooks,Finished,7771600,1
+1959,avus,ferrari,gurney,Finished,7774500,2
+1959,avus,ferrari,phil_hill,Finished,7836400,3
+1959,avus,cooper-climax,trintignant,+1 Lap,-1,4
+1959,avus,brm,bonnier,+2 Laps,-1,5
+1959,avus,cooper-maserati,burgess,+4 Laps,-1,6
+1959,avus,brm,schell,+11 Laps,-1,7
+1959,avus,cooper-climax,mclaren,Transmission,-1,8
+1959,avus,brm,herrmann,Accident,-1,9
+1959,avus,cooper-climax,gregory,Engine,-1,10
+1959,avus,cooper-climax,jack_brabham,Transmission,-1,11
+1959,avus,team_lotus,hill,Gearbox,-1,12
+1959,avus,team_lotus,ireland,Differential,-1,13
+1959,avus,ferrari,allison,Clutch,-1,14
+1959,avus,cooper-climax,moss,Transmission,-1,15

@@ -1,0 +1,20 @@
+2005,spa,mclaren,raikkonen,Finished,5401295,1
+2005,spa,renault,alonso,Finished,5429595,2
+2005,spa,bar,button,Finished,5433295,3
+2005,spa,williams,webber,Finished,5470395,4
+2005,spa,ferrari,barrichello,Finished,5479395,5
+2005,spa,sauber,villeneuve,Finished,5488695,6
+2005,spa,toyota,ralf_schumacher,Finished,5488795,7
+2005,spa,jordan,monteiro,+1 Lap,-1,8
+2005,spa,red_bull,klien,+1 Lap,-1,9
+2005,spa,sauber,massa,+1 Lap,-1,10
+2005,spa,jordan,karthikeyan,+1 Lap,-1,11
+2005,spa,minardi,albers,+2 Laps,-1,12
+2005,spa,minardi,doornbos,+3 Laps,-1,13
+2005,spa,mclaren,montoya,Collision,-1,14
+2005,spa,williams,pizzonia,Collision,-1,15
+2005,spa,toyota,trulli,Accident,-1,16
+2005,spa,red_bull,coulthard,Engine,-1,17
+2005,spa,ferrari,michael_schumacher,Accident,-1,18
+2005,spa,bar,sato,Accident,-1,19
+2005,spa,renault,fisichella,Accident,-1,20

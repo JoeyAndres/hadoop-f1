@@ -1,0 +1,21 @@
+1960,zandvoort,cooper-climax,jack_brabham,Finished,7307200,1
+1960,zandvoort,team_lotus,ireland,Finished,7331200,2
+1960,zandvoort,brm,hill,Finished,7363800,3
+1960,zandvoort,team_lotus,moss,Finished,7364900,4
+1960,zandvoort,ferrari,trips,+1 Lap,-1,5
+1960,zandvoort,ferrari,ginther,+1 Lap,-1,6
+1960,zandvoort,cooper-climax,henry_taylor,+5 Laps,-1,7
+1960,zandvoort,cooper-climax,beaufort,+6 Laps,-1,8
+1960,zandvoort,team_lotus,stacey,Transmission,-1,9
+1960,zandvoort,brm,bonnier,Engine,-1,10
+1960,zandvoort,ferrari,phil_hill,Engine,-1,11
+1960,zandvoort,team_lotus,clark,Transmission,-1,12
+1960,zandvoort,cooper-maserati,trintignant,Gearbox,-1,13
+1960,zandvoort,brm,gurney,Accident,-1,14
+1960,zandvoort,cooper-climax,bristow,Engine,-1,15
+1960,zandvoort,cooper-climax,mclaren,Transmission,-1,16
+1960,zandvoort,cooper-climax,brooks,Gearbox,-1,17
+1960,zandvoort,aston_martin,salvadori,Withdrew,-1,18
+1960,zandvoort,cooper-maserati,gregory,Withdrew,-1,19
+1960,zandvoort,scarab,reventlow,Withdrew,-1,20
+1960,zandvoort,scarab,daigh,Withdrew,-1,21

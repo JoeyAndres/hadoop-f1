@@ -1,0 +1,20 @@
+2017,villeneuve,mercedes,hamilton,Finished,5585154,1
+2017,villeneuve,mercedes,bottas,Finished,5604937,2
+2017,villeneuve,red_bull,ricciardo,Finished,5620451,3
+2017,villeneuve,ferrari,vettel,Finished,5621061,4
+2017,villeneuve,force_india,perez,Finished,5625630,5
+2017,villeneuve,force_india,ocon,Finished,5625870,6
+2017,villeneuve,ferrari,raikkonen,Finished,5643786,7
+2017,villeneuve,renault,hulkenberg,Finished,5645528,8
+2017,villeneuve,williams,stroll,+1 Lap,-1,9
+2017,villeneuve,haas,grosjean,+1 Lap,-1,10
+2017,villeneuve,renault,jolyon_palmer,+1 Lap,-1,11
+2017,villeneuve,haas,kevin_magnussen,+1 Lap,-1,12
+2017,villeneuve,sauber,ericsson,+1 Lap,-1,13
+2017,villeneuve,mclaren,vandoorne,+1 Lap,-1,14
+2017,villeneuve,sauber,wehrlein,+2 Laps,-1,15
+2017,villeneuve,mclaren,alonso,Power Unit,-1,16
+2017,villeneuve,toro_rosso,kvyat,Power Unit,-1,17
+2017,villeneuve,red_bull,max_verstappen,Electrical,-1,18
+2017,villeneuve,williams,massa,Collision,-1,19
+2017,villeneuve,toro_rosso,sainz,Collision,-1,20

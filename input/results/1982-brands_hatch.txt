@@ -1,0 +1,30 @@
+1982,brands_hatch,mclaren,lauda,Finished,5733812,1
+1982,brands_hatch,ferrari,pironi,Finished,5759538,2
+1982,brands_hatch,ferrari,tambay,Finished,5772248,3
+1982,brands_hatch,team_lotus,angelis,Finished,5775054,4
+1982,brands_hatch,williams,daly,Finished,5775242,5
+1982,brands_hatch,renault,prost,Finished,5775448,6
+1982,brands_hatch,alfa,giacomelli,+1 Lap,-1,7
+1982,brands_hatch,tyrrell,henton,+1 Lap,-1,8
+1982,brands_hatch,arrows,baldi,+2 Laps,-1,9
+1982,brands_hatch,march,mass,+3 Laps,-1,10
+1982,brands_hatch,alfa,cesaris,Electrical,-1,11
+1982,brands_hatch,ligier,cheever,Engine,-1,12
+1982,brands_hatch,arrows,surer,Engine,-1,13
+1982,brands_hatch,williams,keke_rosberg,Fuel system,-1,14
+1982,brands_hatch,tyrrell,alboreto,Engine,-1,15
+1982,brands_hatch,ligier,laffite,Gearbox,-1,16
+1982,brands_hatch,toleman,warwick,Halfshaft,-1,17
+1982,brands_hatch,team_lotus,mansell,Driver unwell,-1,18
+1982,brands_hatch,brabham,piquet,Fuel system,-1,19
+1982,brands_hatch,ensign,guerrero,Engine,-1,20
+1982,brands_hatch,osella,jarier,Collision,-1,21
+1982,brands_hatch,fittipaldi,serra,Collision,-1,22
+1982,brands_hatch,mclaren,watson,Spun off,-1,23
+1982,brands_hatch,brabham,patrese,Collision,-1,24
+1982,brands_hatch,renault,arnoux,Collision,-1,25
+1982,brands_hatch,toleman,fabi,Collision,-1,26
+1982,brands_hatch,ats,manfred_winkelhock,Did not qualify,-1,27
+1982,brands_hatch,theodore,lammers,Did not qualify,-1,28
+1982,brands_hatch,ats,salazar,Did not qualify,-1,29
+1982,brands_hatch,march,boesel,Did not qualify,-1,30

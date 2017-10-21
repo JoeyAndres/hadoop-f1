@@ -1,0 +1,20 @@
+2003,monaco,williams,montoya,Finished,6139010,1
+2003,monaco,mclaren,raikkonen,Finished,6139612,2
+2003,monaco,ferrari,michael_schumacher,Finished,6140730,3
+2003,monaco,williams,ralf_schumacher,Finished,6167528,4
+2003,monaco,renault,alonso,Finished,6175261,5
+2003,monaco,renault,trulli,Finished,6179982,6
+2003,monaco,mclaren,coulthard,Finished,6180237,7
+2003,monaco,ferrari,barrichello,Finished,6192276,8
+2003,monaco,toyota,matta,+1 Lap,-1,9
+2003,monaco,jordan,fisichella,+1 Lap,-1,10
+2003,monaco,sauber,heidfeld,+2 Laps,-1,11
+2003,monaco,jordan,firman,+2 Laps,-1,12
+2003,monaco,toyota,panis,+4 Laps,-1,13
+2003,monaco,bar,villeneuve,Engine,-1,14
+2003,monaco,minardi,wilson,Fuel system,-1,15
+2003,monaco,minardi,verstappen,Fuel system,-1,16
+2003,monaco,jaguar,webber,Hydraulics,-1,17
+2003,monaco,jaguar,pizzonia,Electrical,-1,18
+2003,monaco,sauber,frentzen,Accident,-1,19
+2003,monaco,bar,button,Injured,-1,20

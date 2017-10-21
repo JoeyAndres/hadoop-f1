@@ -1,0 +1,25 @@
+1953,reims,ferrari,hawthorn,Finished,9858600,1
+1953,reims,maserati,fangio,Finished,9859600,2
+1953,reims,maserati,gonzalez,Finished,9860000,3
+1953,reims,ferrari,ascari,Finished,9863200,4
+1953,reims,ferrari,farina,Finished,9926200,5
+1953,reims,ferrari,villoresi,Finished,9934500,6
+1953,reims,maserati,graffenried,+2 Laps,-1,7
+1953,reims,ferrari,rosier,+4 Laps,-1,8
+1953,reims,maserati,marimon,+5 Laps,-1,9
+1953,reims,gordini,behra,+5 Laps,-1,10
+1953,reims,cooper,gerard,+5 Laps,-1,11
+1953,reims,connaught,claes,+7 Laps,-1,12
+1953,reims,hwm,collins,+8 Laps,-1,13
+1953,reims,hwm,cabantous,+10 Laps,-1,14
+1953,reims,osca,chiron,+17 Laps,-1,15
+1953,reims,maserati,bonetto,Engine,-1,16
+1953,reims,cooper,moss,Clutch,-1,17
+1953,reims,connaught,bira,Differential,-1,18
+1953,reims,osca,bayol,Engine,-1,19
+1953,reims,cooper,wharton,Wheel bearing,-1,20
+1953,reims,gordini,trintignant,Transmission,-1,21
+1953,reims,hwm,macklin,Clutch,-1,22
+1953,reims,gordini,schell,Engine,-1,23
+1953,reims,gordini,mieres,Axle,-1,24
+1953,reims,connaught,salvadori,Ignition,-1,25

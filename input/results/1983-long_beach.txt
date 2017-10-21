@@ -1,0 +1,28 @@
+1983,long_beach,mclaren,watson,Finished,6814889,1
+1983,long_beach,mclaren,lauda,Finished,6842882,2
+1983,long_beach,ferrari,arnoux,Finished,6888527,3
+1983,long_beach,williams,laffite,+1 Lap,-1,4
+1983,long_beach,arrows,surer,+1 Lap,-1,5
+1983,long_beach,theodore,cecotto,+1 Lap,-1,6
+1983,long_beach,ligier,boesel,+2 Laps,-1,7
+1983,long_beach,tyrrell,sullivan,+2 Laps,-1,8
+1983,long_beach,tyrrell,alboreto,+2 Laps,-1,9
+1983,long_beach,brabham,patrese,Distributor,-1,10
+1983,long_beach,renault,prost,+3 Laps,-1,11
+1983,long_beach,team_lotus,mansell,+3 Laps,-1,12
+1983,long_beach,renault,cheever,Gearbox,-1,13
+1983,long_beach,arrows,jones,Driver unwell,-1,14
+1983,long_beach,brabham,piquet,Throttle,-1,15
+1983,long_beach,alfa,cesaris,Gearbox,-1,16
+1983,long_beach,team_lotus,angelis,Handling,-1,17
+1983,long_beach,theodore,guerrero,Gearbox,-1,18
+1983,long_beach,ligier,jarier,Collision,-1,19
+1983,long_beach,toleman,giacomelli,Battery,-1,20
+1983,long_beach,alfa,baldi,Spun off,-1,21
+1983,long_beach,ferrari,tambay,Collision,-1,22
+1983,long_beach,williams,keke_rosberg,Collision,-1,23
+1983,long_beach,ram,salazar,Gearbox,-1,24
+1983,long_beach,toleman,warwick,Spun off,-1,25
+1983,long_beach,ats,manfred_winkelhock,Spun off,-1,26
+1983,long_beach,osella,corrado_fabi,Did not qualify,-1,27
+1983,long_beach,osella,ghinzani,Did not qualify,-1,28

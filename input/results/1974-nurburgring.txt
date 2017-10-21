@@ -1,0 +1,30 @@
+1974,nurburgring,ferrari,regazzoni,Finished,6095000,1
+1974,nurburgring,tyrrell,scheckter,Finished,6145700,2
+1974,nurburgring,brabham,reutemann,Finished,6178300,3
+1974,nurburgring,team_lotus,peterson,Finished,6179200,4
+1974,nurburgring,team_lotus,ickx,Finished,6180000,5
+1974,nurburgring,shadow,pryce,Finished,6233100,6
+1974,nurburgring,march,stuck,Finished,6273700,7
+1974,nurburgring,shadow,jarier,Finished,6300900,8
+1974,nurburgring,lola,hill,Finished,6301400,9
+1974,nurburgring,brm,pescarolo,Finished,6352700,10
+1974,nurburgring,surtees,bell,Finished,6412700,11
+1974,nurburgring,brabham,pace,Finished,6481300,12
+1974,nurburgring,march,brambilla,Finished,6618100,13
+1974,nurburgring,token,ashley,+1 Lap,-1,14
+1974,nurburgring,mclaren,hailwood,Accident,-1,15
+1974,nurburgring,surtees,mass,Engine,-1,16
+1974,nurburgring,hesketh,hunt,Gearbox,-1,17
+1974,nurburgring,tyrrell,depailler,Accident,-1,18
+1974,nurburgring,iso_marlboro,merzario,Throttle,-1,19
+1974,nurburgring,brm,beltoise,Fuel system,-1,20
+1974,nurburgring,ensign,schuppan,Gearbox,-1,21
+1974,nurburgring,mclaren,emerson_fittipaldi,Suspension,-1,22
+1974,nurburgring,iso_marlboro,laffite,Suspension,-1,23
+1974,nurburgring,brabham,watson,Suspension,-1,24
+1974,nurburgring,ferrari,lauda,Accident,-1,25
+1974,nurburgring,mclaren,hulme,Accident,-1,26
+1974,nurburgring,brm,migault,Did not qualify,-1,27
+1974,nurburgring,trojan,schenken,Did not qualify,-1,28
+1974,nurburgring,lola,edwards,Did not qualify,-1,29
+1974,nurburgring,amon,perkins,Did not qualify,-1,30

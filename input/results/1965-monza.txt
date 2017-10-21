@@ -1,0 +1,23 @@
+1965,monza,brm,stewart,Finished,7492800,1
+1965,monza,brm,hill,Finished,7496100,2
+1965,monza,brabham-climax,gurney,Finished,7509300,3
+1965,monza,ferrari,bandini,Finished,7568700,4
+1965,monza,cooper-climax,mclaren,+1 Lap,-1,5
+1965,monza,lotus-brm,attwood,+1 Lap,-1,6
+1965,monza,brabham-climax,bonnier,+2 Laps,-1,7
+1965,monza,cooper-climax,rindt,+2 Laps,-1,8
+1965,monza,lotus-brm,ireland,+2 Laps,-1,9
+1965,monza,lotus-climax,clark,Fuel pump,-1,10
+1965,monza,lotus-climax,spence,Alternator,-1,11
+1965,monza,ferrari,vaccarella,Engine,-1,12
+1965,monza,brm,bussinello,Oil pressure,-1,13
+1965,monza,honda,ginther,Ignition,-1,14
+1965,monza,brabham-climax,hulme,Suspension,-1,15
+1965,monza,brabham-brm,gardner,Engine,-1,16
+1965,monza,brabham-brm,siffert,Gearbox,-1,17
+1965,monza,lotus-climax,geki,Gearbox,-1,18
+1965,monza,ferrari,surtees,Clutch,-1,19
+1965,monza,honda,bucknum,Ignition,-1,20
+1965,monza,brm,gregory,Gearbox,-1,21
+1965,monza,brabham-climax,baghetti,Engine,-1,22
+1965,monza,brm,bassi,Engine,-1,23

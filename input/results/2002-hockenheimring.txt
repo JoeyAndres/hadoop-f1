@@ -1,0 +1,21 @@
+2002,hockenheimring,ferrari,michael_schumacher,Finished,5272078,1
+2002,hockenheimring,williams,montoya,Finished,5282581,2
+2002,hockenheimring,williams,ralf_schumacher,Finished,5286544,3
+2002,hockenheimring,ferrari,barrichello,Finished,5295273,4
+2002,hockenheimring,mclaren,coulthard,+1 Lap,-1,5
+2002,hockenheimring,sauber,heidfeld,+1 Lap,-1,6
+2002,hockenheimring,sauber,massa,+1 Lap,-1,7
+2002,hockenheimring,jordan,sato,+1 Lap,-1,8
+2002,hockenheimring,toyota,salo,+1 Lap,-1,9
+2002,hockenheimring,jordan,fisichella,Engine,-1,10
+2002,hockenheimring,mclaren,raikkonen,Spun off,-1,11
+2002,hockenheimring,jaguar,irvine,Brakes,-1,12
+2002,hockenheimring,arrows,bernoldi,Engine,-1,13
+2002,hockenheimring,bar,panis,Engine,-1,14
+2002,hockenheimring,renault,trulli,Spun off,-1,15
+2002,hockenheimring,bar,villeneuve,Gearbox,-1,16
+2002,hockenheimring,renault,button,Engine,-1,17
+2002,hockenheimring,toyota,mcnish,Engine,-1,18
+2002,hockenheimring,minardi,webber,Hydraulics,-1,19
+2002,hockenheimring,arrows,frentzen,Hydraulics,-1,20
+2002,hockenheimring,jaguar,rosa,Transmission,-1,21

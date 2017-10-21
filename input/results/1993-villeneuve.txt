@@ -1,0 +1,26 @@
+1993,villeneuve,williams,prost,Finished,5801822,1
+1993,villeneuve,benetton,michael_schumacher,Finished,5816349,2
+1993,villeneuve,williams,damon_hill,Finished,5854507,3
+1993,villeneuve,ferrari,berger,+1 Lap,-1,4
+1993,villeneuve,ligier,brundle,+1 Lap,-1,5
+1993,villeneuve,sauber,wendlinger,+1 Lap,-1,6
+1993,villeneuve,sauber,lehto,+1 Lap,-1,7
+1993,villeneuve,larrousse,comas,+1 Lap,-1,8
+1993,villeneuve,minardi,fittipaldi,+2 Laps,-1,9
+1993,villeneuve,team_lotus,herbert,+2 Laps,-1,10
+1993,villeneuve,team_lotus,zanardi,+2 Laps,-1,11
+1993,villeneuve,jordan,boutsen,+2 Laps,-1,12
+1993,villeneuve,footwork,suzuki,+3 Laps,-1,13
+1993,villeneuve,mclaren,andretti,+3 Laps,-1,14
+1993,villeneuve,lola,badoer,+4 Laps,-1,15
+1993,villeneuve,footwork,warwick,+4 Laps,-1,16
+1993,villeneuve,tyrrell,katayama,+5 Laps,-1,17
+1993,villeneuve,mclaren,senna,Electrical,-1,18
+1993,villeneuve,benetton,patrese,Physical,-1,19
+1993,villeneuve,tyrrell,cesaris,Spun off,-1,20
+1993,villeneuve,minardi,barbazza,Gearbox,-1,21
+1993,villeneuve,ferrari,alesi,Engine,-1,22
+1993,villeneuve,ligier,blundell,Spun off,-1,23
+1993,villeneuve,jordan,barrichello,Electrical,-1,24
+1993,villeneuve,larrousse,alliot,Engine,-1,25
+1993,villeneuve,lola,alboreto,Did not qualify,-1,26

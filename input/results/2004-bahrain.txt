@@ -1,0 +1,20 @@
+2004,bahrain,ferrari,michael_schumacher,Finished,5314875,1
+2004,bahrain,ferrari,barrichello,Finished,5316242,2
+2004,bahrain,bar,button,Finished,5341562,3
+2004,bahrain,renault,trulli,Finished,5347089,4
+2004,bahrain,bar,sato,Finished,5367335,5
+2004,bahrain,renault,alonso,Finished,5368031,6
+2004,bahrain,williams,ralf_schumacher,Finished,5373030,7
+2004,bahrain,jaguar,webber,+1 Lap,-1,8
+2004,bahrain,toyota,panis,+1 Lap,-1,9
+2004,bahrain,toyota,matta,+1 Lap,-1,10
+2004,bahrain,sauber,fisichella,+1 Lap,-1,11
+2004,bahrain,sauber,massa,+1 Lap,-1,12
+2004,bahrain,williams,montoya,+1 Lap,-1,13
+2004,bahrain,jaguar,klien,+1 Lap,-1,14
+2004,bahrain,jordan,heidfeld,+1 Lap,-1,15
+2004,bahrain,jordan,pantano,+2 Laps,-1,16
+2004,bahrain,minardi,bruni,+5 Laps,-1,17
+2004,bahrain,mclaren,coulthard,Pneumatics,-1,18
+2004,bahrain,minardi,baumgartner,Engine,-1,19
+2004,bahrain,mclaren,raikkonen,Engine,-1,20

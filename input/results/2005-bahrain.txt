@@ -1,0 +1,20 @@
+2005,bahrain,renault,alonso,Finished,5358531,1
+2005,bahrain,toyota,trulli,Finished,5371940,2
+2005,bahrain,mclaren,raikkonen,Finished,5390594,3
+2005,bahrain,toyota,ralf_schumacher,Finished,5411803,4
+2005,bahrain,mclaren,rosa,Finished,5423519,5
+2005,bahrain,williams,webber,Finished,5433232,6
+2005,bahrain,sauber,massa,+1 Lap,-1,7
+2005,bahrain,red_bull,coulthard,+1 Lap,-1,8
+2005,bahrain,ferrari,barrichello,+1 Lap,-1,9
+2005,bahrain,jordan,monteiro,+2 Laps,-1,10
+2005,bahrain,sauber,villeneuve,Suspension,-1,11
+2005,bahrain,minardi,friesacher,+3 Laps,-1,12
+2005,bahrain,minardi,albers,+4 Laps,-1,13
+2005,bahrain,bar,button,Clutch,-1,14
+2005,bahrain,bar,sato,Brakes,-1,15
+2005,bahrain,williams,heidfeld,Engine,-1,16
+2005,bahrain,ferrari,michael_schumacher,Hydraulics,-1,17
+2005,bahrain,renault,fisichella,Engine,-1,18
+2005,bahrain,jordan,karthikeyan,Electrical,-1,19
+2005,bahrain,red_bull,klien,Electrical,-1,20

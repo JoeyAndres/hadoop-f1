@@ -1,0 +1,30 @@
+1977,anderstorp,ligier,laffite,Finished,6416400,1
+1977,anderstorp,mclaren,mass,Finished,6424849,2
+1977,anderstorp,ferrari,reutemann,Finished,6430769,3
+1977,anderstorp,tyrrell,depailler,Finished,6432708,4
+1977,anderstorp,brabham,watson,Finished,6435135,5
+1977,anderstorp,team_lotus,mario_andretti,Finished,6441677,6
+1977,anderstorp,ensign,regazzoni,Finished,6447666,7
+1977,anderstorp,penske,jarier,Finished,6480967,8
+1977,anderstorp,shadow,oliver,Finished,6498879,9
+1977,anderstorp,brabham,stuck,+1 Lap,-1,10
+1977,anderstorp,mclaren,lunger,+1 Lap,-1,11
+1977,anderstorp,mclaren,hunt,+1 Lap,-1,12
+1977,anderstorp,hesketh,keegan,+1 Lap,-1,13
+1977,anderstorp,lec,purley,+2 Laps,-1,14
+1977,anderstorp,march,neve,+3 Laps,-1,15
+1977,anderstorp,hesketh,ertl,+4 Laps,-1,16
+1977,anderstorp,shadow,jones,+5 Laps,-1,17
+1977,anderstorp,fittipaldi,emerson_fittipaldi,+6 Laps,-1,18
+1977,anderstorp,team_lotus,nilsson,Wheel bearing,-1,19
+1977,anderstorp,march,ian_scheckter,Transmission,-1,20
+1977,anderstorp,surtees,brambilla,Fuel pressure,-1,21
+1977,anderstorp,ferrari,lauda,Handling,-1,22
+1977,anderstorp,wolf,scheckter,Accident,-1,23
+1977,anderstorp,tyrrell,peterson,Ignition,-1,24
+1977,anderstorp,march,ribeiro,Did not qualify,-1,25
+1977,anderstorp,mclaren,villota,Did not qualify,-1,26
+1977,anderstorp,surtees,perkins,Did not qualify,-1,27
+1977,anderstorp,march,hayje,Did not qualify,-1,28
+1977,anderstorp,hesketh,rebaque,Did not qualify,-1,29
+1977,anderstorp,brm,andersson,Did not qualify,-1,30

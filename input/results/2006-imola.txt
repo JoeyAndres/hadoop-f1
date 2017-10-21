@@ -1,0 +1,22 @@
+2006,imola,ferrari,michael_schumacher,Finished,5466486,1
+2006,imola,renault,alonso,Finished,5468582,2
+2006,imola,mclaren,montoya,Finished,5482354,3
+2006,imola,ferrari,massa,Finished,5483582,4
+2006,imola,mclaren,raikkonen,Finished,5484010,5
+2006,imola,williams,webber,Finished,5504225,6
+2006,imola,honda,button,Finished,5506121,7
+2006,imola,renault,fisichella,Finished,5506686,8
+2006,imola,toyota,ralf_schumacher,Finished,5511997,9
+2006,imola,honda,barrichello,Finished,5544337,10
+2006,imola,williams,rosberg,Finished,5546161,11
+2006,imola,bmw_sauber,villeneuve,Finished,5548856,12
+2006,imola,bmw_sauber,heidfeld,+1 Lap,-1,13
+2006,imola,toro_rosso,liuzzi,+1 Lap,-1,14
+2006,imola,toro_rosso,speed,+1 Lap,-1,15
+2006,imola,mf1,monteiro,+2 Laps,-1,16
+2006,imola,red_bull,coulthard,Driveshaft,-1,17
+2006,imola,super_aguri,sato,Spun off,-1,18
+2006,imola,red_bull,klien,Hydraulics,-1,19
+2006,imola,super_aguri,ide,Suspension,-1,20
+2006,imola,toyota,trulli,Steering,-1,21
+2006,imola,mf1,albers,Accident,-1,22

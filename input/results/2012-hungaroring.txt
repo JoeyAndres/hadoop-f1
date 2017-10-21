@@ -1,0 +1,24 @@
+2012,hungaroring,mclaren,hamilton,Finished,6065503,1
+2012,hungaroring,lotus_f1,raikkonen,Finished,6066535,2
+2012,hungaroring,lotus_f1,grosjean,Finished,6076021,3
+2012,hungaroring,red_bull,vettel,Finished,6077117,4
+2012,hungaroring,ferrari,alonso,Finished,6092156,5
+2012,hungaroring,mclaren,button,Finished,6095746,6
+2012,hungaroring,williams,bruno_senna,Finished,6099402,7
+2012,hungaroring,red_bull,webber,Finished,6099961,8
+2012,hungaroring,ferrari,massa,Finished,6103853,9
+2012,hungaroring,mercedes,rosberg,Finished,6116737,10
+2012,hungaroring,force_india,hulkenberg,Finished,6122786,11
+2012,hungaroring,force_india,resta,Finished,6128390,12
+2012,hungaroring,williams,maldonado,Finished,6129109,13
+2012,hungaroring,sauber,perez,Finished,6129997,14
+2012,hungaroring,toro_rosso,ricciardo,+1 Lap,-1,15
+2012,hungaroring,toro_rosso,vergne,+1 Lap,-1,16
+2012,hungaroring,caterham,kovalainen,+1 Lap,-1,17
+2012,hungaroring,sauber,kobayashi,+2 Laps,-1,18
+2012,hungaroring,caterham,petrov,+2 Laps,-1,19
+2012,hungaroring,marussia,pic,+2 Laps,-1,20
+2012,hungaroring,marussia,glock,+3 Laps,-1,21
+2012,hungaroring,hrt,rosa,+3 Laps,-1,22
+2012,hungaroring,hrt,karthikeyan,Suspension,-1,23
+2012,hungaroring,mercedes,michael_schumacher,+11 Laps,-1,24

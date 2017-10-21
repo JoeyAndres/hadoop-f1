@@ -1,0 +1,27 @@
+1978,watkins_glen,ferrari,reutemann,Finished,6048800,1
+1978,watkins_glen,williams,jones,Finished,6068539,2
+1978,watkins_glen,wolf,scheckter,Finished,6094501,3
+1978,watkins_glen,renault,jabouille,Finished,6133807,4
+1978,watkins_glen,fittipaldi,emerson_fittipaldi,Finished,6136889,5
+1978,watkins_glen,mclaren,tambay,Finished,6159010,6
+1978,watkins_glen,mclaren,hunt,+1 Lap,-1,7
+1978,watkins_glen,ensign,daly,+1 Lap,-1,8
+1978,watkins_glen,martini,arnoux,+1 Lap,-1,9
+1978,watkins_glen,tyrrell,pironi,+1 Lap,-1,10
+1978,watkins_glen,ligier,laffite,+1 Lap,-1,11
+1978,watkins_glen,wolf,rahal,+1 Lap,-1,12
+1978,watkins_glen,ensign,lunger,+1 Lap,-1,13
+1978,watkins_glen,shadow,regazzoni,+3 Laps,-1,14
+1978,watkins_glen,team_lotus,jarier,Out of fuel,-1,15
+1978,watkins_glen,arrows,stommelen,+5 Laps,-1,16
+1978,watkins_glen,merzario,merzario,Gearbox,-1,17
+1978,watkins_glen,ats,bleekemolen,Oil leak,-1,18
+1978,watkins_glen,brabham,lauda,Engine,-1,19
+1978,watkins_glen,team_lotus,mario_andretti,Engine,-1,20
+1978,watkins_glen,brabham,watson,Engine,-1,21
+1978,watkins_glen,tyrrell,depailler,Wheel,-1,22
+1978,watkins_glen,ferrari,gilles_villeneuve,Engine,-1,23
+1978,watkins_glen,ats,keke_rosberg,Transmission,-1,24
+1978,watkins_glen,shadow,stuck,Fuel system,-1,25
+1978,watkins_glen,team_lotus,rebaque,Clutch,-1,26
+1978,watkins_glen,surtees,gabbiani,Did not qualify,-1,27

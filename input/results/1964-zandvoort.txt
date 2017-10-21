@@ -1,0 +1,18 @@
+1964,zandvoort,lotus-climax,clark,Finished,7655400,1
+1964,zandvoort,ferrari,surtees,Finished,7709000,2
+1964,zandvoort,lotus-climax,arundell,+1 Lap,-1,3
+1964,zandvoort,brm,hill,+1 Lap,-1,4
+1964,zandvoort,lotus-brm,amon,+1 Lap,-1,5
+1964,zandvoort,brabham-climax,anderson,+2 Laps,-1,6
+1964,zandvoort,cooper-climax,mclaren,+2 Laps,-1,7
+1964,zandvoort,cooper-climax,phil_hill,+4 Laps,-1,8
+1964,zandvoort,brabham-brm,bonnier,+4 Laps,-1,9
+1964,zandvoort,brm,baghetti,+6 Laps,-1,10
+1964,zandvoort,brm,ginther,+16 Laps,-1,11
+1964,zandvoort,lotus-brm,hailwood,Differential,-1,12
+1964,zandvoort,brabham-brm,siffert,+25 Laps,-1,13
+1964,zandvoort,brabham-climax,jack_brabham,Ignition,-1,14
+1964,zandvoort,brabham-climax,gurney,Steering,-1,15
+1964,zandvoort,ferrari,bandini,Ignition,-1,16
+1964,zandvoort,porsche,beaufort,Engine,-1,17
+1964,zandvoort,brm,maggs,Accident,-1,18

@@ -1,0 +1,19 @@
+1952,zandvoort,ferrari,ascari,Finished,10408500,1
+1952,zandvoort,ferrari,farina,Finished,10448600,2
+1952,zandvoort,ferrari,villoresi,Finished,10502900,3
+1952,zandvoort,cooper,hawthorn,+2 Laps,-1,4
+1952,zandvoort,gordini,manzon,+3 Laps,-1,5
+1952,zandvoort,gordini,trintignant,+3 Laps,-1,6
+1952,zandvoort,hwm,duncan_hamilton,+5 Laps,-1,7
+1952,zandvoort,hwm,macklin,+6 Laps,-1,8
+1952,zandvoort,maserati,flinterman,+7 Laps,-1,9
+1952,zandvoort,maserati,landi,+7 Laps,-1,9
+1952,zandvoort,frazer_nash,wharton,Wheel bearing,-1,10
+1952,zandvoort,era,moss,Engine,-1,11
+1952,zandvoort,hwm,lof,Not classified,-1,12
+1952,zandvoort,connaught,downing,Oil pressure,-1,13
+1952,zandvoort,ferrari,tornaco,Engine,-1,14
+1952,zandvoort,simca,frere,Clutch,-1,15
+1952,zandvoort,gordini,behra,Electrical,-1,16
+1952,zandvoort,maserati,flinterman,Differential,-1,17
+1952,zandvoort,maserati,bianco,Axle,-1,18

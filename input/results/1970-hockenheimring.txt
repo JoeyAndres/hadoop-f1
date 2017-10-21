@@ -1,0 +1,25 @@
+1970,hockenheimring,team_lotus,rindt,Finished,6120300,1
+1970,hockenheimring,ferrari,ickx,Finished,6121000,2
+1970,hockenheimring,mclaren-ford,hulme,Finished,6202100,3
+1970,hockenheimring,team_lotus,emerson_fittipaldi,Finished,6235400,4
+1970,hockenheimring,brabham,stommelen,+1 Lap,-1,5
+1970,hockenheimring,matra,pescarolo,+1 Lap,-1,6
+1970,hockenheimring,march,cevert,+1 Lap,-1,7
+1970,hockenheimring,march,siffert,Ignition,-1,8
+1970,hockenheimring,surtees,surtees,Engine,-1,9
+1970,hockenheimring,team_lotus,hill,Engine,-1,10
+1970,hockenheimring,march,amon,Engine,-1,11
+1970,hockenheimring,ferrari,regazzoni,Engine,-1,12
+1970,hockenheimring,team_lotus,miles,Engine,-1,13
+1970,hockenheimring,march,stewart,Engine,-1,14
+1970,hockenheimring,march,mario_andretti,Gearbox,-1,15
+1970,hockenheimring,march,peterson,Engine,-1,16
+1970,hockenheimring,brm,rodriguez,Ignition,-1,17
+1970,hockenheimring,brm,oliver,Engine,-1,18
+1970,hockenheimring,brabham,jack_brabham,Oil leak,-1,19
+1970,hockenheimring,matra,beltoise,Suspension,-1,20
+1970,hockenheimring,mclaren-ford,gethin,Throttle,-1,21
+1970,hockenheimring,tomaso,redman,Did not qualify,-1,22
+1970,hockenheimring,mclaren-alfa_romeo,adamich,Did not qualify,-1,23
+1970,hockenheimring,bellasi,moser,Did not qualify,-1,24
+1970,hockenheimring,march,hahne,Did not qualify,-1,25

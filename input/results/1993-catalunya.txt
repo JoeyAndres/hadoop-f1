@@ -1,0 +1,26 @@
+1993,catalunya,williams,prost,Finished,5547685,1
+1993,catalunya,mclaren,senna,Finished,5564558,2
+1993,catalunya,benetton,michael_schumacher,Finished,5574810,3
+1993,catalunya,benetton,patrese,+1 Lap,-1,4
+1993,catalunya,mclaren,andretti,+1 Lap,-1,5
+1993,catalunya,ferrari,berger,+2 Laps,-1,6
+1993,catalunya,ligier,blundell,+2 Laps,-1,7
+1993,catalunya,minardi,fittipaldi,+2 Laps,-1,8
+1993,catalunya,larrousse,comas,+2 Laps,-1,9
+1993,catalunya,footwork,suzuki,+2 Laps,-1,10
+1993,catalunya,jordan,boutsen,+3 Laps,-1,11
+1993,catalunya,jordan,barrichello,+3 Laps,-1,12
+1993,catalunya,footwork,warwick,+3 Laps,-1,13
+1993,catalunya,team_lotus,zanardi,Engine,-1,14
+1993,catalunya,sauber,lehto,Engine,-1,15
+1993,catalunya,lola,badoer,Overheating,-1,16
+1993,catalunya,sauber,wendlinger,Fuel system,-1,17
+1993,catalunya,tyrrell,cesaris,Disqualified,-1,18
+1993,catalunya,williams,damon_hill,Engine,-1,19
+1993,catalunya,ferrari,alesi,Engine,-1,20
+1993,catalunya,minardi,barbazza,Spun off,-1,21
+1993,catalunya,larrousse,alliot,Transmission,-1,22
+1993,catalunya,ligier,brundle,Tyre,-1,23
+1993,catalunya,tyrrell,katayama,Spun off,-1,24
+1993,catalunya,team_lotus,herbert,Suspension,-1,25
+1993,catalunya,lola,alboreto,Did not qualify,-1,26

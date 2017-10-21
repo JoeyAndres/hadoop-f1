@@ -1,0 +1,30 @@
+1981,zandvoort,renault,prost,Finished,6022430,1
+1981,zandvoort,brabham,piquet,Finished,6030670,2
+1981,zandvoort,williams,jones,Finished,6057930,3
+1981,zandvoort,brabham,rebaque,+1 Lap,-1,4
+1981,zandvoort,team_lotus,angelis,+1 Lap,-1,5
+1981,zandvoort,ensign,salazar,+2 Laps,-1,6
+1981,zandvoort,arrows,stohr,+3 Laps,-1,7
+1981,zandvoort,theodore,surer,+3 Laps,-1,8
+1981,zandvoort,tyrrell,alboreto,Engine,-1,9
+1981,zandvoort,ats,borgudd,+4 Laps,-1,10
+1981,zandvoort,alfa,mario_andretti,Accident,-1,11
+1981,zandvoort,mclaren,watson,Ignition,-1,12
+1981,zandvoort,tyrrell,cheever,Suspension,-1,13
+1981,zandvoort,osella,jarier,Transmission,-1,14
+1981,zandvoort,renault,arnoux,Engine,-1,15
+1981,zandvoort,alfa,giacomelli,Tyre,-1,16
+1981,zandvoort,ligier,laffite,Collision,-1,17
+1981,zandvoort,williams,reutemann,Collision,-1,18
+1981,zandvoort,arrows,patrese,Suspension,-1,19
+1981,zandvoort,march,daly,Suspension,-1,20
+1981,zandvoort,ferrari,pironi,Collision,-1,21
+1981,zandvoort,team_lotus,mansell,Engine,-1,22
+1981,zandvoort,ligier,tambay,Collision,-1,23
+1981,zandvoort,ferrari,gilles_villeneuve,Collision,-1,24
+1981,zandvoort,mclaren,cesaris,Withdrew,-1,25
+1981,zandvoort,toleman,henton,Did not qualify,-1,26
+1981,zandvoort,fittipaldi,keke_rosberg,Did not qualify,-1,27
+1981,zandvoort,fittipaldi,serra,Did not qualify,-1,28
+1981,zandvoort,osella,gabbiani,Did not qualify,-1,29
+1981,zandvoort,toleman,warwick,Did not qualify,-1,30

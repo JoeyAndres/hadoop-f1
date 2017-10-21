@@ -1,0 +1,30 @@
+1960,indianapolis,watson,rathmann,Finished,12971360,1
+1960,indianapolis,watson,ward,Finished,12984110,2
+1960,indianapolis,epperly,goldsmith,Finished,13158660,3
+1960,indianapolis,phillips,branson,Finished,13159340,4
+1960,indianapolis,lesovsky,thomson,Finished,13162710,5
+1960,indianapolis,trevis,johnson,Finished,13221970,6
+1960,indianapolis,watson,ruby,Finished,13236950,7
+1960,indianapolis,meskowski,veith,Finished,13288840,8
+1960,indianapolis,trevis,tingelstad,Finished,13471270,9
+1960,indianapolis,kurtis_kraft,christie,Finished,13491640,10
+1960,indianapolis,epperly,amick,Finished,13641940,11
+1960,indianapolis,kuzma,darter,Finished,13648560,12
+1960,indianapolis,kuzma,homeier,Finished,13702070,13
+1960,indianapolis,kurtis_kraft,hartley,+4 Laps,-1,14
+1960,indianapolis,watson,stevenson,+4 Laps,-1,15
+1960,indianapolis,meskowski,grim,+6 Laps,-1,16
+1960,indianapolis,kurtis_kraft,templeman,Clutch,-1,17
+1960,indianapolis,vhristensen,hurtubise,Engine,-1,18
+1960,indianapolis,epperly,bryan,Fuel system,-1,19
+1960,indianapolis,watson,ruttman,Axle,-1,20
+1960,indianapolis,ewing,sachs,Magneto,-1,21
+1960,indianapolis,kurtis_kraft,freeland,Magneto,-1,22
+1960,indianapolis,watson,bettenhausen,Engine,-1,23
+1960,indianapolis,epperly,weiler,Accident,-1,24
+1960,indianapolis,kurtis_kraft,foyt,Clutch,-1,25
+1960,indianapolis,kurtis_kraft,russo,Accident,-1,26
+1960,indianapolis,epperly,boyd,Engine,-1,27
+1960,indianapolis,kurtis_kraft,force,Brakes,-1,28
+1960,indianapolis,epperly,mcwithey,Brakes,-1,29
+1960,indianapolis,watson,sutton,Engine,-1,30

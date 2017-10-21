@@ -1,0 +1,24 @@
+2011,hungaroring,mclaren,button,Finished,6402337,1
+2011,hungaroring,red_bull,vettel,Finished,6405925,2
+2011,hungaroring,ferrari,alonso,Finished,6422156,3
+2011,hungaroring,mclaren,hamilton,Finished,6450675,4
+2011,hungaroring,red_bull,webber,Finished,6452079,5
+2011,hungaroring,ferrari,massa,Finished,6485513,6
+2011,hungaroring,force_india,resta,+1 Lap,-1,7
+2011,hungaroring,toro_rosso,buemi,+1 Lap,-1,8
+2011,hungaroring,mercedes,rosberg,+1 Lap,-1,9
+2011,hungaroring,toro_rosso,alguersuari,+1 Lap,-1,10
+2011,hungaroring,sauber,kobayashi,+1 Lap,-1,11
+2011,hungaroring,renault,petrov,+1 Lap,-1,12
+2011,hungaroring,williams,barrichello,+2 Laps,-1,13
+2011,hungaroring,force_india,sutil,+2 Laps,-1,14
+2011,hungaroring,sauber,perez,+2 Laps,-1,15
+2011,hungaroring,williams,maldonado,+2 Laps,-1,16
+2011,hungaroring,virgin,glock,+4 Laps,-1,17
+2011,hungaroring,hrt,ricciardo,+4 Laps,-1,18
+2011,hungaroring,virgin,ambrosio,+5 Laps,-1,19
+2011,hungaroring,hrt,liuzzi,+5 Laps,-1,20
+2011,hungaroring,lotus_racing,kovalainen,Water leak,-1,21
+2011,hungaroring,mercedes,michael_schumacher,Gearbox,-1,22
+2011,hungaroring,renault,heidfeld,Heat shield fire,-1,23
+2011,hungaroring,lotus_racing,trulli,Oil leak,-1,24

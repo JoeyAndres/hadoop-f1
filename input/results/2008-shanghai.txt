@@ -1,0 +1,20 @@
+2008,shanghai,mclaren,hamilton,Finished,5517403,1
+2008,shanghai,ferrari,massa,Finished,5532328,2
+2008,shanghai,ferrari,raikkonen,Finished,5533848,3
+2008,shanghai,renault,alonso,Finished,5535773,4
+2008,shanghai,bmw_sauber,heidfeld,Finished,5546326,5
+2008,shanghai,bmw_sauber,kubica,Finished,5550622,6
+2008,shanghai,toyota,glock,Finished,5559125,7
+2008,shanghai,renault,piquet_jr,Finished,5574048,8
+2008,shanghai,toro_rosso,vettel,Finished,5581742,9
+2008,shanghai,red_bull,coulthard,Finished,5592245,10
+2008,shanghai,honda,barrichello,Finished,5602464,11
+2008,shanghai,williams,nakajima,Finished,5608250,12
+2008,shanghai,toro_rosso,bourdais,Finished,5608860,13
+2008,shanghai,red_bull,webber,Finished,5609825,14
+2008,shanghai,williams,rosberg,+1 Lap,-1,15
+2008,shanghai,honda,button,+1 Lap,-1,16
+2008,shanghai,force_india,fisichella,+1 Lap,-1,17
+2008,shanghai,mclaren,kovalainen,Hydraulics,-1,18
+2008,shanghai,force_india,sutil,Engine,-1,19
+2008,shanghai,toyota,trulli,Collision,-1,20

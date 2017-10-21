@@ -1,0 +1,20 @@
+2015,monza,mercedes,hamilton,Finished,4680688,1
+2015,monza,ferrari,vettel,Finished,4705730,2
+2015,monza,williams,massa,Finished,4728323,3
+2015,monza,williams,bottas,Finished,4728684,4
+2015,monza,ferrari,raikkonen,Finished,4749548,5
+2015,monza,force_india,perez,Finished,4753471,6
+2015,monza,force_india,hulkenberg,+1 Lap,-1,7
+2015,monza,red_bull,ricciardo,+1 Lap,-1,8
+2015,monza,sauber,ericsson,+1 Lap,-1,9
+2015,monza,red_bull,kvyat,+1 Lap,-1,10
+2015,monza,toro_rosso,sainz,+1 Lap,-1,11
+2015,monza,toro_rosso,max_verstappen,+1 Lap,-1,12
+2015,monza,sauber,nasr,+1 Lap,-1,13
+2015,monza,mclaren,button,+1 Lap,-1,14
+2015,monza,manor,stevens,+2 Laps,-1,15
+2015,monza,manor,merhi,+2 Laps,-1,16
+2015,monza,mercedes,rosberg,+3 Laps,-1,17
+2015,monza,mclaren,alonso,+6 Laps,-1,18
+2015,monza,lotus_f1,grosjean,Collision damage,-1,19
+2015,monza,lotus_f1,maldonado,Collision damage,-1,20

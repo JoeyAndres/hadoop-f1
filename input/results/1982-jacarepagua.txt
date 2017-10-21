@@ -1,0 +1,30 @@
+1982,jacarepagua,renault,prost,Finished,6273134,1
+1982,jacarepagua,mclaren,watson,Finished,6276124,2
+1982,jacarepagua,team_lotus,mansell,Finished,6309993,3
+1982,jacarepagua,tyrrell,alboreto,Finished,6323895,4
+1982,jacarepagua,ats,manfred_winkelhock,+1 Lap,-1,5
+1982,jacarepagua,ferrari,pironi,+1 Lap,-1,6
+1982,jacarepagua,tyrrell,borgudd,+2 Laps,-1,7
+1982,jacarepagua,march,mass,+2 Laps,-1,8
+1982,jacarepagua,osella,jarier,+3 Laps,-1,9
+1982,jacarepagua,arrows,baldi,+6 Laps,-1,10
+1982,jacarepagua,brabham,piquet,Disqualified,-1,11
+1982,jacarepagua,williams,keke_rosberg,Disqualified,-1,12
+1982,jacarepagua,ats,salazar,Engine,-1,13
+1982,jacarepagua,fittipaldi,serra,Suspension,-1,14
+1982,jacarepagua,brabham,patrese,Physical,-1,15
+1982,jacarepagua,ferrari,gilles_villeneuve,Spun off,-1,16
+1982,jacarepagua,mclaren,lauda,Collision,-1,17
+1982,jacarepagua,renault,arnoux,Collision,-1,18
+1982,jacarepagua,williams,reutemann,Collision,-1,19
+1982,jacarepagua,team_lotus,angelis,Collision,-1,20
+1982,jacarepagua,ligier,cheever,Water leak,-1,21
+1982,jacarepagua,alfa,giacomelli,Clutch,-1,22
+1982,jacarepagua,ligier,laffite,Chassis,-1,23
+1982,jacarepagua,alfa,cesaris,Chassis,-1,24
+1982,jacarepagua,theodore,daly,Spun off,-1,25
+1982,jacarepagua,march,boesel,Spun off,-1,26
+1982,jacarepagua,toleman,fabi,Did not qualify,-1,27
+1982,jacarepagua,arrows,henton,Did not qualify,-1,28
+1982,jacarepagua,toleman,warwick,Did not qualify,-1,29
+1982,jacarepagua,ensign,guerrero,Did not qualify,-1,30

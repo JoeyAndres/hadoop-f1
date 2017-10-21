@@ -1,0 +1,27 @@
+1979,dijon,renault,jabouille,Finished,5720420,1
+1979,dijon,ferrari,gilles_villeneuve,Finished,5735010,2
+1979,dijon,renault,arnoux,Finished,5735250,3
+1979,dijon,williams,jones,Finished,5757030,4
+1979,dijon,tyrrell,jarier,Finished,5784930,5
+1979,dijon,williams,regazzoni,Finished,5785930,6
+1979,dijon,ferrari,scheckter,+1 Lap,-1,7
+1979,dijon,ligier,laffite,+1 Lap,-1,8
+1979,dijon,wolf,keke_rosberg,+1 Lap,-1,9
+1979,dijon,mclaren,tambay,+2 Laps,-1,10
+1979,dijon,mclaren,watson,+2 Laps,-1,11
+1979,dijon,team_lotus,rebaque,+2 Laps,-1,12
+1979,dijon,team_lotus,reutemann,+3 Laps,-1,13
+1979,dijon,arrows,patrese,+3 Laps,-1,14
+1979,dijon,arrows,mass,+5 Laps,-1,15
+1979,dijon,shadow,angelis,+5 Laps,-1,16
+1979,dijon,alfa,giacomelli,+5 Laps,-1,17
+1979,dijon,shadow,lammers,+7 Laps,-1,18
+1979,dijon,tyrrell,pironi,Suspension,-1,19
+1979,dijon,fittipaldi,emerson_fittipaldi,Engine,-1,20
+1979,dijon,brabham-alfa_romeo,piquet,Accident,-1,21
+1979,dijon,team_lotus,mario_andretti,Brakes,-1,22
+1979,dijon,ligier,ickx,Engine,-1,23
+1979,dijon,brabham-alfa_romeo,lauda,Spun off,-1,24
+1979,dijon,ats,stuck,Withdrew,-1,25
+1979,dijon,ensign,gaillard,Did not qualify,-1,26
+1979,dijon,merzario,merzario,Did not qualify,-1,27

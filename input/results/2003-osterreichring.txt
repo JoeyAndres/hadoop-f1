@@ -1,0 +1,20 @@
+2003,osterreichring,ferrari,michael_schumacher,Finished,5044888,1
+2003,osterreichring,mclaren,raikkonen,Finished,5048250,2
+2003,osterreichring,ferrari,barrichello,Finished,5048839,3
+2003,osterreichring,bar,button,Finished,5087131,4
+2003,osterreichring,mclaren,coulthard,Finished,5104628,5
+2003,osterreichring,williams,ralf_schumacher,+1 Lap,-1,6
+2003,osterreichring,jaguar,webber,+1 Lap,-1,7
+2003,osterreichring,renault,trulli,+1 Lap,-1,8
+2003,osterreichring,jaguar,pizzonia,+1 Lap,-1,9
+2003,osterreichring,toyota,matta,+1 Lap,-1,10
+2003,osterreichring,jordan,firman,+1 Lap,-1,11
+2003,osterreichring,bar,villeneuve,+1 Lap,-1,12
+2003,osterreichring,minardi,wilson,+2 Laps,-1,13
+2003,osterreichring,jordan,fisichella,Fuel system,-1,14
+2003,osterreichring,sauber,heidfeld,Engine,-1,15
+2003,osterreichring,renault,alonso,Engine,-1,16
+2003,osterreichring,williams,montoya,Engine,-1,17
+2003,osterreichring,toyota,panis,Suspension,-1,18
+2003,osterreichring,minardi,verstappen,Clutch,-1,19
+2003,osterreichring,sauber,frentzen,Clutch,-1,20

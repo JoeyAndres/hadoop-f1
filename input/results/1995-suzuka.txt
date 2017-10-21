@@ -1,0 +1,24 @@
+1995,suzuka,benetton,michael_schumacher,Finished,5812930,1
+1995,suzuka,mclaren,hakkinen,Finished,5832267,2
+1995,suzuka,benetton,herbert,Finished,5896734,3
+1995,suzuka,jordan,irvine,Finished,5915066,4
+1995,suzuka,ligier,panis,+1 Lap,-1,5
+1995,suzuka,tyrrell,salo,+1 Lap,-1,6
+1995,suzuka,mclaren,blundell,+1 Lap,-1,7
+1995,suzuka,sauber,frentzen,+1 Lap,-1,8
+1995,suzuka,minardi,badoer,+2 Laps,-1,9
+1995,suzuka,sauber,wendlinger,+2 Laps,-1,10
+1995,suzuka,minardi,lamy,+2 Laps,-1,11
+1995,suzuka,footwork,inoue,+2 Laps,-1,12
+1995,suzuka,williams,damon_hill,Spun off,-1,13
+1995,suzuka,williams,coulthard,Spun off,-1,14
+1995,suzuka,forti,diniz,Spun off,-1,15
+1995,suzuka,ferrari,alesi,Engine,-1,16
+1995,suzuka,pacific,montermini,Spun off,-1,17
+1995,suzuka,ferrari,berger,Electrical,-1,18
+1995,suzuka,jordan,barrichello,Spun off,-1,19
+1995,suzuka,tyrrell,katayama,Spun off,-1,20
+1995,suzuka,pacific,gachot,Halfshaft,-1,21
+1995,suzuka,forti,moreno,Gearbox,-1,22
+1995,suzuka,footwork,morbidelli,Spun off,-1,23
+1995,suzuka,ligier,suzuki,Accident,-1,24

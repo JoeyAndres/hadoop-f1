@@ -1,0 +1,29 @@
+1983,monza,brabham,piquet,Finished,4990880,1
+1983,monza,ferrari,arnoux,Finished,5001092,2
+1983,monza,renault,cheever,Finished,5009492,3
+1983,monza,ferrari,tambay,Finished,5019903,4
+1983,monza,team_lotus,angelis,Finished,5044560,5
+1983,monza,toleman,warwick,Finished,5064228,6
+1983,monza,toleman,giacomelli,Finished,5084802,7
+1983,monza,team_lotus,mansell,Finished,5086915,8
+1983,monza,ligier,jarier,+1 Lap,-1,9
+1983,monza,arrows,surer,+1 Lap,-1,10
+1983,monza,williams,keke_rosberg,+1 Lap,-1,11
+1983,monza,theodore,cecotto,+2 Laps,-1,12
+1983,monza,theodore,guerrero,+2 Laps,-1,13
+1983,monza,osella,corrado_fabi,Engine,-1,14
+1983,monza,tyrrell,sullivan,Fuel system,-1,15
+1983,monza,arrows,boutsen,Engine,-1,16
+1983,monza,ats,manfred_winkelhock,Exhaust,-1,17
+1983,monza,tyrrell,alboreto,Clutch,-1,18
+1983,monza,renault,prost,Turbo,-1,19
+1983,monza,mclaren,lauda,Electrical,-1,20
+1983,monza,mclaren,watson,Electrical,-1,21
+1983,monza,osella,ghinzani,Gearbox,-1,22
+1983,monza,alfa,baldi,Turbo,-1,23
+1983,monza,spirit,johansson,Distributor,-1,24
+1983,monza,brabham,patrese,Engine,-1,25
+1983,monza,alfa,cesaris,Collision,-1,26
+1983,monza,ligier,boesel,Did not qualify,-1,27
+1983,monza,williams,laffite,Did not qualify,-1,28
+1983,monza,ram,acheson,Did not qualify,-1,29

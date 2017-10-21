@@ -1,0 +1,20 @@
+2017,marina_bay,mercedes,hamilton,Finished,7403544,1
+2017,marina_bay,red_bull,ricciardo,Finished,7408051,2
+2017,marina_bay,mercedes,bottas,Finished,7412344,3
+2017,marina_bay,toro_rosso,sainz,Finished,7426366,4
+2017,marina_bay,force_india,perez,Finished,7428903,5
+2017,marina_bay,renault,jolyon_palmer,Finished,7430803,6
+2017,marina_bay,mclaren,vandoorne,Finished,7433932,7
+2017,marina_bay,williams,stroll,Finished,7445240,8
+2017,marina_bay,haas,grosjean,Finished,7446826,9
+2017,marina_bay,force_india,ocon,Finished,7448339,10
+2017,marina_bay,williams,massa,Finished,7450080,11
+2017,marina_bay,sauber,wehrlein,+2 Laps,-1,12
+2017,marina_bay,haas,kevin_magnussen,Engine,-1,13
+2017,marina_bay,renault,hulkenberg,Engine,-1,14
+2017,marina_bay,sauber,ericsson,Accident,-1,15
+2017,marina_bay,toro_rosso,kvyat,Accident,-1,16
+2017,marina_bay,mclaren,alonso,Collision damage,-1,17
+2017,marina_bay,ferrari,vettel,Accident,-1,18
+2017,marina_bay,red_bull,max_verstappen,Accident,-1,19
+2017,marina_bay,ferrari,raikkonen,Accident,-1,20

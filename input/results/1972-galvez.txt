@@ -1,0 +1,22 @@
+1972,galvez,tyrrell,stewart,Finished,7079100,1
+1972,galvez,mclaren,hulme,Finished,7105060,2
+1972,galvez,ferrari,ickx,Finished,7138490,3
+1972,galvez,ferrari,regazzoni,Finished,7145820,4
+1972,galvez,surtees,schenken,Finished,7148210,5
+1972,galvez,march,peterson,+1 Lap,-1,6
+1972,galvez,brabham,reutemann,+2 Laps,-1,7
+1972,galvez,march,pescarolo,+2 Laps,-1,8
+1972,galvez,brm,ganley,+2 Laps,-1,9
+1972,galvez,brm,marko,+2 Laps,-1,10
+1972,galvez,march,lauda,+2 Laps,-1,11
+1972,galvez,team_lotus,emerson_fittipaldi,Suspension,-1,12
+1972,galvez,tyrrell,cevert,Gearbox,-1,13
+1972,galvez,brm,wisell,Water leak,-1,14
+1972,galvez,mclaren,revson,Engine,-1,15
+1972,galvez,ferrari,mario_andretti,Engine,-1,16
+1972,galvez,surtees,adamich,Fuel system,-1,17
+1972,galvez,brabham,hill,Fuel pump,-1,18
+1972,galvez,team_lotus,walker,Disqualified,-1,19
+1972,galvez,brm,gethin,Oil leak,-1,20
+1972,galvez,brm,roig,Accident,-1,21
+1972,galvez,matra,amon,Withdrew,-1,22

@@ -1,0 +1,24 @@
+2012,hockenheimring,ferrari,alonso,Finished,5465862,1
+2012,hockenheimring,mclaren,button,Finished,5472811,2
+2012,hockenheimring,lotus_f1,raikkonen,Finished,5482271,3
+2012,hockenheimring,sauber,kobayashi,Finished,5487787,4
+2012,hockenheimring,red_bull,vettel,Finished,5489594,5
+2012,hockenheimring,sauber,perez,Finished,5493758,6
+2012,hockenheimring,mercedes,michael_schumacher,Finished,5494832,7
+2012,hockenheimring,red_bull,webber,Finished,5512803,8
+2012,hockenheimring,force_india,hulkenberg,Finished,5514024,9
+2012,hockenheimring,mercedes,rosberg,Finished,5514751,10
+2012,hockenheimring,force_india,resta,Finished,5525089,11
+2012,hockenheimring,ferrari,massa,Finished,5537290,12
+2012,hockenheimring,toro_rosso,ricciardo,Finished,5542691,13
+2012,hockenheimring,toro_rosso,vergne,Finished,5542827,14
+2012,hockenheimring,williams,maldonado,+1 Lap,-1,15
+2012,hockenheimring,caterham,petrov,+1 Lap,-1,16
+2012,hockenheimring,williams,bruno_senna,+1 Lap,-1,17
+2012,hockenheimring,lotus_f1,grosjean,+1 Lap,-1,18
+2012,hockenheimring,caterham,kovalainen,+2 Laps,-1,19
+2012,hockenheimring,marussia,pic,+2 Laps,-1,20
+2012,hockenheimring,hrt,rosa,+3 Laps,-1,21
+2012,hockenheimring,marussia,glock,+3 Laps,-1,22
+2012,hockenheimring,hrt,karthikeyan,+3 Laps,-1,23
+2012,hockenheimring,mclaren,hamilton,+11 Laps,-1,24

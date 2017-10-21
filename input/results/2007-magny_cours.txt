@@ -1,0 +1,22 @@
+2007,magny_cours,ferrari,raikkonen,Finished,5454200,1
+2007,magny_cours,ferrari,massa,Finished,5456614,2
+2007,magny_cours,mclaren,hamilton,Finished,5486353,3
+2007,magny_cours,bmw_sauber,kubica,Finished,5495927,4
+2007,magny_cours,bmw_sauber,heidfeld,Finished,5503001,5
+2007,magny_cours,renault,fisichella,Finished,5506140,6
+2007,magny_cours,mclaren,alonso,Finished,5510716,7
+2007,magny_cours,honda,button,Finished,5513085,8
+2007,magny_cours,williams,rosberg,Finished,5522705,9
+2007,magny_cours,toyota,ralf_schumacher,+1 Lap,-1,10
+2007,magny_cours,honda,barrichello,+1 Lap,-1,11
+2007,magny_cours,red_bull,webber,+1 Lap,-1,12
+2007,magny_cours,red_bull,coulthard,+1 Lap,-1,13
+2007,magny_cours,williams,wurz,+1 Lap,-1,14
+2007,magny_cours,renault,kovalainen,+1 Lap,-1,15
+2007,magny_cours,super_aguri,sato,+2 Laps,-1,16
+2007,magny_cours,spyker,sutil,+2 Laps,-1,17
+2007,magny_cours,toro_rosso,speed,Gearbox,-1,18
+2007,magny_cours,spyker,albers,Refuelling,-1,19
+2007,magny_cours,super_aguri,davidson,Collision,-1,20
+2007,magny_cours,toyota,trulli,Collision,-1,21
+2007,magny_cours,toro_rosso,liuzzi,Collision,-1,22

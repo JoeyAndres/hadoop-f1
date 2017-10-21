@@ -1,0 +1,30 @@
+1989,estoril,ferrari,berger,Finished,5808546,1
+1989,estoril,mclaren,prost,Finished,5841183,2
+1989,estoril,onyx,johansson,Finished,5863871,3
+1989,estoril,benetton,nannini,Finished,5890915,4
+1989,estoril,minardi,martini,+1 Lap,-1,5
+1989,estoril,tyrrell,palmer,+1 Lap,-1,6
+1989,estoril,team_lotus,satoru_nakajima,+1 Lap,-1,7
+1989,estoril,brabham,brundle,+1 Lap,-1,8
+1989,estoril,larrousse,alliot,+1 Lap,-1,9
+1989,estoril,march,gugelmin,+2 Laps,-1,10
+1989,estoril,larrousse,alboreto,+2 Laps,-1,11
+1989,estoril,minardi,sala,+2 Laps,-1,12
+1989,estoril,ligier,arnoux,+2 Laps,-1,13
+1989,estoril,brabham,modena,+2 Laps,-1,14
+1989,estoril,williams,patrese,Overheating,-1,15
+1989,estoril,williams,boutsen,Overheating,-1,16
+1989,estoril,mclaren,senna,Collision,-1,17
+1989,estoril,ferrari,mansell,Disqualified,-1,18
+1989,estoril,arrows,warwick,Accident,-1,19
+1989,estoril,team_lotus,piquet,Collision,-1,20
+1989,estoril,dallara,caffi,Collision,-1,21
+1989,estoril,benetton,pirro,Suspension,-1,22
+1989,estoril,march,capelli,Engine,-1,23
+1989,estoril,arrows,cheever,Spun off,-1,24
+1989,estoril,dallara,cesaris,Electrical,-1,25
+1989,estoril,coloni,moreno,Electrical,-1,26
+1989,estoril,tyrrell,herbert,Did not qualify,-1,27
+1989,estoril,ligier,grouillard,Did not qualify,-1,28
+1989,estoril,rial,raphanel,Did not qualify,-1,29
+1989,estoril,rial,danner,Did not qualify,-1,30

@@ -1,0 +1,24 @@
+1970,osterreichring,ferrari,ickx,Finished,6137300,1
+1970,osterreichring,ferrari,regazzoni,Finished,6137910,2
+1970,osterreichring,brabham,stommelen,Finished,6225180,3
+1970,osterreichring,brm,rodriguez,+1 Lap,-1,4
+1970,osterreichring,brm,oliver,+1 Lap,-1,5
+1970,osterreichring,matra,beltoise,+1 Lap,-1,6
+1970,osterreichring,ferrari,giunti,+1 Lap,-1,7
+1970,osterreichring,march,amon,+1 Lap,-1,8
+1970,osterreichring,march,siffert,+1 Lap,-1,9
+1970,osterreichring,mclaren-ford,gethin,+1 Lap,-1,10
+1970,osterreichring,brm,eaton,+2 Laps,-1,11
+1970,osterreichring,mclaren-alfa_romeo,adamich,+3 Laps,-1,12
+1970,osterreichring,brabham,jack_brabham,+4 Laps,-1,13
+1970,osterreichring,matra,pescarolo,+4 Laps,-1,14
+1970,osterreichring,team_lotus,emerson_fittipaldi,+5 Laps,-1,15
+1970,osterreichring,mclaren-ford,hulme,Engine,-1,16
+1970,osterreichring,surtees,surtees,Engine,-1,17
+1970,osterreichring,tomaso,schenken,Engine,-1,18
+1970,osterreichring,team_lotus,rindt,Engine,-1,19
+1970,osterreichring,march,mario_andretti,Accident,-1,20
+1970,osterreichring,bellasi,moser,Radiator,-1,21
+1970,osterreichring,march,stewart,Fuel pipe,-1,22
+1970,osterreichring,team_lotus,miles,Brakes,-1,23
+1970,osterreichring,march,cevert,Engine,-1,24

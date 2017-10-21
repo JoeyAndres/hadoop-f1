@@ -1,0 +1,22 @@
+1999,osterreichring,ferrari,irvine,Finished,5292438,1
+1999,osterreichring,mclaren,coulthard,Finished,5292751,2
+1999,osterreichring,mclaren,hakkinen,Finished,5314720,3
+1999,osterreichring,jordan,frentzen,Finished,5345241,4
+1999,osterreichring,benetton,wurz,Finished,5358796,5
+1999,osterreichring,sauber,diniz,Finished,5363371,6
+1999,osterreichring,prost,trulli,+1 Lap,-1,7
+1999,osterreichring,jordan,damon_hill,+1 Lap,-1,8
+1999,osterreichring,ferrari,salo,+1 Lap,-1,9
+1999,osterreichring,prost,panis,+1 Lap,-1,10
+1999,osterreichring,minardi,gene,+1 Lap,-1,11
+1999,osterreichring,benetton,fisichella,Engine,-1,12
+1999,osterreichring,minardi,badoer,+3 Laps,-1,13
+1999,osterreichring,stewart,herbert,+4 Laps,-1,14
+1999,osterreichring,bar,zonta,Clutch,-1,15
+1999,osterreichring,stewart,barrichello,Engine,-1,16
+1999,osterreichring,sauber,alesi,Out of fuel,-1,17
+1999,osterreichring,arrows,rosa,Spun off,-1,18
+1999,osterreichring,williams,zanardi,Out of fuel,-1,19
+1999,osterreichring,bar,villeneuve,Halfshaft,-1,20
+1999,osterreichring,arrows,takagi,Engine,-1,21
+1999,osterreichring,williams,ralf_schumacher,Spun off,-1,22

@@ -1,0 +1,20 @@
+1958,silverstone,ferrari,collins,Finished,7744200,1
+1958,silverstone,ferrari,hawthorn,Finished,7768400,2
+1958,silverstone,cooper,salvadori,Finished,7794800,3
+1958,silverstone,vanwall,lewis-evans,Finished,7795000,4
+1958,silverstone,brm,schell,Finished,7819000,5
+1958,silverstone,cooper,jack_brabham,Finished,7827400,6
+1958,silverstone,vanwall,brooks,+1 Lap,-1,7
+1958,silverstone,cooper,trintignant,+2 Laps,-1,8
+1958,silverstone,maserati,shelby,+3 Laps,-1,9
+1958,silverstone,ferrari,trips,Engine,-1,10
+1958,silverstone,maserati,bonnier,Gearbox,-1,11
+1958,silverstone,maserati,gerini,Gearbox,-1,12
+1958,silverstone,cooper,burgess,Clutch,-1,13
+1958,silverstone,vanwall,moss,Engine,-1,14
+1958,silverstone,team_lotus,allison,Engine,-1,15
+1958,silverstone,brm,behra,Suspension,-1,16
+1958,silverstone,connaught,bueb,Gearbox,-1,17
+1958,silverstone,team_lotus,stacey,Overheating,-1,18
+1958,silverstone,team_lotus,hill,Overheating,-1,19
+1958,silverstone,connaught,fairman,Ignition,-1,20

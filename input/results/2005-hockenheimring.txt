@@ -1,0 +1,20 @@
+2005,hockenheimring,renault,alonso,Finished,5188599,1
+2005,hockenheimring,mclaren,montoya,Finished,5211168,2
+2005,hockenheimring,bar,button,Finished,5213021,3
+2005,hockenheimring,renault,fisichella,Finished,5239186,4
+2005,hockenheimring,ferrari,michael_schumacher,Finished,5240289,5
+2005,hockenheimring,toyota,ralf_schumacher,Finished,5240841,6
+2005,hockenheimring,red_bull,coulthard,Finished,5241299,7
+2005,hockenheimring,sauber,massa,Finished,5245169,8
+2005,hockenheimring,red_bull,klien,Finished,5258417,9
+2005,hockenheimring,ferrari,barrichello,+1 Lap,-1,10
+2005,hockenheimring,williams,heidfeld,+1 Lap,-1,11
+2005,hockenheimring,bar,sato,+1 Lap,-1,12
+2005,hockenheimring,minardi,albers,+2 Laps,-1,13
+2005,hockenheimring,toyota,trulli,+3 Laps,-1,14
+2005,hockenheimring,sauber,villeneuve,+3 Laps,-1,15
+2005,hockenheimring,jordan,karthikeyan,+3 Laps,-1,16
+2005,hockenheimring,jordan,monteiro,+3 Laps,-1,17
+2005,hockenheimring,minardi,doornbos,+4 Laps,-1,18
+2005,hockenheimring,williams,webber,+12 Laps,-1,19
+2005,hockenheimring,mclaren,raikkonen,Hydraulics,-1,20

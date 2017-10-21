@@ -1,0 +1,30 @@
+1990,imola,williams,patrese,Finished,5455478,1
+1990,imola,mclaren,berger,Finished,5460595,2
+1990,imola,benetton,nannini,Finished,5461718,3
+1990,imola,ferrari,prost,Finished,5462321,4
+1990,imola,benetton,piquet,Finished,5508590,5
+1990,imola,tyrrell,alesi,+1 Lap,-1,6
+1990,imola,team_lotus,warwick,+1 Lap,-1,7
+1990,imola,team_lotus,donnelly,+1 Lap,-1,8
+1990,imola,ligier,alliot,+1 Lap,-1,9
+1990,imola,ligier,larini,+2 Laps,-1,10
+1990,imola,minardi,barilla,+2 Laps,-1,11
+1990,imola,onyx,lehto,+2 Laps,-1,12
+1990,imola,larrousse,bernard,Clutch,-1,13
+1990,imola,osella,grouillard,Wheel,-1,14
+1990,imola,ferrari,mansell,Engine,-1,15
+1990,imola,onyx,foitek,Engine,-1,16
+1990,imola,brabham,modena,Brakes,-1,17
+1990,imola,dallara,cesaris,Wheel,-1,18
+1990,imola,leyton,gugelmin,Electrical,-1,19
+1990,imola,williams,boutsen,Engine,-1,20
+1990,imola,larrousse,suzuki,Clutch,-1,21
+1990,imola,mclaren,senna,Wheel,-1,22
+1990,imola,dallara,pirro,Spun off,-1,23
+1990,imola,leyton,capelli,Collision,-1,24
+1990,imola,tyrrell,satoru_nakajima,Collision,-1,25
+1990,imola,eurobrun,moreno,Throttle,-1,26
+1990,imola,minardi,martini,Accident,-1,27
+1990,imola,arrows,caffi,Did not qualify,-1,28
+1990,imola,arrows,alboreto,Did not qualify,-1,29
+1990,imola,brabham,brabham,Did not qualify,-1,30

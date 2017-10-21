@@ -1,0 +1,30 @@
+1989,monaco,mclaren,senna,Finished,6813251,1
+1989,monaco,mclaren,prost,Finished,6865780,2
+1989,monaco,brabham,modena,+1 Lap,-1,3
+1989,monaco,dallara,caffi,+2 Laps,-1,4
+1989,monaco,tyrrell,alboreto,+2 Laps,-1,5
+1989,monaco,brabham,brundle,+2 Laps,-1,6
+1989,monaco,arrows,cheever,+2 Laps,-1,7
+1989,monaco,benetton,nannini,+3 Laps,-1,8
+1989,monaco,tyrrell,palmer,+3 Laps,-1,9
+1989,monaco,williams,boutsen,+3 Laps,-1,10
+1989,monaco,march,capelli,+4 Laps,-1,11
+1989,monaco,ligier,arnoux,+4 Laps,-1,12
+1989,monaco,dallara,cesaris,+4 Laps,-1,13
+1989,monaco,benetton,herbert,+4 Laps,-1,14
+1989,monaco,williams,patrese,+4 Laps,-1,15
+1989,monaco,minardi,sala,Overheating,-1,16
+1989,monaco,ags,tarquini,Electrical,-1,17
+1989,monaco,coloni,moreno,Gearbox,-1,18
+1989,monaco,larrousse,alliot,Engine,-1,19
+1989,monaco,march,gugelmin,Engine,-1,20
+1989,monaco,team_lotus,piquet,Collision,-1,21
+1989,monaco,ferrari,mansell,Gearbox,-1,22
+1989,monaco,coloni,raphanel,Gearbox,-1,23
+1989,monaco,ligier,grouillard,Gearbox,-1,24
+1989,monaco,minardi,martini,Clutch,-1,25
+1989,monaco,arrows,warwick,Electrical,-1,26
+1989,monaco,rial,danner,Did not qualify,-1,27
+1989,monaco,larrousse,dalmas,Did not qualify,-1,28
+1989,monaco,team_lotus,satoru_nakajima,Did not qualify,-1,29
+1989,monaco,osella,ghinzani,Did not prequalify,-1,30

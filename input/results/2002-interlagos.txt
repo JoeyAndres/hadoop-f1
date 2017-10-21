@@ -1,0 +1,22 @@
+2002,interlagos,ferrari,michael_schumacher,Finished,5503662,1
+2002,interlagos,williams,ralf_schumacher,Finished,5504250,2
+2002,interlagos,mclaren,coulthard,Finished,5562771,3
+2002,interlagos,renault,button,Finished,5570545,4
+2002,interlagos,williams,montoya,Finished,5571225,5
+2002,interlagos,toyota,salo,+1 Lap,-1,6
+2002,interlagos,jaguar,irvine,+1 Lap,-1,7
+2002,interlagos,jaguar,rosa,+1 Lap,-1,8
+2002,interlagos,jordan,sato,+2 Laps,-1,9
+2002,interlagos,bar,villeneuve,Engine,-1,10
+2002,interlagos,minardi,webber,+3 Laps,-1,11
+2002,interlagos,mclaren,raikkonen,Wheel rim,-1,12
+2002,interlagos,minardi,yoong,+4 Laps,-1,13
+2002,interlagos,sauber,heidfeld,Brakes,-1,14
+2002,interlagos,renault,trulli,Engine,-1,15
+2002,interlagos,sauber,massa,Collision,-1,16
+2002,interlagos,toyota,mcnish,Spun off,-1,17
+2002,interlagos,bar,panis,Gearbox,-1,18
+2002,interlagos,arrows,frentzen,Suspension,-1,19
+2002,interlagos,arrows,bernoldi,Suspension,-1,20
+2002,interlagos,ferrari,barrichello,Hydraulics,-1,21
+2002,interlagos,jordan,fisichella,Engine,-1,22

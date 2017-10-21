@@ -1,0 +1,22 @@
+2013,buddh,red_bull,vettel,Finished,5472187,1
+2013,buddh,mercedes,rosberg,Finished,5502010,2
+2013,buddh,lotus_f1,grosjean,Finished,5512079,3
+2013,buddh,ferrari,massa,Finished,5513879,4
+2013,buddh,mclaren,perez,Finished,5516016,5
+2013,buddh,mercedes,hamilton,Finished,5524662,6
+2013,buddh,lotus_f1,raikkonen,Finished,5540175,7
+2013,buddh,force_india,resta,Finished,5545055,8
+2013,buddh,force_india,sutil,Finished,5546921,9
+2013,buddh,toro_rosso,ricciardo,Finished,5548424,10
+2013,buddh,ferrari,alonso,Finished,5550484,11
+2013,buddh,williams,maldonado,Finished,5551138,12
+2013,buddh,toro_rosso,vergne,+1 Lap,-1,13
+2013,buddh,mclaren,button,+1 Lap,-1,14
+2013,buddh,sauber,gutierrez,+1 Lap,-1,15
+2013,buddh,williams,bottas,+1 Lap,-1,16
+2013,buddh,marussia,chilton,+2 Laps,-1,17
+2013,buddh,marussia,jules_bianchi,+2 Laps,-1,18
+2013,buddh,sauber,hulkenberg,Mechanical,-1,19
+2013,buddh,red_bull,webber,Alternator,-1,20
+2013,buddh,caterham,pic,Hydraulics,-1,21
+2013,buddh,caterham,garde,Collision,-1,22

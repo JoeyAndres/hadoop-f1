@@ -1,0 +1,20 @@
+2017,shanghai,mercedes,hamilton,Finished,5856158,1
+2017,shanghai,ferrari,vettel,Finished,5862408,2
+2017,shanghai,red_bull,max_verstappen,Finished,5901350,3
+2017,shanghai,red_bull,ricciardo,Finished,5902193,4
+2017,shanghai,ferrari,raikkonen,Finished,5904234,5
+2017,shanghai,mercedes,bottas,Finished,5904966,6
+2017,shanghai,toro_rosso,sainz,Finished,5929051,7
+2017,shanghai,haas,kevin_magnussen,+1 Lap,-1,8
+2017,shanghai,force_india,perez,+1 Lap,-1,9
+2017,shanghai,force_india,ocon,+1 Lap,-1,10
+2017,shanghai,haas,grosjean,+1 Lap,-1,11
+2017,shanghai,renault,hulkenberg,+1 Lap,-1,12
+2017,shanghai,renault,jolyon_palmer,+1 Lap,-1,13
+2017,shanghai,williams,massa,+1 Lap,-1,14
+2017,shanghai,sauber,ericsson,+1 Lap,-1,15
+2017,shanghai,mclaren,alonso,Driveshaft,-1,16
+2017,shanghai,toro_rosso,kvyat,Hydraulics,-1,17
+2017,shanghai,mclaren,vandoorne,Fuel pressure,-1,18
+2017,shanghai,sauber,giovinazzi,Accident,-1,19
+2017,shanghai,williams,stroll,Collision,-1,20

@@ -1,0 +1,25 @@
+1975,zandvoort,hesketh,hunt,Finished,6417400,1
+1975,zandvoort,ferrari,lauda,Finished,6418460,2
+1975,zandvoort,ferrari,regazzoni,Finished,6472460,3
+1975,zandvoort,brabham,reutemann,+1 Lap,-1,4
+1975,zandvoort,brabham,pace,+1 Lap,-1,5
+1975,zandvoort,shadow-ford,pryce,+1 Lap,-1,6
+1975,zandvoort,hill,brise,+1 Lap,-1,7
+1975,zandvoort,penske,donohue,+1 Lap,-1,8
+1975,zandvoort,tyrrell,depailler,+2 Laps,-1,9
+1975,zandvoort,ensign,lennep,+4 Laps,-1,10
+1975,zandvoort,fittipaldi,wilson_fittipaldi,+4 Laps,-1,11
+1975,zandvoort,williams,ian_scheckter,+5 Laps,-1,12
+1975,zandvoort,hill,jones,+5 Laps,-1,13
+1975,zandvoort,march,lombardi,+5 Laps,-1,14
+1975,zandvoort,team_lotus,peterson,Out of fuel,-1,15
+1975,zandvoort,tyrrell,scheckter,Engine,-1,16
+1975,zandvoort,williams,laffite,Engine,-1,17
+1975,zandvoort,mclaren,mass,Accident,-1,18
+1975,zandvoort,shadow-ford,jarier,Tyre,-1,19
+1975,zandvoort,surtees,watson,Vibrations,-1,20
+1975,zandvoort,mclaren,emerson_fittipaldi,Engine,-1,21
+1975,zandvoort,brm,evans,Differential,-1,22
+1975,zandvoort,team_lotus,ickx,Engine,-1,23
+1975,zandvoort,march,brambilla,Suspension,-1,24
+1975,zandvoort,maki,fushida,Withdrew,-1,25

@@ -1,0 +1,22 @@
+2002,osterreichring,ferrari,michael_schumacher,Finished,5631562,1
+2002,osterreichring,ferrari,barrichello,Finished,5631744,2
+2002,osterreichring,williams,montoya,Finished,5649292,3
+2002,osterreichring,williams,ralf_schumacher,Finished,5650010,4
+2002,osterreichring,jordan,fisichella,Finished,5681527,5
+2002,osterreichring,mclaren,coulthard,Finished,5682234,6
+2002,osterreichring,renault,button,Finished,5682791,7
+2002,osterreichring,toyota,salo,Finished,5700987,8
+2002,osterreichring,toyota,mcnish,Finished,5701280,9
+2002,osterreichring,bar,villeneuve,+1 Lap,-1,10
+2002,osterreichring,arrows,frentzen,+2 Laps,-1,11
+2002,osterreichring,minardi,webber,+2 Laps,-1,12
+2002,osterreichring,renault,trulli,Fuel pressure,-1,13
+2002,osterreichring,minardi,yoong,Engine,-1,14
+2002,osterreichring,jaguar,irvine,Hydraulics,-1,15
+2002,osterreichring,sauber,heidfeld,Collision,-1,16
+2002,osterreichring,jordan,sato,Collision,-1,17
+2002,osterreichring,bar,panis,Engine,-1,18
+2002,osterreichring,sauber,massa,Suspension,-1,19
+2002,osterreichring,mclaren,raikkonen,Engine,-1,20
+2002,osterreichring,arrows,bernoldi,Collision,-1,21
+2002,osterreichring,jaguar,rosa,Throttle,-1,22

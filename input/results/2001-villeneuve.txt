@@ -1,0 +1,22 @@
+2001,villeneuve,williams,ralf_schumacher,Finished,5671522,1
+2001,villeneuve,ferrari,michael_schumacher,Finished,5691757,2
+2001,villeneuve,mclaren,hakkinen,Finished,5712194,3
+2001,villeneuve,sauber,raikkonen,Finished,5739638,4
+2001,villeneuve,prost,alesi,Finished,5741957,5
+2001,villeneuve,jaguar,rosa,+1 Lap,-1,6
+2001,villeneuve,jordan,zonta,+1 Lap,-1,7
+2001,villeneuve,prost,burti,+1 Lap,-1,8
+2001,villeneuve,minardi,marques,+3 Laps,-1,9
+2001,villeneuve,arrows,verstappen,Brakes,-1,10
+2001,villeneuve,jordan,trulli,Brakes,-1,11
+2001,villeneuve,mclaren,coulthard,Engine,-1,12
+2001,villeneuve,bar,panis,Brakes,-1,13
+2001,villeneuve,bar,villeneuve,Halfshaft,-1,14
+2001,villeneuve,arrows,bernoldi,Engine,-1,15
+2001,villeneuve,williams,montoya,Accident,-1,16
+2001,villeneuve,ferrari,barrichello,Spun off,-1,17
+2001,villeneuve,benetton,button,Oil leak,-1,18
+2001,villeneuve,minardi,alonso,Transmission,-1,19
+2001,villeneuve,sauber,heidfeld,Collision,-1,20
+2001,villeneuve,jaguar,irvine,Collision,-1,21
+2001,villeneuve,benetton,fisichella,Collision,-1,22

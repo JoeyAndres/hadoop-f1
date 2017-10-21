@@ -1,0 +1,30 @@
+1988,hockenheimring,mclaren,senna,Finished,5574188,1
+1988,hockenheimring,mclaren,prost,Finished,5587797,2
+1988,hockenheimring,ferrari,berger,Finished,5626283,3
+1988,hockenheimring,ferrari,alboreto,Finished,5675100,4
+1988,hockenheimring,march,capelli,Finished,5683794,5
+1988,hockenheimring,benetton,boutsen,+1 Lap,-1,6
+1988,hockenheimring,arrows,warwick,+1 Lap,-1,7
+1988,hockenheimring,march,gugelmin,+1 Lap,-1,8
+1988,hockenheimring,team_lotus,satoru_nakajima,+1 Lap,-1,9
+1988,hockenheimring,arrows,cheever,+1 Lap,-1,10
+1988,hockenheimring,tyrrell,palmer,+1 Lap,-1,11
+1988,hockenheimring,zakspeed,schneider,+1 Lap,-1,12
+1988,hockenheimring,rial,cesaris,+2 Laps,-1,13
+1988,hockenheimring,zakspeed,ghinzani,+2 Laps,-1,14
+1988,hockenheimring,dallara,caffi,+2 Laps,-1,15
+1988,hockenheimring,eurobrun,larrauri,+2 Laps,-1,16
+1988,hockenheimring,ligier,arnoux,+3 Laps,-1,17
+1988,hockenheimring,benetton,nannini,+4 Laps,-1,18
+1988,hockenheimring,larrousse,dalmas,Clutch,-1,19
+1988,hockenheimring,ags,streiff,Throttle,-1,20
+1988,hockenheimring,williams,patrese,Spun off,-1,21
+1988,hockenheimring,osella,larini,Engine,-1,22
+1988,hockenheimring,williams,mansell,Spun off,-1,23
+1988,hockenheimring,eurobrun,modena,Engine,-1,24
+1988,hockenheimring,larrousse,alliot,Spun off,-1,25
+1988,hockenheimring,team_lotus,piquet,Spun off,-1,26
+1988,hockenheimring,minardi,sala,Did not qualify,-1,27
+1988,hockenheimring,ligier,johansson,Did not qualify,-1,28
+1988,hockenheimring,tyrrell,bailey,Did not qualify,-1,29
+1988,hockenheimring,minardi,martini,Did not qualify,-1,30

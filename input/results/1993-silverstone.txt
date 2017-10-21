@@ -1,0 +1,26 @@
+1993,silverstone,williams,prost,Finished,5138189,1
+1993,silverstone,benetton,michael_schumacher,Finished,5145849,2
+1993,silverstone,benetton,patrese,Finished,5215671,3
+1993,silverstone,team_lotus,herbert,Finished,5216596,4
+1993,silverstone,mclaren,senna,Out of fuel,-1,5
+1993,silverstone,footwork,warwick,+1 Lap,-1,6
+1993,silverstone,ligier,blundell,+1 Lap,-1,7
+1993,silverstone,sauber,lehto,+1 Lap,-1,8
+1993,silverstone,ferrari,alesi,+1 Lap,-1,9
+1993,silverstone,jordan,barrichello,+1 Lap,-1,10
+1993,silverstone,larrousse,alliot,+2 Laps,-1,11
+1993,silverstone,minardi,fittipaldi,Gearbox,-1,12
+1993,silverstone,tyrrell,katayama,+4 Laps,-1,13
+1993,silverstone,ligier,brundle,Gearbox,-1,14
+1993,silverstone,tyrrell,cesaris,Not classified,-1,15
+1993,silverstone,williams,damon_hill,Engine,-1,16
+1993,silverstone,team_lotus,zanardi,Suspension,-1,17
+1993,silverstone,jordan,boutsen,Wheel bearing,-1,18
+1993,silverstone,lola,badoer,Electrical,-1,19
+1993,silverstone,minardi,martini,Physical,-1,20
+1993,silverstone,sauber,wendlinger,Spun off,-1,21
+1993,silverstone,ferrari,berger,Suspension,-1,22
+1993,silverstone,footwork,suzuki,Spun off,-1,23
+1993,silverstone,mclaren,andretti,Spun off,-1,24
+1993,silverstone,larrousse,comas,Halfshaft,-1,25
+1993,silverstone,lola,alboreto,Did not qualify,-1,26

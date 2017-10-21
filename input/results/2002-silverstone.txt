@@ -1,0 +1,21 @@
+2002,silverstone,ferrari,michael_schumacher,Finished,5505015,1
+2002,silverstone,ferrari,barrichello,Finished,5519593,2
+2002,silverstone,williams,montoya,Finished,5536676,3
+2002,silverstone,bar,villeneuve,+1 Lap,-1,4
+2002,silverstone,bar,panis,+1 Lap,-1,5
+2002,silverstone,sauber,heidfeld,+1 Lap,-1,6
+2002,silverstone,jordan,fisichella,+1 Lap,-1,7
+2002,silverstone,williams,ralf_schumacher,+1 Lap,-1,8
+2002,silverstone,sauber,massa,+1 Lap,-1,9
+2002,silverstone,mclaren,coulthard,+2 Laps,-1,10
+2002,silverstone,jaguar,rosa,+2 Laps,-1,11
+2002,silverstone,renault,button,Wheel,-1,12
+2002,silverstone,jordan,sato,Engine,-1,13
+2002,silverstone,mclaren,raikkonen,Engine,-1,14
+2002,silverstone,renault,trulli,Electronics,-1,15
+2002,silverstone,arrows,bernoldi,Driveshaft,-1,16
+2002,silverstone,jaguar,irvine,Spun off,-1,17
+2002,silverstone,arrows,frentzen,Engine,-1,18
+2002,silverstone,toyota,salo,Drivetrain,-1,19
+2002,silverstone,minardi,webber,Clutch,-1,20
+2002,silverstone,toyota,mcnish,Clutch,-1,21

@@ -1,0 +1,22 @@
+1998,monaco,mclaren,hakkinen,Finished,6684400,1
+1998,monaco,benetton,fisichella,Finished,6695875,2
+1998,monaco,ferrari,irvine,Finished,6725778,3
+1998,monaco,arrows,salo,Finished,6744763,4
+1998,monaco,williams,villeneuve,+1 Lap,-1,5
+1998,monaco,arrows,diniz,+1 Lap,-1,6
+1998,monaco,sauber,herbert,+1 Lap,-1,7
+1998,monaco,jordan,damon_hill,+2 Laps,-1,8
+1998,monaco,minardi,nakano,+2 Laps,-1,9
+1998,monaco,ferrari,michael_schumacher,+2 Laps,-1,10
+1998,monaco,tyrrell,takagi,+2 Laps,-1,11
+1998,monaco,sauber,alesi,Gearbox,-1,12
+1998,monaco,prost,trulli,Gearbox,-1,13
+1998,monaco,prost,panis,Wheel,-1,14
+1998,monaco,jordan,ralf_schumacher,Suspension,-1,15
+1998,monaco,benetton,wurz,Spun off,-1,16
+1998,monaco,stewart,magnussen,Suspension,-1,17
+1998,monaco,mclaren,coulthard,Engine,-1,18
+1998,monaco,stewart,barrichello,Suspension,-1,19
+1998,monaco,williams,frentzen,Collision,-1,20
+1998,monaco,minardi,tuero,Spun off,-1,21
+1998,monaco,tyrrell,rosset,Did not qualify,-1,22

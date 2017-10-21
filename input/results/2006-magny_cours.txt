@@ -1,0 +1,22 @@
+2006,magny_cours,ferrari,michael_schumacher,Finished,5527803,1
+2006,magny_cours,renault,alonso,Finished,5537903,2
+2006,magny_cours,ferrari,massa,Finished,5550303,3
+2006,magny_cours,toyota,ralf_schumacher,Finished,5555003,4
+2006,magny_cours,mclaren,raikkonen,Finished,5560803,5
+2006,magny_cours,renault,fisichella,Finished,5573003,6
+2006,magny_cours,mclaren,rosa,Finished,5577203,7
+2006,magny_cours,bmw_sauber,heidfeld,+1 Lap,-1,8
+2006,magny_cours,red_bull,coulthard,+1 Lap,-1,9
+2006,magny_cours,toro_rosso,speed,+1 Lap,-1,10
+2006,magny_cours,bmw_sauber,villeneuve,+1 Lap,-1,11
+2006,magny_cours,red_bull,klien,+1 Lap,-1,12
+2006,magny_cours,toro_rosso,liuzzi,+1 Lap,-1,13
+2006,magny_cours,williams,rosberg,+2 Laps,-1,14
+2006,magny_cours,mf1,albers,+2 Laps,-1,15
+2006,magny_cours,super_aguri,montagny,+3 Laps,-1,16
+2006,magny_cours,honda,button,Technical,-1,17
+2006,magny_cours,williams,webber,Wheel rim,-1,18
+2006,magny_cours,toyota,trulli,Brakes,-1,19
+2006,magny_cours,honda,barrichello,Engine,-1,20
+2006,magny_cours,mf1,monteiro,Mechanical,-1,21
+2006,magny_cours,super_aguri,sato,Transmission,-1,22

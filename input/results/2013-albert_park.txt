@@ -1,0 +1,22 @@
+2013,albert_park,lotus_f1,raikkonen,Finished,5403225,1
+2013,albert_park,ferrari,alonso,Finished,5415676,2
+2013,albert_park,red_bull,vettel,Finished,5425571,3
+2013,albert_park,ferrari,massa,Finished,5436802,4
+2013,albert_park,mercedes,hamilton,Finished,5448786,5
+2013,albert_park,red_bull,webber,Finished,5450025,6
+2013,albert_park,force_india,sutil,Finished,5468293,7
+2013,albert_park,force_india,resta,Finished,5471674,8
+2013,albert_park,mclaren,button,Finished,5484855,9
+2013,albert_park,lotus_f1,grosjean,Finished,5485984,10
+2013,albert_park,mclaren,perez,Finished,5486592,11
+2013,albert_park,toro_rosso,vergne,Finished,5487082,12
+2013,albert_park,sauber,gutierrez,+1 Lap,-1,13
+2013,albert_park,williams,bottas,+1 Lap,-1,14
+2013,albert_park,marussia,jules_bianchi,+1 Lap,-1,15
+2013,albert_park,caterham,pic,+2 Laps,-1,16
+2013,albert_park,marussia,chilton,+2 Laps,-1,17
+2013,albert_park,caterham,garde,+2 Laps,-1,18
+2013,albert_park,toro_rosso,ricciardo,Hydraulics,-1,19
+2013,albert_park,mercedes,rosberg,Electrical,-1,20
+2013,albert_park,williams,maldonado,Spun off,-1,21
+2013,albert_park,sauber,hulkenberg,Fuel system,-1,22

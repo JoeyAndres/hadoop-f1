@@ -1,0 +1,30 @@
+1988,suzuka,mclaren,senna,Finished,5606173,1
+1988,suzuka,mclaren,prost,Finished,5619536,2
+1988,suzuka,benetton,boutsen,Finished,5642282,3
+1988,suzuka,ferrari,berger,Finished,5692887,4
+1988,suzuka,benetton,nannini,Finished,5696776,5
+1988,suzuka,williams,patrese,Finished,5703788,6
+1988,suzuka,team_lotus,satoru_nakajima,+1 Lap,-1,7
+1988,suzuka,ags,streiff,+1 Lap,-1,8
+1988,suzuka,larrousse,alliot,+1 Lap,-1,9
+1988,suzuka,march,gugelmin,+1 Lap,-1,10
+1988,suzuka,ferrari,alboreto,+1 Lap,-1,11
+1988,suzuka,tyrrell,palmer,+1 Lap,-1,12
+1988,suzuka,minardi,martini,+2 Laps,-1,13
+1988,suzuka,tyrrell,bailey,+2 Laps,-1,14
+1988,suzuka,minardi,sala,+2 Laps,-1,15
+1988,suzuka,larrousse,suzuki,+3 Laps,-1,16
+1988,suzuka,ligier,arnoux,+3 Laps,-1,17
+1988,suzuka,rial,cesaris,Overheating,-1,18
+1988,suzuka,arrows,cheever,Ignition,-1,19
+1988,suzuka,osella,larini,Brakes,-1,20
+1988,suzuka,team_lotus,piquet,Driver unwell,-1,21
+1988,suzuka,williams,mansell,Collision,-1,22
+1988,suzuka,dallara,caffi,Spun off,-1,23
+1988,suzuka,march,capelli,Electrical,-1,24
+1988,suzuka,arrows,warwick,Spun off,-1,25
+1988,suzuka,zakspeed,schneider,Driver unwell,-1,26
+1988,suzuka,ligier,johansson,Did not qualify,-1,27
+1988,suzuka,eurobrun,larrauri,Did not qualify,-1,28
+1988,suzuka,zakspeed,ghinzani,Did not qualify,-1,29
+1988,suzuka,eurobrun,modena,Did not qualify,-1,30

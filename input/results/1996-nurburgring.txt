@@ -1,0 +1,22 @@
+1996,nurburgring,williams,villeneuve,Finished,5606473,1
+1996,nurburgring,ferrari,michael_schumacher,Finished,5607235,2
+1996,nurburgring,mclaren,coulthard,Finished,5639307,3
+1996,nurburgring,williams,damon_hill,Finished,5639984,4
+1996,nurburgring,jordan,barrichello,Finished,5640186,5
+1996,nurburgring,jordan,brundle,Finished,5662040,6
+1996,nurburgring,sauber,herbert,Finished,5684500,7
+1996,nurburgring,mclaren,hakkinen,Finished,5684911,8
+1996,nurburgring,benetton,berger,Finished,5687534,9
+1996,nurburgring,ligier,diniz,+1 Lap,-1,10
+1996,nurburgring,footwork,rosset,+2 Laps,-1,11
+1996,nurburgring,minardi,lamy,+2 Laps,-1,12
+1996,nurburgring,minardi,fisichella,+2 Laps,-1,13
+1996,nurburgring,tyrrell,salo,Disqualified,-1,14
+1996,nurburgring,tyrrell,katayama,Disqualified,-1,15
+1996,nurburgring,sauber,frentzen,Brakes,-1,16
+1996,nurburgring,footwork,verstappen,Engine,-1,17
+1996,nurburgring,ligier,panis,Collision,-1,18
+1996,nurburgring,ferrari,irvine,Electrical,-1,19
+1996,nurburgring,benetton,alesi,Collision,-1,20
+1996,nurburgring,forti,montermini,107% Rule,-1,21
+1996,nurburgring,forti,badoer,107% Rule,-1,22

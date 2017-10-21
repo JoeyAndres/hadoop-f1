@@ -1,0 +1,26 @@
+1985,brands_hatch,williams,mansell,Finished,5578109,1
+1985,brands_hatch,team_lotus,senna,Finished,5599505,2
+1985,brands_hatch,williams,keke_rosberg,Finished,5636642,3
+1985,brands_hatch,mclaren,prost,Finished,5644230,4
+1985,brands_hatch,team_lotus,angelis,+1 Lap,-1,5
+1985,brands_hatch,arrows,boutsen,+2 Laps,-1,6
+1985,brands_hatch,mclaren,watson,+2 Laps,-1,7
+1985,brands_hatch,ligier,streiff,+2 Laps,-1,8
+1985,brands_hatch,alfa,patrese,+2 Laps,-1,9
+1985,brands_hatch,arrows,berger,+2 Laps,-1,10
+1985,brands_hatch,alfa,cheever,+2 Laps,-1,11
+1985,brands_hatch,renault,tambay,+3 Laps,-1,12
+1985,brands_hatch,brabham,surer,Turbo,-1,13
+1985,brands_hatch,ferrari,johansson,Electrical,-1,14
+1985,brands_hatch,ligier,laffite,Engine,-1,15
+1985,brands_hatch,zakspeed,danner,Engine,-1,16
+1985,brands_hatch,tyrrell,capelli,Accident,-1,17
+1985,brands_hatch,tyrrell,brundle,Water leak,-1,18
+1985,brands_hatch,toleman,fabi,Engine,-1,19
+1985,brands_hatch,ram,alliot,Engine,-1,20
+1985,brands_hatch,toleman,ghinzani,Engine,-1,21
+1985,brands_hatch,lola,jones,Radiator,-1,22
+1985,brands_hatch,ferrari,alboreto,Turbo,-1,23
+1985,brands_hatch,brabham,piquet,Accident,-1,24
+1985,brands_hatch,renault,warwick,Injection,-1,25
+1985,brands_hatch,minardi,martini,Accident,-1,26

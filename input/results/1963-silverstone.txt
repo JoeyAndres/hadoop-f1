@@ -1,0 +1,26 @@
+1963,silverstone,lotus-climax,clark,Finished,8049600,1
+1963,silverstone,ferrari,surtees,Finished,8075400,2
+1963,silverstone,brm,hill,Finished,8087200,3
+1963,silverstone,brm,ginther,+1 Lap,-1,4
+1963,silverstone,brm,bandini,+1 Lap,-1,5
+1963,silverstone,lotus-brm,hall,+2 Laps,-1,6
+1963,silverstone,lola,amon,+2 Laps,-1,7
+1963,silverstone,lotus-climax,hailwood,+4 Laps,-1,8
+1963,silverstone,cooper-climax,maggs,+4 Laps,-1,9
+1963,silverstone,porsche,beaufort,+6 Laps,-1,10
+1963,silverstone,lotus-brm,gregory,+7 Laps,-1,11
+1963,silverstone,lola,anderson,+7 Laps,-1,12
+1963,silverstone,lola,campbell-jones,+8 Laps,-1,13
+1963,silverstone,lotus-brm,siffert,Gearbox,-1,14
+1963,silverstone,cooper-climax,bonnier,Oil pressure,-1,15
+1963,silverstone,brabham,gurney,Engine,-1,16
+1963,silverstone,gilby,raby,Gearbox,-1,17
+1963,silverstone,scirocco,burgess,Ignition,-1,18
+1963,silverstone,brabham,jack_brabham,Engine,-1,19
+1963,silverstone,brp,ireland,Ignition,-1,20
+1963,silverstone,lotus-climax,trevor_taylor,Fuel pump,-1,21
+1963,silverstone,scirocco,settember,Ignition,-1,22
+1963,silverstone,cooper-climax,mclaren,Engine,-1,23
+1963,silverstone,tomaso,estefano,Withdrew,-1,24
+1963,silverstone,ats,baghetti,Withdrew,-1,25
+1963,silverstone,ats,phil_hill,Withdrew,-1,26

@@ -1,0 +1,22 @@
+2006,indianapolis,ferrari,michael_schumacher,Finished,5675199,1
+2006,indianapolis,ferrari,massa,Finished,5683183,2
+2006,indianapolis,renault,fisichella,Finished,5691794,3
+2006,indianapolis,toyota,trulli,Finished,5698803,4
+2006,indianapolis,renault,alonso,Finished,5703609,5
+2006,indianapolis,honda,barrichello,Finished,5711712,6
+2006,indianapolis,red_bull,coulthard,+1 Lap,-1,7
+2006,indianapolis,toro_rosso,liuzzi,+1 Lap,-1,8
+2006,indianapolis,williams,rosberg,+1 Lap,-1,9
+2006,indianapolis,toyota,ralf_schumacher,+11 Laps,-1,10
+2006,indianapolis,mf1,albers,Transmission,-1,11
+2006,indianapolis,bmw_sauber,villeneuve,Engine,-1,12
+2006,indianapolis,mf1,monteiro,Accident,-1,13
+2006,indianapolis,super_aguri,sato,Accident,-1,14
+2006,indianapolis,honda,button,Accident,-1,15
+2006,indianapolis,mclaren,raikkonen,Accident,-1,16
+2006,indianapolis,bmw_sauber,heidfeld,Accident,-1,17
+2006,indianapolis,mclaren,montoya,Accident,-1,18
+2006,indianapolis,williams,webber,Accident,-1,19
+2006,indianapolis,toro_rosso,speed,Accident,-1,20
+2006,indianapolis,red_bull,klien,Accident,-1,21
+2006,indianapolis,super_aguri,montagny,Accident,-1,22

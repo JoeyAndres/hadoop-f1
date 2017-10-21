@@ -1,0 +1,30 @@
+1981,villeneuve,ligier,laffite,Finished,7285200,1
+1981,villeneuve,mclaren,watson,Finished,7291430,2
+1981,villeneuve,ferrari,gilles_villeneuve,Finished,7395470,3
+1981,villeneuve,alfa,giacomelli,+1 Lap,-1,4
+1981,villeneuve,brabham,piquet,+1 Lap,-1,5
+1981,villeneuve,team_lotus,angelis,+1 Lap,-1,6
+1981,villeneuve,alfa,mario_andretti,+1 Lap,-1,7
+1981,villeneuve,march,daly,+2 Laps,-1,8
+1981,villeneuve,theodore,surer,+2 Laps,-1,9
+1981,villeneuve,williams,reutemann,+3 Laps,-1,10
+1981,villeneuve,tyrrell,alboreto,+4 Laps,-1,11
+1981,villeneuve,tyrrell,cheever,Engine,-1,12
+1981,villeneuve,mclaren,cesaris,Spun off,-1,13
+1981,villeneuve,renault,prost,Collision,-1,14
+1981,villeneuve,team_lotus,mansell,Collision,-1,15
+1981,villeneuve,ats,borgudd,Spun off,-1,16
+1981,villeneuve,brabham,rebaque,Spun off,-1,17
+1981,villeneuve,osella,jarier,Collision,-1,18
+1981,villeneuve,williams,jones,Handling,-1,19
+1981,villeneuve,ferrari,pironi,Ignition,-1,20
+1981,villeneuve,ensign,salazar,Spun off,-1,21
+1981,villeneuve,ligier,tambay,Spun off,-1,22
+1981,villeneuve,arrows,patrese,Spun off,-1,23
+1981,villeneuve,renault,arnoux,Collision,-1,24
+1981,villeneuve,fittipaldi,keke_rosberg,Did not qualify,-1,25
+1981,villeneuve,fittipaldi,serra,Did not qualify,-1,26
+1981,villeneuve,toleman,henton,Did not qualify,-1,27
+1981,villeneuve,arrows,villeneuve_sr,Did not qualify,-1,28
+1981,villeneuve,toleman,warwick,Did not qualify,-1,29
+1981,villeneuve,osella,gabbiani,Did not qualify,-1,30

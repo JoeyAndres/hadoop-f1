@@ -1,0 +1,30 @@
+1961,reims,ferrari,baghetti,Finished,8057500,1
+1961,reims,porsche,gurney,Finished,8057600,2
+1961,reims,lotus-climax,clark,Finished,8118500,3
+1961,reims,lotus-climax,ireland,Finished,8127800,4
+1961,reims,cooper-climax,mclaren,Finished,8159300,5
+1961,reims,brm,hill,Finished,8159400,6
+1961,reims,porsche,bonnier,Finished,8252900,7
+1961,reims,cooper-climax,salvadori,+1 Lap,-1,8
+1961,reims,ferrari,phil_hill,+2 Laps,-1,9
+1961,reims,lotus-climax,henry_taylor,+3 Laps,-1,10
+1961,reims,lotus-climax,may,+4 Laps,-1,11
+1961,reims,cooper-climax,gregory,+9 Laps,-1,12
+1961,reims,cooper-maserati,trintignant,+10 Laps,-1,13
+1961,reims,lotus-climax,burgess,+10 Laps,-1,14
+1961,reims,ferrari,ginther,Oil pressure,-1,15
+1961,reims,lotus-climax,moss,Brakes,-1,16
+1961,reims,lotus-climax,mairesse,Engine,-1,17
+1961,reims,porsche,beaufort,Overheating,-1,18
+1961,reims,lotus-climax,bianchi,Overheating,-1,19
+1961,reims,ferrari,trips,Engine,-1,20
+1961,reims,de_tomaso-osca,scarlatti,Engine,-1,21
+1961,reims,cooper-climax,jack_brabham,Oil pressure,-1,22
+1961,reims,cooper-climax,collomb,Engine,-1,23
+1961,reims,cooper-climax,surtees,Accident,-1,24
+1961,reims,brm,brooks,Overheating,-1,25
+1961,reims,cooper-climax,lewis,Overheating,-1,26
+1961,reims,lotus-climax,seidel,Withdrew,-1,27
+1961,reims,lotus-climax,bordeu,Withdrew,-1,28
+1961,reims,porsche,herrmann,Withdrew,-1,29
+1961,reims,emeryson,gendebien,Withdrew,-1,30

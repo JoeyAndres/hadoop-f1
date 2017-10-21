@@ -1,0 +1,20 @@
+2003,monza,ferrari,michael_schumacher,Finished,4459838,1
+2003,monza,williams,montoya,Finished,4465132,2
+2003,monza,ferrari,barrichello,Finished,4471673,3
+2003,monza,mclaren,raikkonen,Finished,4472672,4
+2003,monza,williams,gene,Finished,4487729,5
+2003,monza,bar,villeneuve,+1 Lap,-1,6
+2003,monza,jaguar,webber,+1 Lap,-1,7
+2003,monza,renault,alonso,+1 Lap,-1,8
+2003,monza,sauber,heidfeld,+1 Lap,-1,9
+2003,monza,jordan,fisichella,+1 Lap,-1,10
+2003,monza,jordan,baumgartner,+2 Laps,-1,11
+2003,monza,minardi,kiesa,+2 Laps,-1,12
+2003,monza,sauber,frentzen,+3 Laps,-1,13
+2003,monza,mclaren,coulthard,Fuel pressure,-1,14
+2003,monza,toyota,panis,Brakes,-1,15
+2003,monza,minardi,verstappen,Oil leak,-1,16
+2003,monza,bar,button,Gearbox,-1,17
+2003,monza,toyota,matta,Tyre,-1,18
+2003,monza,jaguar,wilson,Gearbox,-1,19
+2003,monza,renault,trulli,Hydraulics,-1,20

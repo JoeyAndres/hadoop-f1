@@ -1,0 +1,20 @@
+2004,shanghai,ferrari,barrichello,Finished,5352420,1
+2004,shanghai,bar,button,Finished,5353455,2
+2004,shanghai,mclaren,raikkonen,Finished,5353889,3
+2004,shanghai,renault,alonso,Finished,5384930,4
+2004,shanghai,williams,montoya,Finished,5397613,5
+2004,shanghai,bar,sato,Finished,5407211,6
+2004,shanghai,sauber,fisichella,Finished,5417874,7
+2004,shanghai,sauber,massa,Finished,5432500,8
+2004,shanghai,mclaren,coulthard,Finished,5433039,9
+2004,shanghai,jaguar,webber,+1 Lap,-1,10
+2004,shanghai,renault,villeneuve,+1 Lap,-1,11
+2004,shanghai,ferrari,michael_schumacher,+1 Lap,-1,12
+2004,shanghai,jordan,heidfeld,+1 Lap,-1,13
+2004,shanghai,toyota,panis,+1 Lap,-1,14
+2004,shanghai,jordan,glock,+1 Lap,-1,15
+2004,shanghai,minardi,baumgartner,+3 Laps,-1,16
+2004,shanghai,minardi,bruni,Wheel,-1,17
+2004,shanghai,williams,ralf_schumacher,Collision,-1,18
+2004,shanghai,toyota,zonta,Transmission,-1,19
+2004,shanghai,jaguar,klien,Collision,-1,20

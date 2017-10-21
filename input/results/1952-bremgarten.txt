@@ -1,0 +1,22 @@
+1952,bremgarten,ferrari,taruffi,Finished,10906100,1
+1952,bremgarten,ferrari,fischer,Finished,11063300,2
+1952,bremgarten,gordini,behra,+1 Lap,-1,3
+1952,bremgarten,frazer_nash,wharton,+2 Laps,-1,4
+1952,bremgarten,cooper,alan_brown,+3 Laps,-1,5
+1952,bremgarten,maserati,graffenried,+4 Laps,-1,6
+1952,bremgarten,ferrari,hirt,+6 Laps,-1,7
+1952,bremgarten,cooper,brandon,+7 Laps,-1,8
+1952,bremgarten,simca,bira,Engine,-1,9
+1952,bremgarten,ferrari,simon,Magneto,-1,10
+1952,bremgarten,ferrari,farina,Magneto,-1,10
+1952,bremgarten,maserati,schell,Engine,-1,11
+1952,bremgarten,hwm,moss,Withdrew,-1,12
+1952,bremgarten,hwm,macklin,Withdrew,-1,13
+1952,bremgarten,gordini,manzon,Radiator,-1,14
+1952,bremgarten,ferrari,farina,Magneto,-1,15
+1952,bremgarten,hwm,collins,Halfshaft,-1,16
+1952,bremgarten,hwm,abecassis,Halfshaft,-1,17
+1952,bremgarten,afm,hans_stuck,Engine,-1,18
+1952,bremgarten,veritas,ulmen,Fuel leak,-1,19
+1952,bremgarten,ferrari,rosier,Accident,-1,20
+1952,bremgarten,simca,terra,Magneto,-1,21

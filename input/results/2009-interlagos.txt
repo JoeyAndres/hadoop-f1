@@ -1,0 +1,20 @@
+2009,interlagos,red_bull,webber,Finished,5543081,1
+2009,interlagos,bmw_sauber,kubica,Finished,5550707,2
+2009,interlagos,mclaren,hamilton,Finished,5562025,3
+2009,interlagos,red_bull,vettel,Finished,5562733,4
+2009,interlagos,brawn,button,Finished,5572086,5
+2009,interlagos,ferrari,raikkonen,Finished,5576421,6
+2009,interlagos,toro_rosso,buemi,Finished,5579072,7
+2009,interlagos,brawn,barrichello,Finished,5588535,8
+2009,interlagos,mclaren,kovalainen,Finished,5591580,9
+2009,interlagos,toyota,kobayashi,Finished,5606405,10
+2009,interlagos,ferrari,fisichella,Finished,5613746,11
+2009,interlagos,force_india,liuzzi,Finished,5614469,12
+2009,interlagos,renault,grosjean,+1 Lap,-1,13
+2009,interlagos,toro_rosso,alguersuari,+1 Lap,-1,14
+2009,interlagos,williams,nakajima,Accident,-1,15
+2009,interlagos,williams,rosberg,Gearbox,-1,16
+2009,interlagos,bmw_sauber,heidfeld,Out of fuel,-1,17
+2009,interlagos,force_india,sutil,Accident,-1,18
+2009,interlagos,toyota,trulli,Accident,-1,19
+2009,interlagos,renault,alonso,Accident,-1,20

@@ -1,0 +1,22 @@
+2002,nurburgring,ferrari,barrichello,Finished,5707426,1
+2002,nurburgring,ferrari,michael_schumacher,Finished,5707720,2
+2002,nurburgring,mclaren,raikkonen,Finished,5753861,3
+2002,nurburgring,williams,ralf_schumacher,Finished,5774389,4
+2002,nurburgring,renault,button,Finished,5784370,5
+2002,nurburgring,sauber,massa,+1 Lap,-1,6
+2002,nurburgring,sauber,heidfeld,+1 Lap,-1,7
+2002,nurburgring,renault,trulli,+1 Lap,-1,8
+2002,nurburgring,bar,panis,+1 Lap,-1,9
+2002,nurburgring,jaguar,rosa,+1 Lap,-1,10
+2002,nurburgring,arrows,bernoldi,+1 Lap,-1,11
+2002,nurburgring,bar,villeneuve,+1 Lap,-1,12
+2002,nurburgring,arrows,frentzen,+1 Lap,-1,13
+2002,nurburgring,toyota,mcnish,+1 Lap,-1,14
+2002,nurburgring,minardi,webber,+2 Laps,-1,15
+2002,nurburgring,jordan,sato,+2 Laps,-1,16
+2002,nurburgring,toyota,salo,Gearbox,-1,17
+2002,nurburgring,minardi,yoong,Hydraulics,-1,18
+2002,nurburgring,jaguar,irvine,Hydraulics,-1,19
+2002,nurburgring,williams,montoya,Collision,-1,20
+2002,nurburgring,mclaren,coulthard,Collision,-1,21
+2002,nurburgring,jordan,fisichella,Accident,-1,22

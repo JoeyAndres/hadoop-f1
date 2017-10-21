@@ -1,0 +1,30 @@
+1991,hungaroring,mclaren,senna,Finished,6552796,1
+1991,hungaroring,williams,mansell,Finished,6557395,2
+1991,hungaroring,williams,patrese,Finished,6568390,3
+1991,hungaroring,mclaren,berger,Finished,6574652,4
+1991,hungaroring,ferrari,alesi,Finished,6584185,5
+1991,hungaroring,leyton,capelli,+1 Lap,-1,6
+1991,hungaroring,jordan,cesaris,+1 Lap,-1,7
+1991,hungaroring,benetton,moreno,+1 Lap,-1,8
+1991,hungaroring,jordan,gachot,+1 Lap,-1,9
+1991,hungaroring,ligier,comas,+2 Laps,-1,10
+1991,hungaroring,leyton,gugelmin,+2 Laps,-1,11
+1991,hungaroring,tyrrell,modena,+2 Laps,-1,12
+1991,hungaroring,minardi,morbidelli,+2 Laps,-1,13
+1991,hungaroring,team_lotus,hakkinen,+3 Laps,-1,14
+1991,hungaroring,tyrrell,satoru_nakajima,+3 Laps,-1,15
+1991,hungaroring,lambo,larini,+3 Laps,-1,16
+1991,hungaroring,ligier,boutsen,Engine,-1,17
+1991,hungaroring,minardi,martini,Engine,-1,18
+1991,hungaroring,brabham,blundell,Tyre,-1,19
+1991,hungaroring,brabham,brundle,Physical,-1,20
+1991,hungaroring,dallara,lehto,Engine,-1,21
+1991,hungaroring,benetton,piquet,Gearbox,-1,22
+1991,hungaroring,lola,bernard,Engine,-1,23
+1991,hungaroring,lola,suzuki,Engine,-1,24
+1991,hungaroring,dallara,pirro,Engine,-1,25
+1991,hungaroring,ferrari,prost,Engine,-1,26
+1991,hungaroring,fondmetal,grouillard,Did not qualify,-1,27
+1991,hungaroring,footwork,alboreto,Did not qualify,-1,28
+1991,hungaroring,lambo,poele,Did not qualify,-1,29
+1991,hungaroring,team_lotus,bartels,Did not qualify,-1,30

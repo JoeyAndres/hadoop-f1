@@ -1,0 +1,30 @@
+1953,monza,maserati,fangio,Finished,10185900,1
+1953,monza,ferrari,farina,Finished,10187300,2
+1953,monza,ferrari,villoresi,+1 Lap,-1,3
+1953,monza,ferrari,hawthorn,+1 Lap,-1,4
+1953,monza,gordini,trintignant,+1 Lap,-1,5
+1953,monza,gordini,mieres,+3 Laps,-1,6
+1953,monza,maserati,musso,+4 Laps,-1,7
+1953,monza,maserati,mantovani,+4 Laps,-1,7
+1953,monza,ferrari,maglioli,+5 Laps,-1,8
+1953,monza,gordini,schell,+5 Laps,-1,9
+1953,monza,osca,chiron,+8 Laps,-1,10
+1953,monza,maserati,bira,+8 Laps,-1,11
+1953,monza,cooper,alan_brown,+10 Laps,-1,12
+1953,monza,cooper,moss,+10 Laps,-1,13
+1953,monza,afm,hans_stuck,+13 Laps,-1,14
+1953,monza,hwm,cabantous,+13 Laps,-1,15
+1953,monza,ferrari,rosier,+15 Laps,-1,16
+1953,monza,ferrari,ascari,Accident,-1,17
+1953,monza,maserati,bonetto,Out of fuel,-1,18
+1953,monza,maserati,marimon,Accident,-1,19
+1953,monza,maserati,graffenried,Engine,-1,20
+1953,monza,connaught,fairman,Not classified,-1,21
+1953,monza,cooper,wharton,Not classified,-1,22
+1953,monza,connaught,mcalpine,Not classified,-1,23
+1953,monza,ferrari,carini,Engine,-1,24
+1953,monza,connaught,salvadori,Throttle,-1,25
+1953,monza,maserati,landi,Engine,-1,26
+1953,monza,osca,bayol,Engine,-1,27
+1953,monza,hwm,fitch,Engine,-1,28
+1953,monza,connaught,claes,Fuel system,-1,29

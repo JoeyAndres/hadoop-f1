@@ -1,0 +1,20 @@
+1957,monza,vanwall,moss,Finished,9303900,1
+1957,monza,maserati,fangio,Finished,9345100,2
+1957,monza,ferrari,trips,+2 Laps,-1,3
+1957,monza,maserati,gregory,+3 Laps,-1,4
+1957,monza,maserati,schell,+3 Laps,-1,5
+1957,monza,maserati,scarlatti,+3 Laps,-1,5
+1957,monza,ferrari,hawthorn,+4 Laps,-1,6
+1957,monza,vanwall,brooks,+5 Laps,-1,7
+1957,monza,ferrari,musso,+5 Laps,-1,8
+1957,monza,maserati,godia,+6 Laps,-1,9
+1957,monza,maserati,gould,+9 Laps,-1,10
+1957,monza,maserati,volonterio,+15 Laps,-1,11
+1957,monza,maserati,simon,+15 Laps,-1,11
+1957,monza,ferrari,collins,Engine,-1,12
+1957,monza,vanwall,lewis-evans,Engine,-1,13
+1957,monza,maserati,behra,Overheating,-1,14
+1957,monza,maserati,halford,Engine,-1,15
+1957,monza,maserati,schell,Oil leak,-1,16
+1957,monza,maserati,bonnier,Overheating,-1,17
+1957,monza,maserati,piotti,Engine,-1,18

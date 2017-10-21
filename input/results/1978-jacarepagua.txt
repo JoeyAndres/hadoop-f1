@@ -1,0 +1,28 @@
+1978,jacarepagua,ferrari,reutemann,Finished,6599860,1
+1978,jacarepagua,fittipaldi,emerson_fittipaldi,Finished,6648990,2
+1978,jacarepagua,brabham,lauda,Finished,6656880,3
+1978,jacarepagua,team_lotus,mario_andretti,Finished,6692980,4
+1978,jacarepagua,shadow,regazzoni,+1 Lap,-1,5
+1978,jacarepagua,tyrrell,pironi,+1 Lap,-1,6
+1978,jacarepagua,ats,mass,+1 Lap,-1,7
+1978,jacarepagua,brabham,watson,+2 Laps,-1,8
+1978,jacarepagua,ligier,laffite,+2 Laps,-1,9
+1978,jacarepagua,arrows,patrese,+4 Laps,-1,10
+1978,jacarepagua,williams,jones,+5 Laps,-1,11
+1978,jacarepagua,team_lotus,rebaque,Physical,-1,12
+1978,jacarepagua,ferrari,gilles_villeneuve,Spun off,-1,13
+1978,jacarepagua,mclaren,tambay,Spun off,-1,14
+1978,jacarepagua,mclaren,hunt,Spun off,-1,15
+1978,jacarepagua,shadow,stuck,Fuel system,-1,16
+1978,jacarepagua,wolf,scheckter,Accident,-1,17
+1978,jacarepagua,team_lotus,peterson,Collision,-1,18
+1978,jacarepagua,ensign,ongais,Brakes,-1,19
+1978,jacarepagua,mclaren,lunger,Overheating,-1,20
+1978,jacarepagua,tyrrell,depailler,Accident,-1,21
+1978,jacarepagua,surtees,keegan,Accident,-1,22
+1978,jacarepagua,ensign,leoni,Transmission,-1,23
+1978,jacarepagua,ats,jarier,Withdrew,-1,24
+1978,jacarepagua,merzario,merzario,Did not qualify,-1,25
+1978,jacarepagua,theodore,cheever,Did not qualify,-1,26
+1978,jacarepagua,surtees,brambilla,Did not qualify,-1,27
+1978,jacarepagua,hesketh,galica,Did not qualify,-1,28

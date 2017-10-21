@@ -1,0 +1,22 @@
+2006,villeneuve,renault,alonso,Finished,5677308,1
+2006,villeneuve,ferrari,michael_schumacher,Finished,5679408,2
+2006,villeneuve,mclaren,raikkonen,Finished,5686108,3
+2006,villeneuve,renault,fisichella,Finished,5692908,4
+2006,villeneuve,ferrari,massa,Finished,5702408,5
+2006,villeneuve,toyota,trulli,+1 Lap,-1,6
+2006,villeneuve,bmw_sauber,heidfeld,+1 Lap,-1,7
+2006,villeneuve,red_bull,coulthard,+1 Lap,-1,8
+2006,villeneuve,honda,button,+1 Lap,-1,9
+2006,villeneuve,toro_rosso,speed,+1 Lap,-1,10
+2006,villeneuve,red_bull,klien,+1 Lap,-1,11
+2006,villeneuve,williams,webber,+1 Lap,-1,12
+2006,villeneuve,toro_rosso,liuzzi,+2 Laps,-1,13
+2006,villeneuve,mf1,monteiro,+4 Laps,-1,14
+2006,villeneuve,super_aguri,sato,Accident,-1,15
+2006,villeneuve,bmw_sauber,villeneuve,Accident,-1,16
+2006,villeneuve,toyota,ralf_schumacher,Retired,-1,17
+2006,villeneuve,mclaren,montoya,Accident,-1,18
+2006,villeneuve,honda,barrichello,Mechanical,-1,19
+2006,villeneuve,super_aguri,montagny,Engine,-1,20
+2006,villeneuve,williams,rosberg,Accident,-1,21
+2006,villeneuve,mf1,albers,Accident,-1,22

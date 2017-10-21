@@ -1,0 +1,22 @@
+2007,interlagos,ferrari,raikkonen,Finished,5295270,1
+2007,interlagos,ferrari,massa,Finished,5296763,2
+2007,interlagos,mclaren,alonso,Finished,5352289,3
+2007,interlagos,williams,rosberg,Finished,5358118,4
+2007,interlagos,bmw_sauber,kubica,Finished,5366227,5
+2007,interlagos,bmw_sauber,heidfeld,Finished,5366587,6
+2007,interlagos,mclaren,hamilton,+1 Lap,-1,7
+2007,interlagos,toyota,trulli,+1 Lap,-1,8
+2007,interlagos,red_bull,coulthard,+1 Lap,-1,9
+2007,interlagos,williams,nakajima,+1 Lap,-1,10
+2007,interlagos,toyota,ralf_schumacher,+1 Lap,-1,11
+2007,interlagos,super_aguri,sato,+2 Laps,-1,12
+2007,interlagos,toro_rosso,liuzzi,+2 Laps,-1,13
+2007,interlagos,super_aguri,davidson,+3 Laps,-1,14
+2007,interlagos,spyker,sutil,Brakes,-1,15
+2007,interlagos,honda,barrichello,Engine,-1,16
+2007,interlagos,renault,kovalainen,Accident,-1,17
+2007,interlagos,toro_rosso,vettel,Hydraulics,-1,18
+2007,interlagos,honda,button,Engine,-1,19
+2007,interlagos,red_bull,webber,Gearbox,-1,20
+2007,interlagos,spyker,yamamoto,Collision,-1,21
+2007,interlagos,renault,fisichella,Collision,-1,22

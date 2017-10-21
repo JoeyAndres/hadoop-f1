@@ -1,0 +1,28 @@
+1994,adelaide,williams,mansell,Finished,6471400,1
+1994,adelaide,ferrari,berger,Finished,6473911,2
+1994,adelaide,mclaren,brundle,Finished,6523887,3
+1994,adelaide,jordan,barrichello,Finished,6541930,4
+1994,adelaide,ligier,panis,+1 Lap,-1,5
+1994,adelaide,ferrari,alesi,+1 Lap,-1,6
+1994,adelaide,sauber,frentzen,+1 Lap,-1,7
+1994,adelaide,footwork,fittipaldi,+1 Lap,-1,8
+1994,adelaide,minardi,martini,+2 Laps,-1,9
+1994,adelaide,sauber,lehto,+2 Laps,-1,10
+1994,adelaide,ligier,lagorce,+2 Laps,-1,11
+1994,adelaide,mclaren,hakkinen,Brakes,-1,12
+1994,adelaide,minardi,alboreto,Suspension,-1,13
+1994,adelaide,tyrrell,blundell,Accident,-1,14
+1994,adelaide,larrousse,deletraz,Gearbox,-1,15
+1994,adelaide,team_lotus,salo,Electrical,-1,16
+1994,adelaide,simtek,brabham,Engine,-1,17
+1994,adelaide,team_lotus,zanardi,Throttle,-1,18
+1994,adelaide,williams,damon_hill,Collision,-1,19
+1994,adelaide,benetton,michael_schumacher,Collision,-1,20
+1994,adelaide,simtek,schiattarella,Gearbox,-1,21
+1994,adelaide,tyrrell,katayama,Spun off,-1,22
+1994,adelaide,larrousse,noda,Oil leak,-1,23
+1994,adelaide,footwork,morbidelli,Oil leak,-1,24
+1994,adelaide,jordan,irvine,Spun off,-1,25
+1994,adelaide,benetton,herbert,Gearbox,-1,26
+1994,adelaide,pacific,gachot,Did not qualify,-1,27
+1994,adelaide,pacific,belmondo,Did not qualify,-1,28

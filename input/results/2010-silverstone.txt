@@ -1,0 +1,24 @@
+2010,silverstone,red_bull,webber,Finished,5078200,1
+2010,silverstone,mclaren,hamilton,Finished,5079560,2
+2010,silverstone,mercedes,rosberg,Finished,5099507,3
+2010,silverstone,mclaren,button,Finished,5100186,4
+2010,silverstone,williams,barrichello,Finished,5109656,5
+2010,silverstone,sauber,kobayashi,Finished,5110371,6
+2010,silverstone,red_bull,vettel,Finished,5114934,7
+2010,silverstone,force_india,sutil,Finished,5119132,8
+2010,silverstone,mercedes,michael_schumacher,Finished,5119799,9
+2010,silverstone,williams,hulkenberg,Finished,5120212,10
+2010,silverstone,force_india,liuzzi,Finished,5120659,11
+2010,silverstone,toro_rosso,buemi,Finished,5125827,12
+2010,silverstone,renault,petrov,Finished,5137574,13
+2010,silverstone,ferrari,alonso,Finished,5140585,14
+2010,silverstone,ferrari,massa,Finished,5145689,15
+2010,silverstone,lotus_racing,trulli,+1 Lap,-1,16
+2010,silverstone,lotus_racing,kovalainen,+1 Lap,-1,17
+2010,silverstone,virgin,glock,+2 Laps,-1,18
+2010,silverstone,hrt,chandhok,+2 Laps,-1,19
+2010,silverstone,hrt,yamamoto,+2 Laps,-1,20
+2010,silverstone,toro_rosso,alguersuari,Brakes,-1,21
+2010,silverstone,sauber,rosa,Collision,-1,22
+2010,silverstone,renault,kubica,Driveshaft,-1,23
+2010,silverstone,virgin,grassi,Hydraulics,-1,24

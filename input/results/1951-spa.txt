@@ -1,0 +1,13 @@
+1951,spa,alfa,farina,Finished,9946200,1
+1951,spa,ferrari,ascari,Finished,10117200,2
+1951,spa,ferrari,villoresi,Finished,10208100,3
+1951,spa,lago,rosier,+2 Laps,-1,4
+1951,spa,lago,cabantous,+2 Laps,-1,5
+1951,spa,lago,andre_pilette,+3 Laps,-1,6
+1951,spa,lago,claes,+3 Laps,-1,7
+1951,spa,lago,levegh,+4 Laps,-1,8
+1951,spa,alfa,fangio,+4 Laps,-1,9
+1951,spa,lago,chiron,Engine,-1,10
+1951,spa,alfa,sanesi,Radiator,-1,11
+1951,spa,ferrari,taruffi,Transmission,-1,12
+1951,spa,lago,etancelin,Transmission,-1,13

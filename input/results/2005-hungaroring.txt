@@ -1,0 +1,20 @@
+2005,hungaroring,mclaren,raikkonen,Finished,5845552,1
+2005,hungaroring,ferrari,michael_schumacher,Finished,5881133,2
+2005,hungaroring,toyota,ralf_schumacher,Finished,5881681,3
+2005,hungaroring,toyota,trulli,Finished,5899773,4
+2005,hungaroring,bar,button,Finished,5904384,5
+2005,hungaroring,williams,heidfeld,Finished,5913927,6
+2005,hungaroring,williams,webber,+1 Lap,-1,7
+2005,hungaroring,bar,sato,+1 Lap,-1,8
+2005,hungaroring,renault,fisichella,+1 Lap,-1,9
+2005,hungaroring,ferrari,barrichello,+1 Lap,-1,10
+2005,hungaroring,renault,alonso,+1 Lap,-1,11
+2005,hungaroring,jordan,karthikeyan,+3 Laps,-1,12
+2005,hungaroring,jordan,monteiro,+4 Laps,-1,13
+2005,hungaroring,sauber,massa,+7 Laps,-1,14
+2005,hungaroring,minardi,albers,+11 Laps,-1,15
+2005,hungaroring,sauber,villeneuve,Engine fire,-1,16
+2005,hungaroring,mclaren,montoya,Driveshaft,-1,17
+2005,hungaroring,minardi,doornbos,Hydraulics,-1,18
+2005,hungaroring,red_bull,coulthard,Accident,-1,19
+2005,hungaroring,red_bull,klien,Accident,-1,20

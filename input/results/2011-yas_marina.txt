@@ -1,0 +1,24 @@
+2011,yas_marina,mclaren,hamilton,Finished,5831886,1
+2011,yas_marina,ferrari,alonso,Finished,5840343,2
+2011,yas_marina,mclaren,button,Finished,5857767,3
+2011,yas_marina,red_bull,webber,Finished,5867670,4
+2011,yas_marina,ferrari,massa,Finished,5882464,5
+2011,yas_marina,mercedes,rosberg,Finished,5884203,6
+2011,yas_marina,mercedes,michael_schumacher,Finished,5907850,7
+2011,yas_marina,force_india,sutil,Finished,5909008,8
+2011,yas_marina,force_india,resta,Finished,5932973,9
+2011,yas_marina,sauber,kobayashi,+1 Lap,-1,10
+2011,yas_marina,sauber,perez,+1 Lap,-1,11
+2011,yas_marina,williams,barrichello,+1 Lap,-1,12
+2011,yas_marina,renault,petrov,+1 Lap,-1,13
+2011,yas_marina,williams,maldonado,+1 Lap,-1,14
+2011,yas_marina,toro_rosso,alguersuari,+1 Lap,-1,15
+2011,yas_marina,renault,bruno_senna,+1 Lap,-1,16
+2011,yas_marina,lotus_racing,kovalainen,+1 Lap,-1,17
+2011,yas_marina,lotus_racing,trulli,+2 Laps,-1,18
+2011,yas_marina,virgin,glock,+2 Laps,-1,19
+2011,yas_marina,hrt,liuzzi,+2 Laps,-1,20
+2011,yas_marina,hrt,ricciardo,Mechanical,-1,21
+2011,yas_marina,toro_rosso,buemi,Hydraulics,-1,22
+2011,yas_marina,virgin,ambrosio,Brakes,-1,23
+2011,yas_marina,red_bull,vettel,Puncture,-1,24

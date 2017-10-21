@@ -1,0 +1,22 @@
+2016,suzuka,mercedes,rosberg,Finished,5203333,1
+2016,suzuka,red_bull,max_verstappen,Finished,5208311,2
+2016,suzuka,mercedes,hamilton,Finished,5209109,3
+2016,suzuka,ferrari,vettel,Finished,5223602,4
+2016,suzuka,ferrari,raikkonen,Finished,5231703,5
+2016,suzuka,red_bull,ricciardo,Finished,5237274,6
+2016,suzuka,force_india,perez,Finished,5260828,7
+2016,suzuka,force_india,hulkenberg,Finished,5262510,8
+2016,suzuka,williams,massa,Finished,5301096,9
+2016,suzuka,williams,bottas,Finished,5301656,10
+2016,suzuka,haas,grosjean,Finished,5302587,11
+2016,suzuka,renault,jolyon_palmer,+1 Lap,-1,12
+2016,suzuka,toro_rosso,kvyat,+1 Lap,-1,13
+2016,suzuka,renault,kevin_magnussen,+1 Lap,-1,14
+2016,suzuka,sauber,ericsson,+1 Lap,-1,15
+2016,suzuka,mclaren,alonso,+1 Lap,-1,16
+2016,suzuka,toro_rosso,sainz,+1 Lap,-1,17
+2016,suzuka,mclaren,button,+1 Lap,-1,18
+2016,suzuka,sauber,nasr,+1 Lap,-1,19
+2016,suzuka,haas,gutierrez,+1 Lap,-1,20
+2016,suzuka,manor,ocon,+1 Lap,-1,21
+2016,suzuka,manor,wehrlein,+1 Lap,-1,22

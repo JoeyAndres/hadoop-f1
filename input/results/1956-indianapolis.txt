@@ -1,0 +1,30 @@
+1956,indianapolis,watson,flaherty,Finished,14008840,1
+1956,indianapolis,kurtis_kraft,hanks,Finished,14029290,2
+1956,indianapolis,phillips,freeland,Finished,14099070,3
+1956,indianapolis,kurtis_kraft,parsons,Finished,14214530,4
+1956,indianapolis,kurtis_kraft,dick_rathmann,Finished,14270650,5
+1956,indianapolis,kuzma,sweikert,Finished,14343890,6
+1956,indianapolis,kurtis_kraft,veith,Finished,14394470,7
+1956,indianapolis,kurtis_kraft,ward,Finished,14401150,8
+1956,indianapolis,lesovsky,reece,Finished,14407150,9
+1956,indianapolis,stevens,griffith,+1 Lap,-1,10
+1956,indianapolis,kuzma,hartley,+4 Laps,-1,11
+1956,indianapolis,kurtis_kraft,agabashian,+4 Laps,-1,12
+1956,indianapolis,kurtis_kraft,christie,+4 Laps,-1,13
+1956,indianapolis,kurtis_kraft,keller,+5 Laps,-1,14
+1956,indianapolis,kuzma,johnson,+5 Laps,-1,15
+1956,indianapolis,kuzma,garrett,+6 Laps,-1,16
+1956,indianapolis,kurtis_kraft,dinsmore,+9 Laps,-1,17
+1956,indianapolis,kurtis_kraft,connor,+13 Laps,-1,18
+1956,indianapolis,kuzma,bryan,+15 Laps,-1,19
+1956,indianapolis,kurtis_kraft,rathmann,Engine,-1,20
+1956,indianapolis,kurtis_kraft,tolan,Engine,-1,21
+1956,indianapolis,kurtis_kraft,bettenhausen,Accident,-1,22
+1956,indianapolis,kurtis_kraft,russo,Brakes,-1,23
+1956,indianapolis,kurtis_kraft,elisian,Brakes,-1,23
+1956,indianapolis,kurtis_kraft,daywalt,Accident,-1,24
+1956,indianapolis,kurtis_kraft,turner,Engine,-1,25
+1956,indianapolis,kurtis_kraft,andrews,Transmission,-1,26
+1956,indianapolis,kurtis_kraft,linden,Oil leak,-1,27
+1956,indianapolis,kurtis_kraft,herman,Accident,-1,28
+1956,indianapolis,kurtis_kraft,ray_crawford,Accident,-1,29

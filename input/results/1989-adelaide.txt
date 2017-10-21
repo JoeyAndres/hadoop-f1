@@ -1,0 +1,30 @@
+1989,adelaide,williams,boutsen,Finished,7217421,1
+1989,adelaide,benetton,nannini,Finished,7246079,2
+1989,adelaide,williams,patrese,Finished,7255104,3
+1989,adelaide,team_lotus,satoru_nakajima,Finished,7259752,4
+1989,adelaide,benetton,pirro,+2 Laps,-1,5
+1989,adelaide,minardi,martini,+3 Laps,-1,6
+1989,adelaide,march,gugelmin,+4 Laps,-1,7
+1989,adelaide,brabham,modena,+6 Laps,-1,8
+1989,adelaide,arrows,cheever,Spun off,-1,9
+1989,adelaide,onyx,lehto,Electrical,-1,10
+1989,adelaide,ligier,grouillard,Spun off,-1,11
+1989,adelaide,team_lotus,piquet,Collision,-1,12
+1989,adelaide,osella,ghinzani,Collision,-1,13
+1989,adelaide,ferrari,mansell,Spun off,-1,14
+1989,adelaide,mclaren,senna,Collision,-1,15
+1989,adelaide,dallara,caffi,Spun off,-1,16
+1989,adelaide,march,capelli,Radiator,-1,17
+1989,adelaide,dallara,cesaris,Spun off,-1,18
+1989,adelaide,brabham,brundle,Collision,-1,19
+1989,adelaide,arrows,warwick,Spun off,-1,20
+1989,adelaide,larrousse,alliot,Collision,-1,21
+1989,adelaide,ferrari,berger,Collision,-1,22
+1989,adelaide,tyrrell,alesi,Electrical,-1,23
+1989,adelaide,ligier,arnoux,Collision,-1,24
+1989,adelaide,mclaren,prost,Withdrew,-1,25
+1989,adelaide,osella,larini,Electrical,-1,26
+1989,adelaide,tyrrell,palmer,Did not qualify,-1,27
+1989,adelaide,minardi,sala,Did not qualify,-1,28
+1989,adelaide,rial,gachot,Did not qualify,-1,29
+1989,adelaide,rial,raphanel,Did not qualify,-1,30

@@ -1,0 +1,20 @@
+2008,magny_cours,ferrari,massa,Finished,5510245,1
+2008,magny_cours,ferrari,raikkonen,Finished,5528229,2
+2008,magny_cours,toyota,trulli,Finished,5538495,3
+2008,magny_cours,mclaren,kovalainen,Finished,5539174,4
+2008,magny_cours,bmw_sauber,kubica,Finished,5540757,5
+2008,magny_cours,red_bull,webber,Finished,5550549,6
+2008,magny_cours,renault,piquet_jr,Finished,5551278,7
+2008,magny_cours,renault,alonso,Finished,5553617,8
+2008,magny_cours,red_bull,coulthard,Finished,5561266,9
+2008,magny_cours,mclaren,hamilton,Finished,5564783,10
+2008,magny_cours,toyota,glock,Finished,5567945,11
+2008,magny_cours,toro_rosso,vettel,Finished,5568310,12
+2008,magny_cours,bmw_sauber,heidfeld,Finished,5572324,13
+2008,magny_cours,honda,barrichello,+1 Lap,-1,14
+2008,magny_cours,williams,nakajima,+1 Lap,-1,15
+2008,magny_cours,williams,rosberg,+1 Lap,-1,16
+2008,magny_cours,toro_rosso,bourdais,+1 Lap,-1,17
+2008,magny_cours,force_india,fisichella,+1 Lap,-1,18
+2008,magny_cours,force_india,sutil,+1 Lap,-1,19
+2008,magny_cours,honda,button,Collision,-1,20

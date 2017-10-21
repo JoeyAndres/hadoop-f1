@@ -1,0 +1,22 @@
+2007,istanbul,ferrari,massa,Finished,5202161,1
+2007,istanbul,ferrari,raikkonen,Finished,5204436,2
+2007,istanbul,mclaren,alonso,Finished,5228342,3
+2007,istanbul,bmw_sauber,heidfeld,Finished,5241835,4
+2007,istanbul,mclaren,hamilton,Finished,5247246,5
+2007,istanbul,renault,kovalainen,Finished,5248330,6
+2007,istanbul,williams,rosberg,Finished,5257939,7
+2007,istanbul,bmw_sauber,kubica,Finished,5258868,8
+2007,istanbul,renault,fisichella,Finished,5261652,9
+2007,istanbul,red_bull,coulthard,Finished,5273170,10
+2007,istanbul,williams,wurz,Finished,5281789,11
+2007,istanbul,toyota,ralf_schumacher,+1 Lap,-1,12
+2007,istanbul,honda,button,+1 Lap,-1,13
+2007,istanbul,super_aguri,davidson,+1 Lap,-1,14
+2007,istanbul,toro_rosso,liuzzi,+1 Lap,-1,15
+2007,istanbul,toyota,trulli,+1 Lap,-1,16
+2007,istanbul,honda,barrichello,+1 Lap,-1,17
+2007,istanbul,super_aguri,sato,+1 Lap,-1,18
+2007,istanbul,toro_rosso,vettel,+1 Lap,-1,19
+2007,istanbul,spyker,yamamoto,+2 Laps,-1,20
+2007,istanbul,spyker,sutil,Fuel pressure,-1,21
+2007,istanbul,red_bull,webber,Hydraulics,-1,22

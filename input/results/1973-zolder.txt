@@ -1,0 +1,23 @@
+1973,zolder,tyrrell,stewart,Finished,6133430,1
+1973,zolder,tyrrell,cevert,Finished,6165270,2
+1973,zolder,team_lotus,emerson_fittipaldi,Finished,6256220,3
+1973,zolder,brabham,adamich,+1 Lap,-1,4
+1973,zolder,brm,lauda,+1 Lap,-1,5
+1973,zolder,tecno,amon,+3 Laps,-1,6
+1973,zolder,mclaren,hulme,+3 Laps,-1,7
+1973,zolder,surtees,pace,+4 Laps,-1,8
+1973,zolder,shadow,hill,+5 Laps,-1,9
+1973,zolder,brm,regazzoni,Accident,-1,10
+1973,zolder,march,beuttler,Accident,-1,11
+1973,zolder,march,jarier,Accident,-1,12
+1973,zolder,brm,beltoise,Not classified,-1,13
+1973,zolder,brabham,wilson_fittipaldi,Engine,-1,14
+1973,zolder,team_lotus,peterson,Accident,-1,15
+1973,zolder,mclaren,revson,Accident,-1,16
+1973,zolder,iso_marlboro,ganley,Accident,-1,17
+1973,zolder,brabham,reutemann,Engine,-1,18
+1973,zolder,shadow,follmer,Throttle,-1,19
+1973,zolder,shadow,oliver,Accident,-1,20
+1973,zolder,ferrari,ickx,Oil pump,-1,21
+1973,zolder,iso_marlboro,galli,Engine,-1,22
+1973,zolder,surtees,hailwood,Accident,-1,23

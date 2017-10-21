@@ -1,0 +1,30 @@
+1981,hockenheimring,brabham,piquet,Finished,5155600,1
+1981,hockenheimring,renault,prost,Finished,5167120,2
+1981,hockenheimring,ligier,laffite,Finished,5220200,3
+1981,hockenheimring,brabham,rebaque,Finished,5255290,4
+1981,hockenheimring,tyrrell,cheever,Finished,5266120,5
+1981,hockenheimring,mclaren,watson,+1 Lap,-1,6
+1981,hockenheimring,team_lotus,angelis,+1 Lap,-1,7
+1981,hockenheimring,osella,jarier,+1 Lap,-1,8
+1981,hockenheimring,alfa,mario_andretti,+1 Lap,-1,9
+1981,hockenheimring,ferrari,gilles_villeneuve,+1 Lap,-1,10
+1981,hockenheimring,williams,jones,+1 Lap,-1,11
+1981,hockenheimring,arrows,stohr,+1 Lap,-1,12
+1981,hockenheimring,renault,arnoux,+1 Lap,-1,13
+1981,hockenheimring,theodore,surer,Suspension,-1,14
+1981,hockenheimring,alfa,giacomelli,+2 Laps,-1,15
+1981,hockenheimring,ensign,salazar,Not classified,-1,16
+1981,hockenheimring,ats,borgudd,Engine,-1,17
+1981,hockenheimring,williams,reutemann,Engine,-1,18
+1981,hockenheimring,arrows,patrese,Engine,-1,19
+1981,hockenheimring,ligier,tambay,Transmission,-1,20
+1981,hockenheimring,march,daly,Suspension,-1,21
+1981,hockenheimring,team_lotus,mansell,Fuel leak,-1,22
+1981,hockenheimring,mclaren,cesaris,Collision,-1,23
+1981,hockenheimring,ferrari,pironi,Electrical,-1,24
+1981,hockenheimring,fittipaldi,keke_rosberg,Did not qualify,-1,25
+1981,hockenheimring,toleman,henton,Did not qualify,-1,26
+1981,hockenheimring,osella,gabbiani,Did not qualify,-1,27
+1981,hockenheimring,toleman,warwick,Did not qualify,-1,28
+1981,hockenheimring,tyrrell,alboreto,Did not qualify,-1,29
+1981,hockenheimring,fittipaldi,serra,Did not qualify,-1,30

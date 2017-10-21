@@ -1,0 +1,20 @@
+1953,zandvoort,ferrari,ascari,Finished,10415800,1
+1953,zandvoort,ferrari,farina,Finished,10426200,2
+1953,zandvoort,maserati,gonzalez,+1 Lap,-1,3
+1953,zandvoort,maserati,bonetto,+1 Lap,-1,3
+1953,zandvoort,ferrari,hawthorn,+1 Lap,-1,4
+1953,zandvoort,maserati,graffenried,+2 Laps,-1,5
+1953,zandvoort,gordini,trintignant,+3 Laps,-1,6
+1953,zandvoort,ferrari,rosier,+4 Laps,-1,7
+1953,zandvoort,hwm,collins,+6 Laps,-1,8
+1953,zandvoort,connaught,moss,+7 Laps,-1,9
+1953,zandvoort,ferrari,villoresi,Throttle,-1,10
+1953,zandvoort,connaught,mcalpine,Engine,-1,11
+1953,zandvoort,gordini,schell,Transmission,-1,12
+1953,zandvoort,connaught,claes,Not classified,-1,13
+1953,zandvoort,maserati,fangio,Axle,-1,14
+1953,zandvoort,gordini,mieres,Transmission,-1,15
+1953,zandvoort,maserati,gonzalez,Axle,-1,16
+1953,zandvoort,cooper,wharton,Physical,-1,17
+1953,zandvoort,connaught,salvadori,Engine,-1,18
+1953,zandvoort,hwm,macklin,Throttle,-1,19

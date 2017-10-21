@@ -1,0 +1,30 @@
+1990,phoenix,mclaren,senna,Finished,6752829,1
+1990,phoenix,tyrrell,alesi,Finished,6761514,2
+1990,phoenix,williams,boutsen,Finished,6806909,3
+1990,phoenix,benetton,piquet,Finished,6821187,4
+1990,phoenix,brabham,modena,Finished,6822332,5
+1990,phoenix,tyrrell,satoru_nakajima,+1 Lap,-1,6
+1990,phoenix,minardi,martini,+1 Lap,-1,7
+1990,phoenix,larrousse,bernard,+1 Lap,-1,8
+1990,phoenix,williams,patrese,+1 Lap,-1,9
+1990,phoenix,arrows,alboreto,+2 Laps,-1,10
+1990,phoenix,benetton,nannini,+2 Laps,-1,11
+1990,phoenix,arrows,schneider,+2 Laps,-1,12
+1990,phoenix,eurobrun,moreno,+5 Laps,-1,13
+1990,phoenix,leyton,gugelmin,+6 Laps,-1,14
+1990,phoenix,minardi,barilla,Physical,-1,15
+1990,phoenix,larrousse,suzuki,Brakes,-1,16
+1990,phoenix,ferrari,mansell,Clutch,-1,17
+1990,phoenix,mclaren,berger,Clutch,-1,18
+1990,phoenix,brabham,foitek,Accident,-1,19
+1990,phoenix,osella,grouillard,Collision,-1,20
+1990,phoenix,dallara,cesaris,Engine,-1,21
+1990,phoenix,ferrari,prost,Oil leak,-1,22
+1990,phoenix,leyton,capelli,Electrical,-1,23
+1990,phoenix,team_lotus,warwick,Gearbox,-1,24
+1990,phoenix,ligier,larini,Throttle,-1,25
+1990,phoenix,team_lotus,donnelly,Gearbox,-1,26
+1990,phoenix,ligier,alliot,Disqualified,-1,27
+1990,phoenix,onyx,johansson,Did not qualify,-1,28
+1990,phoenix,dallara,morbidelli,Did not qualify,-1,29
+1990,phoenix,onyx,lehto,Did not qualify,-1,30

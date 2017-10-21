@@ -1,0 +1,22 @@
+1952,spa,ferrari,ascari,Finished,11026300,1
+1952,spa,ferrari,farina,Finished,11141500,2
+1952,spa,gordini,manzon,Finished,11294700,3
+1952,spa,cooper,hawthorn,+1 Lap,-1,4
+1952,spa,hwm,frere,+2 Laps,-1,5
+1952,spa,cooper,alan_brown,+2 Laps,-1,6
+1952,spa,ferrari,tornaco,+3 Laps,-1,7
+1952,spa,gordini,claes,+3 Laps,-1,8
+1952,spa,cooper,brandon,+3 Laps,-1,9
+1952,spa,simca,bira,+4 Laps,-1,10
+1952,spa,hwm,macklin,+4 Laps,-1,11
+1952,spa,hwm,laurent,+4 Laps,-1,12
+1952,spa,veritas,legat,+5 Laps,-1,13
+1952,spa,simca,obrien,+6 Laps,-1,14
+1952,spa,hwm,gaze,+6 Laps,-1,15
+1952,spa,butterworth,charrington,Engine,-1,16
+1952,spa,ferrari,taruffi,Accident,-1,17
+1952,spa,gordini,behra,Accident,-1,18
+1952,spa,frazer_nash,wharton,Spun off,-1,19
+1952,spa,ferrari,rosier,Transmission,-1,20
+1952,spa,hwm,collins,Halfshaft,-1,21
+1952,spa,era,moss,Engine,-1,22

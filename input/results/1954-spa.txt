@@ -1,0 +1,15 @@
+1954,spa,maserati,fangio,Finished,9882400,1
+1954,spa,ferrari,trintignant,Finished,9906600,2
+1954,spa,maserati,moss,+1 Lap,-1,3
+1954,spa,ferrari,hawthorn,+1 Lap,-1,4
+1954,spa,ferrari,gonzalez,+1 Lap,-1,4
+1954,spa,gordini,andre_pilette,+1 Lap,-1,5
+1954,spa,maserati,bira,+1 Lap,-1,6
+1954,spa,maserati,mantovani,+2 Laps,-1,7
+1954,spa,ferrari,farina,Ignition,-1,8
+1954,spa,gordini,frere,Engine,-1,9
+1954,spa,gordini,behra,Suspension,-1,10
+1954,spa,maserati,marimon,Engine,-1,11
+1954,spa,ferrari,gonzalez,Engine,-1,12
+1954,spa,ferrari,swaters,Engine,-1,13
+1954,spa,maserati,mieres,Heat shield fire,-1,14

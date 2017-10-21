@@ -1,0 +1,24 @@
+2010,monza,ferrari,alonso,Finished,4584572,1
+2010,monza,mclaren,button,Finished,4587510,2
+2010,monza,ferrari,massa,Finished,4588795,3
+2010,monza,red_bull,vettel,Finished,4612768,4
+2010,monza,mercedes,rosberg,Finished,4614514,5
+2010,monza,red_bull,webber,Finished,4615848,6
+2010,monza,williams,hulkenberg,Finished,4617384,7
+2010,monza,renault,kubica,Finished,4618600,8
+2010,monza,mercedes,michael_schumacher,Finished,4629520,9
+2010,monza,williams,barrichello,Finished,4648785,10
+2010,monza,toro_rosso,buemi,Finished,4649628,11
+2010,monza,force_india,liuzzi,Finished,4650678,12
+2010,monza,renault,petrov,Finished,4663491,13
+2010,monza,sauber,rosa,+1 Lap,-1,14
+2010,monza,toro_rosso,alguersuari,+1 Lap,-1,15
+2010,monza,force_india,sutil,+1 Lap,-1,16
+2010,monza,virgin,glock,+2 Laps,-1,17
+2010,monza,lotus_racing,kovalainen,+2 Laps,-1,18
+2010,monza,hrt,yamamoto,+2 Laps,-1,19
+2010,monza,virgin,grassi,+3 Laps,-1,20
+2010,monza,lotus_racing,trulli,Engine,-1,21
+2010,monza,hrt,bruno_senna,Retired,-1,22
+2010,monza,mclaren,hamilton,Collision,-1,23
+2010,monza,sauber,kobayashi,Gearbox,-1,24

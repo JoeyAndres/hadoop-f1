@@ -1,0 +1,30 @@
+1992,spa,benetton,michael_schumacher,Finished,5770721,1
+1992,spa,williams,mansell,Finished,5807316,2
+1992,spa,williams,patrese,Finished,5814618,3
+1992,spa,benetton,brundle,Finished,5816780,4
+1992,spa,mclaren,senna,Finished,5839090,5
+1992,spa,team_lotus,hakkinen,Finished,5840751,6
+1992,spa,dallara,lehto,Finished,5868958,7
+1992,spa,tyrrell,cesaris,+1 Lap,-1,8
+1992,spa,footwork,suzuki,+1 Lap,-1,9
+1992,spa,fondmetal,poele,+1 Lap,-1,10
+1992,spa,march,wendlinger,+1 Lap,-1,11
+1992,spa,march,naspetti,+1 Lap,-1,12
+1992,spa,team_lotus,herbert,Engine,-1,13
+1992,spa,jordan,gugelmin,+2 Laps,-1,14
+1992,spa,jordan,modena,+2 Laps,-1,15
+1992,spa,minardi,morbidelli,+2 Laps,-1,16
+1992,spa,larrousse,katayama,+2 Laps,-1,17
+1992,spa,larrousse,gachot,Spun off,-1,18
+1992,spa,ligier,boutsen,Spun off,-1,19
+1992,spa,ferrari,capelli,Engine,-1,20
+1992,spa,fondmetal,tarquini,Engine,-1,21
+1992,spa,footwork,alboreto,Gearbox,-1,22
+1992,spa,ferrari,alesi,Puncture,-1,23
+1992,spa,tyrrell,grouillard,Accident,-1,24
+1992,spa,mclaren,berger,Transmission,-1,25
+1992,spa,dallara,martini,Spun off,-1,26
+1992,spa,minardi,fittipaldi,Did not qualify,-1,27
+1992,spa,moda,moreno,Did not qualify,-1,28
+1992,spa,moda,mccarthy,Did not qualify,-1,29
+1992,spa,ligier,comas,Withdrew,-1,30

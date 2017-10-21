@@ -1,0 +1,22 @@
+2013,villeneuve,red_bull,vettel,Finished,5529143,1
+2013,villeneuve,ferrari,alonso,Finished,5543551,2
+2013,villeneuve,mercedes,hamilton,Finished,5545085,3
+2013,villeneuve,red_bull,webber,Finished,5554874,4
+2013,villeneuve,mercedes,rosberg,Finished,5598868,5
+2013,villeneuve,toro_rosso,vergne,+1 Lap,-1,6
+2013,villeneuve,force_india,resta,+1 Lap,-1,7
+2013,villeneuve,ferrari,massa,+1 Lap,-1,8
+2013,villeneuve,lotus_f1,raikkonen,+1 Lap,-1,9
+2013,villeneuve,force_india,sutil,+1 Lap,-1,10
+2013,villeneuve,mclaren,perez,+1 Lap,-1,11
+2013,villeneuve,mclaren,button,+1 Lap,-1,12
+2013,villeneuve,lotus_f1,grosjean,+1 Lap,-1,13
+2013,villeneuve,williams,bottas,+1 Lap,-1,14
+2013,villeneuve,toro_rosso,ricciardo,+2 Laps,-1,15
+2013,villeneuve,williams,maldonado,+2 Laps,-1,16
+2013,villeneuve,marussia,jules_bianchi,+2 Laps,-1,17
+2013,villeneuve,caterham,pic,+3 Laps,-1,18
+2013,villeneuve,marussia,chilton,+3 Laps,-1,19
+2013,villeneuve,sauber,gutierrez,Accident,-1,20
+2013,villeneuve,sauber,hulkenberg,Collision,-1,21
+2013,villeneuve,caterham,garde,Collision,-1,22

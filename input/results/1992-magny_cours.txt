@@ -1,0 +1,30 @@
+1992,magny_cours,williams,mansell,Finished,5888459,1
+1992,magny_cours,williams,patrese,Finished,5934906,2
+1992,magny_cours,benetton,brundle,Finished,5961038,3
+1992,magny_cours,team_lotus,hakkinen,+1 Lap,-1,4
+1992,magny_cours,ligier,comas,+1 Lap,-1,5
+1992,magny_cours,team_lotus,herbert,+1 Lap,-1,6
+1992,magny_cours,footwork,alboreto,+1 Lap,-1,7
+1992,magny_cours,minardi,morbidelli,+1 Lap,-1,8
+1992,magny_cours,dallara,lehto,+2 Laps,-1,9
+1992,magny_cours,dallara,martini,+2 Laps,-1,10
+1992,magny_cours,tyrrell,grouillard,+3 Laps,-1,11
+1992,magny_cours,ferrari,alesi,Engine,-1,12
+1992,magny_cours,tyrrell,cesaris,Spun off,-1,13
+1992,magny_cours,larrousse,katayama,Engine,-1,14
+1992,magny_cours,ligier,boutsen,Spun off,-1,15
+1992,magny_cours,ferrari,capelli,Engine,-1,16
+1992,magny_cours,march,wendlinger,Gearbox,-1,17
+1992,magny_cours,jordan,modena,Engine,-1,18
+1992,magny_cours,footwork,suzuki,Spun off,-1,19
+1992,magny_cours,benetton,michael_schumacher,Accident,-1,20
+1992,magny_cours,mclaren,berger,Engine,-1,21
+1992,magny_cours,fondmetal,tarquini,Throttle,-1,22
+1992,magny_cours,mclaren,senna,Accident,-1,23
+1992,magny_cours,larrousse,gachot,Accident,-1,24
+1992,magny_cours,jordan,gugelmin,Accident,-1,25
+1992,magny_cours,fondmetal,chiesa,Accident,-1,26
+1992,magny_cours,march,belmondo,Did not qualify,-1,27
+1992,magny_cours,minardi,fittipaldi,Did not qualify,-1,28
+1992,magny_cours,brabham,poele,Did not qualify,-1,29
+1992,magny_cours,brabham,damon_hill,Did not qualify,-1,30

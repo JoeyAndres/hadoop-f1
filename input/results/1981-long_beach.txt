@@ -1,0 +1,29 @@
+1981,long_beach,williams,jones,Finished,6641330,1
+1981,long_beach,williams,reutemann,Finished,6650520,2
+1981,long_beach,brabham,piquet,Finished,6676250,3
+1981,long_beach,alfa,mario_andretti,Finished,6690640,4
+1981,long_beach,tyrrell,cheever,Finished,6708030,5
+1981,long_beach,theodore,tambay,+1 Lap,-1,6
+1981,long_beach,fittipaldi,serra,+2 Laps,-1,7
+1981,long_beach,renault,arnoux,+3 Laps,-1,8
+1981,long_beach,ensign,surer,Fuel system,-1,9
+1981,long_beach,ferrari,pironi,Fuel system,-1,10
+1981,long_beach,ligier,jarier,Fuel pump,-1,11
+1981,long_beach,brabham,rebaque,Accident,-1,12
+1981,long_beach,alfa,giacomelli,Collision,-1,13
+1981,long_beach,ligier,laffite,Collision,-1,14
+1981,long_beach,fittipaldi,keke_rosberg,Engine,-1,15
+1981,long_beach,ats,lammers,Collision,-1,16
+1981,long_beach,arrows,patrese,Fuel system,-1,17
+1981,long_beach,osella,gabbiani,Accident,-1,18
+1981,long_beach,team_lotus,mansell,Accident,-1,19
+1981,long_beach,ferrari,gilles_villeneuve,Halfshaft,-1,20
+1981,long_beach,mclaren,watson,Brakes,-1,21
+1981,long_beach,team_lotus,angelis,Accident,-1,22
+1981,long_beach,renault,prost,Collision,-1,23
+1981,long_beach,mclaren,cesaris,Collision,-1,24
+1981,long_beach,tyrrell,cogan,Did not qualify,-1,25
+1981,long_beach,march,daly,Did not qualify,-1,26
+1981,long_beach,osella,guerra,Did not qualify,-1,27
+1981,long_beach,arrows,stohr,Did not qualify,-1,28
+1981,long_beach,march,salazar,Did not qualify,-1,29

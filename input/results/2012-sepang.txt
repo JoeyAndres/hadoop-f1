@@ -1,0 +1,24 @@
+2012,sepang,ferrari,alonso,Finished,9891812,1
+2012,sepang,sauber,perez,Finished,9894075,2
+2012,sepang,mclaren,hamilton,Finished,9906403,3
+2012,sepang,red_bull,webber,Finished,9909500,4
+2012,sepang,lotus_f1,raikkonen,Finished,9921268,5
+2012,sepang,williams,bruno_senna,Finished,9929479,6
+2012,sepang,force_india,resta,Finished,9936224,7
+2012,sepang,toro_rosso,vergne,Finished,9938797,8
+2012,sepang,force_india,hulkenberg,Finished,9939704,9
+2012,sepang,mercedes,michael_schumacher,Finished,9941808,10
+2012,sepang,red_bull,vettel,Finished,9967339,11
+2012,sepang,toro_rosso,ricciardo,Finished,9968640,12
+2012,sepang,mercedes,rosberg,Finished,9970405,13
+2012,sepang,mclaren,button,Finished,9971531,14
+2012,sepang,ferrari,massa,Finished,9989131,15
+2012,sepang,caterham,petrov,+1 Lap,-1,16
+2012,sepang,marussia,glock,+1 Lap,-1,17
+2012,sepang,caterham,kovalainen,+1 Lap,-1,18
+2012,sepang,williams,maldonado,Engine,-1,19
+2012,sepang,marussia,pic,+2 Laps,-1,20
+2012,sepang,hrt,karthikeyan,+2 Laps,-1,21
+2012,sepang,hrt,rosa,+2 Laps,-1,22
+2012,sepang,sauber,kobayashi,Retired,-1,23
+2012,sepang,lotus_f1,grosjean,Collision,-1,24

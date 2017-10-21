@@ -1,0 +1,27 @@
+1977,watkins_glen,mclaren,hunt,Finished,7103267,1
+1977,watkins_glen,team_lotus,mario_andretti,Finished,7105293,2
+1977,watkins_glen,wolf,scheckter,Finished,7182146,3
+1977,watkins_glen,ferrari,lauda,Finished,7203882,4
+1977,watkins_glen,ensign,regazzoni,Finished,7211405,5
+1977,watkins_glen,ferrari,reutemann,+1 Lap,-1,6
+1977,watkins_glen,ligier,laffite,+1 Lap,-1,7
+1977,watkins_glen,hesketh,keegan,+1 Lap,-1,8
+1977,watkins_glen,shadow,jarier,+1 Lap,-1,9
+1977,watkins_glen,mclaren,lunger,+2 Laps,-1,10
+1977,watkins_glen,surtees,binder,+2 Laps,-1,11
+1977,watkins_glen,brabham,watson,+2 Laps,-1,12
+1977,watkins_glen,fittipaldi,emerson_fittipaldi,+2 Laps,-1,13
+1977,watkins_glen,tyrrell,depailler,+3 Laps,-1,14
+1977,watkins_glen,march,ribeiro,+3 Laps,-1,15
+1977,watkins_glen,tyrrell,peterson,+3 Laps,-1,16
+1977,watkins_glen,hesketh,ashley,+4 Laps,-1,17
+1977,watkins_glen,march,neve,+4 Laps,-1,18
+1977,watkins_glen,surtees,brambilla,+5 Laps,-1,19
+1977,watkins_glen,renault,jabouille,Alternator,-1,20
+1977,watkins_glen,team_lotus,nilsson,Accident,-1,21
+1977,watkins_glen,brabham,stuck,Accident,-1,22
+1977,watkins_glen,march,ian_scheckter,Accident,-1,23
+1977,watkins_glen,mclaren,mass,Fuel pump,-1,24
+1977,watkins_glen,penske,ongais,Accident,-1,25
+1977,watkins_glen,shadow,jones,Accident,-1,26
+1977,watkins_glen,ensign,tambay,Did not qualify,-1,27

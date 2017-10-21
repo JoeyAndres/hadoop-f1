@@ -1,0 +1,20 @@
+2009,valencia,brawn,barrichello,Finished,5751289,1
+2009,valencia,mclaren,hamilton,Finished,5753647,2
+2009,valencia,ferrari,raikkonen,Finished,5767283,3
+2009,valencia,mclaren,kovalainen,Finished,5771321,4
+2009,valencia,williams,rosberg,Finished,5772159,5
+2009,valencia,renault,alonso,Finished,5779033,6
+2009,valencia,brawn,button,Finished,5786202,7
+2009,valencia,bmw_sauber,kubica,Finished,5787956,8
+2009,valencia,red_bull,webber,Finished,5796199,9
+2009,valencia,force_india,sutil,Finished,5799224,10
+2009,valencia,bmw_sauber,heidfeld,Finished,5800111,11
+2009,valencia,force_india,fisichella,Finished,5814903,12
+2009,valencia,toyota,trulli,Finished,5815816,13
+2009,valencia,toyota,glock,Finished,5837808,14
+2009,valencia,renault,grosjean,Finished,5843063,15
+2009,valencia,toro_rosso,alguersuari,+1 Lap,-1,16
+2009,valencia,ferrari,badoer,+1 Lap,-1,17
+2009,valencia,williams,nakajima,+3 Laps,-1,18
+2009,valencia,toro_rosso,buemi,Brakes,-1,19
+2009,valencia,red_bull,vettel,Engine,-1,20

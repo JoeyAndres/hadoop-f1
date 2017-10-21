@@ -1,0 +1,26 @@
+1995,catalunya,benetton,michael_schumacher,Finished,5660507,1
+1995,catalunya,benetton,herbert,Finished,5712495,2
+1995,catalunya,ferrari,berger,Finished,5725744,3
+1995,catalunya,williams,damon_hill,Finished,5782256,4
+1995,catalunya,jordan,irvine,+1 Lap,-1,5
+1995,catalunya,ligier,panis,+1 Lap,-1,6
+1995,catalunya,jordan,barrichello,+1 Lap,-1,7
+1995,catalunya,sauber,frentzen,+1 Lap,-1,8
+1995,catalunya,ligier,brundle,+1 Lap,-1,9
+1995,catalunya,tyrrell,salo,+1 Lap,-1,10
+1995,catalunya,footwork,morbidelli,+2 Laps,-1,11
+1995,catalunya,simtek,verstappen,+2 Laps,-1,12
+1995,catalunya,sauber,wendlinger,+2 Laps,-1,13
+1995,catalunya,minardi,martini,+3 Laps,-1,14
+1995,catalunya,simtek,schiattarella,+4 Laps,-1,15
+1995,catalunya,tyrrell,katayama,Engine,-1,16
+1995,catalunya,williams,coulthard,Gearbox,-1,17
+1995,catalunya,mclaren,hakkinen,Fuel system,-1,18
+1995,catalunya,footwork,inoue,Transmission,-1,19
+1995,catalunya,pacific,gachot,Heat shield fire,-1,20
+1995,catalunya,forti,moreno,Overheating,-1,21
+1995,catalunya,ferrari,alesi,Engine,-1,22
+1995,catalunya,minardi,badoer,Gearbox,-1,23
+1995,catalunya,mclaren,mansell,Handling,-1,24
+1995,catalunya,forti,diniz,Gearbox,-1,25
+1995,catalunya,pacific,montermini,Withdrew,-1,26

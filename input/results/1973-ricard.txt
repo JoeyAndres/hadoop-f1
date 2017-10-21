@@ -1,0 +1,25 @@
+1973,ricard,team_lotus,peterson,Finished,6096520,1
+1973,ricard,tyrrell,cevert,Finished,6137440,2
+1973,ricard,brabham,reutemann,Finished,6143000,3
+1973,ricard,tyrrell,stewart,Finished,6143450,4
+1973,ricard,ferrari,ickx,Finished,6145420,5
+1973,ricard,march,hunt,Finished,6179060,6
+1973,ricard,ferrari,merzario,Finished,6185710,7
+1973,ricard,mclaren,hulme,Finished,6186050,8
+1973,ricard,brm,lauda,Finished,6202280,9
+1973,ricard,shadow,hill,+1 Lap,-1,10
+1973,ricard,brm,beltoise,+1 Lap,-1,11
+1973,ricard,brm,regazzoni,+1 Lap,-1,12
+1973,ricard,surtees,pace,+3 Laps,-1,13
+1973,ricard,iso_marlboro,ganley,+3 Laps,-1,14
+1973,ricard,ensign,opel,+3 Laps,-1,15
+1973,ricard,brabham,wilson_fittipaldi,+4 Laps,-1,16
+1973,ricard,mclaren,scheckter,Accident,-1,17
+1973,ricard,team_lotus,emerson_fittipaldi,Accident,-1,18
+1973,ricard,surtees,hailwood,Oil leak,-1,19
+1973,ricard,brabham,adamich,Halfshaft,-1,20
+1973,ricard,march,wisell,Overheating,-1,21
+1973,ricard,shadow,follmer,Fuel system,-1,22
+1973,ricard,iso_marlboro,pescarolo,Overheating,-1,23
+1973,ricard,march,jarier,Halfshaft,-1,24
+1973,ricard,shadow,oliver,Clutch,-1,25

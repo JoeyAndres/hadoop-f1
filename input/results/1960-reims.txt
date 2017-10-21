@@ -1,0 +1,23 @@
+1960,reims,cooper-climax,jack_brabham,Finished,7044900,1
+1960,reims,cooper-climax,gendebien,Finished,7093200,2
+1960,reims,cooper-climax,mclaren,Finished,7096800,3
+1960,reims,cooper-climax,henry_taylor,+1 Lap,-1,4
+1960,reims,team_lotus,clark,+1 Lap,-1,5
+1960,reims,team_lotus,flockhart,+1 Lap,-1,6
+1960,reims,team_lotus,ireland,+7 Laps,-1,7
+1960,reims,cooper-climax,halford,Engine,-1,8
+1960,reims,cooper-maserati,gregory,+13 Laps,-1,9
+1960,reims,cooper-maserati,burgess,+14 Laps,-1,10
+1960,reims,ferrari,trips,Transmission,-1,11
+1960,reims,ferrari,phil_hill,Transmission,-1,12
+1960,reims,brm,bonnier,Engine,-1,13
+1960,reims,cooper-climax,bianchi,Transmission,-1,14
+1960,reims,brm,gurney,Engine,-1,15
+1960,reims,cooper-castellotti,munaron,Transmission,-1,16
+1960,reims,ferrari,mairesse,Transmission,-1,17
+1960,reims,vanwall,brooks,Vibrations,-1,18
+1960,reims,brm,hill,Accident,-1,19
+1960,reims,cooper-maserati,trintignant,Accident,-1,20
+1960,reims,scarab,ginther,Engine,-1,21
+1960,reims,team_lotus,piper,Engine,-1,22
+1960,reims,scarab,daigh,Engine,-1,23

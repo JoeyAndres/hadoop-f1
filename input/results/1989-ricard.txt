@@ -1,0 +1,30 @@
+1989,ricard,mclaren,prost,Finished,5909411,1
+1989,ricard,ferrari,mansell,Finished,5953428,2
+1989,ricard,williams,patrese,Finished,5976332,3
+1989,ricard,tyrrell,alesi,Finished,5982643,4
+1989,ricard,onyx,johansson,+1 Lap,-1,5
+1989,ricard,ligier,grouillard,+1 Lap,-1,6
+1989,ricard,arrows,cheever,+1 Lap,-1,7
+1989,ricard,team_lotus,piquet,+2 Laps,-1,8
+1989,ricard,benetton,pirro,+2 Laps,-1,9
+1989,ricard,tyrrell,palmer,+2 Laps,-1,10
+1989,ricard,larrousse,bernard,+3 Laps,-1,11
+1989,ricard,arrows,donnelly,+3 Laps,-1,12
+1989,ricard,onyx,gachot,Engine,-1,13
+1989,ricard,march,gugelmin,Not classified,-1,14
+1989,ricard,brabham,modena,Engine,-1,15
+1989,ricard,williams,boutsen,Gearbox,-1,16
+1989,ricard,team_lotus,satoru_nakajima,Engine,-1,17
+1989,ricard,march,capelli,Engine,-1,18
+1989,ricard,benetton,nannini,Suspension,-1,19
+1989,ricard,minardi,martini,Engine,-1,20
+1989,ricard,larrousse,alliot,Engine,-1,21
+1989,ricard,ags,tarquini,Engine,-1,22
+1989,ricard,ferrari,berger,Clutch,-1,23
+1989,ricard,dallara,caffi,Clutch,-1,24
+1989,ricard,ligier,arnoux,Gearbox,-1,25
+1989,ricard,mclaren,senna,Differential,-1,26
+1989,ricard,dallara,cesaris,Did not qualify,-1,27
+1989,ricard,minardi,sala,Did not qualify,-1,28
+1989,ricard,rial,danner,Did not qualify,-1,29
+1989,ricard,coloni,moreno,Did not qualify,-1,30

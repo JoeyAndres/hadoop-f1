@@ -1,0 +1,30 @@
+1982,monaco,brabham,patrese,Finished,6851259,1
+1982,monaco,ferrari,pironi,Out of fuel,-1,2
+1982,monaco,alfa,cesaris,Out of fuel,-1,3
+1982,monaco,team_lotus,mansell,+1 Lap,-1,4
+1982,monaco,team_lotus,angelis,+1 Lap,-1,5
+1982,monaco,williams,daly,Gearbox,-1,6
+1982,monaco,renault,prost,Spun off,-1,7
+1982,monaco,tyrrell,henton,+4 Laps,-1,8
+1982,monaco,arrows,surer,+6 Laps,-1,9
+1982,monaco,tyrrell,alboreto,Suspension,-1,10
+1982,monaco,williams,keke_rosberg,Collision,-1,11
+1982,monaco,mclaren,lauda,Engine,-1,12
+1982,monaco,brabham,piquet,Turbo,-1,13
+1982,monaco,mclaren,watson,Electrical,-1,14
+1982,monaco,ats,manfred_winkelhock,Differential,-1,15
+1982,monaco,ligier,laffite,Handling,-1,16
+1982,monaco,ligier,cheever,Oil leak,-1,17
+1982,monaco,ats,salazar,Mechanical,-1,18
+1982,monaco,renault,arnoux,Spun off,-1,19
+1982,monaco,alfa,giacomelli,Halfshaft,-1,20
+1982,monaco,arrows,baldi,Did not qualify,-1,21
+1982,monaco,theodore,lammers,Did not qualify,-1,22
+1982,monaco,march,mass,Did not qualify,-1,23
+1982,monaco,toleman,warwick,Did not qualify,-1,24
+1982,monaco,osella,jarier,Did not qualify,-1,25
+1982,monaco,ensign,guerrero,Did not qualify,-1,26
+1982,monaco,toleman,fabi,Did not prequalify,-1,27
+1982,monaco,osella,paletti,Did not prequalify,-1,28
+1982,monaco,march,boesel,Did not prequalify,-1,29
+1982,monaco,fittipaldi,serra,Did not prequalify,-1,30

@@ -1,0 +1,30 @@
+1990,adelaide,benetton,piquet,Finished,6584570,1
+1990,adelaide,ferrari,mansell,Finished,6587699,2
+1990,adelaide,ferrari,prost,Finished,6621829,3
+1990,adelaide,mclaren,berger,Finished,6631432,4
+1990,adelaide,williams,boutsen,Finished,6695730,5
+1990,adelaide,williams,patrese,+1 Lap,-1,6
+1990,adelaide,benetton,moreno,+1 Lap,-1,7
+1990,adelaide,tyrrell,alesi,+1 Lap,-1,8
+1990,adelaide,minardi,martini,+2 Laps,-1,9
+1990,adelaide,ligier,larini,+2 Laps,-1,10
+1990,adelaide,ligier,alliot,+3 Laps,-1,11
+1990,adelaide,brabham,modena,+4 Laps,-1,12
+1990,adelaide,osella,grouillard,+7 Laps,-1,13
+1990,adelaide,dallara,pirro,Engine,-1,14
+1990,adelaide,mclaren,senna,Spun off,-1,15
+1990,adelaide,ags,tarquini,Engine,-1,16
+1990,adelaide,team_lotus,herbert,Clutch,-1,17
+1990,adelaide,tyrrell,satoru_nakajima,Spun off,-1,18
+1990,adelaide,leyton,capelli,Throttle,-1,19
+1990,adelaide,team_lotus,warwick,Gearbox,-1,20
+1990,adelaide,leyton,gugelmin,Brakes,-1,21
+1990,adelaide,dallara,cesaris,Electrical,-1,22
+1990,adelaide,larrousse,bernard,Gearbox,-1,23
+1990,adelaide,minardi,morbidelli,Gearbox,-1,24
+1990,adelaide,brabham,brabham,Spun off,-1,25
+1990,adelaide,larrousse,suzuki,Transmission,-1,26
+1990,adelaide,arrows,alboreto,Did not qualify,-1,27
+1990,adelaide,ags,dalmas,Did not qualify,-1,28
+1990,adelaide,arrows,caffi,Did not qualify,-1,29
+1990,adelaide,coloni,gachot,Did not qualify,-1,30

@@ -1,0 +1,22 @@
+2007,monaco,mclaren,alonso,Finished,6029329,1
+2007,monaco,mclaren,hamilton,Finished,6033424,2
+2007,monaco,ferrari,massa,Finished,6098443,3
+2007,monaco,renault,fisichella,+1 Lap,-1,4
+2007,monaco,bmw_sauber,kubica,+1 Lap,-1,5
+2007,monaco,bmw_sauber,heidfeld,+1 Lap,-1,6
+2007,monaco,williams,wurz,+1 Lap,-1,7
+2007,monaco,ferrari,raikkonen,+1 Lap,-1,8
+2007,monaco,toro_rosso,speed,+1 Lap,-1,9
+2007,monaco,honda,barrichello,+1 Lap,-1,10
+2007,monaco,honda,button,+1 Lap,-1,11
+2007,monaco,williams,rosberg,+1 Lap,-1,12
+2007,monaco,renault,kovalainen,Engine,-1,13
+2007,monaco,red_bull,coulthard,+2 Laps,-1,14
+2007,monaco,toyota,trulli,+2 Laps,-1,15
+2007,monaco,toyota,ralf_schumacher,+2 Laps,-1,16
+2007,monaco,super_aguri,sato,+2 Laps,-1,17
+2007,monaco,super_aguri,davidson,+2 Laps,-1,18
+2007,monaco,spyker,albers,Driveshaft,-1,19
+2007,monaco,spyker,sutil,Accident,-1,20
+2007,monaco,red_bull,webber,Gearbox,-1,21
+2007,monaco,toro_rosso,liuzzi,Accident,-1,22

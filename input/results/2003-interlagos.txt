@@ -1,0 +1,20 @@
+2003,interlagos,jordan,fisichella,Finished,5478200,1
+2003,interlagos,mclaren,raikkonen,Finished,5479145,2
+2003,interlagos,renault,alonso,Finished,5484548,3
+2003,interlagos,mclaren,coulthard,Finished,5486296,4
+2003,interlagos,sauber,frentzen,Finished,5486842,5
+2003,interlagos,bar,villeneuve,Finished,5494254,6
+2003,interlagos,williams,ralf_schumacher,Finished,5516726,7
+2003,interlagos,renault,trulli,Finished,5524127,8
+2003,interlagos,jaguar,webber,Accident,-1,9
+2003,interlagos,toyota,matta,+1 Lap,-1,10
+2003,interlagos,ferrari,barrichello,Fuel system,-1,11
+2003,interlagos,bar,button,Accident,-1,12
+2003,interlagos,minardi,verstappen,Spun off,-1,13
+2003,interlagos,ferrari,michael_schumacher,Accident,-1,14
+2003,interlagos,williams,montoya,Accident,-1,15
+2003,interlagos,jaguar,pizzonia,Accident,-1,16
+2003,interlagos,toyota,panis,Collision,-1,17
+2003,interlagos,jordan,firman,Suspension,-1,18
+2003,interlagos,minardi,wilson,Spun off,-1,19
+2003,interlagos,sauber,heidfeld,Engine,-1,20

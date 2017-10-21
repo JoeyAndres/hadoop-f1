@@ -1,0 +1,30 @@
+1978,brands_hatch,ferrari,reutemann,Finished,6132390,1
+1978,brands_hatch,brabham,lauda,Finished,6133620,2
+1978,brands_hatch,brabham,watson,Finished,6169640,3
+1978,brands_hatch,tyrrell,depailler,Finished,6205660,4
+1978,brands_hatch,shadow,stuck,+1 Lap,-1,5
+1978,brands_hatch,mclaren,tambay,+1 Lap,-1,6
+1978,brands_hatch,mclaren,giacomelli,+1 Lap,-1,7
+1978,brands_hatch,mclaren,lunger,+1 Lap,-1,8
+1978,brands_hatch,surtees,brambilla,+1 Lap,-1,9
+1978,brands_hatch,ligier,laffite,+3 Laps,-1,10
+1978,brands_hatch,ats,mass,+11 Laps,-1,11
+1978,brands_hatch,ats,keke_rosberg,Suspension,-1,12
+1978,brands_hatch,shadow,regazzoni,Gearbox,-1,13
+1978,brands_hatch,renault,jabouille,Turbo,-1,14
+1978,brands_hatch,arrows,patrese,Suspension,-1,15
+1978,brands_hatch,tyrrell,pironi,Gearbox,-1,16
+1978,brands_hatch,wolf,scheckter,Gearbox,-1,17
+1978,brands_hatch,fittipaldi,emerson_fittipaldi,Engine,-1,18
+1978,brands_hatch,merzario,merzario,Fuel system,-1,19
+1978,brands_hatch,ensign,daly,Wheel,-1,20
+1978,brands_hatch,team_lotus,mario_andretti,Engine,-1,21
+1978,brands_hatch,williams,jones,Transmission,-1,22
+1978,brands_hatch,ferrari,gilles_villeneuve,Transmission,-1,23
+1978,brands_hatch,team_lotus,rebaque,Gearbox,-1,24
+1978,brands_hatch,mclaren,hunt,Accident,-1,25
+1978,brands_hatch,team_lotus,peterson,Fuel system,-1,26
+1978,brands_hatch,surtees,keegan,Did not qualify,-1,27
+1978,brands_hatch,arrows,stommelen,Did not qualify,-1,28
+1978,brands_hatch,ensign,lees,Did not qualify,-1,29
+1978,brands_hatch,mclaren,trimmer,Did not qualify,-1,30

@@ -1,0 +1,22 @@
+1997,hockenheimring,benetton,berger,Finished,4859046,1
+1997,hockenheimring,ferrari,michael_schumacher,Finished,4876573,2
+1997,hockenheimring,mclaren,hakkinen,Finished,4883816,3
+1997,hockenheimring,prost,trulli,Finished,4886211,4
+1997,hockenheimring,jordan,ralf_schumacher,Finished,4889041,5
+1997,hockenheimring,benetton,alesi,Finished,4893763,6
+1997,hockenheimring,prost,nakano,Finished,4938768,7
+1997,hockenheimring,arrows,damon_hill,+1 Lap,-1,8
+1997,hockenheimring,sauber,fontana,+1 Lap,-1,9
+1997,hockenheimring,tyrrell,verstappen,+1 Lap,-1,10
+1997,hockenheimring,jordan,fisichella,+5 Laps,-1,11
+1997,hockenheimring,stewart,barrichello,Engine,-1,12
+1997,hockenheimring,tyrrell,salo,Clutch,-1,13
+1997,hockenheimring,williams,villeneuve,Spun off,-1,14
+1997,hockenheimring,stewart,magnussen,Engine,-1,15
+1997,hockenheimring,minardi,katayama,Out of fuel,-1,16
+1997,hockenheimring,sauber,herbert,Accident,-1,17
+1997,hockenheimring,arrows,diniz,Accident,-1,18
+1997,hockenheimring,mclaren,coulthard,Transmission,-1,19
+1997,hockenheimring,williams,frentzen,Collision,-1,20
+1997,hockenheimring,ferrari,irvine,Collision,-1,21
+1997,hockenheimring,minardi,marques,Gearbox,-1,22

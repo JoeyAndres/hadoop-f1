@@ -1,0 +1,24 @@
+2010,yas_marina,red_bull,vettel,Finished,5976837,1
+2010,yas_marina,mclaren,hamilton,Finished,5986999,2
+2010,yas_marina,mclaren,button,Finished,5987884,3
+2010,yas_marina,mercedes,rosberg,Finished,6007584,4
+2010,yas_marina,renault,kubica,Finished,6015863,5
+2010,yas_marina,renault,petrov,Finished,6020357,6
+2010,yas_marina,ferrari,alonso,Finished,6020634,7
+2010,yas_marina,red_bull,webber,Finished,6021080,8
+2010,yas_marina,toro_rosso,alguersuari,Finished,6027038,9
+2010,yas_marina,ferrari,massa,Finished,6027705,10
+2010,yas_marina,sauber,heidfeld,Finished,6028388,11
+2010,yas_marina,williams,barrichello,Finished,6034523,12
+2010,yas_marina,force_india,sutil,Finished,6035162,13
+2010,yas_marina,sauber,kobayashi,Finished,6036395,14
+2010,yas_marina,toro_rosso,buemi,Finished,6040015,15
+2010,yas_marina,williams,hulkenberg,Finished,6041600,16
+2010,yas_marina,lotus_racing,kovalainen,+1 Lap,-1,17
+2010,yas_marina,virgin,grassi,+2 Laps,-1,18
+2010,yas_marina,hrt,bruno_senna,+2 Laps,-1,19
+2010,yas_marina,hrt,klien,+2 Laps,-1,20
+2010,yas_marina,lotus_racing,trulli,Rear wing,-1,21
+2010,yas_marina,virgin,glock,Gearbox,-1,22
+2010,yas_marina,mercedes,michael_schumacher,Collision,-1,23
+2010,yas_marina,force_india,liuzzi,Collision,-1,24

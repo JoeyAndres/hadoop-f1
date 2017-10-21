@@ -1,0 +1,22 @@
+2002,imola,ferrari,michael_schumacher,Finished,5350789,1
+2002,imola,ferrari,barrichello,Finished,5368696,2
+2002,imola,williams,ralf_schumacher,Finished,5370544,3
+2002,imola,williams,montoya,Finished,5395514,4
+2002,imola,renault,button,Finished,5434184,5
+2002,imola,mclaren,coulthard,+1 Lap,-1,6
+2002,imola,bar,villeneuve,+1 Lap,-1,7
+2002,imola,sauber,massa,+1 Lap,-1,8
+2002,imola,renault,trulli,+1 Lap,-1,9
+2002,imola,sauber,heidfeld,+1 Lap,-1,10
+2002,imola,minardi,webber,+2 Laps,-1,11
+2002,imola,arrows,bernoldi,Power loss,-1,12
+2002,imola,jaguar,irvine,Driveshaft,-1,13
+2002,imola,mclaren,raikkonen,Exhaust,-1,14
+2002,imola,bar,panis,Throttle,-1,15
+2002,imola,jaguar,rosa,Driveshaft,-1,16
+2002,imola,toyota,salo,Gearbox,-1,17
+2002,imola,arrows,frentzen,Power loss,-1,18
+2002,imola,jordan,fisichella,Hydraulics,-1,19
+2002,imola,jordan,sato,Gearbox,-1,20
+2002,imola,toyota,mcnish,Electrical,-1,21
+2002,imola,minardi,yoong,107% Rule,-1,22

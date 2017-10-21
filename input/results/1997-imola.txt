@@ -1,0 +1,22 @@
+1997,imola,williams,frentzen,Finished,5460673,1
+1997,imola,ferrari,michael_schumacher,Finished,5461910,2
+1997,imola,ferrari,irvine,Finished,5539016,3
+1997,imola,jordan,fisichella,Finished,5544061,4
+1997,imola,benetton,alesi,+1 Lap,-1,5
+1997,imola,mclaren,hakkinen,+1 Lap,-1,6
+1997,imola,sauber,larini,+1 Lap,-1,7
+1997,imola,prost,panis,+1 Lap,-1,8
+1997,imola,tyrrell,salo,+2 Laps,-1,9
+1997,imola,tyrrell,verstappen,+2 Laps,-1,10
+1997,imola,minardi,katayama,+3 Laps,-1,11
+1997,imola,arrows,diniz,Gearbox,-1,12
+1997,imola,williams,villeneuve,Gearbox,-1,13
+1997,imola,mclaren,coulthard,Engine,-1,14
+1997,imola,stewart,barrichello,Engine,-1,15
+1997,imola,sauber,herbert,Electrical,-1,16
+1997,imola,jordan,ralf_schumacher,Transmission,-1,17
+1997,imola,prost,nakano,Collision,-1,18
+1997,imola,arrows,damon_hill,Collision,-1,19
+1997,imola,benetton,berger,Spun off,-1,20
+1997,imola,stewart,magnussen,Spun off,-1,21
+1997,imola,minardi,trulli,Gearbox,-1,22

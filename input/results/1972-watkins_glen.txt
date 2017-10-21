@@ -1,0 +1,30 @@
+1972,watkins_glen,tyrrell,stewart,Finished,6105354,1
+1972,watkins_glen,tyrrell,cevert,Finished,6137622,2
+1972,watkins_glen,mclaren,hulme,Finished,6142882,3
+1972,watkins_glen,march,peterson,Finished,6187870,4
+1972,watkins_glen,ferrari,ickx,Finished,6188473,5
+1972,watkins_glen,ferrari,mario_andretti,+1 Lap,-1,6
+1972,watkins_glen,tyrrell,depailler,+1 Lap,-1,7
+1972,watkins_glen,ferrari,regazzoni,+1 Lap,-1,8
+1972,watkins_glen,mclaren,scheckter,+1 Lap,-1,9
+1972,watkins_glen,team_lotus,wisell,+2 Laps,-1,10
+1972,watkins_glen,brabham,hill,+2 Laps,-1,11
+1972,watkins_glen,surtees,posey,+2 Laps,-1,12
+1972,watkins_glen,march,beuttler,+2 Laps,-1,13
+1972,watkins_glen,march,pescarolo,+2 Laps,-1,14
+1972,watkins_glen,matra,amon,+2 Laps,-1,15
+1972,watkins_glen,march,barber,+2 Laps,-1,16
+1972,watkins_glen,surtees,hailwood,Collision,-1,17
+1972,watkins_glen,mclaren,revson,Electrical,-1,18
+1972,watkins_glen,march,lauda,Not classified,-1,19
+1972,watkins_glen,march,pace,Fuel system,-1,20
+1972,watkins_glen,brm,gethin,Engine,-1,21
+1972,watkins_glen,brm,ganley,Engine,-1,22
+1972,watkins_glen,team_lotus,walker,Engine,-1,23
+1972,watkins_glen,brabham,wilson_fittipaldi,Engine,-1,24
+1972,watkins_glen,brm,beltoise,Ignition,-1,25
+1972,watkins_glen,brm,redman,Engine,-1,26
+1972,watkins_glen,brabham,reutemann,Engine,-1,27
+1972,watkins_glen,surtees,adamich,Collision,-1,28
+1972,watkins_glen,surtees,schenken,Suspension,-1,29
+1972,watkins_glen,team_lotus,emerson_fittipaldi,Suspension,-1,30

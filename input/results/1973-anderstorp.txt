@@ -1,0 +1,21 @@
+1973,anderstorp,mclaren,hulme,Finished,7006049,1
+1973,anderstorp,team_lotus,peterson,Finished,7010088,2
+1973,anderstorp,tyrrell,cevert,Finished,7020716,3
+1973,anderstorp,brabham,reutemann,Finished,7024117,4
+1973,anderstorp,tyrrell,stewart,Finished,7032047,5
+1973,anderstorp,ferrari,ickx,+1 Lap,-1,6
+1973,anderstorp,mclaren,revson,+1 Lap,-1,7
+1973,anderstorp,march,beuttler,+2 Laps,-1,8
+1973,anderstorp,brm,regazzoni,+3 Laps,-1,9
+1973,anderstorp,surtees,pace,+3 Laps,-1,10
+1973,anderstorp,iso_marlboro,ganley,+3 Laps,-1,11
+1973,anderstorp,team_lotus,emerson_fittipaldi,Gearbox,-1,12
+1973,anderstorp,brm,lauda,+5 Laps,-1,13
+1973,anderstorp,shadow,follmer,+6 Laps,-1,14
+1973,anderstorp,brm,beltoise,Engine,-1,15
+1973,anderstorp,shadow,oliver,Suspension,-1,16
+1973,anderstorp,surtees,hailwood,Tyre,-1,17
+1973,anderstorp,march,jarier,Throttle,-1,18
+1973,anderstorp,shadow,hill,Ignition,-1,19
+1973,anderstorp,brabham,wilson_fittipaldi,Accident,-1,20
+1973,anderstorp,march,wisell,Suspension,-1,21

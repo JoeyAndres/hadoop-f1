@@ -1,0 +1,22 @@
+2016,sepang,red_bull,ricciardo,Finished,5832776,1
+2016,sepang,red_bull,max_verstappen,Finished,5835219,2
+2016,sepang,mercedes,rosberg,Finished,5858292,3
+2016,sepang,ferrari,raikkonen,Finished,5861561,4
+2016,sepang,williams,bottas,Finished,5894358,5
+2016,sepang,force_india,perez,Finished,5896570,6
+2016,sepang,mclaren,alonso,Finished,5897981,7
+2016,sepang,force_india,hulkenberg,Finished,5906838,8
+2016,sepang,mclaren,button,Finished,5914592,9
+2016,sepang,renault,jolyon_palmer,Finished,5928242,10
+2016,sepang,toro_rosso,sainz,Finished,5931654,11
+2016,sepang,sauber,ericsson,+1 Lap,-1,12
+2016,sepang,williams,massa,+1 Lap,-1,13
+2016,sepang,toro_rosso,kvyat,+1 Lap,-1,14
+2016,sepang,manor,wehrlein,+1 Lap,-1,15
+2016,sepang,manor,ocon,+1 Lap,-1,16
+2016,sepang,sauber,nasr,Brakes,-1,17
+2016,sepang,mercedes,hamilton,Engine,-1,18
+2016,sepang,haas,gutierrez,Wheel nut,-1,19
+2016,sepang,renault,kevin_magnussen,Power loss,-1,20
+2016,sepang,haas,grosjean,Brakes,-1,21
+2016,sepang,ferrari,vettel,Collision,-1,22

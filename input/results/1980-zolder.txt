@@ -1,0 +1,27 @@
+1980,zolder,ligier,pironi,Finished,5927400,1
+1980,zolder,williams,jones,Finished,5974770,2
+1980,zolder,williams,reutemann,Finished,6011520,3
+1980,zolder,renault,arnoux,+1 Lap,-1,4
+1980,zolder,tyrrell,jarier,+1 Lap,-1,5
+1980,zolder,ferrari,gilles_villeneuve,+1 Lap,-1,6
+1980,zolder,fittipaldi,keke_rosberg,+1 Lap,-1,7
+1980,zolder,ferrari,scheckter,+2 Laps,-1,8
+1980,zolder,tyrrell,daly,+2 Laps,-1,9
+1980,zolder,team_lotus,angelis,Spun off,-1,10
+1980,zolder,ligier,laffite,+4 Laps,-1,11
+1980,zolder,ats,lammers,Engine,-1,12
+1980,zolder,mclaren,watson,Not classified,-1,13
+1980,zolder,arrows,patrese,Spun off,-1,14
+1980,zolder,team_lotus,mario_andretti,Gearbox,-1,15
+1980,zolder,alfa,depailler,Exhaust,-1,16
+1980,zolder,brabham,piquet,Spun off,-1,17
+1980,zolder,mclaren,prost,Transmission,-1,18
+1980,zolder,fittipaldi,emerson_fittipaldi,Electrical,-1,19
+1980,zolder,ensign,needell,Engine,-1,20
+1980,zolder,alfa,giacomelli,Suspension,-1,21
+1980,zolder,brabham,zunino,Gearbox,-1,22
+1980,zolder,arrows,mass,Spun off,-1,23
+1980,zolder,renault,jabouille,Clutch,-1,24
+1980,zolder,shadow,lees,Did not qualify,-1,25
+1980,zolder,shadow,kennedy,Did not qualify,-1,26
+1980,zolder,osella,cheever,Did not qualify,-1,27

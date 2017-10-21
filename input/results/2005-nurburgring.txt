@@ -1,0 +1,20 @@
+2005,nurburgring,renault,alonso,Finished,5506648,1
+2005,nurburgring,williams,heidfeld,Finished,5523215,2
+2005,nurburgring,ferrari,barrichello,Finished,5525197,3
+2005,nurburgring,red_bull,coulthard,Finished,5538236,4
+2005,nurburgring,ferrari,michael_schumacher,Finished,5557093,5
+2005,nurburgring,renault,fisichella,Finished,5558580,6
+2005,nurburgring,mclaren,montoya,Finished,5564821,7
+2005,nurburgring,toyota,trulli,Finished,5577739,8
+2005,nurburgring,red_bull,liuzzi,Finished,5578177,9
+2005,nurburgring,bar,button,Finished,5602434,10
+2005,nurburgring,mclaren,raikkonen,Accident,-1,11
+2005,nurburgring,bar,sato,+1 Lap,-1,12
+2005,nurburgring,sauber,villeneuve,+1 Lap,-1,13
+2005,nurburgring,sauber,massa,+1 Lap,-1,14
+2005,nurburgring,jordan,monteiro,+1 Lap,-1,15
+2005,nurburgring,jordan,karthikeyan,+1 Lap,-1,16
+2005,nurburgring,minardi,albers,+2 Laps,-1,17
+2005,nurburgring,minardi,friesacher,+3 Laps,-1,18
+2005,nurburgring,toyota,ralf_schumacher,Spun off,-1,19
+2005,nurburgring,williams,webber,Accident,-1,20

@@ -1,0 +1,20 @@
+2008,villeneuve,bmw_sauber,kubica,Finished,5784227,1
+2008,villeneuve,bmw_sauber,heidfeld,Finished,5800722,2
+2008,villeneuve,red_bull,coulthard,Finished,5807579,3
+2008,villeneuve,toyota,glock,Finished,5826854,4
+2008,villeneuve,ferrari,massa,Finished,5828161,5
+2008,villeneuve,toyota,trulli,Finished,5832002,6
+2008,villeneuve,honda,barrichello,Finished,5837824,7
+2008,villeneuve,toro_rosso,vettel,Finished,5838347,8
+2008,villeneuve,mclaren,kovalainen,Finished,5838660,9
+2008,villeneuve,williams,rosberg,Finished,5838976,10
+2008,villeneuve,honda,button,Finished,5851767,11
+2008,villeneuve,red_bull,webber,Finished,5855526,12
+2008,villeneuve,toro_rosso,bourdais,+1 Lap,-1,13
+2008,villeneuve,force_india,fisichella,Spun off,-1,14
+2008,villeneuve,williams,nakajima,Accident,-1,15
+2008,villeneuve,renault,alonso,Spun off,-1,16
+2008,villeneuve,renault,piquet_jr,Brakes,-1,17
+2008,villeneuve,ferrari,raikkonen,Collision,-1,18
+2008,villeneuve,mclaren,hamilton,Collision,-1,19
+2008,villeneuve,force_india,sutil,Gearbox,-1,20

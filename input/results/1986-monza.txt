@@ -1,0 +1,27 @@
+1986,monza,williams,piquet,Finished,4662889,1
+1986,monza,williams,mansell,Finished,4672717,2
+1986,monza,ferrari,johansson,Finished,4685804,3
+1986,monza,mclaren,keke_rosberg,Finished,4716698,4
+1986,monza,benetton,berger,+1 Lap,-1,5
+1986,monza,lola,jones,+2 Laps,-1,6
+1986,monza,arrows,boutsen,+2 Laps,-1,7
+1986,monza,arrows,danner,+2 Laps,-1,8
+1986,monza,tyrrell,streiff,+2 Laps,-1,9
+1986,monza,tyrrell,brundle,+2 Laps,-1,10
+1986,monza,osella,caffi,Not classified,-1,11
+1986,monza,benetton,fabi,Puncture,-1,12
+1986,monza,ferrari,alboreto,Engine,-1,13
+1986,monza,minardi,cesaris,Engine,-1,14
+1986,monza,ags,capelli,Puncture,-1,15
+1986,monza,ligier,arnoux,Gearbox,-1,16
+1986,monza,zakspeed,palmer,Engine,-1,17
+1986,monza,mclaren,prost,Disqualified,-1,18
+1986,monza,ligier,alliot,Engine,-1,19
+1986,monza,team_lotus,dumfries,Gearbox,-1,20
+1986,monza,brabham,warwick,Spun off,-1,21
+1986,monza,minardi,nannini,Electrical,-1,22
+1986,monza,osella,ghinzani,Suspension,-1,23
+1986,monza,lola,tambay,Accident,-1,24
+1986,monza,brabham,patrese,Accident,-1,25
+1986,monza,zakspeed,rothengatter,Engine,-1,26
+1986,monza,team_lotus,senna,Transmission,-1,27

@@ -1,0 +1,26 @@
+1993,imola,williams,prost,Finished,5600413,1
+1993,imola,benetton,michael_schumacher,Finished,5632823,2
+1993,imola,ligier,brundle,+1 Lap,-1,3
+1993,imola,sauber,lehto,Engine,-1,4
+1993,imola,larrousse,alliot,+2 Laps,-1,5
+1993,imola,minardi,barbazza,+2 Laps,-1,6
+1993,imola,lola,badoer,+3 Laps,-1,7
+1993,imola,team_lotus,herbert,Engine,-1,8
+1993,imola,footwork,suzuki,+7 Laps,-1,9
+1993,imola,team_lotus,zanardi,Spun off,-1,10
+1993,imola,sauber,wendlinger,Engine,-1,11
+1993,imola,mclaren,senna,Hydraulics,-1,12
+1993,imola,ferrari,alesi,Clutch,-1,13
+1993,imola,minardi,fittipaldi,Steering,-1,14
+1993,imola,mclaren,andretti,Spun off,-1,15
+1993,imola,footwork,warwick,Spun off,-1,16
+1993,imola,tyrrell,katayama,Engine,-1,17
+1993,imola,williams,damon_hill,Brakes,-1,18
+1993,imola,larrousse,comas,Engine,-1,19
+1993,imola,tyrrell,cesaris,Gearbox,-1,20
+1993,imola,jordan,barrichello,Spun off,-1,21
+1993,imola,ferrari,berger,Gearbox,-1,22
+1993,imola,jordan,boutsen,Gearbox,-1,23
+1993,imola,ligier,blundell,Spun off,-1,24
+1993,imola,benetton,patrese,Spun off,-1,25
+1993,imola,lola,alboreto,Did not qualify,-1,26

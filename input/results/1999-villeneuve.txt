@@ -1,0 +1,22 @@
+1999,villeneuve,mclaren,hakkinen,Finished,6095727,1
+1999,villeneuve,benetton,fisichella,Finished,6096509,2
+1999,villeneuve,ferrari,irvine,Finished,6097524,3
+1999,villeneuve,williams,ralf_schumacher,Finished,6098119,4
+1999,villeneuve,stewart,herbert,Finished,6098532,5
+1999,villeneuve,sauber,diniz,Finished,6099438,6
+1999,villeneuve,mclaren,coulthard,Finished,6100731,7
+1999,villeneuve,minardi,gene,+1 Lap,-1,8
+1999,villeneuve,prost,panis,+1 Lap,-1,9
+1999,villeneuve,minardi,badoer,+2 Laps,-1,10
+1999,villeneuve,jordan,frentzen,Brakes,-1,11
+1999,villeneuve,williams,zanardi,Brakes,-1,12
+1999,villeneuve,arrows,takagi,Transmission,-1,13
+1999,villeneuve,bar,villeneuve,Spun off,-1,14
+1999,villeneuve,ferrari,michael_schumacher,Spun off,-1,15
+1999,villeneuve,arrows,rosa,Transmission,-1,16
+1999,villeneuve,jordan,damon_hill,Spun off,-1,17
+1999,villeneuve,stewart,barrichello,Steering,-1,18
+1999,villeneuve,bar,zonta,Spun off,-1,19
+1999,villeneuve,sauber,alesi,Collision,-1,20
+1999,villeneuve,prost,trulli,Collision,-1,21
+1999,villeneuve,benetton,wurz,Transmission,-1,22

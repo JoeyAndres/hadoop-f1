@@ -1,0 +1,30 @@
+1951,indianapolis,kurtis_kraft,wallard,Finished,14258050,1
+1951,indianapolis,kurtis_kraft,nazaruk,Finished,14365290,2
+1951,indianapolis,kurtis_kraft,ayulo,Finished,14429440,3
+1951,indianapolis,kurtis_kraft,mcgrath,Finished,14429440,3
+1951,indianapolis,sherman,linden,Finished,14538170,4
+1951,indianapolis,schroeder,ball,Finished,14550280,5
+1951,indianapolis,moore,banks,Finished,14598070,6
+1951,indianapolis,kurtis_kraft,forberg,+7 Laps,-1,7
+1951,indianapolis,deidt,darter,+20 Laps,-1,8
+1951,indianapolis,deidt,bettenhausen,Spun off,-1,9
+1951,indianapolis,kurtis_kraft,nalon,Retired,-1,10
+1951,indianapolis,kurtis_kraft,force,Engine,-1,11
+1951,indianapolis,kurtis_kraft,hanks,Engine,-1,12
+1951,indianapolis,kurtis_kraft,schindler,Engine,-1,13
+1951,indianapolis,deidt,rose,Accident,-1,14
+1951,indianapolis,kuzma,faulkner,Engine,-1,15
+1951,indianapolis,pawl,davies,Axle,-1,16
+1951,indianapolis,kurtis_kraft,agabashian,Clutch,-1,17
+1951,indianapolis,kurtis_kraft,scarborough,Heat shield fire,-1,18
+1951,indianapolis,hall,mackey,Clutch,-1,19
+1951,indianapolis,marchese,stevenson,Heat shield fire,-1,20
+1951,indianapolis,kurtis_kraft,parsons,Magneto,-1,21
+1951,indianapolis,kurtis_kraft,green,Engine,-1,22
+1951,indianapolis,kurtis_kraft,ruttman,Engine,-1,23
+1951,indianapolis,schroeder,dinsmore,Overheating,-1,24
+1951,indianapolis,kurtis_kraft,miller,Ignition,-1,25
+1951,indianapolis,kurtis_kraft,walt_brown,Magneto,-1,26
+1951,indianapolis,bromme,ward,Oil pipe,-1,27
+1951,indianapolis,kurtis_kraft,griffith,Axle,-1,28
+1951,indianapolis,trevis,vukovich,Oil leak,-1,29

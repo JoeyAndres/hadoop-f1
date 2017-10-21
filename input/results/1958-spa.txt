@@ -1,0 +1,19 @@
+1958,spa,vanwall,brooks,Finished,5826300,1
+1958,spa,ferrari,hawthorn,Finished,5847000,2
+1958,spa,vanwall,lewis-evans,Finished,6007200,3
+1958,spa,team_lotus,allison,Finished,6081800,4
+1958,spa,brm,schell,+1 Lap,-1,5
+1958,spa,ferrari,gendebien,+1 Lap,-1,6
+1958,spa,maserati,trintignant,+1 Lap,-1,7
+1958,spa,cooper,salvadori,+1 Lap,-1,8
+1958,spa,maserati,bonnier,+2 Laps,-1,9
+1958,spa,maserati,filippis,+2 Laps,-1,10
+1958,spa,maserati,godia,Engine,-1,11
+1958,spa,cooper,jack_brabham,Overheating,-1,12
+1958,spa,team_lotus,hill,Engine,-1,13
+1958,spa,ferrari,musso,Accident,-1,14
+1958,spa,ferrari,collins,Overheating,-1,15
+1958,spa,brm,behra,Oil pressure,-1,16
+1958,spa,maserati,seidel,Halfshaft,-1,17
+1958,spa,vanwall,moss,Engine,-1,18
+1958,spa,maserati,gregory,Engine,-1,19

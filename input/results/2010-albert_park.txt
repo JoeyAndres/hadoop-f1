@@ -1,0 +1,24 @@
+2010,albert_park,mclaren,button,Finished,5616531,1
+2010,albert_park,renault,kubica,Finished,5628565,2
+2010,albert_park,ferrari,massa,Finished,5631019,3
+2010,albert_park,ferrari,alonso,Finished,5632835,4
+2010,albert_park,mercedes,rosberg,Finished,5633214,5
+2010,albert_park,mclaren,hamilton,Finished,5646429,6
+2010,albert_park,force_india,liuzzi,Finished,5676378,7
+2010,albert_park,williams,barrichello,Finished,5677067,8
+2010,albert_park,red_bull,webber,Finished,5683850,9
+2010,albert_park,mercedes,michael_schumacher,Finished,5685922,10
+2010,albert_park,toro_rosso,alguersuari,Finished,5687832,11
+2010,albert_park,sauber,rosa,Finished,5690615,12
+2010,albert_park,lotus_racing,kovalainen,+2 Laps,-1,13
+2010,albert_park,hrt,chandhok,+5 Laps,-1,14
+2010,albert_park,virgin,glock,Suspension,-1,15
+2010,albert_park,virgin,grassi,Hydraulics,-1,16
+2010,albert_park,red_bull,vettel,Wheel,-1,17
+2010,albert_park,force_india,sutil,Engine,-1,18
+2010,albert_park,renault,petrov,Spun off,-1,19
+2010,albert_park,hrt,bruno_senna,Hydraulics,-1,20
+2010,albert_park,toro_rosso,buemi,Collision,-1,21
+2010,albert_park,williams,hulkenberg,Collision,-1,22
+2010,albert_park,sauber,kobayashi,Collision,-1,23
+2010,albert_park,lotus_racing,trulli,Hydraulics,-1,24

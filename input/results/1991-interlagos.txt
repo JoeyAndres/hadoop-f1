@@ -1,0 +1,30 @@
+1991,interlagos,mclaren,senna,Finished,5908128,1
+1991,interlagos,williams,patrese,Finished,5911119,2
+1991,interlagos,mclaren,berger,Finished,5913544,3
+1991,interlagos,ferrari,prost,Finished,5926497,4
+1991,interlagos,benetton,piquet,Finished,5930088,5
+1991,interlagos,ferrari,alesi,Finished,5931769,6
+1991,interlagos,benetton,moreno,+1 Lap,-1,7
+1991,interlagos,minardi,morbidelli,+2 Laps,-1,8
+1991,interlagos,team_lotus,hakkinen,+3 Laps,-1,9
+1991,interlagos,ligier,boutsen,+3 Laps,-1,10
+1991,interlagos,dallara,pirro,+3 Laps,-1,11
+1991,interlagos,brabham,brundle,+4 Laps,-1,12
+1991,interlagos,jordan,gachot,Fuel system,-1,13
+1991,interlagos,williams,mansell,Gearbox,-1,14
+1991,interlagos,ligier,comas,Engine,-1,15
+1991,interlagos,minardi,martini,Spun off,-1,16
+1991,interlagos,brabham,blundell,Engine,-1,17
+1991,interlagos,larrousse,bernard,Radiator,-1,18
+1991,interlagos,dallara,lehto,Electrical,-1,19
+1991,interlagos,jordan,cesaris,Engine,-1,20
+1991,interlagos,tyrrell,modena,Gearbox,-1,21
+1991,interlagos,leyton,capelli,Transmission,-1,22
+1991,interlagos,tyrrell,satoru_nakajima,Spun off,-1,23
+1991,interlagos,leyton,gugelmin,Physical,-1,24
+1991,interlagos,ags,tarquini,Suspension,-1,25
+1991,interlagos,larrousse,suzuki,Fuel pump,-1,26
+1991,interlagos,footwork,caffi,Did not qualify,-1,27
+1991,interlagos,ags,johansson,Did not qualify,-1,28
+1991,interlagos,footwork,alboreto,Did not qualify,-1,29
+1991,interlagos,team_lotus,bailey,Did not qualify,-1,30

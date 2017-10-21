@@ -1,0 +1,20 @@
+2017,sochi,mercedes,bottas,Finished,5288743,1
+2017,sochi,ferrari,vettel,Finished,5289360,2
+2017,sochi,ferrari,raikkonen,Finished,5299743,3
+2017,sochi,mercedes,hamilton,Finished,5325063,4
+2017,sochi,red_bull,max_verstappen,Finished,5349159,5
+2017,sochi,force_india,perez,Finished,5375531,6
+2017,sochi,force_india,ocon,Finished,5383747,7
+2017,sochi,renault,hulkenberg,Finished,5384931,8
+2017,sochi,williams,massa,+1 Lap,-1,9
+2017,sochi,toro_rosso,sainz,+1 Lap,-1,10
+2017,sochi,williams,stroll,+1 Lap,-1,11
+2017,sochi,toro_rosso,kvyat,+1 Lap,-1,12
+2017,sochi,haas,kevin_magnussen,+1 Lap,-1,13
+2017,sochi,mclaren,vandoorne,+1 Lap,-1,14
+2017,sochi,sauber,ericsson,+1 Lap,-1,15
+2017,sochi,sauber,wehrlein,+2 Laps,-1,16
+2017,sochi,red_bull,ricciardo,Brakes,-1,17
+2017,sochi,renault,jolyon_palmer,Collision,-1,18
+2017,sochi,haas,grosjean,Collision,-1,19
+2017,sochi,mclaren,alonso,Power Unit,-1,20

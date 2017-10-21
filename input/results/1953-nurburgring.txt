@@ -1,0 +1,30 @@
+1953,nurburgring,ferrari,farina,Finished,10945000,1
+1953,nurburgring,maserati,fangio,Finished,11009000,2
+1953,nurburgring,ferrari,hawthorn,Finished,11048600,3
+1953,nurburgring,maserati,bonetto,Finished,11473600,4
+1953,nurburgring,maserati,graffenried,+1 Lap,-1,5
+1953,nurburgring,cooper,moss,+1 Lap,-1,6
+1953,nurburgring,ferrari,swaters,+1 Lap,-1,7
+1953,nurburgring,ferrari,ascari,+1 Lap,-1,8
+1953,nurburgring,ferrari,villoresi,+1 Lap,-1,8
+1953,nurburgring,veritas,herrmann,+1 Lap,-1,9
+1953,nurburgring,ferrari,rosier,+1 Lap,-1,10
+1953,nurburgring,cooper,nuckey,+2 Laps,-1,11
+1953,nurburgring,veritas,helfrich,+2 Laps,-1,12
+1953,nurburgring,connaught,mcalpine,+2 Laps,-1,13
+1953,nurburgring,bmw,krause,+2 Laps,-1,14
+1953,nurburgring,bmw,klodwig,+3 Laps,-1,15
+1953,nurburgring,veritas,seidel,+4 Laps,-1,16
+1953,nurburgring,ferrari,ascari,Engine,-1,17
+1953,nurburgring,ferrari,villoresi,Engine,-1,17
+1953,nurburgring,cooper,alan_brown,Engine,-1,18
+1953,nurburgring,maserati,marimon,Suspension,-1,19
+1953,nurburgring,emw,barth,Exhaust,-1,20
+1953,nurburgring,connaught,claes,Retired,-1,21
+1953,nurburgring,veritas,karch,Retired,-1,22
+1953,nurburgring,veritas,heeks,Retired,-1,23
+1953,nurburgring,gordini,behra,Gearbox,-1,24
+1953,nurburgring,gordini,schell,Engine,-1,25
+1953,nurburgring,connaught,bira,Suspension,-1,26
+1953,nurburgring,afm,fitzau,Retired,-1,27
+1953,nurburgring,ferrari,adolff,Retired,-1,28

@@ -1,0 +1,20 @@
+2015,suzuka,mercedes,hamilton,Finished,-1,1
+2015,suzuka,mercedes,rosberg,Finished,-1,2
+2015,suzuka,ferrari,vettel,Finished,-1,3
+2015,suzuka,ferrari,raikkonen,Finished,-1,4
+2015,suzuka,williams,bottas,Finished,-1,5
+2015,suzuka,force_india,hulkenberg,Finished,-1,6
+2015,suzuka,lotus_f1,grosjean,Finished,-1,7
+2015,suzuka,lotus_f1,maldonado,Finished,-1,8
+2015,suzuka,toro_rosso,max_verstappen,Finished,-1,9
+2015,suzuka,toro_rosso,sainz,+1 Lap,-1,10
+2015,suzuka,mclaren,alonso,+1 Lap,-1,11
+2015,suzuka,force_india,perez,+1 Lap,-1,12
+2015,suzuka,red_bull,kvyat,+1 Lap,-1,13
+2015,suzuka,sauber,ericsson,+1 Lap,-1,14
+2015,suzuka,red_bull,ricciardo,+1 Lap,-1,15
+2015,suzuka,mclaren,button,+1 Lap,-1,16
+2015,suzuka,williams,massa,+2 Laps,-1,17
+2015,suzuka,manor,rossi,+2 Laps,-1,18
+2015,suzuka,manor,stevens,+3 Laps,-1,19
+2015,suzuka,sauber,nasr,Retired,-1,20

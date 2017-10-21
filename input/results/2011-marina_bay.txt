@@ -1,0 +1,24 @@
+2011,marina_bay,red_bull,vettel,Finished,7146757,1
+2011,marina_bay,mclaren,button,Finished,7148494,2
+2011,marina_bay,red_bull,webber,Finished,7176036,3
+2011,marina_bay,ferrari,alonso,Finished,7202206,4
+2011,marina_bay,mclaren,hamilton,Finished,7214523,5
+2011,marina_bay,force_india,resta,Finished,7257824,6
+2011,marina_bay,mercedes,rosberg,+1 Lap,-1,7
+2011,marina_bay,force_india,sutil,+1 Lap,-1,8
+2011,marina_bay,ferrari,massa,+1 Lap,-1,9
+2011,marina_bay,sauber,perez,+1 Lap,-1,10
+2011,marina_bay,williams,maldonado,+1 Lap,-1,11
+2011,marina_bay,toro_rosso,buemi,+1 Lap,-1,12
+2011,marina_bay,williams,barrichello,+1 Lap,-1,13
+2011,marina_bay,sauber,kobayashi,+2 Laps,-1,14
+2011,marina_bay,renault,bruno_senna,+2 Laps,-1,15
+2011,marina_bay,lotus_racing,kovalainen,+2 Laps,-1,16
+2011,marina_bay,renault,petrov,+2 Laps,-1,17
+2011,marina_bay,virgin,ambrosio,+2 Laps,-1,18
+2011,marina_bay,hrt,ricciardo,+4 Laps,-1,19
+2011,marina_bay,hrt,liuzzi,+4 Laps,-1,20
+2011,marina_bay,toro_rosso,alguersuari,Accident,-1,21
+2011,marina_bay,lotus_racing,trulli,Gearbox,-1,22
+2011,marina_bay,mercedes,michael_schumacher,Accident,-1,23
+2011,marina_bay,virgin,glock,Accident,-1,24

@@ -1,0 +1,28 @@
+1994,spa,williams,damon_hill,Finished,5327100,1
+1994,spa,mclaren,hakkinen,Finished,5378481,2
+1994,spa,benetton,verstappen,Finished,5397553,3
+1994,spa,williams,coulthard,Finished,5432887,4
+1994,spa,tyrrell,blundell,+1 Lap,-1,5
+1994,spa,footwork,morbidelli,+1 Lap,-1,6
+1994,spa,ligier,panis,+1 Lap,-1,7
+1994,spa,minardi,martini,+1 Lap,-1,8
+1994,spa,minardi,alboreto,+1 Lap,-1,9
+1994,spa,ligier,bernard,+2 Laps,-1,10
+1994,spa,simtek,gounon,+2 Laps,-1,11
+1994,spa,team_lotus,herbert,+3 Laps,-1,12
+1994,spa,jordan,irvine,Alternator,-1,13
+1994,spa,benetton,michael_schumacher,Disqualified,-1,14
+1994,spa,footwork,fittipaldi,Engine,-1,15
+1994,spa,simtek,brabham,Wheel,-1,16
+1994,spa,sauber,cesaris,Throttle,-1,17
+1994,spa,mclaren,brundle,Spun off,-1,18
+1994,spa,jordan,barrichello,Spun off,-1,19
+1994,spa,tyrrell,katayama,Engine,-1,20
+1994,spa,team_lotus,adams,Spun off,-1,21
+1994,spa,ferrari,berger,Engine,-1,22
+1994,spa,larrousse,alliot,Engine,-1,23
+1994,spa,sauber,frentzen,Halfshaft,-1,24
+1994,spa,larrousse,comas,Engine,-1,25
+1994,spa,ferrari,alesi,Engine,-1,26
+1994,spa,pacific,gachot,Did not qualify,-1,27
+1994,spa,pacific,belmondo,Did not qualify,-1,28

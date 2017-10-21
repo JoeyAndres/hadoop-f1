@@ -1,0 +1,20 @@
+2002,spa,ferrari,michael_schumacher,Finished,4880634,1
+2002,spa,ferrari,barrichello,Finished,4882611,2
+2002,spa,williams,montoya,Finished,4899079,3
+2002,spa,mclaren,coulthard,Finished,4899991,4
+2002,spa,williams,ralf_schumacher,Finished,4937074,5
+2002,spa,jaguar,irvine,Finished,4958004,6
+2002,spa,toyota,salo,Finished,4958443,7
+2002,spa,bar,villeneuve,Finished,4960489,8
+2002,spa,toyota,mcnish,+1 Lap,-1,9
+2002,spa,sauber,heidfeld,+1 Lap,-1,10
+2002,spa,jordan,sato,+1 Lap,-1,11
+2002,spa,bar,panis,Engine,-1,12
+2002,spa,jordan,fisichella,Engine,-1,13
+2002,spa,jaguar,rosa,Suspension,-1,14
+2002,spa,sauber,massa,Engine,-1,15
+2002,spa,mclaren,raikkonen,Engine,-1,16
+2002,spa,renault,trulli,Engine,-1,17
+2002,spa,minardi,davidson,Spun off,-1,18
+2002,spa,renault,button,Engine,-1,19
+2002,spa,minardi,webber,Gearbox,-1,20

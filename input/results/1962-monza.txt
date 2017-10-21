@@ -1,0 +1,30 @@
+1962,monza,brm,hill,Finished,8948400,1
+1962,monza,brm,ginther,Finished,8978200,2
+1962,monza,cooper-climax,mclaren,Finished,9006200,3
+1962,monza,ferrari,mairesse,Finished,9006600,4
+1962,monza,ferrari,baghetti,Finished,9039700,5
+1962,monza,porsche,bonnier,+1 Lap,-1,6
+1962,monza,cooper-climax,maggs,+1 Lap,-1,7
+1962,monza,ferrari,bandini,+2 Laps,-1,8
+1962,monza,lotus-climax,vaccarella,+2 Laps,-1,9
+1962,monza,porsche,beaufort,+5 Laps,-1,10
+1962,monza,ferrari,phil_hill,+5 Laps,-1,11
+1962,monza,lotus-brm,gregory,+9 Laps,-1,12
+1962,monza,porsche,gurney,Differential,-1,13
+1962,monza,ferrari,ricardo_rodriguez,Ignition,-1,14
+1962,monza,lotus-climax,ireland,Suspension,-1,15
+1962,monza,lola,surtees,Engine,-1,16
+1962,monza,lola,salvadori,Engine,-1,17
+1962,monza,lotus-climax,trevor_taylor,Gearbox,-1,18
+1962,monza,emeryson,settember,Engine,-1,19
+1962,monza,lotus-climax,trintignant,Electrical,-1,20
+1962,monza,lotus-climax,clark,Gearbox,-1,21
+1962,monza,lotus-brm,shelly,Did not qualify,-1,22
+1962,monza,gilby,greene,Did not qualify,-1,23
+1962,monza,lotus-climax,ashmore,Did not qualify,-1,24
+1962,monza,cooper-climax,burgess,Did not qualify,-1,25
+1962,monza,lotus-brm,siffert,Did not qualify,-1,26
+1962,monza,lotus-climax,prinoth,Did not qualify,-1,27
+1962,monza,de_tomaso-osca,lippi,Did not qualify,-1,28
+1962,monza,lotus-climax,chamberlain,Did not qualify,-1,29
+1962,monza,tomaso,estefano,Did not qualify,-1,30

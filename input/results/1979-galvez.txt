@@ -1,0 +1,26 @@
+1979,galvez,ligier,laffite,Finished,5763210,1
+1979,galvez,team_lotus,reutemann,Finished,5778150,2
+1979,galvez,mclaren,watson,Finished,5852020,3
+1979,galvez,ligier,depailler,Finished,5864930,4
+1979,galvez,team_lotus,mario_andretti,+1 Lap,-1,5
+1979,galvez,fittipaldi,emerson_fittipaldi,+1 Lap,-1,6
+1979,galvez,shadow,angelis,+1 Lap,-1,7
+1979,galvez,arrows,mass,+2 Laps,-1,8
+1979,galvez,williams,jones,+2 Laps,-1,9
+1979,galvez,williams,regazzoni,+2 Laps,-1,10
+1979,galvez,ensign,daly,+2 Laps,-1,11
+1979,galvez,ferrari,gilles_villeneuve,Engine,-1,12
+1979,galvez,team_lotus,rebaque,Suspension,-1,13
+1979,galvez,shadow,lammers,Transmission,-1,14
+1979,galvez,wolf,hunt,Electrical,-1,15
+1979,galvez,tyrrell,jarier,Engine,-1,16
+1979,galvez,renault,jabouille,Engine,-1,17
+1979,galvez,brabham-alfa_romeo,lauda,Fuel system,-1,18
+1979,galvez,renault,arnoux,Engine,-1,19
+1979,galvez,ferrari,scheckter,Collision,-1,20
+1979,galvez,tyrrell,pironi,Collision,-1,21
+1979,galvez,mclaren,tambay,Collision,-1,22
+1979,galvez,brabham-alfa_romeo,piquet,Collision,-1,23
+1979,galvez,merzario,merzario,Collision,-1,24
+1979,galvez,arrows,patrese,Accident,-1,25
+1979,galvez,ats,stuck,Withdrew,-1,26

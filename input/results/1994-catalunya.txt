@@ -1,0 +1,27 @@
+1994,catalunya,williams,damon_hill,Finished,5774300,1
+1994,catalunya,benetton,michael_schumacher,Finished,5798466,2
+1994,catalunya,tyrrell,blundell,Finished,5861269,3
+1994,catalunya,ferrari,alesi,+1 Lap,-1,4
+1994,catalunya,minardi,martini,+1 Lap,-1,5
+1994,catalunya,jordan,irvine,+1 Lap,-1,6
+1994,catalunya,ligier,panis,+2 Laps,-1,7
+1994,catalunya,ligier,bernard,+3 Laps,-1,8
+1994,catalunya,team_lotus,zanardi,+3 Laps,-1,9
+1994,catalunya,simtek,brabham,+4 Laps,-1,10
+1994,catalunya,mclaren,brundle,Transmission,-1,11
+1994,catalunya,benetton,lehto,Engine,-1,12
+1994,catalunya,mclaren,hakkinen,Engine,-1,13
+1994,catalunya,team_lotus,herbert,Spun off,-1,14
+1994,catalunya,jordan,barrichello,Spun off,-1,15
+1994,catalunya,footwork,fittipaldi,Engine,-1,16
+1994,catalunya,williams,coulthard,Electrical,-1,17
+1994,catalunya,pacific,gachot,Broken wing,-1,18
+1994,catalunya,ferrari,berger,Gearbox,-1,19
+1994,catalunya,footwork,morbidelli,Fuel system,-1,20
+1994,catalunya,sauber,frentzen,Gearbox,-1,21
+1994,catalunya,larrousse,comas,Radiator,-1,22
+1994,catalunya,tyrrell,katayama,Engine,-1,23
+1994,catalunya,minardi,alboreto,Engine,-1,24
+1994,catalunya,pacific,belmondo,Spun off,-1,25
+1994,catalunya,larrousse,beretta,Engine,-1,26
+1994,catalunya,simtek,montermini,Injury,-1,27

@@ -1,0 +1,30 @@
+1977,dijon,team_lotus,mario_andretti,Finished,5980130,1
+1977,dijon,brabham,watson,Finished,5981680,2
+1977,dijon,mclaren,hunt,Finished,6014000,3
+1977,dijon,team_lotus,nilsson,Finished,6051210,4
+1977,dijon,ferrari,lauda,Finished,6054280,5
+1977,dijon,ferrari,reutemann,+1 Lap,-1,6
+1977,dijon,ensign,regazzoni,+1 Lap,-1,7
+1977,dijon,ligier,laffite,+2 Laps,-1,8
+1977,dijon,mclaren,mass,+2 Laps,-1,9
+1977,dijon,hesketh,keegan,+2 Laps,-1,10
+1977,dijon,fittipaldi,emerson_fittipaldi,+3 Laps,-1,11
+1977,dijon,tyrrell,peterson,+3 Laps,-1,12
+1977,dijon,surtees,brambilla,+3 Laps,-1,13
+1977,dijon,march,ian_scheckter,Not classified,-1,14
+1977,dijon,wolf,scheckter,Accident,-1,15
+1977,dijon,brabham,stuck,Accident,-1,16
+1977,dijon,shadow,jones,Transmission,-1,17
+1977,dijon,march,merzario,Gearbox,-1,18
+1977,dijon,tyrrell,depailler,Accident,-1,19
+1977,dijon,shadow,patrese,Engine,-1,20
+1977,dijon,lec,purley,Accident,-1,21
+1977,dijon,penske,jarier,Accident,-1,22
+1977,dijon,march,ribeiro,Did not qualify,-1,23
+1977,dijon,march,neve,Did not qualify,-1,24
+1977,dijon,mclaren,lunger,Did not qualify,-1,25
+1977,dijon,hesketh,ertl,Did not qualify,-1,26
+1977,dijon,surtees,perkins,Did not qualify,-1,27
+1977,dijon,hesketh,rebaque,Did not qualify,-1,28
+1977,dijon,surtees,tambay,Did not qualify,-1,29
+1977,dijon,brm,andersson,Did not qualify,-1,30

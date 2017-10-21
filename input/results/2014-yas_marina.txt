@@ -1,0 +1,20 @@
+2014,yas_marina,mercedes,hamilton,Finished,5942619,1
+2014,yas_marina,williams,massa,Finished,5945195,2
+2014,yas_marina,williams,bottas,Finished,5971499,3
+2014,yas_marina,red_bull,ricciardo,Finished,5979856,4
+2014,yas_marina,mclaren,button,Finished,6002953,5
+2014,yas_marina,force_india,hulkenberg,Finished,6004767,6
+2014,yas_marina,force_india,perez,Finished,6013679,7
+2014,yas_marina,red_bull,vettel,Finished,6014664,8
+2014,yas_marina,ferrari,alonso,Finished,6028432,9
+2014,yas_marina,ferrari,raikkonen,Finished,6030439,10
+2014,yas_marina,mclaren,kevin_magnussen,Finished,6032995,11
+2014,yas_marina,toro_rosso,vergne,Finished,6034566,12
+2014,yas_marina,lotus_f1,grosjean,+1 Lap,-1,13
+2014,yas_marina,mercedes,rosberg,+1 Lap,-1,14
+2014,yas_marina,sauber,gutierrez,+1 Lap,-1,15
+2014,yas_marina,sauber,sutil,+1 Lap,-1,16
+2014,yas_marina,caterham,stevens,+1 Lap,-1,17
+2014,yas_marina,caterham,kobayashi,Retired,-1,18
+2014,yas_marina,lotus_f1,maldonado,Power Unit,-1,19
+2014,yas_marina,toro_rosso,kvyat,Power Unit,-1,20

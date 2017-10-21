@@ -1,0 +1,28 @@
+1974,monaco,team_lotus,peterson,Finished,7083700,1
+1974,monaco,tyrrell,scheckter,Finished,7112500,2
+1974,monaco,shadow,jarier,Finished,7132600,3
+1974,monaco,ferrari,regazzoni,Finished,7146800,4
+1974,monaco,mclaren,emerson_fittipaldi,+1 Lap,-1,5
+1974,monaco,brabham,watson,+1 Lap,-1,6
+1974,monaco,lola,hill,+2 Laps,-1,7
+1974,monaco,lola,edwards,+3 Laps,-1,8
+1974,monaco,tyrrell,depailler,+4 Laps,-1,9
+1974,monaco,brm,pescarolo,Gearbox,-1,10
+1974,monaco,team_lotus,ickx,Engine,-1,11
+1974,monaco,ferrari,lauda,Ignition,-1,12
+1974,monaco,hesketh,hunt,Halfshaft,-1,13
+1974,monaco,mclaren,hailwood,Accident,-1,14
+1974,monaco,brabham,reutemann,Suspension,-1,15
+1974,monaco,brm,migault,Accident,-1,16
+1974,monaco,ensign,schuppan,Accident,-1,17
+1974,monaco,march,stuck,Collision,-1,18
+1974,monaco,brm,beltoise,Collision,-1,19
+1974,monaco,mclaren,hulme,Collision,-1,20
+1974,monaco,iso_marlboro,merzario,Collision,-1,21
+1974,monaco,march,brambilla,Collision,-1,22
+1974,monaco,shadow,redman,Collision,-1,23
+1974,monaco,surtees,pace,Collision,-1,24
+1974,monaco,trojan,schenken,Collision,-1,25
+1974,monaco,surtees,mass,Withdrew,-1,26
+1974,monaco,amon,amon,Withdrew,-1,27
+1974,monaco,brabham,opel,Did not qualify,-1,28

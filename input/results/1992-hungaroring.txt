@@ -1,0 +1,30 @@
+1992,hungaroring,mclaren,senna,Finished,6379216,1
+1992,hungaroring,williams,mansell,Finished,6419355,2
+1992,hungaroring,mclaren,berger,Finished,6429998,3
+1992,hungaroring,team_lotus,hakkinen,Finished,6433529,4
+1992,hungaroring,benetton,brundle,Finished,6436714,5
+1992,hungaroring,ferrari,capelli,+1 Lap,-1,6
+1992,hungaroring,footwork,alboreto,+2 Laps,-1,7
+1992,hungaroring,tyrrell,cesaris,+2 Laps,-1,8
+1992,hungaroring,march,belmondo,+3 Laps,-1,9
+1992,hungaroring,jordan,gugelmin,+4 Laps,-1,10
+1992,hungaroring,brabham,damon_hill,+4 Laps,-1,11
+1992,hungaroring,benetton,michael_schumacher,Broken wing,-1,12
+1992,hungaroring,williams,patrese,Engine,-1,13
+1992,hungaroring,dallara,martini,Gearbox,-1,14
+1992,hungaroring,larrousse,katayama,Engine,-1,15
+1992,hungaroring,ferrari,alesi,Spun off,-1,16
+1992,hungaroring,larrousse,gachot,Collision,-1,17
+1992,hungaroring,footwork,suzuki,Collision,-1,18
+1992,hungaroring,tyrrell,grouillard,Collision,-1,19
+1992,hungaroring,march,wendlinger,Collision,-1,20
+1992,hungaroring,jordan,modena,Collision,-1,21
+1992,hungaroring,fondmetal,poele,Spun off,-1,22
+1992,hungaroring,ligier,boutsen,Collision,-1,23
+1992,hungaroring,ligier,comas,Collision,-1,24
+1992,hungaroring,fondmetal,tarquini,Collision,-1,25
+1992,hungaroring,team_lotus,herbert,Collision,-1,26
+1992,hungaroring,minardi,morbidelli,Did not qualify,-1,27
+1992,hungaroring,dallara,lehto,Did not qualify,-1,28
+1992,hungaroring,minardi,zanardi,Did not qualify,-1,29
+1992,hungaroring,moda,moreno,Did not qualify,-1,30

@@ -1,0 +1,22 @@
+2014,hungaroring,red_bull,ricciardo,Finished,6785058,1
+2014,hungaroring,ferrari,alonso,Finished,6790283,2
+2014,hungaroring,mercedes,hamilton,Finished,6790915,3
+2014,hungaroring,mercedes,rosberg,Finished,6791419,4
+2014,hungaroring,williams,massa,Finished,6814899,5
+2014,hungaroring,ferrari,raikkonen,Finished,6816549,6
+2014,hungaroring,red_bull,vettel,Finished,6826022,7
+2014,hungaroring,williams,bottas,Finished,6826402,8
+2014,hungaroring,toro_rosso,vergne,Finished,6843585,9
+2014,hungaroring,mclaren,button,Finished,6852338,10
+2014,hungaroring,sauber,sutil,Finished,6853227,11
+2014,hungaroring,mclaren,kevin_magnussen,Finished,6863523,12
+2014,hungaroring,lotus_f1,maldonado,Finished,6869082,13
+2014,hungaroring,toro_rosso,kvyat,+1 Lap,-1,14
+2014,hungaroring,marussia,jules_bianchi,+1 Lap,-1,15
+2014,hungaroring,marussia,chilton,+1 Lap,-1,16
+2014,hungaroring,sauber,gutierrez,Retired,-1,17
+2014,hungaroring,caterham,kobayashi,Retired,-1,18
+2014,hungaroring,force_india,perez,Accident,-1,19
+2014,hungaroring,force_india,hulkenberg,Accident,-1,20
+2014,hungaroring,lotus_f1,grosjean,Accident,-1,21
+2014,hungaroring,caterham,ericsson,Accident,-1,22

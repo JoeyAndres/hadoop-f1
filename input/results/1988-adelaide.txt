@@ -1,0 +1,30 @@
+1988,adelaide,mclaren,prost,Finished,6794676,1
+1988,adelaide,mclaren,senna,Finished,6831063,2
+1988,adelaide,team_lotus,piquet,Finished,6842222,3
+1988,adelaide,williams,patrese,Finished,6874764,4
+1988,adelaide,benetton,boutsen,+1 Lap,-1,5
+1988,adelaide,march,capelli,+1 Lap,-1,6
+1988,adelaide,minardi,martini,+2 Laps,-1,7
+1988,adelaide,rial,cesaris,Out of fuel,-1,8
+1988,adelaide,ligier,johansson,Out of fuel,-1,9
+1988,adelaide,larrousse,alliot,Out of fuel,-1,10
+1988,adelaide,ags,streiff,Electrical,-1,11
+1988,adelaide,zakspeed,ghinzani,Fuel system,-1,12
+1988,adelaide,williams,mansell,Spun off,-1,13
+1988,adelaide,benetton,nannini,Spun off,-1,14
+1988,adelaide,eurobrun,modena,Halfshaft,-1,15
+1988,adelaide,arrows,warwick,Engine,-1,16
+1988,adelaide,arrows,cheever,Engine,-1,17
+1988,adelaide,march,gugelmin,Collision,-1,18
+1988,adelaide,team_lotus,satoru_nakajima,Collision,-1,19
+1988,adelaide,minardi,sala,Engine,-1,20
+1988,adelaide,dallara,caffi,Clutch,-1,21
+1988,adelaide,ferrari,berger,Collision,-1,22
+1988,adelaide,ligier,arnoux,Collision,-1,23
+1988,adelaide,tyrrell,palmer,Transmission,-1,24
+1988,adelaide,eurobrun,larrauri,Halfshaft,-1,25
+1988,adelaide,ferrari,alboreto,Collision,-1,26
+1988,adelaide,coloni,tarquini,Did not qualify,-1,27
+1988,adelaide,tyrrell,bailey,Did not qualify,-1,28
+1988,adelaide,larrousse,raphanel,Did not qualify,-1,29
+1988,adelaide,zakspeed,schneider,Did not qualify,-1,30

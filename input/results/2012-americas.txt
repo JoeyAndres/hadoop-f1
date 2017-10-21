@@ -1,0 +1,24 @@
+2012,americas,mclaren,hamilton,Finished,5755269,1
+2012,americas,red_bull,vettel,Finished,5755944,2
+2012,americas,ferrari,alonso,Finished,5794498,3
+2012,americas,ferrari,massa,Finished,5801282,4
+2012,americas,mclaren,button,Finished,5811701,5
+2012,americas,lotus_f1,raikkonen,Finished,5819694,6
+2012,americas,lotus_f1,grosjean,Finished,5825582,7
+2012,americas,force_india,hulkenberg,Finished,5829061,8
+2012,americas,williams,maldonado,Finished,5829794,9
+2012,americas,williams,bruno_senna,Finished,5830402,10
+2012,americas,sauber,perez,Finished,5839610,11
+2012,americas,toro_rosso,ricciardo,Finished,5840140,12
+2012,americas,mercedes,rosberg,Finished,5840779,13
+2012,americas,sauber,kobayashi,+1 Lap,-1,14
+2012,americas,force_india,resta,+1 Lap,-1,15
+2012,americas,mercedes,michael_schumacher,+1 Lap,-1,16
+2012,americas,caterham,petrov,+1 Lap,-1,17
+2012,americas,caterham,kovalainen,+1 Lap,-1,18
+2012,americas,marussia,glock,+1 Lap,-1,19
+2012,americas,marussia,pic,+2 Laps,-1,20
+2012,americas,hrt,rosa,+2 Laps,-1,21
+2012,americas,hrt,karthikeyan,+2 Laps,-1,22
+2012,americas,red_bull,webber,Alternator,-1,23
+2012,americas,toro_rosso,vergne,Suspension,-1,24

@@ -1,0 +1,29 @@
+1976,zolder,ferrari,lauda,Finished,6173230,1
+1976,zolder,ferrari,regazzoni,Finished,6176690,2
+1976,zolder,ligier,laffite,Finished,6208610,3
+1976,zolder,tyrrell,scheckter,Finished,6264230,4
+1976,zolder,surtees,jones,+1 Lap,-1,5
+1976,zolder,mclaren,mass,+1 Lap,-1,6
+1976,zolder,penske,watson,+1 Lap,-1,7
+1976,zolder,boro,perkins,+1 Lap,-1,8
+1976,zolder,shadow,jarier,+1 Lap,-1,9
+1976,zolder,shadow,pryce,+2 Laps,-1,10
+1976,zolder,wolf,leclere,+2 Laps,-1,11
+1976,zolder,brabham-ford,kessel,+7 Laps,-1,12
+1976,zolder,surtees,lunger,Electrical,-1,13
+1976,zolder,brabham-alfa_romeo,pace,Electrical,-1,14
+1976,zolder,ensign,amon,Accident,-1,15
+1976,zolder,mclaren,hunt,Gearbox,-1,16
+1976,zolder,march,stuck,Suspension,-1,17
+1976,zolder,hesketh,ertl,Engine,-1,18
+1976,zolder,tyrrell,depailler,Engine,-1,19
+1976,zolder,team_lotus,mario_andretti,Halfshaft,-1,20
+1976,zolder,brabham-ford,neve,Halfshaft,-1,21
+1976,zolder,march,merzario,Engine,-1,22
+1976,zolder,brabham-alfa_romeo,reutemann,Engine,-1,23
+1976,zolder,march,peterson,Accident,-1,24
+1976,zolder,team_lotus,nilsson,Accident,-1,25
+1976,zolder,march,brambilla,Halfshaft,-1,26
+1976,zolder,fittipaldi,emerson_fittipaldi,Did not qualify,-1,27
+1976,zolder,wolf,ickx,Did not qualify,-1,28
+1976,zolder,hesketh,edwards,Did not qualify,-1,29

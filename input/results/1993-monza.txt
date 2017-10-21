@@ -1,0 +1,26 @@
+1993,monza,williams,damon_hill,Finished,4627509,1
+1993,monza,ferrari,alesi,Finished,4667521,2
+1993,monza,mclaren,andretti,+1 Lap,-1,3
+1993,monza,sauber,wendlinger,+1 Lap,-1,4
+1993,monza,benetton,patrese,+1 Lap,-1,5
+1993,monza,larrousse,comas,+1 Lap,-1,6
+1993,monza,minardi,martini,+2 Laps,-1,7
+1993,monza,minardi,fittipaldi,+2 Laps,-1,8
+1993,monza,larrousse,alliot,+2 Laps,-1,9
+1993,monza,lola,badoer,+2 Laps,-1,10
+1993,monza,team_lotus,lamy,Electrical,-1,11
+1993,monza,williams,prost,Engine,-1,12
+1993,monza,tyrrell,cesaris,Oil pressure,-1,13
+1993,monza,tyrrell,katayama,+6 Laps,-1,14
+1993,monza,lola,alboreto,Suspension,-1,15
+1993,monza,benetton,michael_schumacher,Engine,-1,16
+1993,monza,ligier,blundell,Spun off,-1,17
+1993,monza,ferrari,berger,Suspension,-1,18
+1993,monza,team_lotus,herbert,Spun off,-1,19
+1993,monza,ligier,brundle,Collision,-1,20
+1993,monza,mclaren,senna,Collision,-1,21
+1993,monza,footwork,suzuki,Collision,-1,22
+1993,monza,footwork,warwick,Collision,-1,23
+1993,monza,sauber,lehto,Collision,-1,24
+1993,monza,jordan,barrichello,Collision,-1,25
+1993,monza,jordan,apicella,Collision,-1,26

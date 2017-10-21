@@ -1,0 +1,25 @@
+1985,detroit,williams,keke_rosberg,Finished,6939851,1
+1985,detroit,ferrari,johansson,Finished,6997400,2
+1985,detroit,ferrari,alboreto,Finished,7003021,3
+1985,detroit,tyrrell,bellof,Finished,7006076,4
+1985,detroit,team_lotus,angelis,Finished,7026817,5
+1985,detroit,brabham,piquet,+1 Lap,-1,6
+1985,detroit,arrows,boutsen,+1 Lap,-1,7
+1985,detroit,brabham,surer,+1 Lap,-1,8
+1985,detroit,alfa,cheever,+2 Laps,-1,9
+1985,detroit,ligier,cesaris,+2 Laps,-1,10
+1985,detroit,arrows,berger,+3 Laps,-1,11
+1985,detroit,ligier,laffite,+5 Laps,-1,12
+1985,detroit,team_lotus,senna,Accident,-1,13
+1985,detroit,tyrrell,brundle,Accident,-1,14
+1985,detroit,ram,alliot,Accident,-1,15
+1985,detroit,williams,mansell,Accident,-1,16
+1985,detroit,mclaren,prost,Brakes,-1,17
+1985,detroit,alfa,patrese,Electrical,-1,18
+1985,detroit,renault,warwick,Transmission,-1,19
+1985,detroit,renault,tambay,Accident,-1,20
+1985,detroit,minardi,martini,Engine,-1,21
+1985,detroit,mclaren,lauda,Brakes,-1,22
+1985,detroit,toleman,fabi,Clutch,-1,23
+1985,detroit,ram,manfred_winkelhock,Turbo,-1,24
+1985,detroit,osella,ghinzani,Accident,-1,25

@@ -1,0 +1,30 @@
+1990,ricard,ferrari,prost,Finished,5609606,1
+1990,ricard,leyton,capelli,Finished,5618232,2
+1990,ricard,mclaren,senna,Finished,5621212,3
+1990,ricard,benetton,piquet,Finished,5650813,4
+1990,ricard,mclaren,berger,Finished,5651825,5
+1990,ricard,williams,patrese,Finished,5678957,6
+1990,ricard,larrousse,suzuki,+1 Lap,-1,7
+1990,ricard,larrousse,bernard,+1 Lap,-1,8
+1990,ricard,ligier,alliot,+1 Lap,-1,9
+1990,ricard,arrows,alboreto,+1 Lap,-1,10
+1990,ricard,team_lotus,warwick,+1 Lap,-1,11
+1990,ricard,team_lotus,donnelly,+1 Lap,-1,12
+1990,ricard,brabham,modena,+2 Laps,-1,13
+1990,ricard,ligier,larini,+2 Laps,-1,14
+1990,ricard,brabham,brabham,+3 Laps,-1,15
+1990,ricard,benetton,nannini,Electrical,-1,16
+1990,ricard,ags,dalmas,+5 Laps,-1,17
+1990,ricard,ferrari,mansell,Engine,-1,18
+1990,ricard,dallara,cesaris,Disqualified,-1,19
+1990,ricard,tyrrell,satoru_nakajima,Gearbox,-1,20
+1990,ricard,leyton,gugelmin,Engine,-1,21
+1990,ricard,minardi,martini,Electrical,-1,22
+1990,ricard,tyrrell,alesi,Differential,-1,23
+1990,ricard,arrows,caffi,Suspension,-1,24
+1990,ricard,williams,boutsen,Engine,-1,25
+1990,ricard,dallara,pirro,Brakes,-1,26
+1990,ricard,minardi,barilla,Did not qualify,-1,27
+1990,ricard,ags,tarquini,Did not qualify,-1,28
+1990,ricard,onyx,foitek,Did not qualify,-1,29
+1990,ricard,onyx,lehto,Did not qualify,-1,30

@@ -1,0 +1,30 @@
+1974,dijon,team_lotus,peterson,Finished,4915020,1
+1974,dijon,ferrari,lauda,Finished,4935380,2
+1974,dijon,ferrari,regazzoni,Finished,4942860,3
+1974,dijon,tyrrell,scheckter,Finished,4943130,4
+1974,dijon,team_lotus,ickx,Finished,4952560,5
+1974,dijon,mclaren,hulme,Finished,4953160,6
+1974,dijon,mclaren,hailwood,+1 Lap,-1,7
+1974,dijon,tyrrell,depailler,+1 Lap,-1,8
+1974,dijon,iso_marlboro,merzario,+1 Lap,-1,9
+1974,dijon,brm,beltoise,+1 Lap,-1,10
+1974,dijon,march,brambilla,+1 Lap,-1,11
+1974,dijon,shadow,jarier,+1 Lap,-1,12
+1974,dijon,lola,hill,+2 Laps,-1,13
+1974,dijon,brm,migault,+2 Laps,-1,14
+1974,dijon,lola,edwards,+3 Laps,-1,15
+1974,dijon,brabham,watson,+4 Laps,-1,16
+1974,dijon,mclaren,emerson_fittipaldi,Engine,-1,17
+1974,dijon,brabham,reutemann,Handling,-1,18
+1974,dijon,surtees,mass,Clutch,-1,19
+1974,dijon,shadow,pryce,Collision,-1,20
+1974,dijon,brm,pescarolo,Clutch,-1,21
+1974,dijon,hesketh,hunt,Collision,-1,22
+1974,dijon,ensign,schuppan,Did not qualify,-1,23
+1974,dijon,brabham,opel,Did not qualify,-1,24
+1974,dijon,brabham,pace,Did not qualify,-1,25
+1974,dijon,iso_marlboro,jabouille,Did not qualify,-1,26
+1974,dijon,march,stuck,Did not qualify,-1,27
+1974,dijon,surtees,dolhem,Did not qualify,-1,28
+1974,dijon,surtees,kinnunen,Did not qualify,-1,29
+1974,dijon,brabham,larrousse,Did not qualify,-1,30

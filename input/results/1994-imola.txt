@@ -1,0 +1,28 @@
+1994,imola,benetton,michael_schumacher,Finished,5308642,1
+1994,imola,ferrari,larini,Finished,5363584,2
+1994,imola,mclaren,hakkinen,Finished,5379321,3
+1994,imola,sauber,wendlinger,Finished,5382300,4
+1994,imola,tyrrell,katayama,+1 Lap,-1,5
+1994,imola,williams,damon_hill,+1 Lap,-1,6
+1994,imola,sauber,frentzen,+1 Lap,-1,7
+1994,imola,mclaren,brundle,+1 Lap,-1,8
+1994,imola,tyrrell,blundell,+2 Laps,-1,9
+1994,imola,team_lotus,herbert,+2 Laps,-1,10
+1994,imola,ligier,panis,+2 Laps,-1,11
+1994,imola,ligier,bernard,+3 Laps,-1,12
+1994,imola,footwork,fittipaldi,Spun off,-1,13
+1994,imola,jordan,cesaris,Spun off,-1,14
+1994,imola,minardi,alboreto,Wheel,-1,15
+1994,imola,footwork,morbidelli,Engine,-1,16
+1994,imola,minardi,martini,Spun off,-1,17
+1994,imola,simtek,brabham,Spun off,-1,18
+1994,imola,pacific,gachot,Engine,-1,19
+1994,imola,larrousse,beretta,Engine,-1,20
+1994,imola,ferrari,berger,Suspension,-1,21
+1994,imola,williams,senna,Accident,-1,22
+1994,imola,larrousse,comas,Withdrew,-1,23
+1994,imola,benetton,lehto,Collision,-1,24
+1994,imola,team_lotus,lamy,Collision,-1,25
+1994,imola,simtek,ratzenberger,Accident,-1,26
+1994,imola,jordan,barrichello,Injury,-1,27
+1994,imola,pacific,belmondo,Did not qualify,-1,28

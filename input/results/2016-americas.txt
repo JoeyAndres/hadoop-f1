@@ -1,0 +1,22 @@
+2016,americas,mercedes,hamilton,Finished,5892618,1
+2016,americas,mercedes,rosberg,Finished,5897138,2
+2016,americas,red_bull,ricciardo,Finished,5912310,3
+2016,americas,ferrari,vettel,Finished,5935752,4
+2016,americas,mclaren,alonso,Finished,5986571,5
+2016,americas,toro_rosso,sainz,Finished,5988742,6
+2016,americas,williams,massa,+1 Lap,-1,7
+2016,americas,force_india,perez,+1 Lap,-1,8
+2016,americas,mclaren,button,+1 Lap,-1,9
+2016,americas,haas,grosjean,+1 Lap,-1,10
+2016,americas,toro_rosso,kvyat,+1 Lap,-1,11
+2016,americas,renault,kevin_magnussen,+1 Lap,-1,12
+2016,americas,renault,jolyon_palmer,+1 Lap,-1,13
+2016,americas,sauber,ericsson,+1 Lap,-1,14
+2016,americas,sauber,nasr,+1 Lap,-1,15
+2016,americas,williams,bottas,+1 Lap,-1,16
+2016,americas,manor,wehrlein,+1 Lap,-1,17
+2016,americas,manor,ocon,+2 Laps,-1,18
+2016,americas,ferrari,raikkonen,Wheel,-1,19
+2016,americas,red_bull,max_verstappen,Gearbox,-1,20
+2016,americas,haas,gutierrez,Brakes,-1,21
+2016,americas,force_india,hulkenberg,Collision,-1,22

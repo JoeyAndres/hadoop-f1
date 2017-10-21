@@ -1,0 +1,29 @@
+1976,monza,march,peterson,Finished,5435600,1
+1976,monza,ferrari,regazzoni,Finished,5437900,2
+1976,monza,ligier,laffite,Finished,5438600,3
+1976,monza,ferrari,lauda,Finished,5455000,4
+1976,monza,tyrrell,scheckter,Finished,5455100,5
+1976,monza,tyrrell,depailler,Finished,5471300,6
+1976,monza,march,brambilla,Finished,5479500,7
+1976,monza,shadow,pryce,Finished,5488500,8
+1976,monza,ferrari,reutemann,Finished,5493100,9
+1976,monza,ensign,ickx,Finished,5508000,10
+1976,monza,penske,watson,Finished,5537800,11
+1976,monza,surtees,jones,+1 Lap,-1,12
+1976,monza,team_lotus,nilsson,+1 Lap,-1,13
+1976,monza,surtees,lunger,+2 Laps,-1,14
+1976,monza,fittipaldi,emerson_fittipaldi,+2 Laps,-1,15
+1976,monza,hesketh,ertl,Halfshaft,-1,16
+1976,monza,surtees,pescarolo,+3 Laps,-1,17
+1976,monza,tyrrell,pesenti_rossi,+3 Laps,-1,18
+1976,monza,shadow,jarier,+5 Laps,-1,19
+1976,monza,brabham-alfa_romeo,stommelen,Fuel system,-1,20
+1976,monza,march,stuck,Accident,-1,21
+1976,monza,team_lotus,mario_andretti,Accident,-1,22
+1976,monza,mclaren,hunt,Spun off,-1,23
+1976,monza,boro,perkins,Engine,-1,24
+1976,monza,brabham-alfa_romeo,pace,Engine,-1,25
+1976,monza,mclaren,mass,Ignition,-1,26
+1976,monza,hesketh,edwards,Withdrew,-1,27
+1976,monza,wolf,merzario,Withdrew,-1,28
+1976,monza,tyrrell,stuppacher,Withdrew,-1,29

@@ -1,0 +1,28 @@
+1983,villeneuve,ferrari,arnoux,Finished,6511838,1
+1983,villeneuve,renault,cheever,Finished,6553867,2
+1983,villeneuve,ferrari,tambay,Finished,6564448,3
+1983,villeneuve,williams,keke_rosberg,Finished,6588886,4
+1983,villeneuve,renault,prost,+1 Lap,-1,5
+1983,villeneuve,mclaren,watson,+1 Lap,-1,6
+1983,villeneuve,arrows,boutsen,+1 Lap,-1,7
+1983,villeneuve,tyrrell,alboreto,+2 Laps,-1,8
+1983,villeneuve,ats,manfred_winkelhock,+3 Laps,-1,9
+1983,villeneuve,alfa,baldi,+3 Laps,-1,10
+1983,villeneuve,tyrrell,sullivan,Disqualified,-1,11
+1983,villeneuve,brabham,patrese,Gearbox,-1,12
+1983,villeneuve,toleman,warwick,Turbo,-1,13
+1983,villeneuve,toleman,giacomelli,Engine,-1,14
+1983,villeneuve,team_lotus,mansell,Handling,-1,15
+1983,villeneuve,alfa,cesaris,Engine,-1,16
+1983,villeneuve,williams,laffite,Gearbox,-1,17
+1983,villeneuve,ligier,boesel,Halfshaft,-1,18
+1983,villeneuve,theodore,guerrero,Engine,-1,19
+1983,villeneuve,osella,corrado_fabi,Engine,-1,20
+1983,villeneuve,theodore,cecotto,Differential,-1,21
+1983,villeneuve,brabham,piquet,Throttle,-1,22
+1983,villeneuve,mclaren,lauda,Spun off,-1,23
+1983,villeneuve,team_lotus,angelis,Throttle,-1,24
+1983,villeneuve,arrows,surer,Transmission,-1,25
+1983,villeneuve,ligier,jarier,Gearbox,-1,26
+1983,villeneuve,ram,villeneuve_sr,Did not qualify,-1,27
+1983,villeneuve,osella,ghinzani,Did not qualify,-1,28

@@ -1,0 +1,24 @@
+2010,sepang,red_bull,vettel,Finished,5628412,1
+2010,sepang,red_bull,webber,Finished,5633261,2
+2010,sepang,mercedes,rosberg,Finished,5641916,3
+2010,sepang,renault,kubica,Finished,5647001,4
+2010,sepang,force_india,sutil,Finished,5649471,5
+2010,sepang,mclaren,hamilton,Finished,5651883,6
+2010,sepang,ferrari,massa,Finished,5655480,7
+2010,sepang,mclaren,button,Finished,5666330,8
+2010,sepang,toro_rosso,alguersuari,Finished,5699014,9
+2010,sepang,williams,hulkenberg,Finished,5701811,10
+2010,sepang,toro_rosso,buemi,Finished,5707350,11
+2010,sepang,williams,barrichello,+1 Lap,-1,12
+2010,sepang,ferrari,alonso,Engine,-1,13
+2010,sepang,virgin,grassi,+3 Laps,-1,14
+2010,sepang,hrt,chandhok,+3 Laps,-1,15
+2010,sepang,hrt,bruno_senna,+4 Laps,-1,16
+2010,sepang,lotus_racing,trulli,+5 Laps,-1,17
+2010,sepang,lotus_racing,kovalainen,+10 Laps,-1,18
+2010,sepang,renault,petrov,Gearbox,-1,19
+2010,sepang,force_india,liuzzi,Throttle,-1,20
+2010,sepang,mercedes,michael_schumacher,Wheel,-1,21
+2010,sepang,sauber,kobayashi,Engine,-1,22
+2010,sepang,virgin,glock,Spun off,-1,23
+2010,sepang,sauber,rosa,Engine,-1,24

@@ -1,0 +1,24 @@
+2010,bahrain,ferrari,alonso,Finished,5960396,1
+2010,bahrain,ferrari,massa,Finished,5976495,2
+2010,bahrain,mclaren,hamilton,Finished,5983578,3
+2010,bahrain,red_bull,vettel,Finished,5999195,4
+2010,bahrain,mercedes,rosberg,Finished,6000609,5
+2010,bahrain,mercedes,michael_schumacher,Finished,6004559,6
+2010,bahrain,mclaren,button,Finished,6005676,7
+2010,bahrain,red_bull,webber,Finished,6006756,8
+2010,bahrain,force_india,liuzzi,Finished,6013404,9
+2010,bahrain,williams,barrichello,Finished,6022885,10
+2010,bahrain,renault,kubica,Finished,6029489,11
+2010,bahrain,force_india,sutil,Finished,6043354,12
+2010,bahrain,toro_rosso,alguersuari,Finished,6053052,13
+2010,bahrain,williams,hulkenberg,+1 Lap,-1,14
+2010,bahrain,lotus_racing,kovalainen,+2 Laps,-1,15
+2010,bahrain,toro_rosso,buemi,Electrical,-1,16
+2010,bahrain,lotus_racing,trulli,Hydraulics,-1,17
+2010,bahrain,sauber,rosa,Hydraulics,-1,18
+2010,bahrain,hrt,bruno_senna,Overheating,-1,19
+2010,bahrain,virgin,glock,Gearbox,-1,20
+2010,bahrain,renault,petrov,Suspension,-1,21
+2010,bahrain,sauber,kobayashi,Hydraulics,-1,22
+2010,bahrain,virgin,grassi,Hydraulics,-1,23
+2010,bahrain,hrt,chandhok,Accident,-1,24

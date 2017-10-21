@@ -1,0 +1,22 @@
+2016,red_bull_ring,mercedes,hamilton,Finished,5258107,1
+2016,red_bull_ring,red_bull,max_verstappen,Finished,5263826,2
+2016,red_bull_ring,ferrari,raikkonen,Finished,5264131,3
+2016,red_bull_ring,mercedes,rosberg,Finished,5274817,4
+2016,red_bull_ring,red_bull,ricciardo,Finished,5289088,5
+2016,red_bull_ring,mclaren,button,Finished,5295813,6
+2016,red_bull_ring,haas,grosjean,Finished,5302775,7
+2016,red_bull_ring,toro_rosso,sainz,Finished,5305507,8
+2016,red_bull_ring,williams,bottas,+1 Lap,-1,9
+2016,red_bull_ring,manor,wehrlein,+1 Lap,-1,10
+2016,red_bull_ring,haas,gutierrez,+1 Lap,-1,11
+2016,red_bull_ring,renault,jolyon_palmer,+1 Lap,-1,12
+2016,red_bull_ring,sauber,nasr,+1 Lap,-1,13
+2016,red_bull_ring,renault,kevin_magnussen,+1 Lap,-1,14
+2016,red_bull_ring,sauber,ericsson,+1 Lap,-1,15
+2016,red_bull_ring,manor,haryanto,+1 Lap,-1,16
+2016,red_bull_ring,force_india,perez,Brakes,-1,17
+2016,red_bull_ring,mclaren,alonso,Battery,-1,18
+2016,red_bull_ring,force_india,hulkenberg,Brakes,-1,19
+2016,red_bull_ring,williams,massa,Brakes,-1,20
+2016,red_bull_ring,ferrari,vettel,Tyre,-1,21
+2016,red_bull_ring,toro_rosso,kvyat,Retired,-1,22

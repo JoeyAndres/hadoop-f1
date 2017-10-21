@@ -1,0 +1,26 @@
+1951,reims,alfa,fangio,Finished,12131000,1
+1951,reims,alfa,fagioli,Finished,12131000,1
+1951,reims,ferrari,ascari,Finished,12189200,2
+1951,reims,ferrari,gonzalez,Finished,12189200,2
+1951,reims,ferrari,villoresi,+3 Laps,-1,3
+1951,reims,ferrari,reg_parnell,+4 Laps,-1,4
+1951,reims,alfa,farina,+4 Laps,-1,5
+1951,reims,lago,chiron,+6 Laps,-1,6
+1951,reims,lago,cabantous,+6 Laps,-1,7
+1951,reims,lago,chaboud,+8 Laps,-1,8
+1951,reims,lago,guy_mairesse,+11 Laps,-1,9
+1951,reims,alfa,sanesi,+19 Laps,-1,10
+1951,reims,alfa,fagioli,+22 Laps,-1,11
+1951,reims,alfa,fangio,+22 Laps,-1,11
+1951,reims,lago,claes,Accident,-1,12
+1951,reims,lago,rosier,Transmission,-1,13
+1951,reims,lago,etancelin,Engine,-1,14
+1951,reims,simca,gordini,Engine,-1,15
+1951,reims,maserati,schell,Overheating,-1,16
+1951,reims,simca,trintignant,Engine,-1,17
+1951,reims,ferrari,ascari,Gearbox,-1,18
+1951,reims,simca,simon,Engine,-1,19
+1951,reims,simca,manzon,Engine,-1,20
+1951,reims,maserati,marimon,Engine,-1,21
+1951,reims,maserati,graffenried,Transmission,-1,22
+1951,reims,ferrari,whitehead,Engine,-1,23

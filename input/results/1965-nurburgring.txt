@@ -1,0 +1,21 @@
+1965,nurburgring,lotus-climax,clark,Finished,7672400,1
+1965,nurburgring,brm,hill,Finished,7688300,2
+1965,nurburgring,brabham-climax,gurney,Finished,7693800,3
+1965,nurburgring,cooper-climax,rindt,Finished,7882000,4
+1965,nurburgring,brabham-climax,jack_brabham,Finished,7953600,5
+1965,nurburgring,ferrari,bandini,Finished,7981000,6
+1965,nurburgring,brabham-climax,bonnier,Finished,8030900,7
+1965,nurburgring,brm,gregory,+1 Lap,-1,8
+1965,nurburgring,ferrari,surtees,Gearbox,-1,9
+1965,nurburgring,brabham-brm,siffert,Engine,-1,10
+1965,nurburgring,lotus-climax,spence,Transmission,-1,11
+1965,nurburgring,lotus-climax,mitter,Water leak,-1,12
+1965,nurburgring,lotus-brm,attwood,Water leak,-1,13
+1965,nurburgring,cooper-climax,mclaren,Gearbox,-1,14
+1965,nurburgring,brabham-climax,hulme,Fuel leak,-1,15
+1965,nurburgring,lotus-brm,amon,Electrical,-1,16
+1965,nurburgring,lotus-climax,hawkins,Oil leak,-1,17
+1965,nurburgring,brm,stewart,Suspension,-1,18
+1965,nurburgring,brabham-brm,gardner,Gearbox,-1,19
+1965,nurburgring,brm,bussinello,Did not qualify,-1,20
+1965,nurburgring,brabham-climax,raby,Did not qualify,-1,21

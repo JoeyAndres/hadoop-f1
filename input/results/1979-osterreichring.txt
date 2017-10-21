@@ -1,0 +1,26 @@
+1979,osterreichring,williams,jones,Finished,5258010,1
+1979,osterreichring,ferrari,gilles_villeneuve,Finished,5294060,2
+1979,osterreichring,ligier,laffite,Finished,5304780,3
+1979,osterreichring,ferrari,scheckter,Finished,5305220,4
+1979,osterreichring,williams,regazzoni,Finished,5306930,5
+1979,osterreichring,renault,arnoux,+1 Lap,-1,6
+1979,osterreichring,tyrrell,pironi,+1 Lap,-1,7
+1979,osterreichring,tyrrell,daly,+1 Lap,-1,8
+1979,osterreichring,mclaren,watson,+1 Lap,-1,9
+1979,osterreichring,mclaren,tambay,+1 Lap,-1,10
+1979,osterreichring,brabham-alfa_romeo,lauda,Engine,-1,11
+1979,osterreichring,ensign,gaillard,Suspension,-1,12
+1979,osterreichring,arrows,patrese,Suspension,-1,13
+1979,osterreichring,shadow,angelis,Engine,-1,14
+1979,osterreichring,brabham-alfa_romeo,piquet,Engine,-1,15
+1979,osterreichring,ats,stuck,Engine,-1,16
+1979,osterreichring,ligier,ickx,Engine,-1,17
+1979,osterreichring,team_lotus,reutemann,Handling,-1,18
+1979,osterreichring,renault,jabouille,Gearbox,-1,19
+1979,osterreichring,wolf,keke_rosberg,Electrical,-1,20
+1979,osterreichring,fittipaldi,emerson_fittipaldi,Brakes,-1,21
+1979,osterreichring,shadow,lammers,Accident,-1,22
+1979,osterreichring,arrows,mass,Engine,-1,23
+1979,osterreichring,team_lotus,mario_andretti,Clutch,-1,24
+1979,osterreichring,team_lotus,rebaque,Did not qualify,-1,25
+1979,osterreichring,merzario,merzario,Did not qualify,-1,26

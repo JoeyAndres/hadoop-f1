@@ -1,0 +1,18 @@
+2015,albert_park,mercedes,hamilton,Finished,5514067,1
+2015,albert_park,mercedes,rosberg,Finished,5515427,2
+2015,albert_park,ferrari,vettel,Finished,5548590,3
+2015,albert_park,williams,massa,Finished,5552263,4
+2015,albert_park,sauber,nasr,Finished,5609216,5
+2015,albert_park,red_bull,ricciardo,+1 Lap,-1,6
+2015,albert_park,force_india,hulkenberg,+1 Lap,-1,7
+2015,albert_park,sauber,ericsson,+1 Lap,-1,8
+2015,albert_park,toro_rosso,sainz,+1 Lap,-1,9
+2015,albert_park,force_india,perez,+1 Lap,-1,10
+2015,albert_park,mclaren,button,+2 Laps,-1,11
+2015,albert_park,ferrari,raikkonen,Wheel,-1,12
+2015,albert_park,toro_rosso,max_verstappen,Engine,-1,13
+2015,albert_park,lotus_f1,grosjean,Power loss,-1,14
+2015,albert_park,lotus_f1,maldonado,Accident,-1,15
+2015,albert_park,red_bull,kvyat,Withdrew,-1,16
+2015,albert_park,mclaren,kevin_magnussen,Withdrew,-1,17
+2015,albert_park,williams,bottas,Withdrew,-1,18

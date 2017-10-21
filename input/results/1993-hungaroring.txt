@@ -1,0 +1,26 @@
+1993,hungaroring,williams,damon_hill,Finished,6459098,1
+1993,hungaroring,benetton,patrese,Finished,6531013,2
+1993,hungaroring,ferrari,berger,Finished,6537140,3
+1993,hungaroring,footwork,warwick,+1 Lap,-1,4
+1993,hungaroring,ligier,brundle,+1 Lap,-1,5
+1993,hungaroring,sauber,wendlinger,+1 Lap,-1,6
+1993,hungaroring,ligier,blundell,+1 Lap,-1,7
+1993,hungaroring,larrousse,alliot,+2 Laps,-1,8
+1993,hungaroring,jordan,boutsen,+2 Laps,-1,9
+1993,hungaroring,tyrrell,katayama,+4 Laps,-1,10
+1993,hungaroring,tyrrell,cesaris,+5 Laps,-1,11
+1993,hungaroring,williams,prost,+7 Laps,-1,12
+1993,hungaroring,minardi,martini,Accident,-1,13
+1993,hungaroring,larrousse,comas,Engine,-1,14
+1993,hungaroring,team_lotus,zanardi,Gearbox,-1,15
+1993,hungaroring,footwork,suzuki,Spun off,-1,16
+1993,hungaroring,lola,alboreto,Overheating,-1,17
+1993,hungaroring,team_lotus,herbert,Spun off,-1,18
+1993,hungaroring,lola,badoer,Spun off,-1,19
+1993,hungaroring,benetton,michael_schumacher,Fuel pump,-1,20
+1993,hungaroring,minardi,fittipaldi,Suspension,-1,21
+1993,hungaroring,ferrari,alesi,Spun off,-1,22
+1993,hungaroring,sauber,lehto,Engine,-1,23
+1993,hungaroring,mclaren,senna,Throttle,-1,24
+1993,hungaroring,mclaren,andretti,Throttle,-1,25
+1993,hungaroring,jordan,barrichello,Accident,-1,26

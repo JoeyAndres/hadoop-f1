@@ -1,0 +1,17 @@
+1967,zandvoort,lotus-ford,clark,Finished,8085100,1
+1967,zandvoort,brabham-repco,jack_brabham,Finished,8108700,2
+1967,zandvoort,brabham-repco,hulme,Finished,8110800,3
+1967,zandvoort,ferrari,amon,Finished,8112400,4
+1967,zandvoort,ferrari,parkes,+1 Lap,-1,5
+1967,zandvoort,ferrari,scarfiotti,+1 Lap,-1,6
+1967,zandvoort,lotus-brm,irwin,+2 Laps,-1,7
+1967,zandvoort,brm,spence,+3 Laps,-1,8
+1967,zandvoort,brabham-climax,anderson,+4 Laps,-1,9
+1967,zandvoort,cooper-maserati,siffert,+7 Laps,-1,10
+1967,zandvoort,honda,surtees,Throttle,-1,11
+1967,zandvoort,brm,stewart,Brakes,-1,12
+1967,zandvoort,cooper-maserati,rindt,Suspension,-1,13
+1967,zandvoort,cooper-maserati,rodriguez,Gearbox,-1,14
+1967,zandvoort,lotus-ford,hill,Engine,-1,15
+1967,zandvoort,eagle-weslake,gurney,Injection,-1,16
+1967,zandvoort,mclaren-brm,mclaren,Accident,-1,17

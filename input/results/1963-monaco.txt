@@ -1,0 +1,25 @@
+1963,monaco,brm,hill,Finished,9709700,1
+1963,monaco,brm,ginther,Finished,9714300,2
+1963,monaco,cooper-climax,mclaren,Finished,9722500,3
+1963,monaco,ferrari,surtees,Finished,9723800,4
+1963,monaco,cooper-climax,maggs,+2 Laps,-1,5
+1963,monaco,lotus-climax,trevor_taylor,+2 Laps,-1,6
+1963,monaco,cooper-climax,bonnier,+6 Laps,-1,7
+1963,monaco,lotus-climax,clark,Gearbox,-1,8
+1963,monaco,lotus-climax,jack_brabham,Gearbox,-1,9
+1963,monaco,lotus-brm,ireland,Accident,-1,10
+1963,monaco,ferrari,mairesse,Gearbox,-1,11
+1963,monaco,lola,trintignant,Clutch,-1,12
+1963,monaco,brabham,gurney,Differential,-1,13
+1963,monaco,lotus-brm,hall,Gearbox,-1,14
+1963,monaco,lotus-brm,siffert,Engine,-1,15
+1963,monaco,lola,amon,Withdrew,-1,16
+1963,monaco,lotus-climax,collomb,Did not qualify,-1,17
+1963,monaco,ats,phil_hill,Withdrew,-1,18
+1963,monaco,ats,baghetti,Withdrew,-1,19
+1963,monaco,lotus-brm,campbell-jones,Withdrew,-1,20
+1963,monaco,scirocco,burgess,Withdrew,-1,21
+1963,monaco,scirocco,settember,Withdrew,-1,22
+1963,monaco,tomaso,estefano,Withdrew,-1,23
+1963,monaco,brm,bandini,Withdrew,-1,24
+1963,monaco,porsche,beaufort,Withdrew,-1,25

@@ -1,0 +1,24 @@
+1970,zandvoort,team_lotus,rindt,Finished,6643400,1
+1970,zandvoort,march,stewart,Finished,6673400,2
+1970,zandvoort,ferrari,ickx,+1 Lap,-1,3
+1970,zandvoort,ferrari,regazzoni,+1 Lap,-1,4
+1970,zandvoort,matra,beltoise,+1 Lap,-1,5
+1970,zandvoort,mclaren-ford,surtees,+1 Lap,-1,6
+1970,zandvoort,team_lotus,miles,+2 Laps,-1,7
+1970,zandvoort,matra,pescarolo,+2 Laps,-1,8
+1970,zandvoort,march,peterson,+2 Laps,-1,9
+1970,zandvoort,brm,rodriguez,+3 Laps,-1,10
+1970,zandvoort,brabham,jack_brabham,+4 Laps,-1,11
+1970,zandvoort,team_lotus,hill,Not classified,-1,12
+1970,zandvoort,march,cevert,Engine,-1,13
+1970,zandvoort,brm,eaton,Oil leak,-1,14
+1970,zandvoort,brm,oliver,Engine,-1,15
+1970,zandvoort,tomaso,courage,Accident,-1,16
+1970,zandvoort,march,siffert,Engine,-1,17
+1970,zandvoort,mclaren-ford,gethin,Accident,-1,18
+1970,zandvoort,mclaren-ford,gurney,Engine,-1,19
+1970,zandvoort,march,amon,Clutch,-1,20
+1970,zandvoort,mclaren-alfa_romeo,adamich,Did not qualify,-1,21
+1970,zandvoort,brabham,stommelen,Did not qualify,-1,22
+1970,zandvoort,team_lotus,lovely,Did not qualify,-1,23
+1970,zandvoort,bellasi,moser,Did not qualify,-1,24

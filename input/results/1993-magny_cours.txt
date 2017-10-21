@@ -1,0 +1,26 @@
+1993,magny_cours,williams,prost,Finished,5915241,1
+1993,magny_cours,williams,damon_hill,Finished,5915583,2
+1993,magny_cours,benetton,michael_schumacher,Finished,5936450,3
+1993,magny_cours,mclaren,senna,Finished,5947646,4
+1993,magny_cours,ligier,brundle,Finished,5949036,5
+1993,magny_cours,mclaren,andretti,+1 Lap,-1,6
+1993,magny_cours,jordan,barrichello,+1 Lap,-1,7
+1993,magny_cours,minardi,fittipaldi,+1 Lap,-1,8
+1993,magny_cours,larrousse,alliot,+2 Laps,-1,9
+1993,magny_cours,benetton,patrese,+2 Laps,-1,10
+1993,magny_cours,jordan,boutsen,+2 Laps,-1,11
+1993,magny_cours,footwork,suzuki,+2 Laps,-1,12
+1993,magny_cours,footwork,warwick,+2 Laps,-1,13
+1993,magny_cours,ferrari,berger,+2 Laps,-1,14
+1993,magny_cours,tyrrell,cesaris,+4 Laps,-1,15
+1993,magny_cours,larrousse,comas,Gearbox,-1,16
+1993,magny_cours,ferrari,alesi,Engine,-1,17
+1993,magny_cours,lola,badoer,Suspension,-1,18
+1993,magny_cours,sauber,wendlinger,Gearbox,-1,19
+1993,magny_cours,sauber,lehto,Gearbox,-1,20
+1993,magny_cours,ligier,blundell,Spun off,-1,21
+1993,magny_cours,team_lotus,herbert,Spun off,-1,22
+1993,magny_cours,minardi,barbazza,Gearbox,-1,23
+1993,magny_cours,tyrrell,katayama,Gearbox,-1,24
+1993,magny_cours,team_lotus,zanardi,Suspension,-1,25
+1993,magny_cours,lola,alboreto,Did not qualify,-1,26

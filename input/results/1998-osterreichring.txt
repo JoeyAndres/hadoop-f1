@@ -1,0 +1,22 @@
+1998,osterreichring,mclaren,hakkinen,Finished,5444000,1
+1998,osterreichring,mclaren,coulthard,Finished,5449289,2
+1998,osterreichring,ferrari,michael_schumacher,Finished,5483092,3
+1998,osterreichring,ferrari,irvine,Finished,5487976,4
+1998,osterreichring,jordan,ralf_schumacher,Finished,5494654,5
+1998,osterreichring,williams,villeneuve,Finished,5497202,6
+1998,osterreichring,jordan,damon_hill,Finished,5517624,7
+1998,osterreichring,sauber,herbert,+1 Lap,-1,8
+1998,osterreichring,benetton,wurz,+1 Lap,-1,9
+1998,osterreichring,prost,trulli,+1 Lap,-1,10
+1998,osterreichring,minardi,nakano,+1 Lap,-1,11
+1998,osterreichring,tyrrell,rosset,+2 Laps,-1,12
+1998,osterreichring,stewart,verstappen,Engine,-1,13
+1998,osterreichring,minardi,tuero,Spun off,-1,14
+1998,osterreichring,benetton,fisichella,Collision,-1,15
+1998,osterreichring,sauber,alesi,Collision,-1,16
+1998,osterreichring,williams,frentzen,Engine,-1,17
+1998,osterreichring,stewart,barrichello,Brakes,-1,18
+1998,osterreichring,arrows,diniz,Collision,-1,19
+1998,osterreichring,arrows,salo,Collision,-1,20
+1998,osterreichring,prost,panis,Clutch,-1,21
+1998,osterreichring,tyrrell,takagi,Collision,-1,22

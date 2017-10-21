@@ -1,0 +1,27 @@
+1970,watkins_glen,team_lotus,emerson_fittipaldi,Finished,7052790,1
+1970,watkins_glen,brm,rodriguez,Finished,7089180,2
+1970,watkins_glen,team_lotus,wisell,Finished,7097960,3
+1970,watkins_glen,ferrari,ickx,+1 Lap,-1,4
+1970,watkins_glen,march,amon,+1 Lap,-1,5
+1970,watkins_glen,surtees,bell,+1 Lap,-1,6
+1970,watkins_glen,mclaren-ford,hulme,+2 Laps,-1,7
+1970,watkins_glen,matra,pescarolo,+3 Laps,-1,8
+1970,watkins_glen,march,siffert,+3 Laps,-1,9
+1970,watkins_glen,brabham,jack_brabham,+3 Laps,-1,10
+1970,watkins_glen,march,peterson,+4 Laps,-1,11
+1970,watkins_glen,brabham,stommelen,+4 Laps,-1,12
+1970,watkins_glen,ferrari,regazzoni,+7 Laps,-1,13
+1970,watkins_glen,mclaren-ford,gethin,+8 Laps,-1,14
+1970,watkins_glen,tyrrell,stewart,Oil leak,-1,15
+1970,watkins_glen,team_lotus,hill,Clutch,-1,16
+1970,watkins_glen,march,cevert,Wheel,-1,17
+1970,watkins_glen,tomaso,schenken,Suspension,-1,18
+1970,watkins_glen,mclaren-ford,bonnier,Water pipe,-1,19
+1970,watkins_glen,matra,beltoise,Handling,-1,20
+1970,watkins_glen,brabham,hutchison,Fuel leak,-1,21
+1970,watkins_glen,brm,oliver,Engine,-1,22
+1970,watkins_glen,brm,eaton,Engine,-1,23
+1970,watkins_glen,surtees,surtees,Engine,-1,24
+1970,watkins_glen,brm,westbury,Did not qualify,-1,25
+1970,watkins_glen,team_lotus,lovely,Did not qualify,-1,26
+1970,watkins_glen,mclaren-alfa_romeo,adamich,Did not qualify,-1,27

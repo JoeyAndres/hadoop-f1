@@ -1,0 +1,20 @@
+2009,yas_marina,red_bull,vettel,Finished,5643414,1
+2009,yas_marina,red_bull,webber,Finished,5661271,2
+2009,yas_marina,brawn,button,Finished,5661881,3
+2009,yas_marina,brawn,barrichello,Finished,5666149,4
+2009,yas_marina,bmw_sauber,heidfeld,Finished,5669667,5
+2009,yas_marina,toyota,kobayashi,Finished,5671757,6
+2009,yas_marina,toyota,trulli,Finished,5677780,7
+2009,yas_marina,toro_rosso,buemi,Finished,5684708,8
+2009,yas_marina,williams,rosberg,Finished,5689355,9
+2009,yas_marina,bmw_sauber,kubica,Finished,5691594,10
+2009,yas_marina,mclaren,kovalainen,Finished,5696212,11
+2009,yas_marina,ferrari,raikkonen,Finished,5697731,12
+2009,yas_marina,williams,nakajima,Finished,5703253,13
+2009,yas_marina,renault,alonso,Finished,5713101,14
+2009,yas_marina,force_india,liuzzi,Finished,5737864,15
+2009,yas_marina,ferrari,fisichella,+1 Lap,-1,16
+2009,yas_marina,force_india,sutil,+1 Lap,-1,17
+2009,yas_marina,renault,grosjean,+1 Lap,-1,18
+2009,yas_marina,mclaren,hamilton,Brakes,-1,19
+2009,yas_marina,toro_rosso,alguersuari,Gearbox,-1,20

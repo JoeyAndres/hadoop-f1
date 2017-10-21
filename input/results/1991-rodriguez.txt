@@ -1,0 +1,30 @@
+1991,rodriguez,williams,patrese,Finished,5392205,1
+1991,rodriguez,williams,mansell,Finished,5393541,2
+1991,rodriguez,mclaren,senna,Finished,5449561,3
+1991,rodriguez,jordan,cesaris,+1 Lap,-1,4
+1991,rodriguez,benetton,moreno,+1 Lap,-1,5
+1991,rodriguez,lola,bernard,+1 Lap,-1,6
+1991,rodriguez,minardi,morbidelli,+1 Lap,-1,7
+1991,rodriguez,ligier,boutsen,+2 Laps,-1,8
+1991,rodriguez,team_lotus,hakkinen,+2 Laps,-1,9
+1991,rodriguez,team_lotus,herbert,+2 Laps,-1,10
+1991,rodriguez,tyrrell,modena,+2 Laps,-1,11
+1991,rodriguez,tyrrell,satoru_nakajima,+3 Laps,-1,12
+1991,rodriguez,brabham,blundell,Engine,-1,13
+1991,rodriguez,jordan,gachot,Spun off,-1,14
+1991,rodriguez,lola,suzuki,Gearbox,-1,15
+1991,rodriguez,benetton,piquet,Wheel bearing,-1,16
+1991,rodriguez,ferrari,alesi,Clutch,-1,17
+1991,rodriguez,dallara,lehto,Engine,-1,18
+1991,rodriguez,footwork,alboreto,Engine,-1,19
+1991,rodriguez,brabham,brundle,Wheel,-1,20
+1991,rodriguez,leyton,capelli,Engine,-1,21
+1991,rodriguez,ferrari,prost,Alternator,-1,22
+1991,rodriguez,leyton,gugelmin,Engine,-1,23
+1991,rodriguez,fondmetal,grouillard,Engine,-1,24
+1991,rodriguez,mclaren,berger,Engine,-1,25
+1991,rodriguez,minardi,martini,Spun off,-1,26
+1991,rodriguez,ligier,comas,Did not qualify,-1,27
+1991,rodriguez,ags,tarquini,Did not qualify,-1,28
+1991,rodriguez,footwork,johansson,Did not qualify,-1,29
+1991,rodriguez,ags,barbazza,Did not qualify,-1,30

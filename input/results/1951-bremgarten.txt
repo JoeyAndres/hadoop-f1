@@ -1,0 +1,21 @@
+1951,bremgarten,alfa,fangio,Finished,7673640,1
+1951,bremgarten,ferrari,taruffi,Finished,7728880,2
+1951,bremgarten,alfa,farina,Finished,7752950,3
+1951,bremgarten,alfa,sanesi,+1 Lap,-1,4
+1951,bremgarten,alfa,graffenried,+2 Laps,-1,5
+1951,bremgarten,ferrari,ascari,+2 Laps,-1,6
+1951,bremgarten,maserati,chiron,+2 Laps,-1,7
+1951,bremgarten,hwm,moss,+2 Laps,-1,8
+1951,bremgarten,lago,rosier,+3 Laps,-1,9
+1951,bremgarten,lago,etancelin,+3 Laps,-1,10
+1951,bremgarten,ferrari,fischer,+3 Laps,-1,11
+1951,bremgarten,maserati,schell,+4 Laps,-1,12
+1951,bremgarten,lago,claes,+7 Laps,-1,13
+1951,bremgarten,lago,guy_mairesse,+11 Laps,-1,14
+1951,bremgarten,ferrari,whitehead,Accident,-1,15
+1951,bremgarten,lago,louveau,Accident,-1,16
+1951,bremgarten,hwm,abecassis,Magneto,-1,17
+1951,bremgarten,lago,cabantous,Ignition,-1,18
+1951,bremgarten,ferrari,villoresi,Accident,-1,19
+1951,bremgarten,lago,gonzalez,Oil pump,-1,20
+1951,bremgarten,veritas,hirt,Fuel system,-1,21

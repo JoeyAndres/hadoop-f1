@@ -1,0 +1,20 @@
+2008,silverstone,mclaren,hamilton,Finished,5949440,1
+2008,silverstone,bmw_sauber,heidfeld,Finished,6018017,2
+2008,silverstone,honda,barrichello,Finished,6031713,3
+2008,silverstone,ferrari,raikkonen,+1 Lap,-1,4
+2008,silverstone,mclaren,kovalainen,+1 Lap,-1,5
+2008,silverstone,renault,alonso,+1 Lap,-1,6
+2008,silverstone,toyota,trulli,+1 Lap,-1,7
+2008,silverstone,williams,nakajima,+1 Lap,-1,8
+2008,silverstone,williams,rosberg,+1 Lap,-1,9
+2008,silverstone,red_bull,webber,+1 Lap,-1,10
+2008,silverstone,toro_rosso,bourdais,+1 Lap,-1,11
+2008,silverstone,toyota,glock,+1 Lap,-1,12
+2008,silverstone,ferrari,massa,+2 Laps,-1,13
+2008,silverstone,bmw_sauber,kubica,Spun off,-1,14
+2008,silverstone,honda,button,Spun off,-1,15
+2008,silverstone,renault,piquet_jr,Spun off,-1,16
+2008,silverstone,force_india,fisichella,Spun off,-1,17
+2008,silverstone,force_india,sutil,Spun off,-1,18
+2008,silverstone,toro_rosso,vettel,Collision,-1,19
+2008,silverstone,red_bull,coulthard,Collision,-1,20

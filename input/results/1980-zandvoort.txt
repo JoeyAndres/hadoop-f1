@@ -1,0 +1,29 @@
+1980,zandvoort,brabham,piquet,Finished,5893830,1
+1980,zandvoort,renault,arnoux,Finished,5906760,2
+1980,zandvoort,ligier,laffite,Finished,5907260,3
+1980,zandvoort,williams,reutemann,Finished,5909120,4
+1980,zandvoort,tyrrell,jarier,Finished,5953850,5
+1980,zandvoort,mclaren,prost,Finished,5976450,6
+1980,zandvoort,ferrari,gilles_villeneuve,+1 Lap,-1,7
+1980,zandvoort,team_lotus,mario_andretti,Out of fuel,-1,8
+1980,zandvoort,ferrari,scheckter,+2 Laps,-1,9
+1980,zandvoort,ats,surer,+3 Laps,-1,10
+1980,zandvoort,williams,jones,+3 Laps,-1,11
+1980,zandvoort,tyrrell,daly,Brakes,-1,12
+1980,zandvoort,alfa,giacomelli,Accident,-1,13
+1980,zandvoort,osella,cheever,Engine,-1,14
+1980,zandvoort,arrows,patrese,Engine,-1,15
+1980,zandvoort,renault,jabouille,Handling,-1,16
+1980,zandvoort,alfa,brambilla,Accident,-1,17
+1980,zandvoort,ensign,lees,Accident,-1,18
+1980,zandvoort,mclaren,watson,Engine,-1,19
+1980,zandvoort,fittipaldi,emerson_fittipaldi,Brakes,-1,20
+1980,zandvoort,team_lotus,mansell,Brakes,-1,21
+1980,zandvoort,team_lotus,angelis,Accident,-1,22
+1980,zandvoort,ligier,pironi,Accident,-1,23
+1980,zandvoort,brabham,rebaque,Gearbox,-1,24
+1980,zandvoort,williams,keegan,Did not qualify,-1,25
+1980,zandvoort,ensign,lammers,Did not qualify,-1,26
+1980,zandvoort,arrows,thackwell,Did not qualify,-1,27
+1980,zandvoort,fittipaldi,keke_rosberg,Did not qualify,-1,28
+1980,zandvoort,arrows,mass,Withdrew,-1,29

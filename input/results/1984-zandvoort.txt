@@ -1,0 +1,27 @@
+1984,zandvoort,mclaren,prost,Finished,5841468,1
+1984,zandvoort,mclaren,lauda,Finished,5851751,2
+1984,zandvoort,team_lotus,mansell,Finished,5921012,3
+1984,zandvoort,team_lotus,angelis,+1 Lap,-1,4
+1984,zandvoort,brabham,fabi,+1 Lap,-1,5
+1984,zandvoort,renault,tambay,+1 Lap,-1,6
+1984,zandvoort,ligier,hesnault,+2 Laps,-1,7
+1984,zandvoort,williams,keke_rosberg,Out of fuel,-1,8
+1984,zandvoort,ram,palmer,+4 Laps,-1,9
+1984,zandvoort,ram,alliot,+4 Laps,-1,10
+1984,zandvoort,ferrari,arnoux,Electrical,-1,11
+1984,zandvoort,osella,gartner,+5 Laps,-1,12
+1984,zandvoort,alfa,cheever,Out of fuel,-1,13
+1984,zandvoort,tyrrell,bellof,Disqualified,-1,14
+1984,zandvoort,tyrrell,johansson,Disqualified,-1,15
+1984,zandvoort,arrows,boutsen,Accident,-1,16
+1984,zandvoort,spirit,rothengatter,Throttle,-1,17
+1984,zandvoort,alfa,patrese,Engine,-1,18
+1984,zandvoort,ligier,cesaris,Engine,-1,19
+1984,zandvoort,williams,laffite,Engine,-1,20
+1984,zandvoort,renault,warwick,Spun off,-1,21
+1984,zandvoort,ats,manfred_winkelhock,Spun off,-1,22
+1984,zandvoort,toleman,senna,Engine,-1,23
+1984,zandvoort,arrows,surer,Wheel,-1,24
+1984,zandvoort,brabham,piquet,Oil pressure,-1,25
+1984,zandvoort,osella,ghinzani,Fuel pump,-1,26
+1984,zandvoort,ferrari,alboreto,Engine,-1,27

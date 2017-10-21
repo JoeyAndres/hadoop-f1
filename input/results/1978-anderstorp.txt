@@ -1,0 +1,27 @@
+1978,anderstorp,brabham,lauda,Finished,6060606,1
+1978,anderstorp,arrows,patrese,Finished,6094625,2
+1978,anderstorp,team_lotus,peterson,Finished,6094711,3
+1978,anderstorp,mclaren,tambay,+1 Lap,-1,4
+1978,anderstorp,shadow,regazzoni,+1 Lap,-1,5
+1978,anderstorp,fittipaldi,emerson_fittipaldi,+1 Lap,-1,6
+1978,anderstorp,ligier,laffite,+1 Lap,-1,7
+1978,anderstorp,mclaren,hunt,+1 Lap,-1,8
+1978,anderstorp,ferrari,gilles_villeneuve,+1 Lap,-1,9
+1978,anderstorp,ferrari,reutemann,+1 Lap,-1,10
+1978,anderstorp,shadow,stuck,+2 Laps,-1,11
+1978,anderstorp,team_lotus,rebaque,+2 Laps,-1,12
+1978,anderstorp,ats,mass,+2 Laps,-1,13
+1978,anderstorp,arrows,stommelen,+3 Laps,-1,14
+1978,anderstorp,ats,keke_rosberg,+7 Laps,-1,15
+1978,anderstorp,merzario,merzario,+8 Laps,-1,16
+1978,anderstorp,team_lotus,mario_andretti,Engine,-1,17
+1978,anderstorp,williams,jones,Wheel,-1,18
+1978,anderstorp,tyrrell,depailler,Suspension,-1,19
+1978,anderstorp,renault,jabouille,Engine,-1,20
+1978,anderstorp,brabham,watson,Spun off,-1,21
+1978,anderstorp,wolf,scheckter,Overheating,-1,22
+1978,anderstorp,tyrrell,pironi,Accident,-1,23
+1978,anderstorp,surtees,brambilla,Accident,-1,24
+1978,anderstorp,surtees,keegan,Did not qualify,-1,25
+1978,anderstorp,mclaren,lunger,Did not qualify,-1,26
+1978,anderstorp,ensign,ickx,Did not qualify,-1,27

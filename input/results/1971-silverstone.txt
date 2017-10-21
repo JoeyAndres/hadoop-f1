@@ -1,0 +1,24 @@
+1971,silverstone,tyrrell,stewart,Finished,5491500,1
+1971,silverstone,march-ford,peterson,Finished,5527600,2
+1971,silverstone,lotus-ford,emerson_fittipaldi,Finished,5542000,3
+1971,silverstone,march-ford,pescarolo,+1 Lap,-1,4
+1971,silverstone,surtees,stommelen,+1 Lap,-1,5
+1971,silverstone,surtees,surtees,+1 Lap,-1,6
+1971,silverstone,matra,beltoise,+2 Laps,-1,7
+1971,silverstone,brm,ganley,+2 Laps,-1,8
+1971,silverstone,brm,siffert,+2 Laps,-1,9
+1971,silverstone,tyrrell,cevert,+3 Laps,-1,10
+1971,silverstone,march-ford,galli,+3 Laps,-1,11
+1971,silverstone,brabham,schenken,Gearbox,-1,12
+1971,silverstone,lotus-pw,wisell,Not classified,-1,13
+1971,silverstone,march-alfa_romeo,adamich,Not classified,-1,14
+1971,silverstone,mclaren,gethin,Engine,-1,15
+1971,silverstone,ferrari,ickx,Engine,-1,16
+1971,silverstone,ferrari,regazzoni,Oil pressure,-1,17
+1971,silverstone,matra,amon,Engine,-1,18
+1971,silverstone,mclaren,hulme,Engine,-1,19
+1971,silverstone,surtees,bell,Suspension,-1,20
+1971,silverstone,march-ford,beuttler,Oil pressure,-1,21
+1971,silverstone,lotus-ford,charlton,Engine,-1,22
+1971,silverstone,brabham,hill,Accident,-1,23
+1971,silverstone,mclaren,oliver,Accident,-1,24

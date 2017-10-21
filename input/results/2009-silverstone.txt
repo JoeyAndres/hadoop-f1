@@ -1,0 +1,20 @@
+2009,silverstone,red_bull,vettel,Finished,4969328,1
+2009,silverstone,red_bull,webber,Finished,4984516,2
+2009,silverstone,brawn,barrichello,Finished,5010503,3
+2009,silverstone,ferrari,massa,Finished,5014371,4
+2009,silverstone,williams,rosberg,Finished,5015243,5
+2009,silverstone,brawn,button,Finished,5015613,6
+2009,silverstone,toyota,trulli,Finished,5037635,7
+2009,silverstone,ferrari,raikkonen,Finished,5038950,8
+2009,silverstone,toyota,glock,Finished,5039151,9
+2009,silverstone,force_india,fisichella,Finished,5040850,10
+2009,silverstone,williams,nakajima,Finished,5043351,11
+2009,silverstone,renault,piquet_jr,+1 Lap,-1,12
+2009,silverstone,bmw_sauber,kubica,+1 Lap,-1,13
+2009,silverstone,renault,alonso,+1 Lap,-1,14
+2009,silverstone,bmw_sauber,heidfeld,+1 Lap,-1,15
+2009,silverstone,mclaren,hamilton,+1 Lap,-1,16
+2009,silverstone,force_india,sutil,+1 Lap,-1,17
+2009,silverstone,toro_rosso,buemi,+1 Lap,-1,18
+2009,silverstone,toro_rosso,bourdais,Collision,-1,19
+2009,silverstone,mclaren,kovalainen,Collision,-1,20

@@ -1,0 +1,24 @@
+2012,shanghai,mercedes,rosberg,Finished,5786929,1
+2012,shanghai,mclaren,button,Finished,5807555,2
+2012,shanghai,mclaren,hamilton,Finished,5812941,3
+2012,shanghai,red_bull,webber,Finished,5814853,4
+2012,shanghai,red_bull,vettel,Finished,5817412,5
+2012,shanghai,lotus_f1,grosjean,Finished,5818420,6
+2012,shanghai,williams,bruno_senna,Finished,5821526,7
+2012,shanghai,williams,maldonado,Finished,5822572,8
+2012,shanghai,ferrari,alonso,Finished,5824185,9
+2012,shanghai,sauber,kobayashi,Finished,5825649,10
+2012,shanghai,sauber,perez,Finished,5827995,11
+2012,shanghai,force_india,resta,Finished,5829202,12
+2012,shanghai,ferrari,massa,Finished,5829708,13
+2012,shanghai,lotus_f1,raikkonen,Finished,5837502,14
+2012,shanghai,force_india,hulkenberg,Finished,5838142,15
+2012,shanghai,toro_rosso,vergne,Finished,5838685,16
+2012,shanghai,toro_rosso,ricciardo,Finished,5850085,17
+2012,shanghai,caterham,petrov,+1 Lap,-1,18
+2012,shanghai,marussia,glock,+1 Lap,-1,19
+2012,shanghai,marussia,pic,+1 Lap,-1,20
+2012,shanghai,hrt,rosa,+1 Lap,-1,21
+2012,shanghai,hrt,karthikeyan,+2 Laps,-1,22
+2012,shanghai,caterham,kovalainen,+3 Laps,-1,23
+2012,shanghai,mercedes,michael_schumacher,Wheel nut,-1,24

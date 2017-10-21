@@ -1,0 +1,22 @@
+2000,sepang,ferrari,michael_schumacher,Finished,5754235,1
+2000,sepang,mclaren,coulthard,Finished,5754967,2
+2000,sepang,ferrari,barrichello,Finished,5772679,3
+2000,sepang,mclaren,hakkinen,Finished,5789504,4
+2000,sepang,bar,villeneuve,Finished,5824927,5
+2000,sepang,jaguar,irvine,Finished,5826803,6
+2000,sepang,benetton,wurz,Finished,5843549,7
+2000,sepang,sauber,salo,+1 Lap,-1,8
+2000,sepang,benetton,fisichella,+1 Lap,-1,9
+2000,sepang,arrows,verstappen,+1 Lap,-1,10
+2000,sepang,prost,alesi,+1 Lap,-1,11
+2000,sepang,jordan,trulli,+1 Lap,-1,12
+2000,sepang,minardi,mazzacane,Engine,-1,13
+2000,sepang,jaguar,herbert,Suspension,-1,14
+2000,sepang,bar,zonta,Engine,-1,15
+2000,sepang,williams,ralf_schumacher,Engine,-1,16
+2000,sepang,minardi,gene,Wheel,-1,17
+2000,sepang,williams,button,Engine,-1,18
+2000,sepang,jordan,frentzen,Electrical,-1,19
+2000,sepang,arrows,rosa,Collision,-1,20
+2000,sepang,prost,heidfeld,Collision,-1,21
+2000,sepang,sauber,diniz,Collision,-1,22

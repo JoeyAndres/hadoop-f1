@@ -1,0 +1,24 @@
+2010,suzuka,red_bull,vettel,Finished,5427323,1
+2010,suzuka,red_bull,webber,Finished,5428228,2
+2010,suzuka,ferrari,alonso,Finished,5430044,3
+2010,suzuka,mclaren,button,Finished,5440845,4
+2010,suzuka,mclaren,hamilton,Finished,5466918,5
+2010,suzuka,mercedes,michael_schumacher,Finished,5487256,6
+2010,suzuka,sauber,kobayashi,Finished,5491361,7
+2010,suzuka,sauber,heidfeld,Finished,5496971,8
+2010,suzuka,williams,barrichello,Finished,5498169,9
+2010,suzuka,toro_rosso,buemi,Finished,5500129,10
+2010,suzuka,toro_rosso,alguersuari,+1 Lap,-1,11
+2010,suzuka,lotus_racing,kovalainen,+1 Lap,-1,12
+2010,suzuka,lotus_racing,trulli,+2 Laps,-1,13
+2010,suzuka,virgin,glock,+2 Laps,-1,14
+2010,suzuka,hrt,bruno_senna,+2 Laps,-1,15
+2010,suzuka,hrt,yamamoto,+3 Laps,-1,16
+2010,suzuka,mercedes,rosberg,Suspension,-1,17
+2010,suzuka,force_india,sutil,Oil leak,-1,18
+2010,suzuka,renault,kubica,Wheel,-1,19
+2010,suzuka,williams,hulkenberg,Accident,-1,20
+2010,suzuka,ferrari,massa,Accident,-1,21
+2010,suzuka,renault,petrov,Accident,-1,22
+2010,suzuka,force_india,liuzzi,Accident,-1,23
+2010,suzuka,virgin,grassi,Suspension,-1,24

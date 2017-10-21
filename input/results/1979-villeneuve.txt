@@ -1,0 +1,30 @@
+1979,villeneuve,williams,jones,Finished,6726892,1
+1979,villeneuve,ferrari,gilles_villeneuve,Finished,6727972,2
+1979,villeneuve,williams,regazzoni,Finished,6800548,3
+1979,villeneuve,ferrari,scheckter,+1 Lap,-1,4
+1979,villeneuve,tyrrell,pironi,+1 Lap,-1,5
+1979,villeneuve,mclaren,watson,+2 Laps,-1,6
+1979,villeneuve,brabham-ford,zunino,+4 Laps,-1,7
+1979,villeneuve,fittipaldi,emerson_fittipaldi,+5 Laps,-1,8
+1979,villeneuve,shadow,lammers,+5 Laps,-1,9
+1979,villeneuve,team_lotus,mario_andretti,Out of fuel,-1,10
+1979,villeneuve,brabham-ford,piquet,Gearbox,-1,11
+1979,villeneuve,alfa,brambilla,Fuel system,-1,12
+1979,villeneuve,ligier,ickx,Gearbox,-1,13
+1979,villeneuve,tyrrell,jarier,Engine,-1,14
+1979,villeneuve,tyrrell,daly,Engine,-1,15
+1979,villeneuve,rebaque,rebaque,Chassis,-1,16
+1979,villeneuve,renault,jabouille,Brakes,-1,17
+1979,villeneuve,shadow,angelis,Ignition,-1,18
+1979,villeneuve,team_lotus,reutemann,Suspension,-1,19
+1979,villeneuve,arrows,patrese,Spun off,-1,20
+1979,villeneuve,mclaren,tambay,Engine,-1,21
+1979,villeneuve,renault,arnoux,Accident,-1,22
+1979,villeneuve,ats,stuck,Accident,-1,23
+1979,villeneuve,ligier,laffite,Engine,-1,24
+1979,villeneuve,arrows,mass,Did not qualify,-1,25
+1979,villeneuve,ensign,surer,Did not qualify,-1,26
+1979,villeneuve,wolf,keke_rosberg,Did not qualify,-1,27
+1979,villeneuve,fittipaldi,ribeiro,Did not qualify,-1,28
+1979,villeneuve,merzario,merzario,Did not qualify,-1,29
+1979,villeneuve,brabham-ford,lauda,Withdrew,-1,30

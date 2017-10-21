@@ -1,0 +1,20 @@
+2015,silverstone,mercedes,hamilton,Finished,5487729,1
+2015,silverstone,mercedes,rosberg,Finished,5498685,2
+2015,silverstone,ferrari,vettel,Finished,5513172,3
+2015,silverstone,williams,massa,Finished,5524568,4
+2015,silverstone,williams,bottas,Finished,5550923,5
+2015,silverstone,red_bull,kvyat,Finished,5551684,6
+2015,silverstone,force_india,hulkenberg,Finished,5566473,7
+2015,silverstone,ferrari,raikkonen,+1 Lap,-1,8
+2015,silverstone,force_india,perez,+1 Lap,-1,9
+2015,silverstone,mclaren,alonso,+1 Lap,-1,10
+2015,silverstone,sauber,ericsson,+1 Lap,-1,11
+2015,silverstone,manor,merhi,+3 Laps,-1,12
+2015,silverstone,manor,stevens,+3 Laps,-1,13
+2015,silverstone,toro_rosso,sainz,Electrical,-1,14
+2015,silverstone,red_bull,ricciardo,Electrical,-1,15
+2015,silverstone,toro_rosso,max_verstappen,Spun off,-1,16
+2015,silverstone,lotus_f1,grosjean,Collision,-1,17
+2015,silverstone,lotus_f1,maldonado,Collision,-1,18
+2015,silverstone,mclaren,button,Collision,-1,19
+2015,silverstone,sauber,nasr,Gearbox,-1,20

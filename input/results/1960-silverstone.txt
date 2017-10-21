@@ -1,0 +1,25 @@
+1960,silverstone,cooper-climax,jack_brabham,Finished,7464300,1
+1960,silverstone,team_lotus,surtees,Finished,7513900,2
+1960,silverstone,team_lotus,ireland,Finished,7553900,3
+1960,silverstone,cooper-climax,mclaren,+1 Lap,-1,4
+1960,silverstone,cooper-climax,brooks,+1 Lap,-1,5
+1960,silverstone,ferrari,trips,+2 Laps,-1,6
+1960,silverstone,ferrari,phil_hill,+2 Laps,-1,7
+1960,silverstone,cooper-climax,henry_taylor,+3 Laps,-1,8
+1960,silverstone,cooper-climax,gendebien,+3 Laps,-1,9
+1960,silverstone,brm,gurney,+3 Laps,-1,10
+1960,silverstone,aston_martin,trintignant,+5 Laps,-1,11
+1960,silverstone,team_lotus,piper,+5 Laps,-1,12
+1960,silverstone,jbw,naylor,+5 Laps,-1,13
+1960,silverstone,cooper-maserati,gregory,+6 Laps,-1,14
+1960,silverstone,cooper-castellotti,munaron,+7 Laps,-1,15
+1960,silverstone,team_lotus,clark,+7 Laps,-1,16
+1960,silverstone,brm,hill,Spun off,-1,17
+1960,silverstone,cooper-climax,bianchi,Electrical,-1,18
+1960,silverstone,brm,bonnier,Suspension,-1,19
+1960,silverstone,cooper-climax,daigh,Overheating,-1,20
+1960,silverstone,cooper-maserati,burgess,Engine,-1,21
+1960,silverstone,aston_martin,salvadori,Steering,-1,22
+1960,silverstone,cooper-climax,fairman,Fuel pump,-1,23
+1960,silverstone,cooper-maserati,greene,Overheating,-1,24
+1960,silverstone,cooper-climax,reventlow,Withdrew,-1,25

@@ -1,0 +1,22 @@
+2014,catalunya,mercedes,hamilton,Finished,6065155,1
+2014,catalunya,mercedes,rosberg,Finished,6065791,2
+2014,catalunya,red_bull,ricciardo,Finished,6114169,3
+2014,catalunya,red_bull,vettel,Finished,6141857,4
+2014,catalunya,williams,bottas,Finished,6144448,5
+2014,catalunya,ferrari,alonso,Finished,6152898,6
+2014,catalunya,ferrari,raikkonen,+1 Lap,-1,7
+2014,catalunya,lotus_f1,grosjean,+1 Lap,-1,8
+2014,catalunya,force_india,perez,+1 Lap,-1,9
+2014,catalunya,force_india,hulkenberg,+1 Lap,-1,10
+2014,catalunya,mclaren,button,+1 Lap,-1,11
+2014,catalunya,mclaren,kevin_magnussen,+1 Lap,-1,12
+2014,catalunya,williams,massa,+1 Lap,-1,13
+2014,catalunya,toro_rosso,kvyat,+1 Lap,-1,14
+2014,catalunya,lotus_f1,maldonado,+1 Lap,-1,15
+2014,catalunya,sauber,gutierrez,+1 Lap,-1,16
+2014,catalunya,sauber,sutil,+1 Lap,-1,17
+2014,catalunya,marussia,jules_bianchi,+2 Laps,-1,18
+2014,catalunya,marussia,chilton,+2 Laps,-1,19
+2014,catalunya,caterham,ericsson,+2 Laps,-1,20
+2014,catalunya,caterham,kobayashi,Brakes,-1,21
+2014,catalunya,toro_rosso,vergne,Exhaust,-1,22

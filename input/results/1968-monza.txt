@@ -1,0 +1,22 @@
+1968,monza,mclaren-ford,hulme,Finished,6014800,1
+1968,monza,matra-ford,gavin,Finished,6103200,2
+1968,monza,ferrari,ickx,Finished,6103400,3
+1968,monza,brm,courage,+1 Lap,-1,4
+1968,monza,matra,beltoise,+2 Laps,-1,5
+1968,monza,mclaren-brm,bonnier,+4 Laps,-1,6
+1968,monza,lotus-ford,siffert,Suspension,-1,7
+1968,monza,brabham-repco,jack_brabham,Oil pressure,-1,8
+1968,monza,matra-ford,stewart,Engine,-1,9
+1968,monza,honda,hobbs,Engine,-1,10
+1968,monza,lotus-ford,oliver,Transmission,-1,11
+1968,monza,mclaren-ford,mclaren,Oil leak,-1,12
+1968,monza,brabham-repco,rindt,Engine,-1,13
+1968,monza,brm,rodriguez,Engine,-1,14
+1968,monza,eagle-weslake,gurney,Engine,-1,15
+1968,monza,lotus-ford,hill,Wheel,-1,16
+1968,monza,honda,surtees,Accident,-1,17
+1968,monza,ferrari,amon,Accident,-1,18
+1968,monza,ferrari,bell,Fuel system,-1,19
+1968,monza,cooper-brm,elford,Accident,-1,20
+1968,monza,brm,gardner,Did not qualify,-1,21
+1968,monza,brabham-repco,moser,Did not qualify,-1,22

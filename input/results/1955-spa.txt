@@ -1,0 +1,17 @@
+1955,spa,mercedes,fangio,Finished,9569000,1
+1955,spa,mercedes,moss,Finished,9577100,2
+1955,spa,ferrari,farina,Finished,9669500,3
+1955,spa,ferrari,frere,Finished,9774500,4
+1955,spa,maserati,behra,+1 Lap,-1,5
+1955,spa,maserati,mieres,+1 Lap,-1,5
+1955,spa,ferrari,trintignant,+1 Lap,-1,6
+1955,spa,maserati,musso,+2 Laps,-1,7
+1955,spa,maserati,perdisa,+3 Laps,-1,8
+1955,spa,maserati,rosier,+3 Laps,-1,9
+1955,spa,mercedes,kling,Oil leak,-1,10
+1955,spa,lancia,castellotti,Gearbox,-1,11
+1955,spa,vanwall,hawthorn,Gearbox,-1,12
+1955,spa,maserati,behra,Spun off,-1,13
+1955,spa,maserati,claes,Withdrew,-1,14
+1955,spa,ferrari,taruffi,Withdrew,-1,15
+1955,spa,ferrari,schell,Withdrew,-1,16

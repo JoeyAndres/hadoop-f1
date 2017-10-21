@@ -1,0 +1,24 @@
+1995,adelaide,williams,damon_hill,Finished,6555946,1
+1995,adelaide,ligier,panis,+2 Laps,-1,2
+1995,adelaide,footwork,morbidelli,+2 Laps,-1,3
+1995,adelaide,mclaren,blundell,+2 Laps,-1,4
+1995,adelaide,tyrrell,salo,+3 Laps,-1,5
+1995,adelaide,minardi,lamy,+3 Laps,-1,6
+1995,adelaide,forti,diniz,+4 Laps,-1,7
+1995,adelaide,pacific,gachot,+5 Laps,-1,8
+1995,adelaide,tyrrell,katayama,Engine,-1,9
+1995,adelaide,benetton,herbert,Transmission,-1,10
+1995,adelaide,jordan,irvine,Engine,-1,11
+1995,adelaide,sauber,frentzen,Gearbox,-1,12
+1995,adelaide,ferrari,berger,Engine,-1,13
+1995,adelaide,ligier,brundle,Spun off,-1,14
+1995,adelaide,benetton,michael_schumacher,Collision,-1,15
+1995,adelaide,ferrari,alesi,Collision,-1,16
+1995,adelaide,forti,moreno,Spun off,-1,17
+1995,adelaide,jordan,barrichello,Spun off,-1,18
+1995,adelaide,williams,coulthard,Accident,-1,19
+1995,adelaide,footwork,inoue,Spun off,-1,20
+1995,adelaide,sauber,wendlinger,Physical,-1,21
+1995,adelaide,pacific,montermini,Gearbox,-1,22
+1995,adelaide,minardi,badoer,Electrical,-1,23
+1995,adelaide,mclaren,hakkinen,Injured,-1,24

@@ -1,0 +1,26 @@
+1972,brands_hatch,team_lotus,emerson_fittipaldi,Finished,6470200,1
+1972,brands_hatch,tyrrell,stewart,Finished,6474300,2
+1972,brands_hatch,mclaren,revson,Finished,6542700,3
+1972,brands_hatch,matra,amon,+1 Lap,-1,4
+1972,brands_hatch,mclaren,hulme,+1 Lap,-1,5
+1972,brands_hatch,ferrari,merzario,+1 Lap,-1,6
+1972,brands_hatch,march,peterson,Spun off,-1,7
+1972,brands_hatch,brabham,reutemann,+3 Laps,-1,8
+1972,brands_hatch,march,lauda,+3 Laps,-1,9
+1972,brands_hatch,march,stommelen,+5 Laps,-1,10
+1972,brands_hatch,brm,beltoise,+6 Laps,-1,11
+1972,brands_hatch,brabham,wilson_fittipaldi,Suspension,-1,12
+1972,brands_hatch,march,beuttler,+7 Laps,-1,13
+1972,brands_hatch,surtees,schenken,Suspension,-1,14
+1972,brands_hatch,tyrrell,cevert,Spun off,-1,15
+1972,brands_hatch,team_lotus,walker,Suspension,-1,16
+1972,brands_hatch,ferrari,ickx,Oil pressure,-1,17
+1972,brands_hatch,brabham,hill,Spun off,-1,18
+1972,brands_hatch,march,pace,Differential,-1,19
+1972,brands_hatch,brm,oliver,Suspension,-1,20
+1972,brands_hatch,surtees,hailwood,Gearbox,-1,21
+1972,brands_hatch,team_lotus,charlton,Gearbox,-1,22
+1972,brands_hatch,tecno,galli,Spun off,-1,23
+1972,brands_hatch,politoys,pescarolo,Accident,-1,24
+1972,brands_hatch,brm,gethin,Engine,-1,25
+1972,brands_hatch,surtees,adamich,Accident,-1,26

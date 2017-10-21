@@ -1,0 +1,22 @@
+2013,yeongam,red_bull,vettel,Finished,6193701,1
+2013,yeongam,lotus_f1,raikkonen,Finished,6197925,2
+2013,yeongam,lotus_f1,grosjean,Finished,6198628,3
+2013,yeongam,sauber,hulkenberg,Finished,6217815,4
+2013,yeongam,mercedes,hamilton,Finished,6218956,5
+2013,yeongam,ferrari,alonso,Finished,6219890,6
+2013,yeongam,mercedes,rosberg,Finished,6220399,7
+2013,yeongam,mclaren,button,Finished,6225963,8
+2013,yeongam,ferrari,massa,Finished,6228091,9
+2013,yeongam,mclaren,perez,Finished,6228856,10
+2013,yeongam,sauber,gutierrez,Finished,6229691,11
+2013,yeongam,williams,bottas,Finished,6240750,12
+2013,yeongam,williams,maldonado,Finished,6243714,13
+2013,yeongam,caterham,pic,Finished,6257279,14
+2013,yeongam,caterham,garde,Finished,6258202,15
+2013,yeongam,marussia,jules_bianchi,Finished,6261671,16
+2013,yeongam,marussia,chilton,Finished,6266599,17
+2013,yeongam,toro_rosso,vergne,+2 Laps,-1,18
+2013,yeongam,toro_rosso,ricciardo,+3 Laps,-1,19
+2013,yeongam,force_india,sutil,Collision,-1,20
+2013,yeongam,red_bull,webber,Collision,-1,21
+2013,yeongam,force_india,resta,Spun off,-1,22

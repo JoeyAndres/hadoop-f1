@@ -1,0 +1,27 @@
+1984,zolder,ferrari,alboreto,Finished,5792048,1
+1984,zolder,renault,warwick,Finished,5834434,2
+1984,zolder,ferrari,arnoux,Finished,5861851,3
+1984,zolder,williams,keke_rosberg,Out of fuel,-1,4
+1984,zolder,team_lotus,angelis,+1 Lap,-1,5
+1984,zolder,toleman,senna,+2 Laps,-1,6
+1984,zolder,renault,tambay,+2 Laps,-1,7
+1984,zolder,arrows,surer,+2 Laps,-1,8
+1984,zolder,brabham,piquet,Engine,-1,9
+1984,zolder,ram,palmer,+2 Laps,-1,10
+1984,zolder,tyrrell,bellof,Disqualified,-1,11
+1984,zolder,spirit,baldi,Suspension,-1,12
+1984,zolder,tyrrell,brundle,Disqualified,-1,13
+1984,zolder,ligier,cesaris,Accident,-1,14
+1984,zolder,brabham,fabi,Spun off,-1,15
+1984,zolder,ats,manfred_winkelhock,Exhaust,-1,16
+1984,zolder,mclaren,lauda,Water pump,-1,17
+1984,zolder,alfa,cheever,Engine,-1,18
+1984,zolder,williams,laffite,Electrical,-1,19
+1984,zolder,ligier,hesnault,Radiator,-1,20
+1984,zolder,arrows,boutsen,Engine,-1,21
+1984,zolder,osella,ghinzani,Transmission,-1,22
+1984,zolder,team_lotus,mansell,Clutch,-1,23
+1984,zolder,mclaren,prost,Distributor,-1,24
+1984,zolder,alfa,patrese,Ignition,-1,25
+1984,zolder,toleman,cecotto,Clutch,-1,26
+1984,zolder,ram,alliot,Did not qualify,-1,27

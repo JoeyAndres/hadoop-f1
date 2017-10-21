@@ -1,0 +1,24 @@
+2010,marina_bay,ferrari,alonso,Finished,7073579,1
+2010,marina_bay,red_bull,vettel,Finished,7073872,2
+2010,marina_bay,red_bull,webber,Finished,7102720,3
+2010,marina_bay,mclaren,button,Finished,7103963,4
+2010,marina_bay,mercedes,rosberg,Finished,7122973,5
+2010,marina_bay,williams,barrichello,Finished,7129680,6
+2010,marina_bay,renault,kubica,Finished,7160138,7
+2010,marina_bay,ferrari,massa,Finished,7186876,8
+2010,marina_bay,force_india,sutil,Finished,7195995,9
+2010,marina_bay,williams,hulkenberg,Finished,7206370,10
+2010,marina_bay,renault,petrov,+1 Lap,-1,11
+2010,marina_bay,toro_rosso,alguersuari,+1 Lap,-1,12
+2010,marina_bay,mercedes,michael_schumacher,+1 Lap,-1,13
+2010,marina_bay,toro_rosso,buemi,+1 Lap,-1,14
+2010,marina_bay,virgin,grassi,+2 Laps,-1,15
+2010,marina_bay,lotus_racing,kovalainen,Engine,-1,16
+2010,marina_bay,virgin,glock,Hydraulics,-1,17
+2010,marina_bay,sauber,heidfeld,Collision,-1,18
+2010,marina_bay,mclaren,hamilton,Collision,-1,19
+2010,marina_bay,hrt,klien,Hydraulics,-1,20
+2010,marina_bay,sauber,kobayashi,Accident,-1,21
+2010,marina_bay,hrt,bruno_senna,Accident,-1,22
+2010,marina_bay,lotus_racing,trulli,Hydraulics,-1,23
+2010,marina_bay,force_india,liuzzi,Collision,-1,24

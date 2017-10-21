@@ -1,0 +1,28 @@
+1983,spa,renault,prost,Finished,5231502,1
+1983,spa,ferrari,tambay,Finished,5254684,2
+1983,spa,renault,cheever,Finished,5271371,3
+1983,spa,brabham,piquet,Finished,5273797,4
+1983,spa,williams,keke_rosberg,Finished,5281982,5
+1983,spa,williams,laffite,Finished,5324609,6
+1983,spa,toleman,warwick,Finished,5350041,7
+1983,spa,toleman,giacomelli,Finished,5389775,8
+1983,spa,team_lotus,angelis,+1 Lap,-1,9
+1983,spa,theodore,cecotto,+1 Lap,-1,10
+1983,spa,arrows,surer,+1 Lap,-1,11
+1983,spa,tyrrell,sullivan,+1 Lap,-1,12
+1983,spa,ligier,boesel,+1 Lap,-1,13
+1983,spa,tyrrell,alboreto,+2 Laps,-1,14
+1983,spa,mclaren,lauda,Gearbox,-1,15
+1983,spa,team_lotus,mansell,Gearbox,-1,16
+1983,spa,alfa,cesaris,Injection,-1,17
+1983,spa,theodore,guerrero,Engine,-1,18
+1983,spa,ferrari,arnoux,Engine,-1,19
+1983,spa,osella,corrado_fabi,Wheel,-1,20
+1983,spa,ats,manfred_winkelhock,Wheel,-1,21
+1983,spa,mclaren,watson,Collision,-1,22
+1983,spa,ligier,jarier,Collision,-1,23
+1983,spa,arrows,boutsen,Suspension,-1,24
+1983,spa,alfa,baldi,Throttle,-1,25
+1983,spa,brabham,patrese,Engine,-1,26
+1983,spa,osella,ghinzani,Did not qualify,-1,27
+1983,spa,ram,salazar,Did not qualify,-1,28

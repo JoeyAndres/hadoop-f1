@@ -1,0 +1,17 @@
+1954,bremgarten,mercedes,fangio,Finished,10834500,1
+1954,bremgarten,ferrari,gonzalez,Finished,10892300,2
+1954,bremgarten,mercedes,herrmann,+1 Lap,-1,3
+1954,bremgarten,maserati,mieres,+2 Laps,-1,4
+1954,bremgarten,maserati,mantovani,+2 Laps,-1,5
+1954,bremgarten,maserati,wharton,+2 Laps,-1,6
+1954,bremgarten,ferrari,maglioli,+5 Laps,-1,7
+1954,bremgarten,ferrari,swaters,+8 Laps,-1,8
+1954,bremgarten,mercedes,kling,Fuel system,-1,9
+1954,bremgarten,ferrari,trintignant,Engine,-1,10
+1954,bremgarten,ferrari,hawthorn,Oil leak,-1,11
+1954,bremgarten,maserati,schell,Oil pump,-1,12
+1954,bremgarten,maserati,moss,Oil pump,-1,13
+1954,bremgarten,gordini,wacker,Transmission,-1,14
+1954,bremgarten,gordini,behra,Clutch,-1,15
+1954,bremgarten,gordini,bucci,Fuel pump,-1,16
+1954,bremgarten,ferrari,manzon,Accident,-1,17

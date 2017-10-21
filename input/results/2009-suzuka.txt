@@ -1,0 +1,20 @@
+2009,suzuka,red_bull,vettel,Finished,5300443,1
+2009,suzuka,toyota,trulli,Finished,5305320,2
+2009,suzuka,mclaren,hamilton,Finished,5306915,3
+2009,suzuka,ferrari,raikkonen,Finished,5308383,4
+2009,suzuka,williams,rosberg,Finished,5309236,5
+2009,suzuka,bmw_sauber,heidfeld,Finished,5309952,6
+2009,suzuka,brawn,barrichello,Finished,5311084,7
+2009,suzuka,brawn,button,Finished,5311917,8
+2009,suzuka,bmw_sauber,kubica,Finished,5312220,9
+2009,suzuka,renault,alonso,Finished,5313508,10
+2009,suzuka,mclaren,kovalainen,Finished,5314178,11
+2009,suzuka,ferrari,fisichella,Finished,5315039,12
+2009,suzuka,force_india,sutil,Finished,5315402,13
+2009,suzuka,force_india,liuzzi,Finished,5316177,14
+2009,suzuka,williams,nakajima,Finished,5318416,15
+2009,suzuka,renault,grosjean,+1 Lap,-1,16
+2009,suzuka,red_bull,webber,+2 Laps,-1,17
+2009,suzuka,toro_rosso,alguersuari,Accident,-1,18
+2009,suzuka,toro_rosso,buemi,Clutch,-1,19
+2009,suzuka,toyota,glock,Injured,-1,20

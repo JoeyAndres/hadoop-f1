@@ -1,0 +1,22 @@
+2016,spa,mercedes,rosberg,Finished,6291058,1
+2016,spa,red_bull,ricciardo,Finished,6305171,2
+2016,spa,mercedes,hamilton,Finished,6318692,3
+2016,spa,force_india,hulkenberg,Finished,6326965,4
+2016,spa,force_india,perez,Finished,6331718,5
+2016,spa,ferrari,vettel,Finished,6336452,6
+2016,spa,mclaren,alonso,Finished,6350503,7
+2016,spa,williams,bottas,Finished,6351209,8
+2016,spa,ferrari,raikkonen,Finished,6352167,9
+2016,spa,williams,massa,Finished,6356931,10
+2016,spa,red_bull,max_verstappen,Finished,6362196,11
+2016,spa,haas,gutierrez,Finished,6364935,12
+2016,spa,haas,grosjean,Finished,6367532,13
+2016,spa,toro_rosso,kvyat,Finished,6378155,14
+2016,spa,renault,jolyon_palmer,Finished,6384223,15
+2016,spa,manor,ocon,+1 Lap,-1,16
+2016,spa,sauber,nasr,+1 Lap,-1,17
+2016,spa,renault,kevin_magnussen,Accident,-1,18
+2016,spa,sauber,ericsson,Gearbox,-1,19
+2016,spa,toro_rosso,sainz,Puncture,-1,20
+2016,spa,mclaren,button,Collision damage,-1,21
+2016,spa,manor,wehrlein,Collision damage,-1,22

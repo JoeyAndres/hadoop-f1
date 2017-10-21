@@ -1,0 +1,20 @@
+2015,marina_bay,ferrari,vettel,Finished,7282118,1
+2015,marina_bay,red_bull,ricciardo,Finished,7283596,2
+2015,marina_bay,ferrari,raikkonen,Finished,7299272,3
+2015,marina_bay,mercedes,rosberg,Finished,7306838,4
+2015,marina_bay,williams,bottas,Finished,7316322,5
+2015,marina_bay,red_bull,kvyat,Finished,7317626,6
+2015,marina_bay,force_india,perez,Finished,7332954,7
+2015,marina_bay,toro_rosso,max_verstappen,Finished,7333568,8
+2015,marina_bay,toro_rosso,sainz,Finished,7334978,9
+2015,marina_bay,sauber,nasr,Finished,7372163,10
+2015,marina_bay,sauber,ericsson,Finished,7379625,11
+2015,marina_bay,lotus_f1,maldonado,Finished,7379836,12
+2015,marina_bay,lotus_f1,grosjean,Tyre,-1,13
+2015,marina_bay,manor,rossi,+2 Laps,-1,14
+2015,marina_bay,manor,stevens,+2 Laps,-1,15
+2015,marina_bay,mclaren,button,Gearbox,-1,16
+2015,marina_bay,mclaren,alonso,Gearbox,-1,17
+2015,marina_bay,mercedes,hamilton,Throttle,-1,18
+2015,marina_bay,williams,massa,Gearbox,-1,19
+2015,marina_bay,force_india,hulkenberg,Collision,-1,20

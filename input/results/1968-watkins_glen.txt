@@ -1,0 +1,20 @@
+1968,watkins_glen,matra-ford,stewart,Finished,7160290,1
+1968,watkins_glen,lotus-ford,hill,Finished,7184970,2
+1968,watkins_glen,honda,surtees,+1 Lap,-1,3
+1968,watkins_glen,mclaren-ford,gurney,+1 Lap,-1,4
+1968,watkins_glen,lotus-ford,siffert,+3 Laps,-1,5
+1968,watkins_glen,mclaren-ford,mclaren,+5 Laps,-1,6
+1968,watkins_glen,brm,courage,Out of fuel,-1,7
+1968,watkins_glen,mclaren,hulme,Accident,-1,8
+1968,watkins_glen,cooper-brm,bianchi,Not classified,-1,9
+1968,watkins_glen,brabham-repco,jack_brabham,Engine,-1,10
+1968,watkins_glen,brabham-repco,rindt,Engine,-1,11
+1968,watkins_glen,cooper-brm,elford,Engine,-1,12
+1968,watkins_glen,brm,rodriguez,Suspension,-1,13
+1968,watkins_glen,mclaren-brm,bonnier,Not classified,-1,14
+1968,watkins_glen,ferrari,amon,Water pump,-1,15
+1968,watkins_glen,matra,beltoise,Transmission,-1,16
+1968,watkins_glen,brm,unser,Engine,-1,17
+1968,watkins_glen,lotus-ford,mario_andretti,Clutch,-1,18
+1968,watkins_glen,ferrari,bell,Engine,-1,19
+1968,watkins_glen,lotus-ford,oliver,Withdrew,-1,20

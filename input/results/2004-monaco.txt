@@ -1,0 +1,20 @@
+2004,monaco,renault,trulli,Finished,6346601,1
+2004,monaco,bar,button,Finished,6347098,2
+2004,monaco,ferrari,barrichello,Finished,6422367,3
+2004,monaco,williams,montoya,+1 Lap,-1,4
+2004,monaco,sauber,massa,+1 Lap,-1,5
+2004,monaco,toyota,matta,+1 Lap,-1,6
+2004,monaco,jordan,heidfeld,+2 Laps,-1,7
+2004,monaco,toyota,panis,+3 Laps,-1,8
+2004,monaco,minardi,baumgartner,+6 Laps,-1,9
+2004,monaco,williams,ralf_schumacher,Gearbox,-1,10
+2004,monaco,ferrari,michael_schumacher,Collision,-1,11
+2004,monaco,renault,alonso,Accident,-1,12
+2004,monaco,mclaren,raikkonen,Pneumatics,-1,13
+2004,monaco,minardi,bruni,Gearbox,-1,14
+2004,monaco,jordan,pantano,Transmission,-1,15
+2004,monaco,jaguar,webber,Gearbox,-1,16
+2004,monaco,bar,sato,Engine,-1,17
+2004,monaco,mclaren,coulthard,Collision,-1,18
+2004,monaco,sauber,fisichella,Collision,-1,19
+2004,monaco,jaguar,klien,Accident,-1,20

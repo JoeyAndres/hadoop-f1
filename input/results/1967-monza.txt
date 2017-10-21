@@ -1,0 +1,18 @@
+1967,monza,honda,surtees,Finished,6225000,1
+1967,monza,brabham-repco,jack_brabham,Finished,6225200,2
+1967,monza,lotus-ford,clark,Finished,6248100,3
+1967,monza,cooper-maserati,rindt,Finished,6281600,4
+1967,monza,brm,spence,+1 Lap,-1,5
+1967,monza,cooper-maserati,ickx,+2 Laps,-1,6
+1967,monza,ferrari,amon,+4 Laps,-1,7
+1967,monza,lotus-ford,hill,Engine,-1,8
+1967,monza,cooper-maserati,siffert,Accident,-1,9
+1967,monza,lotus-ford,baghetti,Engine,-1,10
+1967,monza,mclaren-brm,mclaren,Engine,-1,11
+1967,monza,cooper-maserati,bonnier,Overheating,-1,12
+1967,monza,brm,stewart,Engine,-1,13
+1967,monza,brabham-repco,hulme,Overheating,-1,14
+1967,monza,brabham-repco,ligier,Engine,-1,15
+1967,monza,brm,irwin,Injection,-1,16
+1967,monza,eagle-weslake,scarfiotti,Engine,-1,17
+1967,monza,eagle-weslake,gurney,Engine,-1,18

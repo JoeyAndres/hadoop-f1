@@ -1,0 +1,21 @@
+1968,tremblant,mclaren-ford,hulme,Finished,8831200,1
+1968,tremblant,mclaren-ford,mclaren,+1 Lap,-1,2
+1968,tremblant,brm,rodriguez,+2 Laps,-1,3
+1968,tremblant,lotus-ford,hill,+4 Laps,-1,4
+1968,tremblant,cooper-brm,elford,+4 Laps,-1,5
+1968,tremblant,matra-ford,stewart,+7 Laps,-1,6
+1968,tremblant,matra,beltoise,Gearbox,-1,7
+1968,tremblant,ferrari,amon,Transmission,-1,8
+1968,tremblant,matra-ford,gavin,Accident,-1,9
+1968,tremblant,cooper-brm,bianchi,Not classified,-1,10
+1968,tremblant,matra,pescarolo,Oil pressure,-1,11
+1968,tremblant,brabham-repco,rindt,Engine,-1,12
+1968,tremblant,lotus-ford,oliver,Halfshaft,-1,13
+1968,tremblant,brabham-repco,jack_brabham,Suspension,-1,14
+1968,tremblant,lotus-ford,siffert,Oil leak,-1,15
+1968,tremblant,mclaren-ford,gurney,Radiator,-1,16
+1968,tremblant,brm,courage,Gearbox,-1,17
+1968,tremblant,lotus-ford,brack,Halfshaft,-1,18
+1968,tremblant,honda,surtees,Gearbox,-1,19
+1968,tremblant,mclaren-brm,bonnier,Fuel system,-1,20
+1968,tremblant,ferrari,ickx,Accident,-1,21

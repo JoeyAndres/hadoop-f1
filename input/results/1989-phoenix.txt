@@ -1,0 +1,30 @@
+1989,phoenix,mclaren,prost,Finished,7293133,1
+1989,phoenix,williams,patrese,Finished,7332829,2
+1989,phoenix,arrows,cheever,Finished,7336343,3
+1989,phoenix,rial,danner,+1 Lap,-1,4
+1989,phoenix,benetton,herbert,+1 Lap,-1,5
+1989,phoenix,williams,boutsen,+1 Lap,-1,6
+1989,phoenix,ags,tarquini,Engine,-1,7
+1989,phoenix,dallara,cesaris,+5 Laps,-1,8
+1989,phoenix,tyrrell,palmer,Fuel system,-1,9
+1989,phoenix,ferrari,berger,Alternator,-1,10
+1989,phoenix,dallara,caffi,Collision,-1,11
+1989,phoenix,team_lotus,piquet,Spun off,-1,12
+1989,phoenix,onyx,johansson,Suspension,-1,13
+1989,phoenix,minardi,sala,Engine,-1,14
+1989,phoenix,mclaren,senna,Electrical,-1,15
+1989,phoenix,brabham,brundle,Brakes,-1,16
+1989,phoenix,brabham,modena,Brakes,-1,17
+1989,phoenix,ferrari,mansell,Alternator,-1,18
+1989,phoenix,minardi,martini,Engine,-1,19
+1989,phoenix,team_lotus,satoru_nakajima,Throttle,-1,20
+1989,phoenix,march,capelli,Transmission,-1,21
+1989,phoenix,march,gugelmin,Brakes,-1,22
+1989,phoenix,tyrrell,alboreto,Gearbox,-1,23
+1989,phoenix,benetton,nannini,Physical,-1,24
+1989,phoenix,arrows,warwick,Collision,-1,25
+1989,phoenix,larrousse,alliot,Spun off,-1,26
+1989,phoenix,ligier,grouillard,Did not qualify,-1,27
+1989,phoenix,coloni,moreno,Did not qualify,-1,28
+1989,phoenix,ligier,arnoux,Did not qualify,-1,29
+1989,phoenix,larrousse,dalmas,Did not qualify,-1,30

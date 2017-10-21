@@ -1,0 +1,27 @@
+1972,nurburgring,ferrari,ickx,Finished,6132300,1
+1972,nurburgring,ferrari,regazzoni,Finished,6180600,2
+1972,nurburgring,march,peterson,Finished,6199000,3
+1972,nurburgring,brm,ganley,Finished,6272500,4
+1972,nurburgring,mclaren,redman,Finished,6288000,5
+1972,nurburgring,brabham,hill,Finished,6311900,6
+1972,nurburgring,brabham,wilson_fittipaldi,Finished,6312400,7
+1972,nurburgring,march,beuttler,Finished,6443000,8
+1972,nurburgring,brm,beltoise,Finished,6452500,9
+1972,nurburgring,tyrrell,cevert,Finished,6476000,10
+1972,nurburgring,tyrrell,stewart,Collision,-1,11
+1972,nurburgring,ferrari,merzario,+1 Lap,-1,12
+1972,nurburgring,surtees,adamich,+1 Lap,-1,13
+1972,nurburgring,surtees,schenken,+1 Lap,-1,14
+1972,nurburgring,matra,amon,+1 Lap,-1,15
+1972,nurburgring,march,pace,Not classified,-1,16
+1972,nurburgring,team_lotus,emerson_fittipaldi,Gearbox,-1,17
+1972,nurburgring,march,pescarolo,Accident,-1,18
+1972,nurburgring,mclaren,hulme,Engine,-1,19
+1972,nurburgring,surtees,hailwood,Suspension,-1,20
+1972,nurburgring,brabham,reutemann,Differential,-1,21
+1972,nurburgring,march,stommelen,Electrical,-1,22
+1972,nurburgring,team_lotus,walker,Oil leak,-1,23
+1972,nurburgring,march,lauda,Oil leak,-1,24
+1972,nurburgring,tecno,bell,Engine,-1,25
+1972,nurburgring,team_lotus,charlton,Physical,-1,26
+1972,nurburgring,brm,wisell,Engine,-1,27

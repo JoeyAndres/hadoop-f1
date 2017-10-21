@@ -1,0 +1,19 @@
+1966,nurburgring,brabham-repco,jack_brabham,Finished,8823000,1
+1966,nurburgring,cooper-maserati,surtees,Finished,8867400,2
+1966,nurburgring,cooper-maserati,rindt,Finished,8975600,3
+1966,nurburgring,brm,hill,Finished,9224400,4
+1966,nurburgring,brm,stewart,Finished,9331900,5
+1966,nurburgring,ferrari,bandini,Finished,9479400,6
+1966,nurburgring,eagle-climax,gurney,Electrical,-1,7
+1966,nurburgring,lotus-brm,arundell,+1 Lap,-1,8
+1966,nurburgring,lotus-brm,spence,Alternator,-1,9
+1966,nurburgring,lotus-climax,clark,Accident,-1,10
+1966,nurburgring,cooper-ferrari,lawrence,Suspension,-1,11
+1966,nurburgring,ferrari,scarfiotti,Electrical,-1,12
+1966,nurburgring,ferrari,parkes,Accident,-1,13
+1966,nurburgring,brabham-repco,hulme,Ignition,-1,14
+1966,nurburgring,cooper-maserati,bonnier,Clutch,-1,15
+1966,nurburgring,brm,bondurant,Engine,-1,16
+1966,nurburgring,brabham-climax,anderson,Transmission,-1,17
+1966,nurburgring,brabham-brm,taylor,Accident,-1,18
+1966,nurburgring,cooper-maserati,ligier,Injury,-1,19

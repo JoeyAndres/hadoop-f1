@@ -1,0 +1,15 @@
+1959,zandvoort,brm,bonnier,Finished,7526800,1
+1959,zandvoort,cooper-climax,jack_brabham,Finished,7541000,2
+1959,zandvoort,cooper-climax,gregory,Finished,7609800,3
+1959,zandvoort,team_lotus,ireland,+1 Lap,-1,4
+1959,zandvoort,ferrari,behra,+1 Lap,-1,5
+1959,zandvoort,ferrari,phil_hill,+2 Laps,-1,6
+1959,zandvoort,team_lotus,hill,+2 Laps,-1,7
+1959,zandvoort,cooper-climax,trintignant,+2 Laps,-1,8
+1959,zandvoort,ferrari,allison,+4 Laps,-1,9
+1959,zandvoort,porsche,beaufort,+7 Laps,-1,10
+1959,zandvoort,cooper-climax,moss,Gearbox,-1,11
+1959,zandvoort,brm,schell,Gearbox,-1,12
+1959,zandvoort,ferrari,brooks,Oil leak,-1,13
+1959,zandvoort,aston_martin,shelby,Engine,-1,14
+1959,zandvoort,aston_martin,salvadori,Engine,-1,15

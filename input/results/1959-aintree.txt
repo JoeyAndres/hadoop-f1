@@ -1,0 +1,30 @@
+1959,aintree,cooper-climax,jack_brabham,Finished,9011600,1
+1959,aintree,brm,moss,Finished,9033800,2
+1959,aintree,cooper-climax,mclaren,Finished,9034000,3
+1959,aintree,brm,schell,+1 Lap,-1,4
+1959,aintree,cooper-climax,trintignant,+1 Lap,-1,5
+1959,aintree,aston_martin,salvadori,+1 Lap,-1,6
+1959,aintree,cooper-climax,gregory,+2 Laps,-1,7
+1959,aintree,team_lotus,stacey,+4 Laps,-1,8
+1959,aintree,team_lotus,hill,+5 Laps,-1,9
+1959,aintree,cooper-borgward,bristow,+5 Laps,-1,10
+1959,aintree,cooper-climax,henry_taylor,+6 Laps,-1,11
+1959,aintree,cooper-climax,ashdown,+6 Laps,-1,12
+1959,aintree,cooper-borgward,bueb,+6 Laps,-1,13
+1959,aintree,aston_martin,shelby,Ignition,-1,14
+1959,aintree,maserati,orey,Accident,-1,15
+1959,aintree,brm,flockhart,Spun off,-1,16
+1959,aintree,cooper-climax,fairman,Gearbox,-1,17
+1959,aintree,brm,bonnier,Brakes,-1,18
+1959,aintree,cooper-maserati,burgess,Transmission,-1,19
+1959,aintree,cooper-maserati,herrmann,Gearbox,-1,20
+1959,aintree,team_lotus,piper,Overheating,-1,21
+1959,aintree,jbw,naylor,Transmission,-1,22
+1959,aintree,cooper-climax,mike_taylor,Transmission,-1,23
+1959,aintree,vanwall,brooks,Ignition,-1,24
+1959,aintree,cooper-climax,greene,Did not qualify,-1,25
+1959,aintree,cooper-climax,bill_moss,Did not qualify,-1,26
+1959,aintree,fry,parkes,Did not qualify,-1,27
+1959,aintree,team_lotus,dennis_taylor,Did not qualify,-1,28
+1959,aintree,cooper-climax,trevor_taylor,Did not qualify,-1,29
+1959,aintree,cooper-climax,parnell,Did not qualify,-1,30

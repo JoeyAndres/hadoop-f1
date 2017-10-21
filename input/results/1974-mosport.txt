@@ -1,0 +1,30 @@
+1974,mosport,mclaren,emerson_fittipaldi,Finished,6026136,1
+1974,mosport,ferrari,regazzoni,Finished,6039170,2
+1974,mosport,team_lotus,peterson,Finished,6040630,3
+1974,mosport,hesketh,hunt,Finished,6041805,4
+1974,mosport,tyrrell,depailler,Finished,6081458,5
+1974,mosport,mclaren,hulme,+1 Lap,-1,6
+1974,mosport,parnelli,mario_andretti,+1 Lap,-1,7
+1974,mosport,brabham,pace,+1 Lap,-1,8
+1974,mosport,brabham,reutemann,+1 Lap,-1,9
+1974,mosport,surtees,koinigg,+2 Laps,-1,10
+1974,mosport,lola,stommelen,+2 Laps,-1,11
+1974,mosport,penske,donohue,+2 Laps,-1,12
+1974,mosport,team_lotus,ickx,+2 Laps,-1,13
+1974,mosport,lola,hill,+3 Laps,-1,14
+1974,mosport,iso_marlboro,laffite,Puncture,-1,15
+1974,mosport,mclaren,mass,+8 Laps,-1,16
+1974,mosport,brm,amon,Not classified,-1,17
+1974,mosport,ferrari,lauda,Accident,-1,18
+1974,mosport,shadow,pryce,Engine,-1,19
+1974,mosport,brabham,watson,Suspension,-1,20
+1974,mosport,brm,beltoise,Not classified,-1,21
+1974,mosport,tyrrell,scheckter,Brakes,-1,22
+1974,mosport,shadow,jarier,Halfshaft,-1,23
+1974,mosport,iso_marlboro,merzario,Handling,-1,24
+1974,mosport,brabham,wietzes,Engine,-1,25
+1974,mosport,march,stuck,Fuel system,-1,26
+1974,mosport,surtees,bell,Did not qualify,-1,27
+1974,mosport,ensign,wilds,Did not qualify,-1,28
+1974,mosport,march,brambilla,Did not qualify,-1,29
+1974,mosport,brabham,ashley,Did not qualify,-1,30

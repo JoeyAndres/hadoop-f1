@@ -1,0 +1,22 @@
+2014,shanghai,mercedes,hamilton,Finished,5608338,1
+2014,shanghai,mercedes,rosberg,Finished,5626400,2
+2014,shanghai,ferrari,alonso,Finished,5631942,3
+2014,shanghai,red_bull,ricciardo,Finished,5635474,4
+2014,shanghai,red_bull,vettel,Finished,5656116,5
+2014,shanghai,force_india,hulkenberg,Finished,5662633,6
+2014,shanghai,williams,bottas,Finished,5664035,7
+2014,shanghai,ferrari,raikkonen,Finished,5684673,8
+2014,shanghai,force_india,perez,Finished,5690985,9
+2014,shanghai,toro_rosso,kvyat,+1 Lap,-1,10
+2014,shanghai,mclaren,button,+1 Lap,-1,11
+2014,shanghai,toro_rosso,vergne,+1 Lap,-1,12
+2014,shanghai,mclaren,kevin_magnussen,+1 Lap,-1,13
+2014,shanghai,lotus_f1,maldonado,+1 Lap,-1,14
+2014,shanghai,williams,massa,+1 Lap,-1,15
+2014,shanghai,sauber,gutierrez,+1 Lap,-1,16
+2014,shanghai,marussia,jules_bianchi,+1 Lap,-1,17
+2014,shanghai,caterham,kobayashi,+1 Lap,-1,18
+2014,shanghai,marussia,chilton,+2 Laps,-1,19
+2014,shanghai,caterham,ericsson,+2 Laps,-1,20
+2014,shanghai,lotus_f1,grosjean,Gearbox,-1,21
+2014,shanghai,sauber,sutil,Engine,-1,22

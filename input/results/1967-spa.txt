@@ -1,0 +1,18 @@
+1967,spa,eagle-weslake,gurney,Finished,6049400,1
+1967,spa,brm,stewart,Finished,6112400,2
+1967,spa,ferrari,amon,Finished,6149400,3
+1967,spa,cooper-maserati,rindt,Finished,6183300,4
+1967,spa,brm,spence,+1 Lap,-1,5
+1967,spa,lotus-ford,clark,+1 Lap,-1,6
+1967,spa,cooper-maserati,siffert,+1 Lap,-1,7
+1967,spa,brabham-climax,anderson,+2 Laps,-1,8
+1967,spa,cooper-maserati,rodriguez,Engine,-1,9
+1967,spa,cooper-maserati,ligier,+3 Laps,-1,10
+1967,spa,ferrari,scarfiotti,Not classified,-1,11
+1967,spa,brabham-repco,jack_brabham,Engine,-1,12
+1967,spa,brabham-repco,hulme,Engine,-1,13
+1967,spa,cooper-maserati,bonnier,Engine,-1,14
+1967,spa,lotus-ford,hill,Clutch,-1,15
+1967,spa,honda,surtees,Engine,-1,16
+1967,spa,brm,irwin,Engine,-1,17
+1967,spa,ferrari,parkes,Accident,-1,18

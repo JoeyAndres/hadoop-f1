@@ -1,0 +1,24 @@
+1960,monaco,team_lotus,moss,Finished,10425500,1
+1960,monaco,cooper-climax,mclaren,Finished,10477600,2
+1960,monaco,ferrari,phil_hill,Finished,10487400,3
+1960,monaco,cooper-climax,brooks,+1 Lap,-1,4
+1960,monaco,brm,bonnier,+17 Laps,-1,5
+1960,monaco,ferrari,ginther,+30 Laps,-1,6
+1960,monaco,brm,hill,Spun off,-1,7
+1960,monaco,ferrari,trips,Clutch,-1,8
+1960,monaco,team_lotus,ireland,+44 Laps,-1,9
+1960,monaco,brm,gurney,Suspension,-1,10
+1960,monaco,cooper-climax,jack_brabham,Disqualified,-1,11
+1960,monaco,cooper-climax,salvadori,Overheating,-1,12
+1960,monaco,team_lotus,stacey,Chassis,-1,13
+1960,monaco,cooper-climax,bristow,Gearbox,-1,14
+1960,monaco,team_lotus,surtees,Transmission,-1,15
+1960,monaco,cooper-maserati,trintignant,Gearbox,-1,16
+1960,monaco,cooper-climax,halford,Did not qualify,-1,17
+1960,monaco,ferrari,allison,Did not qualify,-1,18
+1960,monaco,jbw,naylor,Did not qualify,-1,19
+1960,monaco,cooper-maserati,gregory,Did not qualify,-1,20
+1960,monaco,scarab,daigh,Did not qualify,-1,21
+1960,monaco,cooper-castellotti,scarlatti,Did not qualify,-1,22
+1960,monaco,scarab,reventlow,Did not qualify,-1,23
+1960,monaco,cooper-maserati,burgess,Did not qualify,-1,24

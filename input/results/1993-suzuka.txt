@@ -1,0 +1,24 @@
+1993,suzuka,mclaren,senna,Finished,6027912,1
+1993,suzuka,williams,prost,Finished,6039347,2
+1993,suzuka,mclaren,hakkinen,Finished,6054041,3
+1993,suzuka,williams,damon_hill,Finished,6111450,4
+1993,suzuka,jordan,barrichello,Finished,6123013,5
+1993,suzuka,jordan,irvine,Finished,6134333,6
+1993,suzuka,ligier,blundell,+1 Lap,-1,7
+1993,suzuka,sauber,lehto,+1 Lap,-1,8
+1993,suzuka,ligier,brundle,Collision,-1,9
+1993,suzuka,minardi,martini,+2 Laps,-1,10
+1993,suzuka,team_lotus,herbert,+2 Laps,-1,11
+1993,suzuka,larrousse,toshio_suzuki,+2 Laps,-1,12
+1993,suzuka,team_lotus,lamy,Spun off,-1,13
+1993,suzuka,footwork,warwick,Collision,-1,14
+1993,suzuka,benetton,patrese,Spun off,-1,15
+1993,suzuka,ferrari,berger,Engine,-1,16
+1993,suzuka,footwork,suzuki,Spun off,-1,17
+1993,suzuka,minardi,gounon,Withdrew,-1,18
+1993,suzuka,tyrrell,katayama,Engine,-1,19
+1993,suzuka,sauber,wendlinger,Engine,-1,20
+1993,suzuka,larrousse,comas,Engine,-1,21
+1993,suzuka,benetton,michael_schumacher,Collision,-1,22
+1993,suzuka,ferrari,alesi,Engine,-1,23
+1993,suzuka,tyrrell,cesaris,Collision,-1,24

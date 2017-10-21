@@ -1,0 +1,24 @@
+2010,interlagos,red_bull,vettel,Finished,5591803,1
+2010,interlagos,red_bull,webber,Finished,5596046,2
+2010,interlagos,ferrari,alonso,Finished,5598610,3
+2010,interlagos,mclaren,hamilton,Finished,5606437,4
+2010,interlagos,mclaren,button,Finished,5607396,5
+2010,interlagos,mercedes,rosberg,Finished,5627123,6
+2010,interlagos,mercedes,michael_schumacher,Finished,5635259,7
+2010,interlagos,williams,hulkenberg,+1 Lap,-1,8
+2010,interlagos,renault,kubica,+1 Lap,-1,9
+2010,interlagos,sauber,kobayashi,+1 Lap,-1,10
+2010,interlagos,toro_rosso,alguersuari,+1 Lap,-1,11
+2010,interlagos,force_india,sutil,+1 Lap,-1,12
+2010,interlagos,toro_rosso,buemi,+1 Lap,-1,13
+2010,interlagos,williams,barrichello,+1 Lap,-1,14
+2010,interlagos,ferrari,massa,+1 Lap,-1,15
+2010,interlagos,renault,petrov,+1 Lap,-1,16
+2010,interlagos,sauber,heidfeld,+1 Lap,-1,17
+2010,interlagos,lotus_racing,kovalainen,+2 Laps,-1,18
+2010,interlagos,lotus_racing,trulli,+2 Laps,-1,19
+2010,interlagos,virgin,glock,+2 Laps,-1,20
+2010,interlagos,hrt,bruno_senna,+2 Laps,-1,21
+2010,interlagos,hrt,klien,+6 Laps,-1,22
+2010,interlagos,virgin,grassi,+9 Laps,-1,23
+2010,interlagos,force_india,liuzzi,Accident,-1,24

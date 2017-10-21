@@ -1,0 +1,29 @@
+1973,silverstone,mclaren,revson,Finished,5358500,1
+1973,silverstone,team_lotus,peterson,Finished,5361300,2
+1973,silverstone,mclaren,hulme,Finished,5361500,3
+1973,silverstone,march,hunt,Finished,5361900,4
+1973,silverstone,tyrrell,cevert,Finished,5395100,5
+1973,silverstone,brabham,reutemann,Finished,5403200,6
+1973,silverstone,brm,regazzoni,Finished,5430200,7
+1973,silverstone,ferrari,ickx,Finished,5435900,8
+1973,silverstone,iso_marlboro,ganley,+1 Lap,-1,9
+1973,silverstone,tyrrell,stewart,+1 Lap,-1,10
+1973,silverstone,march,beuttler,+2 Laps,-1,11
+1973,silverstone,brm,lauda,+4 Laps,-1,12
+1973,silverstone,ensign,opel,+6 Laps,-1,13
+1973,silverstone,brabham,wilson_fittipaldi,Oil leak,-1,14
+1973,silverstone,team_lotus,emerson_fittipaldi,Transmission,-1,15
+1973,silverstone,brabham,watson,Fuel system,-1,16
+1973,silverstone,shadow,hill,Chassis,-1,17
+1973,silverstone,tecno,amon,Fuel system,-1,18
+1973,silverstone,mclaren,scheckter,Collision,-1,19
+1973,silverstone,surtees,hailwood,Collision,-1,20
+1973,silverstone,surtees,mass,Collision,-1,21
+1973,silverstone,surtees,pace,Collision,-1,22
+1973,silverstone,brm,beltoise,Collision,-1,23
+1973,silverstone,brabham,adamich,Collision,-1,24
+1973,silverstone,march,williamson,Collision,-1,25
+1973,silverstone,shadow,follmer,Collision,-1,26
+1973,silverstone,shadow,oliver,Collision,-1,27
+1973,silverstone,iso_marlboro,mcrae,Throttle,-1,28
+1973,silverstone,march,purley,Spun off,-1,29

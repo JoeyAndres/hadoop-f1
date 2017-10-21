@@ -1,0 +1,24 @@
+1995,villeneuve,ferrari,alesi,Finished,6294171,1
+1995,villeneuve,jordan,barrichello,Finished,6325858,2
+1995,villeneuve,jordan,irvine,Finished,6327441,3
+1995,villeneuve,ligier,panis,Finished,6330677,4
+1995,villeneuve,benetton,michael_schumacher,Finished,6331231,5
+1995,villeneuve,footwork,morbidelli,+1 Lap,-1,6
+1995,villeneuve,tyrrell,salo,+1 Lap,-1,7
+1995,villeneuve,minardi,badoer,+1 Lap,-1,8
+1995,villeneuve,footwork,inoue,+2 Laps,-1,9
+1995,villeneuve,ligier,brundle,Collision,-1,10
+1995,villeneuve,ferrari,berger,Collision,-1,11
+1995,villeneuve,minardi,martini,Throttle,-1,12
+1995,villeneuve,forti,moreno,Fuel system,-1,13
+1995,villeneuve,williams,damon_hill,Gearbox,-1,14
+1995,villeneuve,mclaren,blundell,Engine,-1,15
+1995,villeneuve,tyrrell,katayama,Engine,-1,16
+1995,villeneuve,pacific,gachot,Battery,-1,17
+1995,villeneuve,sauber,frentzen,Engine,-1,18
+1995,villeneuve,forti,diniz,Gearbox,-1,19
+1995,villeneuve,sauber,boullion,Spun off,-1,20
+1995,villeneuve,pacific,montermini,Gearbox,-1,21
+1995,villeneuve,williams,coulthard,Spun off,-1,22
+1995,villeneuve,benetton,herbert,Collision,-1,23
+1995,villeneuve,mclaren,hakkinen,Collision,-1,24

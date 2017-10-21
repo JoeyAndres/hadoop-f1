@@ -1,0 +1,22 @@
+1999,silverstone,mclaren,coulthard,Finished,5550144,1
+1999,silverstone,ferrari,irvine,Finished,5551973,2
+1999,silverstone,williams,ralf_schumacher,Finished,5577555,3
+1999,silverstone,jordan,frentzen,Finished,5577933,4
+1999,silverstone,jordan,damon_hill,Finished,5588750,5
+1999,silverstone,sauber,diniz,Finished,5603787,6
+1999,silverstone,benetton,fisichella,Finished,5604758,7
+1999,silverstone,stewart,barrichello,Finished,5618734,8
+1999,silverstone,prost,trulli,Finished,5622189,9
+1999,silverstone,benetton,wurz,Finished,5622267,10
+1999,silverstone,williams,zanardi,Finished,5627268,11
+1999,silverstone,stewart,herbert,Finished,5627853,12
+1999,silverstone,prost,panis,Finished,5630636,13
+1999,silverstone,sauber,alesi,+1 Lap,-1,14
+1999,silverstone,minardi,gene,+2 Laps,-1,15
+1999,silverstone,arrows,takagi,+2 Laps,-1,16
+1999,silverstone,bar,zonta,Suspension,-1,17
+1999,silverstone,mclaren,hakkinen,Wheel,-1,18
+1999,silverstone,bar,villeneuve,Halfshaft,-1,19
+1999,silverstone,minardi,badoer,Gearbox,-1,20
+1999,silverstone,arrows,rosa,Gearbox,-1,21
+1999,silverstone,ferrari,michael_schumacher,Brakes,-1,22

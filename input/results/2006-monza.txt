@@ -1,0 +1,22 @@
+2006,monza,ferrari,michael_schumacher,Finished,4491975,1
+2006,monza,mclaren,raikkonen,Finished,4500021,2
+2006,monza,bmw_sauber,kubica,Finished,4518389,3
+2006,monza,renault,fisichella,Finished,4524020,4
+2006,monza,honda,button,Finished,4524660,5
+2006,monza,honda,barrichello,Finished,4534384,6
+2006,monza,toyota,trulli,Finished,4536637,7
+2006,monza,bmw_sauber,heidfeld,Finished,4537284,8
+2006,monza,ferrari,massa,Finished,4537970,9
+2006,monza,williams,webber,Finished,4564577,10
+2006,monza,red_bull,klien,+1 Lap,-1,11
+2006,monza,red_bull,coulthard,+1 Lap,-1,12
+2006,monza,toro_rosso,speed,+1 Lap,-1,13
+2006,monza,toro_rosso,liuzzi,+1 Lap,-1,14
+2006,monza,toyota,ralf_schumacher,+1 Lap,-1,15
+2006,monza,super_aguri,sato,+2 Laps,-1,16
+2006,monza,spyker_mf1,albers,+2 Laps,-1,17
+2006,monza,spyker_mf1,monteiro,Brakes,-1,18
+2006,monza,renault,alonso,Engine,-1,19
+2006,monza,mclaren,rosa,Engine,-1,20
+2006,monza,super_aguri,yamamoto,Hydraulics,-1,21
+2006,monza,williams,rosberg,Driveshaft,-1,22

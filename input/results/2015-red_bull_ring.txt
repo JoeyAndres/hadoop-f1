@@ -1,0 +1,20 @@
+2015,red_bull_ring,mercedes,rosberg,Finished,5416930,1
+2015,red_bull_ring,mercedes,hamilton,Finished,5425730,2
+2015,red_bull_ring,williams,massa,Finished,5434503,3
+2015,red_bull_ring,ferrari,vettel,Finished,5435111,4
+2015,red_bull_ring,williams,bottas,Finished,5470534,5
+2015,red_bull_ring,force_india,hulkenberg,Finished,5481005,6
+2015,red_bull_ring,lotus_f1,maldonado,+1 Lap,-1,7
+2015,red_bull_ring,toro_rosso,max_verstappen,+1 Lap,-1,8
+2015,red_bull_ring,force_india,perez,+1 Lap,-1,9
+2015,red_bull_ring,red_bull,ricciardo,+1 Lap,-1,10
+2015,red_bull_ring,sauber,nasr,+1 Lap,-1,11
+2015,red_bull_ring,red_bull,kvyat,+1 Lap,-1,12
+2015,red_bull_ring,sauber,ericsson,+2 Laps,-1,13
+2015,red_bull_ring,manor,merhi,+3 Laps,-1,14
+2015,red_bull_ring,lotus_f1,grosjean,Gearbox,-1,15
+2015,red_bull_ring,toro_rosso,sainz,Power loss,-1,16
+2015,red_bull_ring,mclaren,button,Retired,-1,17
+2015,red_bull_ring,manor,stevens,Oil leak,-1,18
+2015,red_bull_ring,ferrari,raikkonen,Collision,-1,19
+2015,red_bull_ring,mclaren,alonso,Collision,-1,20

@@ -1,0 +1,26 @@
+1979,zandvoort,williams,jones,Finished,6079775,1
+1979,zandvoort,ferrari,scheckter,Finished,6101558,2
+1979,zandvoort,ligier,laffite,Finished,6143028,3
+1979,zandvoort,brabham-alfa_romeo,piquet,+1 Lap,-1,4
+1979,zandvoort,ligier,ickx,+1 Lap,-1,5
+1979,zandvoort,arrows,mass,+2 Laps,-1,6
+1979,zandvoort,team_lotus,rebaque,+2 Laps,-1,7
+1979,zandvoort,tyrrell,pironi,Suspension,-1,8
+1979,zandvoort,ferrari,gilles_villeneuve,Tyre,-1,9
+1979,zandvoort,shadow,angelis,Transmission,-1,10
+1979,zandvoort,wolf,keke_rosberg,Engine,-1,11
+1979,zandvoort,renault,jabouille,Clutch,-1,12
+1979,zandvoort,mclaren,watson,Engine,-1,13
+1979,zandvoort,tyrrell,jarier,Spun off,-1,14
+1979,zandvoort,ats,stuck,Transmission,-1,15
+1979,zandvoort,shadow,lammers,Gearbox,-1,16
+1979,zandvoort,team_lotus,mario_andretti,Suspension,-1,17
+1979,zandvoort,arrows,patrese,Brakes,-1,18
+1979,zandvoort,mclaren,tambay,Engine,-1,19
+1979,zandvoort,brabham-alfa_romeo,lauda,Withdrew,-1,20
+1979,zandvoort,fittipaldi,emerson_fittipaldi,Electrical,-1,21
+1979,zandvoort,team_lotus,reutemann,Suspension,-1,22
+1979,zandvoort,renault,arnoux,Suspension,-1,23
+1979,zandvoort,williams,regazzoni,Accident,-1,24
+1979,zandvoort,ensign,gaillard,Did not qualify,-1,25
+1979,zandvoort,merzario,merzario,Did not qualify,-1,26

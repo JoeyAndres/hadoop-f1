@@ -1,0 +1,20 @@
+2009,hungaroring,mclaren,hamilton,Finished,5903876,1
+2009,hungaroring,ferrari,raikkonen,Finished,5915405,2
+2009,hungaroring,red_bull,webber,Finished,5920762,3
+2009,hungaroring,williams,rosberg,Finished,5930843,4
+2009,hungaroring,mclaren,kovalainen,Finished,5938268,5
+2009,hungaroring,toyota,glock,Finished,5939113,6
+2009,hungaroring,brawn,button,Finished,5958964,7
+2009,hungaroring,toyota,trulli,Finished,5972048,8
+2009,hungaroring,williams,nakajima,Finished,5972650,9
+2009,hungaroring,brawn,barrichello,Finished,5973132,10
+2009,hungaroring,bmw_sauber,heidfeld,Finished,5974488,11
+2009,hungaroring,renault,piquet_jr,Finished,5975388,12
+2009,hungaroring,bmw_sauber,kubica,Finished,5977922,13
+2009,hungaroring,force_india,fisichella,+1 Lap,-1,14
+2009,hungaroring,toro_rosso,alguersuari,+1 Lap,-1,15
+2009,hungaroring,toro_rosso,buemi,+1 Lap,-1,16
+2009,hungaroring,red_bull,vettel,Suspension,-1,17
+2009,hungaroring,renault,alonso,Wheel,-1,18
+2009,hungaroring,force_india,sutil,Overheating,-1,19
+2009,hungaroring,ferrari,massa,Withdrew,-1,20

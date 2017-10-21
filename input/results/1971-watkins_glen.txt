@@ -1,0 +1,29 @@
+1971,watkins_glen,tyrrell,cevert,Finished,6231991,1
+1971,watkins_glen,brm,siffert,Finished,6272053,2
+1971,watkins_glen,march-ford,peterson,Finished,6276061,3
+1971,watkins_glen,brm,ganley,Finished,6288740,4
+1971,watkins_glen,tyrrell,stewart,Finished,6291994,5
+1971,watkins_glen,ferrari,regazzoni,Finished,6308417,6
+1971,watkins_glen,brabham,hill,+1 Lap,-1,7
+1971,watkins_glen,matra,beltoise,+1 Lap,-1,8
+1971,watkins_glen,brm,gethin,+1 Lap,-1,9
+1971,watkins_glen,mclaren,hobbs,+1 Lap,-1,10
+1971,watkins_glen,march-alfa_romeo,adamich,+2 Laps,-1,11
+1971,watkins_glen,matra,amon,+2 Laps,-1,12
+1971,watkins_glen,brm,marko,+2 Laps,-1,13
+1971,watkins_glen,brm,Cannoc,+3 Laps,-1,14
+1971,watkins_glen,surtees,hailwood,Accident,-1,15
+1971,watkins_glen,mclaren,bonnier,Out of fuel,-1,16
+1971,watkins_glen,surtees,surtees,+5 Laps,-1,17
+1971,watkins_glen,march-ford,barber,Not classified,-1,18
+1971,watkins_glen,ferrari,ickx,Alternator,-1,19
+1971,watkins_glen,lotus-ford,emerson_fittipaldi,Not classified,-1,20
+1971,watkins_glen,lotus-ford,lovely,Not classified,-1,21
+1971,watkins_glen,mclaren,hulme,Accident,-1,22
+1971,watkins_glen,brabham,schenken,Engine,-1,23
+1971,watkins_glen,brabham,craft,Suspension,-1,24
+1971,watkins_glen,surtees,posey,Engine,-1,25
+1971,watkins_glen,march-ford,pescarolo,Engine,-1,26
+1971,watkins_glen,march-ford,galli,Wheel,-1,27
+1971,watkins_glen,lotus-ford,wisell,Brakes,-1,28
+1971,watkins_glen,tyrrell,revson,Clutch,-1,29

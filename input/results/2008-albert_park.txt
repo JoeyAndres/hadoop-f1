@@ -1,0 +1,22 @@
+2008,albert_park,mclaren,hamilton,Finished,5690616,1
+2008,albert_park,bmw_sauber,heidfeld,Finished,5696094,2
+2008,albert_park,williams,rosberg,Finished,5698779,3
+2008,albert_park,renault,alonso,Finished,5707797,4
+2008,albert_park,mclaren,kovalainen,Finished,5708630,5
+2008,albert_park,williams,nakajima,+1 Lap,-1,6
+2008,albert_park,toro_rosso,bourdais,Engine,-1,7
+2008,albert_park,ferrari,raikkonen,Engine,-1,8
+2008,albert_park,bmw_sauber,kubica,Collision,-1,9
+2008,albert_park,toyota,glock,Accident,-1,10
+2008,albert_park,super_aguri,sato,Transmission,-1,11
+2008,albert_park,renault,piquet_jr,Clutch,-1,12
+2008,albert_park,ferrari,massa,Engine,-1,13
+2008,albert_park,red_bull,coulthard,Collision,-1,14
+2008,albert_park,toyota,trulli,Electrical,-1,15
+2008,albert_park,force_india,sutil,Hydraulics,-1,16
+2008,albert_park,red_bull,webber,Collision,-1,17
+2008,albert_park,honda,button,Collision,-1,18
+2008,albert_park,super_aguri,davidson,Collision,-1,19
+2008,albert_park,toro_rosso,vettel,Collision,-1,20
+2008,albert_park,force_india,fisichella,Collision,-1,21
+2008,albert_park,honda,barrichello,Disqualified,-1,22

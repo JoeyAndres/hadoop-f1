@@ -1,0 +1,19 @@
+1973,galvez,team_lotus,emerson_fittipaldi,Finished,6978220,1
+1973,galvez,tyrrell,cevert,Finished,6982910,2
+1973,galvez,tyrrell,stewart,Finished,7011410,3
+1973,galvez,ferrari,ickx,Finished,7020790,4
+1973,galvez,mclaren,hulme,+1 Lap,-1,5
+1973,galvez,brabham,wilson_fittipaldi,+1 Lap,-1,6
+1973,galvez,brm,regazzoni,+3 Laps,-1,7
+1973,galvez,mclaren,revson,+4 Laps,-1,8
+1973,galvez,ferrari,merzario,+4 Laps,-1,9
+1973,galvez,march,beuttler,Suspension,-1,10
+1973,galvez,march,jarier,Radiator,-1,11
+1973,galvez,brm,beltoise,Engine,-1,12
+1973,galvez,iso_marlboro,ganley,Not classified,-1,13
+1973,galvez,team_lotus,peterson,Oil pressure,-1,14
+1973,galvez,brm,lauda,Oil pressure,-1,15
+1973,galvez,brabham,reutemann,Gearbox,-1,16
+1973,galvez,surtees,hailwood,Halfshaft,-1,17
+1973,galvez,surtees,pace,Suspension,-1,18
+1973,galvez,iso_marlboro,galli,Engine,-1,19

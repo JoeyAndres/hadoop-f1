@@ -1,0 +1,17 @@
+1961,zandvoort,ferrari,trips,Finished,7312100,1
+1961,zandvoort,ferrari,phil_hill,Finished,7313000,2
+1961,zandvoort,lotus-climax,clark,Finished,7325200,3
+1961,zandvoort,lotus-climax,moss,Finished,7334300,4
+1961,zandvoort,ferrari,ginther,Finished,7334400,5
+1961,zandvoort,cooper-climax,jack_brabham,Finished,7392200,6
+1961,zandvoort,cooper-climax,surtees,Finished,7398800,7
+1961,zandvoort,brm,hill,Finished,7401900,8
+1961,zandvoort,brm,brooks,+1 Lap,-1,9
+1961,zandvoort,porsche,gurney,+1 Lap,-1,10
+1961,zandvoort,porsche,bonnier,+2 Laps,-1,11
+1961,zandvoort,cooper-climax,mclaren,+2 Laps,-1,12
+1961,zandvoort,lotus-climax,trevor_taylor,+2 Laps,-1,13
+1961,zandvoort,porsche,beaufort,+3 Laps,-1,14
+1961,zandvoort,porsche,herrmann,+3 Laps,-1,15
+1961,zandvoort,cooper-climax,gregory,Withdrew,-1,16
+1961,zandvoort,lotus-climax,burgess,Withdrew,-1,17

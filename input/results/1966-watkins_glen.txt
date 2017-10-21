@@ -1,0 +1,19 @@
+1966,watkins_glen,lotus-brm,clark,Finished,7780110,1
+1966,watkins_glen,cooper-maserati,rindt,Out of fuel,-1,2
+1966,watkins_glen,cooper-maserati,surtees,+1 Lap,-1,3
+1966,watkins_glen,cooper-maserati,siffert,+3 Laps,-1,4
+1966,watkins_glen,mclaren-ford,mclaren,+3 Laps,-1,5
+1966,watkins_glen,lotus-climax,arundell,+7 Laps,-1,6
+1966,watkins_glen,brm,ireland,Alternator,-1,7
+1966,watkins_glen,honda,ginther,Not classified,-1,8
+1966,watkins_glen,lotus-brm,spence,Ignition,-1,9
+1966,watkins_glen,honda,bucknum,Engine,-1,10
+1966,watkins_glen,cooper-maserati,bonnier,Not classified,-1,11
+1966,watkins_glen,brabham-repco,jack_brabham,Engine,-1,12
+1966,watkins_glen,brm,stewart,Engine,-1,13
+1966,watkins_glen,brm,hill,Differential,-1,14
+1966,watkins_glen,ferrari,bandini,Engine,-1,15
+1966,watkins_glen,brabham-repco,hulme,Engine,-1,16
+1966,watkins_glen,lotus-brm,rodriguez,Retired,-1,17
+1966,watkins_glen,eagle-weslake,gurney,Clutch,-1,18
+1966,watkins_glen,eagle-climax,bondurant,Disqualified,-1,19

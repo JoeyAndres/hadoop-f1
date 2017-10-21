@@ -1,0 +1,30 @@
+1974,osterreichring,brabham,reutemann,Finished,5324720,1
+1974,osterreichring,mclaren,hulme,Finished,5367640,2
+1974,osterreichring,hesketh,hunt,Finished,5386260,3
+1974,osterreichring,brabham,watson,Finished,5394110,4
+1974,osterreichring,ferrari,regazzoni,Finished,5397800,5
+1974,osterreichring,march,brambilla,Finished,5398540,6
+1974,osterreichring,mclaren,hobbs,+1 Lap,-1,7
+1974,osterreichring,shadow,jarier,+2 Laps,-1,8
+1974,osterreichring,surtees,quester,+3 Laps,-1,9
+1974,osterreichring,trojan,schenken,+4 Laps,-1,10
+1974,osterreichring,march,stuck,Suspension,-1,11
+1974,osterreichring,lola,hill,+6 Laps,-1,12
+1974,osterreichring,token,ashley,Not classified,-1,13
+1974,osterreichring,team_lotus,peterson,Halfshaft,-1,14
+1974,osterreichring,team_lotus,ickx,Collision,-1,15
+1974,osterreichring,tyrrell,depailler,Collision,-1,16
+1974,osterreichring,brabham,pace,Fuel leak,-1,17
+1974,osterreichring,mclaren,emerson_fittipaldi,Engine,-1,18
+1974,osterreichring,iso_marlboro,laffite,Not classified,-1,19
+1974,osterreichring,iso_marlboro,merzario,Fuel system,-1,20
+1974,osterreichring,shadow,pryce,Spun off,-1,21
+1974,osterreichring,brm,beltoise,Engine,-1,22
+1974,osterreichring,ferrari,lauda,Engine,-1,23
+1974,osterreichring,lola,stommelen,Accident,-1,24
+1974,osterreichring,tyrrell,scheckter,Engine,-1,25
+1974,osterreichring,hesketh,ian_scheckter,Did not qualify,-1,26
+1974,osterreichring,surtees,kinnunen,Did not qualify,-1,27
+1974,osterreichring,surtees,bell,Did not qualify,-1,28
+1974,osterreichring,ensign,wilds,Did not qualify,-1,29
+1974,osterreichring,surtees,jabouille,Did not qualify,-1,30

@@ -1,0 +1,30 @@
+1992,villeneuve,mclaren,berger,Finished,5828299,1
+1992,villeneuve,benetton,michael_schumacher,Finished,5840700,2
+1992,villeneuve,ferrari,alesi,Finished,5895626,3
+1992,villeneuve,march,wendlinger,+1 Lap,-1,4
+1992,villeneuve,tyrrell,cesaris,+1 Lap,-1,5
+1992,villeneuve,ligier,comas,+1 Lap,-1,6
+1992,villeneuve,footwork,alboreto,+1 Lap,-1,7
+1992,villeneuve,dallara,martini,+1 Lap,-1,8
+1992,villeneuve,dallara,lehto,+1 Lap,-1,9
+1992,villeneuve,ligier,boutsen,+2 Laps,-1,10
+1992,villeneuve,minardi,morbidelli,+2 Laps,-1,11
+1992,villeneuve,tyrrell,grouillard,+2 Laps,-1,12
+1992,villeneuve,minardi,fittipaldi,+4 Laps,-1,13
+1992,villeneuve,march,belmondo,+5 Laps,-1,14
+1992,villeneuve,larrousse,katayama,Engine,-1,15
+1992,villeneuve,benetton,brundle,Transmission,-1,16
+1992,villeneuve,williams,patrese,Gearbox,-1,17
+1992,villeneuve,mclaren,senna,Electrical,-1,18
+1992,villeneuve,jordan,modena,Transmission,-1,19
+1992,villeneuve,team_lotus,hakkinen,Gearbox,-1,20
+1992,villeneuve,team_lotus,herbert,Clutch,-1,21
+1992,villeneuve,ferrari,capelli,Spun off,-1,22
+1992,villeneuve,williams,mansell,Spun off,-1,23
+1992,villeneuve,jordan,gugelmin,Transmission,-1,24
+1992,villeneuve,larrousse,gachot,Disqualified,-1,25
+1992,villeneuve,fondmetal,tarquini,Transmission,-1,26
+1992,villeneuve,footwork,suzuki,Did not qualify,-1,27
+1992,villeneuve,brabham,poele,Did not qualify,-1,28
+1992,villeneuve,fondmetal,chiesa,Did not qualify,-1,29
+1992,villeneuve,brabham,damon_hill,Did not qualify,-1,30

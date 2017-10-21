@@ -1,0 +1,22 @@
+2013,americas,red_bull,vettel,Finished,5957148,1
+2013,americas,lotus_f1,grosjean,Finished,5963432,2
+2013,americas,red_bull,webber,Finished,5965544,3
+2013,americas,mercedes,hamilton,Finished,5984506,4
+2013,americas,ferrari,alonso,Finished,5986740,5
+2013,americas,sauber,hulkenberg,Finished,5987548,6
+2013,americas,mclaren,perez,Finished,6003840,7
+2013,americas,williams,bottas,Finished,6011657,8
+2013,americas,mercedes,rosberg,Finished,6016289,9
+2013,americas,mclaren,button,Finished,6034426,10
+2013,americas,toro_rosso,ricciardo,Finished,6038152,11
+2013,americas,toro_rosso,vergne,Finished,6041722,12
+2013,americas,ferrari,massa,Finished,6044062,13
+2013,americas,sauber,gutierrez,Finished,6048855,14
+2013,americas,lotus_f1,kovalainen,Finished,6052211,15
+2013,americas,force_india,resta,Finished,6054001,16
+2013,americas,williams,maldonado,+1 Lap,-1,17
+2013,americas,marussia,jules_bianchi,+1 Lap,-1,18
+2013,americas,caterham,garde,+1 Lap,-1,19
+2013,americas,caterham,pic,+1 Lap,-1,20
+2013,americas,marussia,chilton,+2 Laps,-1,21
+2013,americas,force_india,sutil,Accident,-1,22

@@ -1,0 +1,26 @@
+1987,osterreichring,williams,mansell,Finished,4724898,1
+1987,osterreichring,williams,piquet,Finished,4780602,2
+1987,osterreichring,benetton,fabi,+1 Lap,-1,3
+1987,osterreichring,benetton,boutsen,+1 Lap,-1,4
+1987,osterreichring,team_lotus,senna,+2 Laps,-1,5
+1987,osterreichring,mclaren,prost,+2 Laps,-1,6
+1987,osterreichring,mclaren,johansson,+2 Laps,-1,7
+1987,osterreichring,ligier,ghinzani,+2 Laps,-1,8
+1987,osterreichring,zakspeed,danner,+3 Laps,-1,9
+1987,osterreichring,ligier,arnoux,+3 Laps,-1,10
+1987,osterreichring,march,capelli,+3 Laps,-1,11
+1987,osterreichring,larrousse,alliot,+3 Laps,-1,12
+1987,osterreichring,team_lotus,satoru_nakajima,+3 Laps,-1,13
+1987,osterreichring,tyrrell,palmer,+5 Laps,-1,14
+1987,osterreichring,zakspeed,brundle,Disqualified,-1,15
+1987,osterreichring,ags,fabre,Not classified,-1,16
+1987,osterreichring,brabham,patrese,Engine,-1,17
+1987,osterreichring,ferrari,alboreto,Turbo,-1,18
+1987,osterreichring,brabham,cesaris,Engine,-1,19
+1987,osterreichring,arrows,warwick,Engine,-1,20
+1987,osterreichring,arrows,cheever,Tyre,-1,21
+1987,osterreichring,ferrari,berger,Turbo,-1,22
+1987,osterreichring,minardi,campos,Electrical,-1,23
+1987,osterreichring,minardi,nannini,Engine,-1,24
+1987,osterreichring,osella,caffi,Electrical,-1,25
+1987,osterreichring,tyrrell,streiff,Accident,-1,26

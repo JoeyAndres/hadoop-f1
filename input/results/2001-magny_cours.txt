@@ -1,0 +1,22 @@
+2001,magny_cours,ferrari,michael_schumacher,Finished,5615636,1
+2001,magny_cours,williams,ralf_schumacher,Finished,5626035,2
+2001,magny_cours,ferrari,barrichello,Finished,5632017,3
+2001,magny_cours,mclaren,coulthard,Finished,5632742,4
+2001,magny_cours,jordan,trulli,Finished,5683921,5
+2001,magny_cours,sauber,heidfeld,+1 Lap,-1,6
+2001,magny_cours,sauber,raikkonen,+1 Lap,-1,7
+2001,magny_cours,jordan,frentzen,+1 Lap,-1,8
+2001,magny_cours,bar,panis,+1 Lap,-1,9
+2001,magny_cours,prost,burti,+1 Lap,-1,10
+2001,magny_cours,benetton,fisichella,+1 Lap,-1,11
+2001,magny_cours,prost,alesi,+2 Laps,-1,12
+2001,magny_cours,arrows,verstappen,+2 Laps,-1,13
+2001,magny_cours,jaguar,rosa,+2 Laps,-1,14
+2001,magny_cours,minardi,marques,+3 Laps,-1,15
+2001,magny_cours,benetton,button,Fuel pressure,-1,16
+2001,magny_cours,minardi,alonso,Engine,-1,17
+2001,magny_cours,jaguar,irvine,Engine,-1,18
+2001,magny_cours,williams,montoya,Engine,-1,19
+2001,magny_cours,arrows,bernoldi,Engine,-1,20
+2001,magny_cours,bar,villeneuve,Engine,-1,21
+2001,magny_cours,mclaren,hakkinen,Gearbox,-1,22

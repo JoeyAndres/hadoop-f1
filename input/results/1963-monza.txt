@@ -1,0 +1,30 @@
+1963,monza,lotus-climax,clark,Finished,8659600,1
+1963,monza,brm,ginther,Finished,8754600,2
+1963,monza,cooper-climax,mclaren,+1 Lap,-1,3
+1963,monza,brp,ireland,Engine,-1,4
+1963,monza,brabham,jack_brabham,+2 Laps,-1,5
+1963,monza,cooper-climax,maggs,+2 Laps,-1,6
+1963,monza,cooper-climax,bonnier,+2 Laps,-1,7
+1963,monza,lotus-brm,hall,+2 Laps,-1,8
+1963,monza,brm,trintignant,+3 Laps,-1,9
+1963,monza,lola,hailwood,+4 Laps,-1,10
+1963,monza,ats,phil_hill,+7 Laps,-1,11
+1963,monza,lola,anderson,+7 Laps,-1,12
+1963,monza,lotus-climax,spence,Oil pressure,-1,13
+1963,monza,brabham,gurney,Fuel system,-1,14
+1963,monza,ats,baghetti,+23 Laps,-1,15
+1963,monza,brm,hill,Clutch,-1,16
+1963,monza,lotus-brm,siffert,Oil pressure,-1,17
+1963,monza,ferrari,bandini,Gearbox,-1,18
+1963,monza,lotus-brm,gregory,Engine,-1,19
+1963,monza,ferrari,surtees,Engine,-1,20
+1963,monza,lola,amon,Withdrew,-1,21
+1963,monza,cooper-climax,cabral,Did not qualify,-1,22
+1963,monza,gilby,raby,Did not qualify,-1,23
+1963,monza,scirocco,settember,Did not qualify,-1,24
+1963,monza,porsche,beaufort,Did not qualify,-1,25
+1963,monza,cooper-maserati,ernesto_brambilla,Did not qualify,-1,26
+1963,monza,lotus-climax,andre_pilette,Did not qualify,-1,27
+1963,monza,de_tomaso-ferrari,lippi,Did not qualify,-1,28
+1963,monza,porsche,mitter,Withdrew,-1,29
+1963,monza,scirocco,burgess,Withdrew,-1,30

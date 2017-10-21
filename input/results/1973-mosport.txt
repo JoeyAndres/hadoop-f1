@@ -1,0 +1,26 @@
+1973,mosport,mclaren,revson,Finished,7144083,1
+1973,mosport,team_lotus,emerson_fittipaldi,Finished,7176817,2
+1973,mosport,shadow,oliver,Finished,7178588,3
+1973,mosport,brm,beltoise,Finished,7180597,4
+1973,mosport,tyrrell,stewart,+1 Lap,-1,5
+1973,mosport,iso_marlboro,ganley,+1 Lap,-1,6
+1973,mosport,march,hunt,+2 Laps,-1,7
+1973,mosport,brabham,reutemann,+2 Laps,-1,8
+1973,mosport,surtees,hailwood,+2 Laps,-1,9
+1973,mosport,tyrrell,amon,+3 Laps,-1,10
+1973,mosport,brabham,wilson_fittipaldi,+3 Laps,-1,11
+1973,mosport,brabham,stommelen,+4 Laps,-1,12
+1973,mosport,mclaren,hulme,+5 Laps,-1,13
+1973,mosport,iso_marlboro,schenken,+5 Laps,-1,14
+1973,mosport,ferrari,merzario,+5 Laps,-1,15
+1973,mosport,shadow,hill,+7 Laps,-1,16
+1973,mosport,shadow,follmer,+7 Laps,-1,17
+1973,mosport,surtees,pace,+8 Laps,-1,18
+1973,mosport,march,jarier,Not classified,-1,19
+1973,mosport,ensign,opel,Not classified,-1,20
+1973,mosport,brm,lauda,Transmission,-1,21
+1973,mosport,mclaren,scheckter,Accident,-1,22
+1973,mosport,tyrrell,cevert,Accident,-1,23
+1973,mosport,march,beuttler,Engine,-1,24
+1973,mosport,team_lotus,peterson,Suspension,-1,25
+1973,mosport,brm,gethin,Oil pump,-1,26

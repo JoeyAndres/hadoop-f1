@@ -1,0 +1,26 @@
+1984,villeneuve,brabham,piquet,Finished,6383748,1
+1984,villeneuve,mclaren,lauda,Finished,6386360,2
+1984,villeneuve,mclaren,prost,Finished,6471780,3
+1984,villeneuve,team_lotus,angelis,+1 Lap,-1,4
+1984,villeneuve,ferrari,arnoux,+2 Laps,-1,5
+1984,villeneuve,team_lotus,mansell,+2 Laps,-1,6
+1984,villeneuve,toleman,senna,+2 Laps,-1,7
+1984,villeneuve,ats,manfred_winkelhock,+2 Laps,-1,8
+1984,villeneuve,toleman,cecotto,+2 Laps,-1,9
+1984,villeneuve,ram,alliot,+5 Laps,-1,10
+1984,villeneuve,alfa,cheever,Out of fuel,-1,11
+1984,villeneuve,tyrrell,brundle,Disqualified,-1,12
+1984,villeneuve,arrows,surer,Engine,-1,13
+1984,villeneuve,renault,warwick,Chassis,-1,14
+1984,villeneuve,spirit,rothengatter,Not classified,-1,15
+1984,villeneuve,tyrrell,bellof,Disqualified,-1,16
+1984,villeneuve,ligier,cesaris,Brakes,-1,17
+1984,villeneuve,brabham,corrado_fabi,Turbo,-1,18
+1984,villeneuve,arrows,boutsen,Engine,-1,19
+1984,villeneuve,alfa,patrese,Accident,-1,20
+1984,villeneuve,williams,keke_rosberg,Fuel system,-1,21
+1984,villeneuve,williams,laffite,Turbo,-1,22
+1984,villeneuve,ram,thackwell,Turbo,-1,23
+1984,villeneuve,osella,ghinzani,Gearbox,-1,24
+1984,villeneuve,ferrari,alboreto,Engine,-1,25
+1984,villeneuve,ligier,hesnault,Turbo,-1,26

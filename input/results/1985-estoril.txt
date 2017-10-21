@@ -1,0 +1,26 @@
+1985,estoril,team_lotus,senna,Finished,7228006,1
+1985,estoril,ferrari,alboreto,Finished,7290984,2
+1985,estoril,renault,tambay,+1 Lap,-1,3
+1985,estoril,team_lotus,angelis,+1 Lap,-1,4
+1985,estoril,williams,mansell,+2 Laps,-1,5
+1985,estoril,tyrrell,bellof,+2 Laps,-1,6
+1985,estoril,renault,warwick,+2 Laps,-1,7
+1985,estoril,ferrari,johansson,+5 Laps,-1,8
+1985,estoril,osella,ghinzani,+6 Laps,-1,9
+1985,estoril,ram,manfred_winkelhock,Not classified,-1,10
+1985,estoril,mclaren,lauda,Engine,-1,11
+1985,estoril,alfa,cheever,Engine,-1,12
+1985,estoril,mclaren,prost,Spun off,-1,13
+1985,estoril,ligier,cesaris,Tyre,-1,14
+1985,estoril,brabham,piquet,Tyre,-1,15
+1985,estoril,arrows,boutsen,Electrical,-1,16
+1985,estoril,tyrrell,brundle,Transmission,-1,17
+1985,estoril,spirit,baldi,Spun off,-1,18
+1985,estoril,williams,keke_rosberg,Spun off,-1,19
+1985,estoril,ligier,laffite,Tyre,-1,20
+1985,estoril,arrows,berger,Spun off,-1,21
+1985,estoril,minardi,martini,Spun off,-1,22
+1985,estoril,alfa,patrese,Spun off,-1,23
+1985,estoril,ram,alliot,Spun off,-1,24
+1985,estoril,brabham,hesnault,Electrical,-1,25
+1985,estoril,zakspeed,palmer,Suspension,-1,26

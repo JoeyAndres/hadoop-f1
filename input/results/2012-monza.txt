@@ -1,0 +1,24 @@
+2012,monza,mclaren,hamilton,Finished,4781221,1
+2012,monza,sauber,perez,Finished,4785577,2
+2012,monza,ferrari,alonso,Finished,4801815,3
+2012,monza,ferrari,massa,Finished,4810888,4
+2012,monza,lotus_f1,raikkonen,Finished,4812102,5
+2012,monza,mercedes,michael_schumacher,Finished,4812480,6
+2012,monza,mercedes,rosberg,Finished,4814771,7
+2012,monza,force_india,resta,Finished,4822278,8
+2012,monza,sauber,kobayashi,Finished,4825119,9
+2012,monza,williams,bruno_senna,Finished,4829365,10
+2012,monza,williams,maldonado,Finished,4829903,11
+2012,monza,toro_rosso,ricciardo,Finished,4831537,12
+2012,monza,lotus_f1,ambrosio,Finished,4857082,13
+2012,monza,caterham,kovalainen,+1 Lap,-1,14
+2012,monza,caterham,petrov,+1 Lap,-1,15
+2012,monza,marussia,pic,+1 Lap,-1,16
+2012,monza,marussia,glock,+1 Lap,-1,17
+2012,monza,hrt,rosa,+1 Lap,-1,18
+2012,monza,hrt,karthikeyan,+1 Lap,-1,19
+2012,monza,red_bull,webber,Vibrations,-1,20
+2012,monza,force_india,hulkenberg,Brakes,-1,21
+2012,monza,red_bull,vettel,Alternator,-1,22
+2012,monza,mclaren,button,Fuel pressure,-1,23
+2012,monza,toro_rosso,vergne,Suspension,-1,24

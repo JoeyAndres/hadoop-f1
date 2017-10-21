@@ -1,0 +1,30 @@
+1961,monza,ferrari,phil_hill,Finished,7393000,1
+1961,monza,porsche,gurney,Finished,7424200,2
+1961,monza,cooper-climax,mclaren,Finished,7541400,3
+1961,monza,cooper-climax,lewis,Finished,7553400,4
+1961,monza,brm,brooks,Finished,7553500,5
+1961,monza,cooper-climax,salvadori,+1 Lap,-1,6
+1961,monza,porsche,beaufort,+2 Laps,-1,7
+1961,monza,cooper-maserati,bandini,+2 Laps,-1,8
+1961,monza,cooper-maserati,trintignant,+2 Laps,-1,9
+1961,monza,lotus-climax,parnell,+3 Laps,-1,10
+1961,monza,lotus-climax,henry_taylor,+4 Laps,-1,11
+1961,monza,cooper-maserati,pirocchi,+5 Laps,-1,12
+1961,monza,lotus-climax,moss,Wheel bearing,-1,13
+1961,monza,ferrari,ginther,Engine,-1,14
+1961,monza,lotus-maserati,starrabba,Engine,-1,15
+1961,monza,porsche,bonnier,Suspension,-1,16
+1961,monza,ferrari,ricardo_rodriguez,Fuel system,-1,17
+1961,monza,ferrari,baghetti,Engine,-1,18
+1961,monza,de_tomaso-alfa_romeo,vaccarella,Engine,-1,19
+1961,monza,lotus-climax,gregory,Suspension,-1,20
+1961,monza,brm,hill,Engine,-1,21
+1961,monza,cooper-climax,jack_brabham,Overheating,-1,22
+1961,monza,jbw,naylor,Engine,-1,23
+1961,monza,lotus-climax,ireland,Chassis,-1,24
+1961,monza,cooper-climax,fairman,Engine,-1,25
+1961,monza,cooper-climax,surtees,Accident,-1,26
+1961,monza,ferrari,trips,Accident,-1,27
+1961,monza,lotus-climax,clark,Accident,-1,28
+1961,monza,de_tomaso-alfa_romeo,bussinello,Engine,-1,29
+1961,monza,lotus-climax,seidel,Engine,-1,30

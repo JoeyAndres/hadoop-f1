@@ -1,0 +1,22 @@
+2014,bahrain,mercedes,hamilton,Finished,5982743,1
+2014,bahrain,mercedes,rosberg,Finished,5983828,2
+2014,bahrain,force_india,perez,Finished,6006810,3
+2014,bahrain,red_bull,ricciardo,Finished,6007232,4
+2014,bahrain,force_india,hulkenberg,Finished,6011397,5
+2014,bahrain,red_bull,vettel,Finished,6012622,6
+2014,bahrain,williams,massa,Finished,6014008,7
+2014,bahrain,williams,bottas,Finished,6014619,8
+2014,bahrain,ferrari,alonso,Finished,6015338,9
+2014,bahrain,ferrari,raikkonen,Finished,6016205,10
+2014,bahrain,toro_rosso,kvyat,Finished,6024085,11
+2014,bahrain,lotus_f1,grosjean,Finished,6025886,12
+2014,bahrain,marussia,chilton,Finished,6042652,13
+2014,bahrain,lotus_f1,maldonado,Finished,6045546,14
+2014,bahrain,caterham,kobayashi,Finished,6070643,15
+2014,bahrain,marussia,jules_bianchi,+1 Lap,-1,16
+2014,bahrain,mclaren,button,Clutch,-1,17
+2014,bahrain,mclaren,kevin_magnussen,Clutch,-1,18
+2014,bahrain,sauber,gutierrez,Collision,-1,19
+2014,bahrain,caterham,ericsson,Retired,-1,20
+2014,bahrain,toro_rosso,vergne,Retired,-1,21
+2014,bahrain,sauber,sutil,Collision,-1,22

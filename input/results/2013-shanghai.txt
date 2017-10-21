@@ -1,0 +1,22 @@
+2013,shanghai,ferrari,alonso,Finished,5786945,1
+2013,shanghai,lotus_f1,raikkonen,Finished,5797113,2
+2013,shanghai,mercedes,hamilton,Finished,5799267,3
+2013,shanghai,red_bull,vettel,Finished,5799470,4
+2013,shanghai,mclaren,button,Finished,5822230,5
+2013,shanghai,ferrari,massa,Finished,5827772,6
+2013,shanghai,toro_rosso,ricciardo,Finished,5829636,7
+2013,shanghai,force_india,resta,Finished,5838029,8
+2013,shanghai,lotus_f1,grosjean,Finished,5840368,9
+2013,shanghai,sauber,hulkenberg,Finished,5843543,10
+2013,shanghai,mclaren,perez,Finished,5850805,11
+2013,shanghai,toro_rosso,vergne,Finished,5859549,12
+2013,shanghai,williams,bottas,Finished,5880806,13
+2013,shanghai,williams,maldonado,Finished,5882398,14
+2013,shanghai,marussia,jules_bianchi,+1 Lap,-1,15
+2013,shanghai,caterham,pic,+1 Lap,-1,16
+2013,shanghai,marussia,chilton,+1 Lap,-1,17
+2013,shanghai,caterham,garde,+1 Lap,-1,18
+2013,shanghai,mercedes,rosberg,Suspension,-1,19
+2013,shanghai,red_bull,webber,Wheel,-1,20
+2013,shanghai,force_india,sutil,Collision,-1,21
+2013,shanghai,sauber,gutierrez,Collision,-1,22

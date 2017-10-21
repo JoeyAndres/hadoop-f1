@@ -1,0 +1,20 @@
+2008,monaco,mclaren,hamilton,Finished,7242742,1
+2008,monaco,bmw_sauber,kubica,Finished,7245806,2
+2008,monaco,ferrari,massa,Finished,7247553,3
+2008,monaco,red_bull,webber,Finished,7262037,4
+2008,monaco,toro_rosso,vettel,Finished,7267399,5
+2008,monaco,honda,barrichello,Finished,7271150,6
+2008,monaco,williams,nakajima,Finished,7272922,7
+2008,monaco,mclaren,kovalainen,Finished,7275933,8
+2008,monaco,ferrari,raikkonen,Finished,7276534,9
+2008,monaco,renault,alonso,+1 Lap,-1,10
+2008,monaco,honda,button,+1 Lap,-1,11
+2008,monaco,toyota,glock,+1 Lap,-1,12
+2008,monaco,toyota,trulli,+1 Lap,-1,13
+2008,monaco,bmw_sauber,heidfeld,+4 Laps,-1,14
+2008,monaco,force_india,sutil,Collision,-1,15
+2008,monaco,williams,rosberg,Accident,-1,16
+2008,monaco,renault,piquet_jr,Accident,-1,17
+2008,monaco,force_india,fisichella,Gearbox,-1,18
+2008,monaco,red_bull,coulthard,Accident,-1,19
+2008,monaco,toro_rosso,bourdais,Collision,-1,20

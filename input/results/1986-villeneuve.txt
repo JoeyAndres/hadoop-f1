@@ -1,0 +1,25 @@
+1986,villeneuve,williams,mansell,Finished,6146415,1
+1986,villeneuve,mclaren,prost,Finished,6167074,2
+1986,villeneuve,williams,piquet,Finished,6182677,3
+1986,villeneuve,mclaren,keke_rosberg,Finished,6242088,4
+1986,villeneuve,team_lotus,senna,+1 Lap,-1,5
+1986,villeneuve,ligier,arnoux,+1 Lap,-1,6
+1986,villeneuve,ligier,laffite,+1 Lap,-1,7
+1986,villeneuve,ferrari,alboreto,+1 Lap,-1,8
+1986,villeneuve,tyrrell,brundle,+2 Laps,-1,9
+1986,villeneuve,lola,jones,+3 Laps,-1,10
+1986,villeneuve,tyrrell,streiff,+4 Laps,-1,11
+1986,villeneuve,zakspeed,rothengatter,+6 Laps,-1,12
+1986,villeneuve,brabham,patrese,Turbo,-1,13
+1986,villeneuve,osella,ghinzani,Gearbox,-1,14
+1986,villeneuve,minardi,cesaris,Gearbox,-1,15
+1986,villeneuve,arrows,boutsen,Electrical,-1,16
+1986,villeneuve,benetton,berger,Turbo,-1,17
+1986,villeneuve,ferrari,johansson,Accident,-1,18
+1986,villeneuve,team_lotus,dumfries,Accident,-1,19
+1986,villeneuve,zakspeed,palmer,Engine,-1,20
+1986,villeneuve,brabham,warwick,Engine,-1,21
+1986,villeneuve,minardi,nannini,Turbo,-1,22
+1986,villeneuve,benetton,fabi,Battery,-1,23
+1986,villeneuve,osella,danner,Turbo,-1,24
+1986,villeneuve,lola,tambay,Accident,-1,25

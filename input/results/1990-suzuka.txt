@@ -1,0 +1,30 @@
+1990,suzuka,benetton,piquet,Finished,5676824,1
+1990,suzuka,benetton,moreno,Finished,5684047,2
+1990,suzuka,larrousse,suzuki,Finished,5699293,3
+1990,suzuka,williams,patrese,Finished,5713082,4
+1990,suzuka,williams,boutsen,Finished,5723708,5
+1990,suzuka,tyrrell,satoru_nakajima,Finished,5749174,6
+1990,suzuka,ligier,larini,+1 Lap,-1,7
+1990,suzuka,minardi,martini,+1 Lap,-1,8
+1990,suzuka,arrows,caffi,+1 Lap,-1,9
+1990,suzuka,ligier,alliot,+1 Lap,-1,10
+1990,suzuka,team_lotus,warwick,Gearbox,-1,11
+1990,suzuka,team_lotus,herbert,Engine,-1,12
+1990,suzuka,arrows,alboreto,Engine,-1,13
+1990,suzuka,ferrari,mansell,Transmission,-1,14
+1990,suzuka,dallara,pirro,Alternator,-1,15
+1990,suzuka,larrousse,bernard,Engine,-1,16
+1990,suzuka,minardi,morbidelli,Spun off,-1,17
+1990,suzuka,leyton,capelli,Ignition,-1,18
+1990,suzuka,dallara,cesaris,Spun off,-1,19
+1990,suzuka,leyton,gugelmin,Engine,-1,20
+1990,suzuka,brabham,brabham,Clutch,-1,21
+1990,suzuka,mclaren,berger,Spun off,-1,22
+1990,suzuka,mclaren,senna,Collision,-1,23
+1990,suzuka,ferrari,prost,Collision,-1,24
+1990,suzuka,brabham,modena,Collision,-1,25
+1990,suzuka,tyrrell,alesi,Withdrew,-1,26
+1990,suzuka,osella,grouillard,Did not qualify,-1,27
+1990,suzuka,ags,tarquini,Did not qualify,-1,28
+1990,suzuka,ags,dalmas,Did not qualify,-1,29
+1990,suzuka,coloni,gachot,Did not qualify,-1,30

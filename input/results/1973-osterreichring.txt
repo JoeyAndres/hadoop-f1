@@ -1,0 +1,23 @@
+1973,osterreichring,team_lotus,peterson,Finished,5328780,1
+1973,osterreichring,tyrrell,stewart,Finished,5337790,2
+1973,osterreichring,surtees,pace,Finished,5375420,3
+1973,osterreichring,brabham,reutemann,Finished,5376690,4
+1973,osterreichring,brm,beltoise,Finished,5410080,5
+1973,osterreichring,brm,regazzoni,Finished,5427180,6
+1973,osterreichring,ferrari,merzario,+1 Lap,-1,7
+1973,osterreichring,mclaren,hulme,+1 Lap,-1,8
+1973,osterreichring,iso_marlboro,lennep,+2 Laps,-1,9
+1973,osterreichring,surtees,hailwood,+5 Laps,-1,10
+1973,osterreichring,team_lotus,emerson_fittipaldi,Fuel system,-1,11
+1973,osterreichring,iso_marlboro,ganley,Not classified,-1,12
+1973,osterreichring,march,jarier,Engine,-1,13
+1973,osterreichring,ensign,opel,Fuel system,-1,14
+1973,osterreichring,brabham,wilson_fittipaldi,Fuel system,-1,15
+1973,osterreichring,shadow,hill,Suspension,-1,16
+1973,osterreichring,shadow,follmer,Differential,-1,17
+1973,osterreichring,brabham,stommelen,Wheel,-1,18
+1973,osterreichring,shadow,oliver,Fuel system,-1,19
+1973,osterreichring,tyrrell,cevert,Suspension,-1,20
+1973,osterreichring,march,hunt,Injection,-1,21
+1973,osterreichring,mclaren,revson,Clutch,-1,22
+1973,osterreichring,march,beuttler,Collision,-1,23

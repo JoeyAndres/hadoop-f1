@@ -1,0 +1,20 @@
+2017,monza,mercedes,hamilton,Finished,4532312,1
+2017,monza,mercedes,bottas,Finished,4536783,2
+2017,monza,ferrari,vettel,Finished,4568629,3
+2017,monza,red_bull,ricciardo,Finished,4572647,4
+2017,monza,ferrari,raikkonen,Finished,4592394,5
+2017,monza,force_india,ocon,Finished,4603840,6
+2017,monza,williams,stroll,Finished,4606468,7
+2017,monza,williams,massa,Finished,4607146,8
+2017,monza,force_india,perez,Finished,4607588,9
+2017,monza,red_bull,max_verstappen,+1 Lap,-1,10
+2017,monza,haas,kevin_magnussen,+1 Lap,-1,11
+2017,monza,toro_rosso,kvyat,+1 Lap,-1,12
+2017,monza,renault,hulkenberg,+1 Lap,-1,13
+2017,monza,toro_rosso,sainz,+1 Lap,-1,14
+2017,monza,haas,grosjean,+1 Lap,-1,15
+2017,monza,sauber,wehrlein,+2 Laps,-1,16
+2017,monza,mclaren,alonso,Gearbox,-1,17
+2017,monza,sauber,ericsson,Gearbox,-1,18
+2017,monza,mclaren,vandoorne,Engine,-1,19
+2017,monza,renault,jolyon_palmer,Engine,-1,20

@@ -1,0 +1,27 @@
+1978,galvez,team_lotus,mario_andretti,Finished,5824470,1
+1978,galvez,brabham,lauda,Finished,5837680,2
+1978,galvez,tyrrell,depailler,Finished,5838110,3
+1978,galvez,mclaren,hunt,Finished,5840520,4
+1978,galvez,team_lotus,peterson,Finished,5899320,5
+1978,galvez,mclaren,tambay,Finished,5904370,6
+1978,galvez,ferrari,reutemann,Finished,5907070,7
+1978,galvez,ferrari,gilles_villeneuve,Finished,5923350,8
+1978,galvez,fittipaldi,emerson_fittipaldi,Finished,5925070,9
+1978,galvez,wolf,scheckter,Finished,5927970,10
+1978,galvez,ats,mass,Finished,5933540,11
+1978,galvez,ats,jarier,+1 Lap,-1,12
+1978,galvez,mclaren,lunger,+1 Lap,-1,13
+1978,galvez,tyrrell,pironi,+1 Lap,-1,14
+1978,galvez,shadow,regazzoni,+1 Lap,-1,15
+1978,galvez,ligier,laffite,Engine,-1,16
+1978,galvez,shadow,stuck,+2 Laps,-1,17
+1978,galvez,surtees,brambilla,+2 Laps,-1,18
+1978,galvez,brabham,watson,Engine,-1,19
+1978,galvez,williams,jones,Fuel system,-1,20
+1978,galvez,ensign,ongais,Distributor,-1,21
+1978,galvez,ensign,leoni,Engine,-1,22
+1978,galvez,merzario,merzario,Differential,-1,23
+1978,galvez,surtees,keegan,Overheating,-1,24
+1978,galvez,team_lotus,rebaque,Did not qualify,-1,25
+1978,galvez,theodore,cheever,Did not qualify,-1,26
+1978,galvez,hesketh,galica,Did not qualify,-1,27

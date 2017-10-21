@@ -1,0 +1,30 @@
+1992,monaco,mclaren,senna,Finished,6659372,1
+1992,monaco,williams,mansell,Finished,6659587,2
+1992,monaco,williams,patrese,Finished,6691215,3
+1992,monaco,benetton,michael_schumacher,Finished,6698666,4
+1992,monaco,benetton,brundle,Finished,6740719,5
+1992,monaco,larrousse,gachot,+1 Lap,-1,6
+1992,monaco,footwork,alboreto,+1 Lap,-1,7
+1992,monaco,minardi,fittipaldi,+1 Lap,-1,8
+1992,monaco,dallara,lehto,+2 Laps,-1,9
+1992,monaco,ligier,comas,+2 Laps,-1,10
+1992,monaco,footwork,suzuki,+2 Laps,-1,11
+1992,monaco,ligier,boutsen,+3 Laps,-1,12
+1992,monaco,ferrari,capelli,Spun off,-1,13
+1992,monaco,mclaren,berger,Gearbox,-1,14
+1992,monaco,team_lotus,hakkinen,Gearbox,-1,15
+1992,monaco,ferrari,alesi,Gearbox,-1,16
+1992,monaco,jordan,gugelmin,Gearbox,-1,17
+1992,monaco,team_lotus,herbert,Spun off,-1,18
+1992,monaco,moda,moreno,Engine,-1,19
+1992,monaco,tyrrell,cesaris,Gearbox,-1,20
+1992,monaco,fondmetal,tarquini,Engine,-1,21
+1992,monaco,jordan,modena,Spun off,-1,22
+1992,monaco,tyrrell,grouillard,Transmission,-1,23
+1992,monaco,march,wendlinger,Gearbox,-1,24
+1992,monaco,minardi,morbidelli,Gearbox,-1,25
+1992,monaco,dallara,martini,Spun off,-1,26
+1992,monaco,brabham,poele,Did not qualify,-1,27
+1992,monaco,brabham,damon_hill,Did not qualify,-1,28
+1992,monaco,fondmetal,chiesa,Did not qualify,-1,29
+1992,monaco,march,belmondo,Did not qualify,-1,30

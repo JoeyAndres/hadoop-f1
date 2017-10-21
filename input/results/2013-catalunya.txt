@@ -1,0 +1,22 @@
+2013,catalunya,ferrari,alonso,Finished,5956596,1
+2013,catalunya,lotus_f1,raikkonen,Finished,5965934,2
+2013,catalunya,ferrari,massa,Finished,5982645,3
+2013,catalunya,red_bull,vettel,Finished,5994869,4
+2013,catalunya,red_bull,webber,Finished,6004559,5
+2013,catalunya,mercedes,rosberg,Finished,6024616,6
+2013,catalunya,force_india,resta,Finished,6025584,7
+2013,catalunya,mclaren,button,Finished,6036102,8
+2013,catalunya,mclaren,perez,Finished,6038334,9
+2013,catalunya,toro_rosso,ricciardo,+1 Lap,-1,10
+2013,catalunya,sauber,gutierrez,+1 Lap,-1,11
+2013,catalunya,mercedes,hamilton,+1 Lap,-1,12
+2013,catalunya,force_india,sutil,+1 Lap,-1,13
+2013,catalunya,williams,maldonado,+1 Lap,-1,14
+2013,catalunya,sauber,hulkenberg,+1 Lap,-1,15
+2013,catalunya,williams,bottas,+1 Lap,-1,16
+2013,catalunya,caterham,pic,+1 Lap,-1,17
+2013,catalunya,marussia,jules_bianchi,+2 Laps,-1,18
+2013,catalunya,marussia,chilton,+2 Laps,-1,19
+2013,catalunya,toro_rosso,vergne,Accident,-1,20
+2013,catalunya,caterham,garde,Wheel,-1,21
+2013,catalunya,lotus_f1,grosjean,Suspension,-1,22

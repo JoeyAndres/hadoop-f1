@@ -1,0 +1,26 @@
+1986,imola,mclaren,prost,Finished,5548408,1
+1986,imola,williams,piquet,Finished,5556053,2
+1986,imola,benetton,berger,+1 Lap,-1,3
+1986,imola,ferrari,johansson,+1 Lap,-1,4
+1986,imola,mclaren,keke_rosberg,Out of fuel,-1,5
+1986,imola,brabham,patrese,Out of fuel,-1,6
+1986,imola,arrows,boutsen,+2 Laps,-1,7
+1986,imola,tyrrell,brundle,+2 Laps,-1,8
+1986,imola,arrows,surer,+3 Laps,-1,9
+1986,imola,ferrari,alboreto,Turbo,-1,10
+1986,imola,osella,ghinzani,Out of fuel,-1,11
+1986,imola,ligier,arnoux,Wheel,-1,12
+1986,imola,tyrrell,streiff,Transmission,-1,13
+1986,imola,benetton,fabi,Engine,-1,14
+1986,imola,zakspeed,palmer,Brakes,-1,15
+1986,imola,osella,danner,Electrical,-1,16
+1986,imola,lola,jones,Overheating,-1,17
+1986,imola,minardi,cesaris,Engine,-1,18
+1986,imola,brabham,angelis,Engine,-1,19
+1986,imola,ligier,laffite,Transmission,-1,20
+1986,imola,team_lotus,senna,Wheel bearing,-1,21
+1986,imola,williams,mansell,Engine,-1,22
+1986,imola,team_lotus,dumfries,Wheel bearing,-1,23
+1986,imola,zakspeed,rothengatter,Turbo,-1,24
+1986,imola,lola,tambay,Engine,-1,25
+1986,imola,minardi,nannini,Accident,-1,26

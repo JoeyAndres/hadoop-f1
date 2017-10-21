@@ -1,0 +1,30 @@
+1988,estoril,mclaren,prost,Finished,5860958,1
+1988,estoril,march,capelli,Finished,5870511,2
+1988,estoril,benetton,boutsen,Finished,5905577,3
+1988,estoril,arrows,warwick,Finished,5928377,4
+1988,estoril,ferrari,alboreto,Finished,5932842,5
+1988,estoril,mclaren,senna,Finished,5939227,6
+1988,estoril,dallara,caffi,+1 Lap,-1,7
+1988,estoril,minardi,sala,+2 Laps,-1,8
+1988,estoril,ags,streiff,+2 Laps,-1,9
+1988,estoril,ligier,arnoux,+2 Laps,-1,10
+1988,estoril,coloni,tarquini,+5 Laps,-1,11
+1988,estoril,osella,larini,+7 Laps,-1,12
+1988,estoril,march,gugelmin,Engine,-1,13
+1988,estoril,williams,mansell,Spun off,-1,14
+1988,estoril,tyrrell,palmer,Overheating,-1,15
+1988,estoril,benetton,nannini,Handling,-1,16
+1988,estoril,ferrari,berger,Spun off,-1,17
+1988,estoril,team_lotus,piquet,Clutch,-1,18
+1988,estoril,williams,patrese,Radiator,-1,19
+1988,estoril,minardi,martini,Engine,-1,20
+1988,estoril,larrousse,dalmas,Alternator,-1,21
+1988,estoril,team_lotus,satoru_nakajima,Spun off,-1,22
+1988,estoril,rial,cesaris,Halfshaft,-1,23
+1988,estoril,arrows,cheever,Turbo,-1,24
+1988,estoril,larrousse,alliot,Engine,-1,25
+1988,estoril,ligier,johansson,Engine,-1,26
+1988,estoril,tyrrell,bailey,Did not qualify,-1,27
+1988,estoril,zakspeed,ghinzani,Did not qualify,-1,28
+1988,estoril,eurobrun,modena,Did not qualify,-1,29
+1988,estoril,zakspeed,schneider,Did not qualify,-1,30

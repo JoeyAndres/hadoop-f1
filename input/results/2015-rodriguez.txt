@@ -1,0 +1,20 @@
+2015,rodriguez,mercedes,rosberg,Finished,6155038,1
+2015,rodriguez,mercedes,hamilton,Finished,6156992,2
+2015,rodriguez,williams,bottas,Finished,6169630,3
+2015,rodriguez,red_bull,kvyat,Finished,6171610,4
+2015,rodriguez,red_bull,ricciardo,Finished,6174720,5
+2015,rodriguez,williams,massa,Finished,6176531,6
+2015,rodriguez,force_india,hulkenberg,Finished,6180898,7
+2015,rodriguez,force_india,perez,Finished,6189381,8
+2015,rodriguez,toro_rosso,max_verstappen,Finished,6190267,9
+2015,rodriguez,lotus_f1,grosjean,Finished,6192972,10
+2015,rodriguez,lotus_f1,maldonado,Finished,6193576,11
+2015,rodriguez,sauber,ericsson,Finished,6195218,12
+2015,rodriguez,toro_rosso,sainz,Finished,6203810,13
+2015,rodriguez,mclaren,button,Finished,6204252,14
+2015,rodriguez,manor,rossi,+2 Laps,-1,15
+2015,rodriguez,manor,stevens,+2 Laps,-1,16
+2015,rodriguez,sauber,nasr,Brakes,-1,17
+2015,rodriguez,ferrari,vettel,Accident,-1,18
+2015,rodriguez,ferrari,raikkonen,Collision,-1,19
+2015,rodriguez,mclaren,alonso,Retired,-1,20

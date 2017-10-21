@@ -1,0 +1,24 @@
+2012,suzuka,red_bull,vettel,Finished,5336242,1
+2012,suzuka,ferrari,massa,Finished,5356881,2
+2012,suzuka,sauber,kobayashi,Finished,5360780,3
+2012,suzuka,mclaren,button,Finished,5361340,4
+2012,suzuka,mclaren,hamilton,Finished,5382732,5
+2012,suzuka,lotus_f1,raikkonen,Finished,5386666,6
+2012,suzuka,force_india,hulkenberg,Finished,5387401,7
+2012,suzuka,williams,maldonado,Finished,5388606,8
+2012,suzuka,red_bull,webber,Finished,5390917,9
+2012,suzuka,toro_rosso,ricciardo,Finished,5403161,10
+2012,suzuka,mercedes,michael_schumacher,Finished,5404011,11
+2012,suzuka,force_india,resta,Finished,5419702,12
+2012,suzuka,toro_rosso,vergne,Finished,5424887,13
+2012,suzuka,williams,bruno_senna,Finished,5424951,14
+2012,suzuka,caterham,kovalainen,+1 Lap,-1,15
+2012,suzuka,marussia,glock,+1 Lap,-1,16
+2012,suzuka,caterham,petrov,+1 Lap,-1,17
+2012,suzuka,hrt,rosa,+1 Lap,-1,18
+2012,suzuka,lotus_f1,grosjean,+2 Laps,-1,19
+2012,suzuka,marussia,pic,Engine,-1,20
+2012,suzuka,hrt,karthikeyan,Vibrations,-1,21
+2012,suzuka,sauber,perez,Spun off,-1,22
+2012,suzuka,ferrari,alonso,Collision,-1,23
+2012,suzuka,mercedes,rosberg,Collision,-1,24

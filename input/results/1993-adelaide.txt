@@ -1,0 +1,24 @@
+1993,adelaide,mclaren,senna,Finished,6207476,1
+1993,adelaide,williams,prost,Finished,6216735,2
+1993,adelaide,williams,damon_hill,Finished,6241378,3
+1993,adelaide,ferrari,alesi,+1 Lap,-1,4
+1993,adelaide,ferrari,berger,+1 Lap,-1,5
+1993,adelaide,ligier,brundle,+1 Lap,-1,6
+1993,adelaide,footwork,suzuki,+1 Lap,-1,7
+1993,adelaide,benetton,patrese,Fuel system,-1,8
+1993,adelaide,ligier,blundell,+2 Laps,-1,9
+1993,adelaide,footwork,warwick,+2 Laps,-1,10
+1993,adelaide,jordan,barrichello,+3 Laps,-1,11
+1993,adelaide,larrousse,comas,+3 Laps,-1,12
+1993,adelaide,tyrrell,cesaris,+4 Laps,-1,13
+1993,adelaide,larrousse,toshio_suzuki,+5 Laps,-1,14
+1993,adelaide,sauber,wendlinger,Brakes,-1,15
+1993,adelaide,sauber,lehto,Accident,-1,16
+1993,adelaide,minardi,gounon,Spun off,-1,17
+1993,adelaide,mclaren,hakkinen,Brakes,-1,18
+1993,adelaide,benetton,michael_schumacher,Engine,-1,19
+1993,adelaide,tyrrell,katayama,Spun off,-1,20
+1993,adelaide,jordan,irvine,Accident,-1,21
+1993,adelaide,team_lotus,herbert,Suspension,-1,22
+1993,adelaide,minardi,martini,Gearbox,-1,23
+1993,adelaide,team_lotus,lamy,Accident,-1,24

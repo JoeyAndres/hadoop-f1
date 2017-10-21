@@ -1,0 +1,20 @@
+1969,mosport,brabham-ford,ickx,Finished,7165700,1
+1969,mosport,brabham-ford,jack_brabham,Finished,7211900,2
+1969,mosport,lotus-ford,rindt,Finished,7217700,3
+1969,mosport,matra-ford,beltoise,+1 Lap,-1,4
+1969,mosport,mclaren-ford,mclaren,+3 Laps,-1,5
+1969,mosport,matra-ford,gavin,+6 Laps,-1,6
+1969,mosport,lotus-ford,lovely,+9 Laps,-1,7
+1969,mosport,brm,brack,Not classified,-1,8
+1969,mosport,lotus-ford,hill,Engine,-1,9
+1969,mosport,lotus-ford,siffert,Halfshaft,-1,10
+1969,mosport,lotus-ford,miles,Gearbox,-1,11
+1969,mosport,ferrari,rodriguez,Oil pressure,-1,12
+1969,mosport,matra-ford,stewart,Collision,-1,13
+1969,mosport,eagle-climax,pease,Disqualified,-1,14
+1969,mosport,brm,surtees,Engine,-1,15
+1969,mosport,brabham-ford,courage,Fuel leak,-1,16
+1969,mosport,brabham-climax,cordts,Oil leak,-1,17
+1969,mosport,mclaren-ford,hulme,Distributor,-1,18
+1969,mosport,brm,oliver,Engine,-1,19
+1969,mosport,brabham-ford,moser,Accident,-1,20

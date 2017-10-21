@@ -1,0 +1,30 @@
+1989,jerez,mclaren,senna,Finished,6468264,1
+1989,jerez,ferrari,berger,Finished,6495315,2
+1989,jerez,mclaren,prost,Finished,6522052,3
+1989,jerez,tyrrell,alesi,+1 Lap,-1,4
+1989,jerez,williams,patrese,+1 Lap,-1,5
+1989,jerez,larrousse,alliot,+1 Lap,-1,6
+1989,jerez,dallara,cesaris,+1 Lap,-1,7
+1989,jerez,team_lotus,piquet,+2 Laps,-1,8
+1989,jerez,arrows,warwick,+2 Laps,-1,9
+1989,jerez,tyrrell,palmer,+2 Laps,-1,10
+1989,jerez,arrows,cheever,Engine,-1,11
+1989,jerez,benetton,pirro,Spun off,-1,12
+1989,jerez,dallara,caffi,Engine,-1,13
+1989,jerez,brabham,brundle,Spun off,-1,14
+1989,jerez,march,gugelmin,Collision,-1,15
+1989,jerez,minardi,sala,Spun off,-1,16
+1989,jerez,williams,boutsen,Fuel pump,-1,17
+1989,jerez,ligier,grouillard,Engine,-1,18
+1989,jerez,minardi,martini,Spun off,-1,19
+1989,jerez,march,capelli,Transmission,-1,20
+1989,jerez,onyx,lehto,Gearbox,-1,21
+1989,jerez,osella,ghinzani,Gearbox,-1,22
+1989,jerez,benetton,nannini,Spun off,-1,23
+1989,jerez,brabham,modena,Electrical,-1,24
+1989,jerez,osella,larini,Suspension,-1,25
+1989,jerez,team_lotus,satoru_nakajima,Collision,-1,26
+1989,jerez,ligier,arnoux,Did not qualify,-1,27
+1989,jerez,rial,raphanel,Did not qualify,-1,28
+1989,jerez,rial,foitek,Did not qualify,-1,29
+1989,jerez,ags,tarquini,Did not prequalify,-1,30

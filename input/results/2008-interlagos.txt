@@ -1,0 +1,20 @@
+2008,interlagos,ferrari,massa,Finished,5651435,1
+2008,interlagos,renault,alonso,Finished,5664733,2
+2008,interlagos,ferrari,raikkonen,Finished,5667670,3
+2008,interlagos,toro_rosso,vettel,Finished,5689446,4
+2008,interlagos,mclaren,hamilton,Finished,5690342,5
+2008,interlagos,toyota,glock,Finished,5695803,6
+2008,interlagos,mclaren,kovalainen,Finished,5706509,7
+2008,interlagos,toyota,trulli,Finished,5719868,8
+2008,interlagos,red_bull,webber,Finished,5731101,9
+2008,interlagos,bmw_sauber,heidfeld,+1 Lap,-1,10
+2008,interlagos,bmw_sauber,kubica,+1 Lap,-1,11
+2008,interlagos,williams,rosberg,+1 Lap,-1,12
+2008,interlagos,honda,button,+1 Lap,-1,13
+2008,interlagos,toro_rosso,bourdais,+1 Lap,-1,14
+2008,interlagos,honda,barrichello,+1 Lap,-1,15
+2008,interlagos,force_india,sutil,+2 Laps,-1,16
+2008,interlagos,williams,nakajima,+2 Laps,-1,17
+2008,interlagos,force_india,fisichella,+2 Laps,-1,18
+2008,interlagos,renault,piquet_jr,Accident,-1,19
+2008,interlagos,red_bull,coulthard,Collision,-1,20

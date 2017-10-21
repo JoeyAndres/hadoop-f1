@@ -1,0 +1,24 @@
+2011,istanbul,red_bull,vettel,Finished,5417558,1
+2011,istanbul,red_bull,webber,Finished,5426365,2
+2011,istanbul,ferrari,alonso,Finished,5427633,3
+2011,istanbul,mclaren,hamilton,Finished,5457790,4
+2011,istanbul,mercedes,rosberg,Finished,5465097,5
+2011,istanbul,mclaren,button,Finished,5476989,6
+2011,istanbul,renault,heidfeld,Finished,5478415,7
+2011,istanbul,renault,petrov,Finished,5485726,8
+2011,istanbul,toro_rosso,buemi,Finished,5486952,9
+2011,istanbul,sauber,kobayashi,Finished,5495579,10
+2011,istanbul,ferrari,massa,Finished,5497381,11
+2011,istanbul,mercedes,michael_schumacher,Finished,5503002,12
+2011,istanbul,force_india,sutil,+1 Lap,-1,13
+2011,istanbul,sauber,perez,+1 Lap,-1,14
+2011,istanbul,williams,barrichello,+1 Lap,-1,15
+2011,istanbul,toro_rosso,alguersuari,+1 Lap,-1,16
+2011,istanbul,williams,maldonado,+1 Lap,-1,17
+2011,istanbul,lotus_racing,trulli,+1 Lap,-1,18
+2011,istanbul,lotus_racing,kovalainen,+2 Laps,-1,19
+2011,istanbul,virgin,ambrosio,+2 Laps,-1,20
+2011,istanbul,hrt,karthikeyan,+3 Laps,-1,21
+2011,istanbul,hrt,liuzzi,+5 Laps,-1,22
+2011,istanbul,force_india,resta,Retired,-1,23
+2011,istanbul,virgin,glock,Gearbox,-1,24

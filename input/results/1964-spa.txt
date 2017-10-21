@@ -1,0 +1,18 @@
+1964,spa,lotus-climax,clark,Finished,7600500,1
+1964,spa,cooper-climax,mclaren,Finished,7603900,2
+1964,spa,brabham-climax,jack_brabham,Finished,7648600,3
+1964,spa,brm,ginther,Finished,7719100,4
+1964,spa,brm,hill,Fuel pump,-1,5
+1964,spa,brabham-climax,gurney,Out of fuel,-1,6
+1964,spa,brp,trevor_taylor,+1 Lap,-1,7
+1964,spa,brm,baghetti,+1 Lap,-1,8
+1964,spa,lotus-climax,arundell,Overheating,-1,9
+1964,spa,brp,ireland,+4 Laps,-1,10
+1964,spa,lotus-climax,revson,Disqualified,-1,11
+1964,spa,brabham-climax,siffert,Engine,-1,12
+1964,spa,cooper-climax,phil_hill,Engine,-1,13
+1964,spa,ferrari,bandini,Engine,-1,14
+1964,spa,scirocco,andre_pilette,Engine,-1,15
+1964,spa,brabham-climax,bonnier,Driver unwell,-1,16
+1964,spa,ferrari,surtees,Engine,-1,17
+1964,spa,lotus-brm,amon,Engine,-1,18

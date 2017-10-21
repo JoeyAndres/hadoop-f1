@@ -1,0 +1,22 @@
+1971,osterreichring,brm,siffert,Finished,5423910,1
+1971,osterreichring,lotus-ford,emerson_fittipaldi,Finished,5428030,2
+1971,osterreichring,brabham,schenken,Finished,5443680,3
+1971,osterreichring,lotus-ford,wisell,Finished,5455780,4
+1971,osterreichring,brabham,hill,Finished,5472340,5
+1971,osterreichring,march-ford,pescarolo,Finished,5508420,6
+1971,osterreichring,surtees,stommelen,Finished,5521330,7
+1971,osterreichring,march-ford,peterson,+1 Lap,-1,8
+1971,osterreichring,mclaren,oliver,+1 Lap,-1,9
+1971,osterreichring,brm,gethin,+2 Laps,-1,10
+1971,osterreichring,brm,marko,+2 Laps,-1,11
+1971,osterreichring,march-alfa_romeo,galli,+3 Laps,-1,12
+1971,osterreichring,march-ford,beuttler,Not classified,-1,13
+1971,osterreichring,tyrrell,cevert,Engine,-1,14
+1971,osterreichring,tyrrell,stewart,Halfshaft,-1,15
+1971,osterreichring,ferrari,ickx,Engine,-1,16
+1971,osterreichring,march-ford,lauda,Handling,-1,17
+1971,osterreichring,surtees,surtees,Engine,-1,18
+1971,osterreichring,ferrari,regazzoni,Engine,-1,19
+1971,osterreichring,brm,ganley,Ignition,-1,20
+1971,osterreichring,mclaren,hulme,Engine,-1,21
+1971,osterreichring,mclaren,bonnier,Fuel leak,-1,22

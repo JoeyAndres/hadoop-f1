@@ -1,0 +1,20 @@
+1996,hockenheimring,williams,damon_hill,Finished,4903417,1
+1996,hockenheimring,benetton,alesi,Finished,4914869,2
+1996,hockenheimring,williams,villeneuve,Finished,4937343,3
+1996,hockenheimring,ferrari,michael_schumacher,Finished,4944934,4
+1996,hockenheimring,mclaren,coulthard,Finished,4945613,5
+1996,hockenheimring,jordan,barrichello,Finished,5005516,6
+1996,hockenheimring,ligier,panis,Finished,5007329,7
+1996,hockenheimring,sauber,frentzen,+1 Lap,-1,8
+1996,hockenheimring,tyrrell,salo,+1 Lap,-1,9
+1996,hockenheimring,jordan,brundle,+1 Lap,-1,10
+1996,hockenheimring,footwork,rosset,+1 Lap,-1,11
+1996,hockenheimring,minardi,lamy,+2 Laps,-1,12
+1996,hockenheimring,benetton,berger,Engine,-1,13
+1996,hockenheimring,ferrari,irvine,Engine,-1,14
+1996,hockenheimring,sauber,herbert,Vibrations,-1,15
+1996,hockenheimring,ligier,diniz,Engine,-1,16
+1996,hockenheimring,tyrrell,katayama,Spun off,-1,17
+1996,hockenheimring,mclaren,hakkinen,Gearbox,-1,18
+1996,hockenheimring,footwork,verstappen,Collision,-1,19
+1996,hockenheimring,minardi,lavaggi,Did not qualify,-1,20

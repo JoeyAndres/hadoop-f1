@@ -1,0 +1,22 @@
+1954,reims,mercedes,fangio,Finished,9767900,1
+1954,reims,mercedes,kling,Finished,9768000,2
+1954,reims,ferrari,manzon,+1 Lap,-1,3
+1954,reims,maserati,bira,+1 Lap,-1,4
+1954,reims,maserati,villoresi,+3 Laps,-1,5
+1954,reims,gordini,behra,+5 Laps,-1,6
+1954,reims,gordini,frere,Axle,-1,7
+1954,reims,ferrari,trintignant,Engine,-1,8
+1954,reims,ferrari,rosier,Engine,-1,9
+1954,reims,maserati,marimon,Gearbox,-1,10
+1954,reims,maserati,mieres,Engine,-1,11
+1954,reims,maserati,wharton,Transmission,-1,12
+1954,reims,maserati,schell,Fuel pump,-1,13
+1954,reims,mercedes,herrmann,Engine,-1,14
+1954,reims,maserati,salvadori,Halfshaft,-1,15
+1954,reims,ferrari,gonzalez,Engine,-1,16
+1954,reims,hwm,macklin,Engine,-1,17
+1954,reims,gordini,georges_berger,Engine,-1,18
+1954,reims,ferrari,hawthorn,Engine,-1,19
+1954,reims,gordini,pollet,Engine,-1,20
+1954,reims,maserati,ascari,Transmission,-1,21
+1954,reims,maserati,mantovani,Withdrew,-1,22

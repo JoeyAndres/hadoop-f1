@@ -1,0 +1,22 @@
+2014,villeneuve,red_bull,ricciardo,Finished,5952830,1
+2014,villeneuve,mercedes,rosberg,Finished,5957066,2
+2014,villeneuve,red_bull,vettel,Finished,5958077,3
+2014,villeneuve,mclaren,button,Finished,5964585,4
+2014,villeneuve,force_india,hulkenberg,Finished,5965673,5
+2014,villeneuve,ferrari,alonso,Finished,5967699,6
+2014,villeneuve,williams,bottas,Finished,5976408,7
+2014,villeneuve,toro_rosso,vergne,Finished,5980856,8
+2014,villeneuve,mclaren,kevin_magnussen,Finished,5982084,9
+2014,villeneuve,ferrari,raikkonen,Finished,6006508,10
+2014,villeneuve,force_india,perez,Collision,-1,11
+2014,villeneuve,williams,massa,Collision,-1,12
+2014,villeneuve,sauber,sutil,+1 Lap,-1,13
+2014,villeneuve,sauber,gutierrez,ERS,-1,14
+2014,villeneuve,lotus_f1,grosjean,Rear wing,-1,15
+2014,villeneuve,toro_rosso,kvyat,Drivetrain,-1,16
+2014,villeneuve,mercedes,hamilton,Brakes,-1,17
+2014,villeneuve,caterham,kobayashi,Suspension,-1,18
+2014,villeneuve,lotus_f1,maldonado,Power Unit,-1,19
+2014,villeneuve,caterham,ericsson,Turbo,-1,20
+2014,villeneuve,marussia,chilton,Collision,-1,21
+2014,villeneuve,marussia,jules_bianchi,Collision,-1,22

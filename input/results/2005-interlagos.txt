@@ -1,0 +1,20 @@
+2005,interlagos,mclaren,montoya,Finished,5360574,1
+2005,interlagos,mclaren,raikkonen,Finished,5363101,2
+2005,interlagos,renault,alonso,Finished,5385414,3
+2005,interlagos,ferrari,michael_schumacher,Finished,5396242,4
+2005,interlagos,renault,fisichella,Finished,5400792,5
+2005,interlagos,ferrari,barrichello,Finished,5429747,6
+2005,interlagos,bar,button,+1 Lap,-1,7
+2005,interlagos,toyota,ralf_schumacher,+1 Lap,-1,8
+2005,interlagos,red_bull,klien,+1 Lap,-1,9
+2005,interlagos,bar,sato,+1 Lap,-1,10
+2005,interlagos,sauber,massa,+1 Lap,-1,11
+2005,interlagos,sauber,villeneuve,+1 Lap,-1,12
+2005,interlagos,toyota,trulli,+2 Laps,-1,13
+2005,interlagos,minardi,albers,+2 Laps,-1,14
+2005,interlagos,jordan,karthikeyan,+3 Laps,-1,15
+2005,interlagos,jordan,monteiro,Mechanical,-1,16
+2005,interlagos,williams,webber,+26 Laps,-1,17
+2005,interlagos,minardi,doornbos,Engine,-1,18
+2005,interlagos,williams,pizzonia,Accident,-1,19
+2005,interlagos,red_bull,coulthard,Accident,-1,20

@@ -1,0 +1,27 @@
+1984,osterreichring,mclaren,lauda,Finished,4872851,1
+1984,osterreichring,brabham,piquet,Finished,4896376,2
+1984,osterreichring,ferrari,alboreto,Finished,4921849,3
+1984,osterreichring,brabham,fabi,Finished,4929163,4
+1984,osterreichring,arrows,boutsen,+1 Lap,-1,5
+1984,osterreichring,arrows,surer,+1 Lap,-1,6
+1984,osterreichring,ferrari,arnoux,+1 Lap,-1,7
+1984,osterreichring,ligier,hesnault,+2 Laps,-1,8
+1984,osterreichring,ram,palmer,+2 Laps,-1,9
+1984,osterreichring,alfa,patrese,Out of fuel,-1,10
+1984,osterreichring,ram,alliot,+3 Laps,-1,11
+1984,osterreichring,ats,berger,Gearbox,-1,12
+1984,osterreichring,renault,tambay,Engine,-1,13
+1984,osterreichring,toleman,senna,Oil pressure,-1,14
+1984,osterreichring,team_lotus,mansell,Engine,-1,15
+1984,osterreichring,mclaren,prost,Spun off,-1,16
+1984,osterreichring,team_lotus,angelis,Engine,-1,17
+1984,osterreichring,spirit,rothengatter,Not classified,-1,18
+1984,osterreichring,alfa,cheever,Engine,-1,19
+1984,osterreichring,renault,warwick,Engine,-1,20
+1984,osterreichring,ligier,cesaris,Injection,-1,21
+1984,osterreichring,williams,keke_rosberg,Handling,-1,22
+1984,osterreichring,williams,laffite,Engine,-1,23
+1984,osterreichring,osella,gartner,Engine,-1,24
+1984,osterreichring,osella,ghinzani,Gearbox,-1,25
+1984,osterreichring,tyrrell,bellof,Disqualified,-1,26
+1984,osterreichring,tyrrell,johansson,Did not qualify,-1,27

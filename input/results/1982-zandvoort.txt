@@ -1,0 +1,30 @@
+1982,zandvoort,ferrari,pironi,Finished,5883254,1
+1982,zandvoort,brabham,piquet,Finished,5904903,2
+1982,zandvoort,williams,keke_rosberg,Finished,5905619,3
+1982,zandvoort,mclaren,lauda,Finished,5966983,4
+1982,zandvoort,williams,daly,+1 Lap,-1,5
+1982,zandvoort,arrows,baldi,+1 Lap,-1,6
+1982,zandvoort,tyrrell,alboreto,+1 Lap,-1,7
+1982,zandvoort,ferrari,tambay,+1 Lap,-1,8
+1982,zandvoort,mclaren,watson,+1 Lap,-1,9
+1982,zandvoort,arrows,surer,+1 Lap,-1,10
+1982,zandvoort,alfa,giacomelli,+2 Laps,-1,11
+1982,zandvoort,ats,manfred_winkelhock,+2 Laps,-1,12
+1982,zandvoort,ats,salazar,+2 Laps,-1,13
+1982,zandvoort,osella,jarier,+3 Laps,-1,14
+1982,zandvoort,brabham,patrese,+3 Laps,-1,15
+1982,zandvoort,march,mass,Engine,-1,16
+1982,zandvoort,theodore,lammers,Engine,-1,17
+1982,zandvoort,team_lotus,angelis,Handling,-1,18
+1982,zandvoort,alfa,cesaris,Electrical,-1,19
+1982,zandvoort,renault,prost,Engine,-1,20
+1982,zandvoort,renault,arnoux,Spun off,-1,21
+1982,zandvoort,tyrrell,henton,Throttle,-1,22
+1982,zandvoort,march,boesel,Engine,-1,23
+1982,zandvoort,fittipaldi,serra,Fuel system,-1,24
+1982,zandvoort,toleman,warwick,Oil leak,-1,25
+1982,zandvoort,ligier,laffite,Handling,-1,26
+1982,zandvoort,ensign,guerrero,Did not qualify,-1,27
+1982,zandvoort,toleman,fabi,Did not qualify,-1,28
+1982,zandvoort,ligier,cheever,Did not qualify,-1,29
+1982,zandvoort,team_lotus,moreno,Did not qualify,-1,30

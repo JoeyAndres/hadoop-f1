@@ -1,0 +1,24 @@
+2012,buddh,red_bull,vettel,Finished,5470744,1
+2012,buddh,ferrari,alonso,Finished,5480181,2
+2012,buddh,red_bull,webber,Finished,5483961,3
+2012,buddh,mclaren,hamilton,Finished,5484653,4
+2012,buddh,mclaren,button,Finished,5497010,5
+2012,buddh,ferrari,massa,Finished,5515418,6
+2012,buddh,lotus_f1,raikkonen,Finished,5515971,7
+2012,buddh,force_india,hulkenberg,Finished,5525742,8
+2012,buddh,lotus_f1,grosjean,Finished,5526847,9
+2012,buddh,williams,bruno_senna,Finished,5545719,10
+2012,buddh,mercedes,rosberg,Finished,5552438,11
+2012,buddh,force_india,resta,Finished,5553559,12
+2012,buddh,toro_rosso,ricciardo,Finished,5556808,13
+2012,buddh,sauber,kobayashi,Finished,5557239,14
+2012,buddh,toro_rosso,vergne,+1 Lap,-1,15
+2012,buddh,williams,maldonado,+1 Lap,-1,16
+2012,buddh,caterham,petrov,+1 Lap,-1,17
+2012,buddh,caterham,kovalainen,+1 Lap,-1,18
+2012,buddh,marussia,pic,+1 Lap,-1,19
+2012,buddh,marussia,glock,+2 Laps,-1,20
+2012,buddh,hrt,karthikeyan,+2 Laps,-1,21
+2012,buddh,mercedes,michael_schumacher,Retired,-1,22
+2012,buddh,hrt,rosa,Accident,-1,23
+2012,buddh,sauber,perez,Accident,-1,24

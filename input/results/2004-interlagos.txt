@@ -1,0 +1,20 @@
+2004,interlagos,williams,montoya,Finished,5281451,1
+2004,interlagos,mclaren,raikkonen,Finished,5282473,2
+2004,interlagos,ferrari,barrichello,Finished,5305550,3
+2004,interlagos,renault,alonso,Finished,5329959,4
+2004,interlagos,williams,ralf_schumacher,Finished,5331191,5
+2004,interlagos,bar,sato,Finished,5331699,6
+2004,interlagos,ferrari,michael_schumacher,Finished,5332077,7
+2004,interlagos,sauber,massa,Finished,5343761,8
+2004,interlagos,sauber,fisichella,Finished,5345293,9
+2004,interlagos,renault,villeneuve,+1 Lap,-1,10
+2004,interlagos,mclaren,coulthard,+1 Lap,-1,11
+2004,interlagos,toyota,trulli,+1 Lap,-1,12
+2004,interlagos,toyota,zonta,+1 Lap,-1,13
+2004,interlagos,jaguar,klien,+2 Laps,-1,14
+2004,interlagos,jordan,glock,+2 Laps,-1,15
+2004,interlagos,minardi,baumgartner,+4 Laps,-1,16
+2004,interlagos,minardi,bruni,+4 Laps,-1,17
+2004,interlagos,jaguar,webber,Collision,-1,18
+2004,interlagos,jordan,heidfeld,Clutch,-1,19
+2004,interlagos,bar,button,Engine,-1,20

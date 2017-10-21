@@ -1,0 +1,21 @@
+1971,montjuic,tyrrell,stewart,Finished,6543400,1
+1971,montjuic,ferrari,ickx,Finished,6546800,2
+1971,montjuic,matra,amon,Finished,6601500,3
+1971,montjuic,brm,rodriguez,Finished,6621300,4
+1971,montjuic,mclaren,hulme,Finished,6630400,5
+1971,montjuic,matra,beltoise,+1 Lap,-1,6
+1971,montjuic,tyrrell,cevert,+1 Lap,-1,7
+1971,montjuic,mclaren,gethin,+2 Laps,-1,8
+1971,montjuic,brabham,schenken,+3 Laps,-1,9
+1971,montjuic,brm,ganley,+4 Laps,-1,10
+1971,montjuic,surtees,surtees,+8 Laps,-1,11
+1971,montjuic,lotus-ford,wisell,Not classified,-1,12
+1971,montjuic,lotus-ford,emerson_fittipaldi,Suspension,-1,13
+1971,montjuic,march-ford,pescarolo,Engine,-1,14
+1971,montjuic,ferrari,mario_andretti,Engine,-1,15
+1971,montjuic,march-ford,roig,Fuel pump,-1,16
+1971,montjuic,march-ford,peterson,Ignition,-1,17
+1971,montjuic,ferrari,regazzoni,Engine,-1,18
+1971,montjuic,surtees,stommelen,Fuel pressure,-1,19
+1971,montjuic,brm,siffert,Gearbox,-1,20
+1971,montjuic,brabham,hill,Steering,-1,21

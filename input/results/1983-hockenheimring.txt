@@ -1,0 +1,29 @@
+1983,hockenheimring,ferrari,arnoux,Finished,5230319,1
+1983,hockenheimring,alfa,cesaris,Finished,5300971,2
+1983,hockenheimring,brabham,patrese,Finished,5334412,3
+1983,hockenheimring,renault,prost,Finished,5351069,4
+1983,hockenheimring,mclaren,watson,+1 Lap,-1,5
+1983,hockenheimring,williams,laffite,+1 Lap,-1,6
+1983,hockenheimring,arrows,surer,+1 Lap,-1,7
+1983,hockenheimring,ligier,jarier,+1 Lap,-1,8
+1983,hockenheimring,arrows,boutsen,+1 Lap,-1,9
+1983,hockenheimring,williams,keke_rosberg,+1 Lap,-1,10
+1983,hockenheimring,theodore,cecotto,+1 Lap,-1,11
+1983,hockenheimring,tyrrell,sullivan,+2 Laps,-1,12
+1983,hockenheimring,brabham,piquet,Heat shield fire,-1,13
+1983,hockenheimring,mclaren,lauda,Disqualified,-1,14
+1983,hockenheimring,renault,cheever,Fuel system,-1,15
+1983,hockenheimring,osella,ghinzani,Oil leak,-1,16
+1983,hockenheimring,ligier,boesel,Engine,-1,17
+1983,hockenheimring,alfa,baldi,Turbo,-1,18
+1983,hockenheimring,toleman,giacomelli,Turbo,-1,19
+1983,hockenheimring,toleman,warwick,Engine,-1,20
+1983,hockenheimring,spirit,johansson,Engine,-1,21
+1983,hockenheimring,ferrari,tambay,Engine,-1,22
+1983,hockenheimring,team_lotus,angelis,Engine,-1,23
+1983,hockenheimring,tyrrell,alboreto,Fuel pump,-1,24
+1983,hockenheimring,team_lotus,mansell,Engine,-1,25
+1983,hockenheimring,theodore,guerrero,Engine,-1,26
+1983,hockenheimring,ram,acheson,Did not qualify,-1,27
+1983,hockenheimring,osella,corrado_fabi,Did not qualify,-1,28
+1983,hockenheimring,ats,manfred_winkelhock,Did not qualify,-1,29

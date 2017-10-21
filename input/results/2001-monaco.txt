@@ -1,0 +1,22 @@
+2001,monaco,ferrari,michael_schumacher,Finished,6442561,1
+2001,monaco,ferrari,barrichello,Finished,6442992,2
+2001,monaco,jaguar,irvine,Finished,6473259,3
+2001,monaco,bar,villeneuve,Finished,6475015,4
+2001,monaco,mclaren,coulthard,+1 Lap,-1,5
+2001,monaco,prost,alesi,+1 Lap,-1,6
+2001,monaco,benetton,button,+1 Lap,-1,7
+2001,monaco,arrows,verstappen,+1 Lap,-1,8
+2001,monaco,arrows,bernoldi,+2 Laps,-1,9
+2001,monaco,sauber,raikkonen,+5 Laps,-1,10
+2001,monaco,williams,ralf_schumacher,Electrical,-1,11
+2001,monaco,minardi,marques,Transmission,-1,12
+2001,monaco,minardi,alonso,Gearbox,-1,13
+2001,monaco,jordan,frentzen,Accident,-1,14
+2001,monaco,benetton,fisichella,Gearbox,-1,15
+2001,monaco,jordan,trulli,Hydraulics,-1,16
+2001,monaco,prost,burti,Gearbox,-1,17
+2001,monaco,jaguar,rosa,Hydraulics,-1,18
+2001,monaco,mclaren,hakkinen,Steering,-1,19
+2001,monaco,bar,panis,Steering,-1,20
+2001,monaco,williams,montoya,Spun off,-1,21
+2001,monaco,sauber,heidfeld,Collision,-1,22

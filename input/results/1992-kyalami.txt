@@ -1,0 +1,30 @@
+1992,kyalami,williams,mansell,Finished,5805320,1
+1992,kyalami,williams,patrese,Finished,5829680,2
+1992,kyalami,mclaren,senna,Finished,5839995,3
+1992,kyalami,benetton,michael_schumacher,Finished,5853183,4
+1992,kyalami,mclaren,berger,Finished,5878954,5
+1992,kyalami,team_lotus,herbert,+1 Lap,-1,6
+1992,kyalami,ligier,comas,+1 Lap,-1,7
+1992,kyalami,footwork,suzuki,+2 Laps,-1,8
+1992,kyalami,team_lotus,hakkinen,+2 Laps,-1,9
+1992,kyalami,footwork,alboreto,+2 Laps,-1,10
+1992,kyalami,jordan,gugelmin,+2 Laps,-1,11
+1992,kyalami,larrousse,katayama,+4 Laps,-1,12
+1992,kyalami,brabham,poele,+4 Laps,-1,13
+1992,kyalami,tyrrell,grouillard,Engine,-1,14
+1992,kyalami,ligier,boutsen,Fuel system,-1,15
+1992,kyalami,dallara,martini,Clutch,-1,16
+1992,kyalami,minardi,morbidelli,Engine,-1,17
+1992,kyalami,dallara,lehto,Gearbox,-1,18
+1992,kyalami,minardi,fittipaldi,Alternator,-1,19
+1992,kyalami,tyrrell,cesaris,Engine,-1,20
+1992,kyalami,ferrari,alesi,Engine,-1,21
+1992,kyalami,ferrari,capelli,Engine,-1,22
+1992,kyalami,fondmetal,tarquini,Engine,-1,23
+1992,kyalami,march,wendlinger,Overheating,-1,24
+1992,kyalami,larrousse,gachot,Steering,-1,25
+1992,kyalami,benetton,brundle,Clutch,-1,26
+1992,kyalami,march,belmondo,Did not qualify,-1,27
+1992,kyalami,fondmetal,chiesa,Did not qualify,-1,28
+1992,kyalami,jordan,modena,Did not qualify,-1,29
+1992,kyalami,brabham,amati,Did not qualify,-1,30

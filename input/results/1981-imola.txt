@@ -1,0 +1,30 @@
+1981,imola,brabham,piquet,Finished,6683970,1
+1981,imola,arrows,patrese,Finished,6688550,2
+1981,imola,williams,reutemann,Finished,6690310,3
+1981,imola,brabham,rebaque,Finished,6706860,4
+1981,imola,ferrari,pironi,Finished,6709840,5
+1981,imola,mclaren,cesaris,Finished,6750580,6
+1981,imola,ferrari,gilles_villeneuve,Finished,6785940,7
+1981,imola,renault,arnoux,+1 Lap,-1,8
+1981,imola,ensign,surer,+1 Lap,-1,9
+1981,imola,mclaren,watson,+2 Laps,-1,10
+1981,imola,theodore,tambay,+2 Laps,-1,11
+1981,imola,williams,jones,+2 Laps,-1,12
+1981,imola,ats,borgudd,+3 Laps,-1,13
+1981,imola,ligier,jabouille,Not classified,-1,14
+1981,imola,march,salazar,Spun off,-1,15
+1981,imola,tyrrell,alboreto,Collision,-1,16
+1981,imola,osella,gabbiani,Collision,-1,17
+1981,imola,alfa,giacomelli,Collision,-1,18
+1981,imola,tyrrell,cheever,Collision,-1,19
+1981,imola,alfa,mario_andretti,Gearbox,-1,20
+1981,imola,fittipaldi,keke_rosberg,Engine,-1,21
+1981,imola,ligier,laffite,Suspension,-1,22
+1981,imola,renault,prost,Gearbox,-1,23
+1981,imola,osella,guerra,Accident,-1,24
+1981,imola,arrows,stohr,Did not qualify,-1,25
+1981,imola,march,daly,Did not qualify,-1,26
+1981,imola,ats,lammers,Retired,-1,27
+1981,imola,fittipaldi,serra,Did not qualify,-1,28
+1981,imola,toleman,warwick,Did not qualify,-1,29
+1981,imola,toleman,henton,Did not qualify,-1,30

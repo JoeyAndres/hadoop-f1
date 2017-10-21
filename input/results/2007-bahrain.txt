@@ -1,0 +1,22 @@
+2007,bahrain,ferrari,massa,Finished,5607515,1
+2007,bahrain,mclaren,hamilton,Finished,5609875,2
+2007,bahrain,ferrari,raikkonen,Finished,5618354,3
+2007,bahrain,bmw_sauber,heidfeld,Finished,5621346,4
+2007,bahrain,mclaren,alonso,Finished,5621941,5
+2007,bahrain,bmw_sauber,kubica,Finished,5653044,6
+2007,bahrain,toyota,trulli,Finished,5688886,7
+2007,bahrain,renault,fisichella,Finished,5689216,8
+2007,bahrain,renault,kovalainen,Finished,5696926,9
+2007,bahrain,williams,rosberg,Finished,5697431,10
+2007,bahrain,williams,wurz,+1 Lap,-1,11
+2007,bahrain,toyota,ralf_schumacher,+1 Lap,-1,12
+2007,bahrain,honda,barrichello,+1 Lap,-1,13
+2007,bahrain,spyker,albers,+2 Laps,-1,14
+2007,bahrain,spyker,sutil,+4 Laps,-1,15
+2007,bahrain,super_aguri,davidson,Engine,-1,16
+2007,bahrain,red_bull,webber,Gearbox,-1,17
+2007,bahrain,red_bull,coulthard,Driveshaft,-1,18
+2007,bahrain,super_aguri,sato,Engine,-1,19
+2007,bahrain,toro_rosso,liuzzi,Hydraulics,-1,20
+2007,bahrain,honda,button,Collision,-1,21
+2007,bahrain,toro_rosso,speed,Collision,-1,22

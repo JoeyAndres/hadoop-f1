@@ -1,0 +1,20 @@
+2017,albert_park,ferrari,vettel,Finished,5051672,1
+2017,albert_park,mercedes,hamilton,Finished,5061647,2
+2017,albert_park,mercedes,bottas,Finished,5062922,3
+2017,albert_park,ferrari,raikkonen,Finished,5074065,4
+2017,albert_park,red_bull,max_verstappen,Finished,5080499,5
+2017,albert_park,williams,massa,Finished,5135058,6
+2017,albert_park,force_india,perez,+1 Lap,-1,7
+2017,albert_park,toro_rosso,sainz,+1 Lap,-1,8
+2017,albert_park,toro_rosso,kvyat,+1 Lap,-1,9
+2017,albert_park,force_india,ocon,+1 Lap,-1,10
+2017,albert_park,renault,hulkenberg,+1 Lap,-1,11
+2017,albert_park,sauber,giovinazzi,+2 Laps,-1,12
+2017,albert_park,mclaren,vandoorne,+2 Laps,-1,13
+2017,albert_park,mclaren,alonso,Vibrations,-1,14
+2017,albert_park,haas,kevin_magnussen,Suspension,-1,15
+2017,albert_park,williams,stroll,Brakes,-1,16
+2017,albert_park,red_bull,ricciardo,Power Unit,-1,17
+2017,albert_park,sauber,ericsson,Hydraulics,-1,18
+2017,albert_park,renault,jolyon_palmer,Brakes,-1,19
+2017,albert_park,haas,grosjean,Water leak,-1,20

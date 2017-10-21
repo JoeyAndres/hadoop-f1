@@ -1,0 +1,20 @@
+2008,hungaroring,mclaren,kovalainen,Finished,5847067,1
+2008,hungaroring,toyota,glock,Finished,5858128,2
+2008,hungaroring,ferrari,raikkonen,Finished,5863923,3
+2008,hungaroring,renault,alonso,Finished,5868681,4
+2008,hungaroring,mclaren,hamilton,Finished,5870115,5
+2008,hungaroring,renault,piquet_jr,Finished,5879365,6
+2008,hungaroring,toyota,trulli,Finished,5883516,7
+2008,hungaroring,bmw_sauber,kubica,Finished,5895388,8
+2008,hungaroring,red_bull,webber,Finished,5905901,9
+2008,hungaroring,bmw_sauber,heidfeld,Finished,5914776,10
+2008,hungaroring,red_bull,coulthard,Finished,5917474,11
+2008,hungaroring,honda,button,+1 Lap,-1,12
+2008,hungaroring,williams,nakajima,+1 Lap,-1,13
+2008,hungaroring,williams,rosberg,+1 Lap,-1,14
+2008,hungaroring,force_india,fisichella,+1 Lap,-1,15
+2008,hungaroring,honda,barrichello,+2 Laps,-1,16
+2008,hungaroring,ferrari,massa,Engine,-1,17
+2008,hungaroring,toro_rosso,bourdais,+3 Laps,-1,18
+2008,hungaroring,force_india,sutil,Brakes,-1,19
+2008,hungaroring,toro_rosso,vettel,Overheating,-1,20

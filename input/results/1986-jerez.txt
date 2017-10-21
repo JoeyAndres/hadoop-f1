@@ -1,0 +1,25 @@
+1986,jerez,team_lotus,senna,Finished,6527735,1
+1986,jerez,williams,mansell,Finished,6527749,2
+1986,jerez,mclaren,prost,Finished,6549287,3
+1986,jerez,mclaren,keke_rosberg,+1 Lap,-1,4
+1986,jerez,benetton,fabi,+1 Lap,-1,5
+1986,jerez,benetton,berger,+1 Lap,-1,6
+1986,jerez,arrows,boutsen,+4 Laps,-1,7
+1986,jerez,lola,tambay,+6 Laps,-1,8
+1986,jerez,team_lotus,dumfries,Gearbox,-1,9
+1986,jerez,tyrrell,brundle,Engine,-1,10
+1986,jerez,ligier,laffite,Halfshaft,-1,11
+1986,jerez,arrows,surer,Fuel system,-1,12
+1986,jerez,williams,piquet,Engine,-1,13
+1986,jerez,brabham,angelis,Gearbox,-1,14
+1986,jerez,ligier,arnoux,Halfshaft,-1,15
+1986,jerez,ferrari,alboreto,Wheel bearing,-1,16
+1986,jerez,tyrrell,streiff,Engine,-1,17
+1986,jerez,osella,danner,Engine,-1,18
+1986,jerez,ferrari,johansson,Brakes,-1,19
+1986,jerez,osella,ghinzani,Engine,-1,20
+1986,jerez,brabham,patrese,Gearbox,-1,21
+1986,jerez,minardi,cesaris,Differential,-1,22
+1986,jerez,zakspeed,palmer,Collision,-1,23
+1986,jerez,lola,jones,Collision,-1,24
+1986,jerez,minardi,nannini,Differential,-1,25

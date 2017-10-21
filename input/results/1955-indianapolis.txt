@@ -1,0 +1,30 @@
+1955,indianapolis,kurtis_kraft,sweikert,Finished,14039530,1
+1955,indianapolis,kurtis_kraft,bettenhausen,Finished,14203090,2
+1955,indianapolis,kurtis_kraft,paul_russo,Finished,14203090,2
+1955,indianapolis,kurtis_kraft,davies,Finished,14251890,3
+1955,indianapolis,kuzma,thomson,Finished,14258440,4
+1955,indianapolis,kurtis_kraft,homeier,Finished,14356700,5
+1955,indianapolis,kurtis_kraft,faulkner,Finished,14356700,5
+1955,indianapolis,kurtis_kraft,linden,Finished,14397470,6
+1955,indianapolis,kurtis_kraft,herman,Finished,14423770,7
+1955,indianapolis,kurtis_kraft,connor,Finished,14441130,8
+1955,indianapolis,kurtis_kraft,daywalt,Finished,14469340,9
+1955,indianapolis,kurtis_kraft,flaherty,Finished,14506070,10
+1955,indianapolis,kuzma,darter,+3 Laps,-1,11
+1955,indianapolis,kurtis_kraft,weyant,+4 Laps,-1,12
+1955,indianapolis,trevis,johnson,+4 Laps,-1,13
+1955,indianapolis,epperly,rathmann,+9 Laps,-1,14
+1955,indianapolis,phillips,freeland,Transmission,-1,15
+1955,indianapolis,kurtis_kraft,niday,Accident,-1,16
+1955,indianapolis,kurtis_kraft,cross,Engine,-1,17
+1955,indianapolis,trevis,templeman,Transmission,-1,18
+1955,indianapolis,kurtis_kraft,hanks,Transmission,-1,19
+1955,indianapolis,schroeder,andrews,Fuel pump,-1,20
+1955,indianapolis,kurtis_kraft,parsons,Magneto,-1,21
+1955,indianapolis,pawl,russo,Ignition,-1,22
+1955,indianapolis,kurtis_kraft,ray_crawford,Engine,-1,23
+1955,indianapolis,kuzma,bryan,Fuel pump,-1,24
+1955,indianapolis,kurtis_kraft,vukovich,Accident,-1,25
+1955,indianapolis,kurtis_kraft,mcgrath,Magneto,-1,26
+1955,indianapolis,kurtis_kraft,keller,Accident,-1,27
+1955,indianapolis,kuzma,ward,Accident,-1,28

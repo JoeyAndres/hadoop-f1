@@ -1,0 +1,24 @@
+1967,nurburgring,brabham-repco,hulme,Finished,7555700,1
+1967,nurburgring,brabham-repco,jack_brabham,Finished,7594200,2
+1967,nurburgring,ferrari,amon,Finished,7594700,3
+1967,nurburgring,honda,surtees,Finished,7701400,4
+1967,nurburgring,lotus-ford,oliver,Finished,7886400,5
+1967,nurburgring,cooper-maserati,bonnier,Finished,8077800,6
+1967,nurburgring,brabham-ford,rees,Finished,8083600,7
+1967,nurburgring,brabham-repco,ligier,+1 Lap,-1,8
+1967,nurburgring,brm,irwin,+2 Laps,-1,9
+1967,nurburgring,lola,hobbs,+2 Laps,-1,10
+1967,nurburgring,cooper-maserati,rodriguez,+2 Laps,-1,11
+1967,nurburgring,eagle-weslake,gurney,Halfshaft,-1,12
+1967,nurburgring,matra,ickx,Suspension,-1,13
+1967,nurburgring,protos,hart,+3 Laps,-1,14
+1967,nurburgring,cooper-maserati,siffert,Fuel pump,-1,15
+1967,nurburgring,lotus-ford,hill,Suspension,-1,16
+1967,nurburgring,lola,hahne,Suspension,-1,17
+1967,nurburgring,brm,stewart,Differential,-1,18
+1967,nurburgring,lotus-ford,clark,Suspension,-1,19
+1967,nurburgring,cooper-maserati,rindt,Radiator,-1,20
+1967,nurburgring,protos,ahrens,Radiator,-1,21
+1967,nurburgring,eagle-weslake,mclaren,Oil leak,-1,22
+1967,nurburgring,brm,spence,Differential,-1,23
+1967,nurburgring,matra,jo_schlesser,Engine,-1,24

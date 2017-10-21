@@ -1,0 +1,20 @@
+2015,monaco,mercedes,rosberg,Finished,6558420,1
+2015,monaco,ferrari,vettel,Finished,6562906,2
+2015,monaco,mercedes,hamilton,Finished,6564473,3
+2015,monaco,red_bull,kvyat,Finished,6570385,4
+2015,monaco,red_bull,ricciardo,Finished,6572028,5
+2015,monaco,ferrari,raikkonen,Finished,6572765,6
+2015,monaco,force_india,perez,Finished,6573433,7
+2015,monaco,mclaren,button,Finished,6574483,8
+2015,monaco,sauber,nasr,Finished,6582046,9
+2015,monaco,toro_rosso,sainz,Finished,6583476,10
+2015,monaco,force_india,hulkenberg,Finished,6584652,11
+2015,monaco,lotus_f1,grosjean,Finished,6586835,12
+2015,monaco,sauber,ericsson,Finished,6589579,13
+2015,monaco,williams,bottas,Finished,6604209,14
+2015,monaco,williams,massa,+1 Lap,-1,15
+2015,monaco,manor,merhi,+2 Laps,-1,16
+2015,monaco,manor,stevens,+2 Laps,-1,17
+2015,monaco,toro_rosso,max_verstappen,Accident,-1,18
+2015,monaco,mclaren,alonso,Gearbox,-1,19
+2015,monaco,lotus_f1,maldonado,Brakes,-1,20

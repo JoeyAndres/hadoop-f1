@@ -1,0 +1,28 @@
+1976,nurburgring,mclaren,hunt,Finished,6102700,1
+1976,nurburgring,tyrrell,scheckter,Finished,6130400,2
+1976,nurburgring,mclaren,mass,Finished,6155100,3
+1976,nurburgring,brabham-alfa_romeo,pace,Finished,6156900,4
+1976,nurburgring,team_lotus,nilsson,Finished,6220000,5
+1976,nurburgring,brabham-alfa_romeo,stommelen,Finished,6253000,6
+1976,nurburgring,penske,watson,Finished,6256600,7
+1976,nurburgring,shadow,pryce,Finished,6270900,8
+1976,nurburgring,ferrari,regazzoni,Finished,6328700,9
+1976,nurburgring,surtees,jones,Finished,6330000,10
+1976,nurburgring,shadow,jarier,Finished,6394400,11
+1976,nurburgring,team_lotus,mario_andretti,Finished,6400800,12
+1976,nurburgring,fittipaldi,emerson_fittipaldi,Finished,6427900,13
+1976,nurburgring,tyrrell,pesenti_rossi,+1 Lap,-1,14
+1976,nurburgring,hesketh,edwards,+1 Lap,-1,15
+1976,nurburgring,wolf,merzario,Brakes,-1,16
+1976,nurburgring,march,brambilla,Accident,-1,17
+1976,nurburgring,tyrrell,depailler,Accident,-1,18
+1976,nurburgring,brabham-alfa_romeo,reutemann,Fuel system,-1,19
+1976,nurburgring,march,peterson,Accident,-1,20
+1976,nurburgring,march,stuck,Clutch,-1,21
+1976,nurburgring,ligier,laffite,Gearbox,-1,22
+1976,nurburgring,ensign,amon,Retired,-1,23
+1976,nurburgring,ferrari,lauda,Accident,-1,24
+1976,nurburgring,surtees,lunger,Accident,-1,25
+1976,nurburgring,hesketh,ertl,Accident,-1,26
+1976,nurburgring,brabham-ford,lombardi,Did not qualify,-1,27
+1976,nurburgring,surtees,pescarolo,Did not qualify,-1,28

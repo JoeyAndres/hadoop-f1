@@ -1,0 +1,20 @@
+2002,suzuka,ferrari,michael_schumacher,Finished,5219698,1
+2002,suzuka,ferrari,barrichello,Finished,5220204,2
+2002,suzuka,mclaren,raikkonen,Finished,5242990,3
+2002,suzuka,williams,montoya,Finished,5255973,4
+2002,suzuka,jordan,sato,Finished,5302392,5
+2002,suzuka,renault,button,+1 Lap,-1,6
+2002,suzuka,sauber,heidfeld,+1 Lap,-1,7
+2002,suzuka,toyota,salo,+1 Lap,-1,8
+2002,suzuka,jaguar,irvine,+1 Lap,-1,9
+2002,suzuka,minardi,webber,+2 Laps,-1,10
+2002,suzuka,williams,ralf_schumacher,Engine,-1,11
+2002,suzuka,jaguar,rosa,Transmission,-1,12
+2002,suzuka,jordan,fisichella,Engine,-1,13
+2002,suzuka,renault,trulli,Mechanical,-1,14
+2002,suzuka,bar,villeneuve,Engine,-1,15
+2002,suzuka,minardi,yoong,Spun off,-1,16
+2002,suzuka,bar,panis,Mechanical,-1,17
+2002,suzuka,mclaren,coulthard,Throttle,-1,18
+2002,suzuka,sauber,massa,Accident,-1,19
+2002,suzuka,toyota,mcnish,Injured,-1,20

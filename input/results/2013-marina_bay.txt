@@ -1,0 +1,22 @@
+2013,marina_bay,red_bull,vettel,Finished,7153132,1
+2013,marina_bay,ferrari,alonso,Finished,7185759,2
+2013,marina_bay,lotus_f1,raikkonen,Finished,7197052,3
+2013,marina_bay,mercedes,rosberg,Finished,7204287,4
+2013,marina_bay,mercedes,hamilton,Finished,7206291,5
+2013,marina_bay,ferrari,massa,Finished,7217009,6
+2013,marina_bay,mclaren,button,Finished,7236486,7
+2013,marina_bay,mclaren,perez,Finished,7236952,8
+2013,marina_bay,sauber,hulkenberg,Finished,7237393,9
+2013,marina_bay,force_india,sutil,Finished,7237800,10
+2013,marina_bay,williams,maldonado,Finished,7241611,11
+2013,marina_bay,sauber,gutierrez,Finished,7251026,12
+2013,marina_bay,williams,bottas,Finished,7258293,13
+2013,marina_bay,toro_rosso,vergne,Finished,7266644,14
+2013,marina_bay,red_bull,webber,Water pressure,-1,15
+2013,marina_bay,caterham,garde,+1 Lap,-1,16
+2013,marina_bay,marussia,chilton,+1 Lap,-1,17
+2013,marina_bay,marussia,jules_bianchi,+1 Lap,-1,18
+2013,marina_bay,caterham,pic,+1 Lap,-1,19
+2013,marina_bay,force_india,resta,Accident,-1,20
+2013,marina_bay,lotus_f1,grosjean,Pneumatics,-1,21
+2013,marina_bay,toro_rosso,ricciardo,Accident,-1,22

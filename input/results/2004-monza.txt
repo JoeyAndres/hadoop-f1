@@ -1,0 +1,20 @@
+2004,monza,ferrari,barrichello,Finished,4518448,1
+2004,monza,ferrari,michael_schumacher,Finished,4519795,2
+2004,monza,bar,button,Finished,4528645,3
+2004,monza,bar,sato,Finished,4533818,4
+2004,monza,williams,montoya,Finished,4550800,5
+2004,monza,mclaren,coulthard,Finished,4551887,6
+2004,monza,williams,pizzonia,Finished,4552200,7
+2004,monza,sauber,fisichella,Finished,4553879,8
+2004,monza,jaguar,webber,Finished,4575209,9
+2004,monza,renault,trulli,Finished,4584764,10
+2004,monza,toyota,zonta,Finished,4600979,11
+2004,monza,sauber,massa,+1 Lap,-1,12
+2004,monza,jaguar,klien,+1 Lap,-1,13
+2004,monza,jordan,heidfeld,+1 Lap,-1,14
+2004,monza,minardi,baumgartner,+3 Laps,-1,15
+2004,monza,renault,alonso,Spun off,-1,16
+2004,monza,jordan,pantano,Accident,-1,17
+2004,monza,minardi,bruni,Fire,-1,18
+2004,monza,mclaren,raikkonen,Engine,-1,19
+2004,monza,toyota,panis,Collision,-1,20

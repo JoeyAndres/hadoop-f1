@@ -1,0 +1,25 @@
+1972,osterreichring,team_lotus,emerson_fittipaldi,Finished,5356660,1
+1972,osterreichring,mclaren,hulme,Finished,5357840,2
+1972,osterreichring,mclaren,revson,Finished,5393190,3
+1972,osterreichring,surtees,hailwood,Finished,5401420,4
+1972,osterreichring,matra,amon,Finished,5402300,5
+1972,osterreichring,brm,ganley,Finished,5417850,6
+1972,osterreichring,tyrrell,stewart,Finished,5425750,7
+1972,osterreichring,brm,beltoise,Finished,5438110,8
+1972,osterreichring,tyrrell,cevert,+1 Lap,-1,9
+1972,osterreichring,march,lauda,+1 Lap,-1,10
+1972,osterreichring,surtees,schenken,+2 Laps,-1,11
+1972,osterreichring,march,peterson,+2 Laps,-1,12
+1972,osterreichring,brm,gethin,+3 Laps,-1,13
+1972,osterreichring,surtees,adamich,+3 Laps,-1,14
+1972,osterreichring,march,stommelen,Engine,-1,15
+1972,osterreichring,march,pace,Not classified,-1,16
+1972,osterreichring,tecno,galli,Oil leak,-1,17
+1972,osterreichring,brabham,hill,Injection,-1,18
+1972,osterreichring,brabham,wilson_fittipaldi,Brakes,-1,19
+1972,osterreichring,march,beuttler,Fuel system,-1,20
+1972,osterreichring,connew,migault,Suspension,-1,21
+1972,osterreichring,ferrari,ickx,Fuel system,-1,22
+1972,osterreichring,brabham,reutemann,Injection,-1,23
+1972,osterreichring,ferrari,regazzoni,Fuel system,-1,24
+1972,osterreichring,team_lotus,walker,Engine,-1,25

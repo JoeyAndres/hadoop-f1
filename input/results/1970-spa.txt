@@ -1,0 +1,17 @@
+1970,spa,brm,rodriguez,Finished,5890100,1
+1970,spa,march,amon,Finished,5891200,2
+1970,spa,matra,beltoise,Finished,5993800,3
+1970,spa,ferrari,giunti,Finished,6048600,4
+1970,spa,brabham,stommelen,Finished,6101900,5
+1970,spa,matra,pescarolo,Electrical,-1,6
+1970,spa,march,siffert,Fuel pressure,-1,7
+1970,spa,ferrari,ickx,+2 Laps,-1,8
+1970,spa,march,peterson,Not classified,-1,9
+1970,spa,brabham,jack_brabham,Clutch,-1,10
+1970,spa,team_lotus,hill,Engine,-1,11
+1970,spa,march,stewart,Engine,-1,12
+1970,spa,team_lotus,miles,Gearbox,-1,13
+1970,spa,team_lotus,rindt,Engine,-1,14
+1970,spa,brm,oliver,Engine,-1,15
+1970,spa,tomaso,courage,Oil pressure,-1,16
+1970,spa,brabham,bell,Gearbox,-1,17

@@ -1,0 +1,24 @@
+2010,istanbul,mclaren,hamilton,Finished,5327620,1
+2010,istanbul,mclaren,button,Finished,5330265,2
+2010,istanbul,red_bull,webber,Finished,5351905,3
+2010,istanbul,mercedes,michael_schumacher,Finished,5358730,4
+2010,istanbul,mercedes,rosberg,Finished,5359886,5
+2010,istanbul,renault,kubica,Finished,5360444,6
+2010,istanbul,ferrari,massa,Finished,5364255,7
+2010,istanbul,ferrari,alonso,Finished,5374164,8
+2010,istanbul,force_india,sutil,Finished,5376649,9
+2010,istanbul,sauber,kobayashi,Finished,5393270,10
+2010,istanbul,sauber,rosa,Finished,5393564,11
+2010,istanbul,toro_rosso,alguersuari,Finished,5395420,12
+2010,istanbul,force_india,liuzzi,+1 Lap,-1,13
+2010,istanbul,williams,barrichello,+1 Lap,-1,14
+2010,istanbul,renault,petrov,+1 Lap,-1,15
+2010,istanbul,toro_rosso,buemi,+1 Lap,-1,16
+2010,istanbul,williams,hulkenberg,+1 Lap,-1,17
+2010,istanbul,virgin,glock,+3 Laps,-1,18
+2010,istanbul,virgin,grassi,+3 Laps,-1,19
+2010,istanbul,hrt,chandhok,Fuel pump,-1,20
+2010,istanbul,hrt,bruno_senna,Fuel pressure,-1,21
+2010,istanbul,red_bull,vettel,Collision,-1,22
+2010,istanbul,lotus_racing,kovalainen,Hydraulics,-1,23
+2010,istanbul,lotus_racing,trulli,Hydraulics,-1,24

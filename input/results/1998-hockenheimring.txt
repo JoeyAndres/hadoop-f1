@@ -1,0 +1,21 @@
+1998,hockenheimring,mclaren,hakkinen,Finished,4848000,1
+1998,hockenheimring,mclaren,coulthard,Finished,4848426,2
+1998,hockenheimring,williams,villeneuve,Finished,4850577,3
+1998,hockenheimring,jordan,damon_hill,Finished,4855185,4
+1998,hockenheimring,ferrari,michael_schumacher,Finished,4860613,5
+1998,hockenheimring,jordan,ralf_schumacher,Finished,4877738,6
+1998,hockenheimring,benetton,fisichella,Finished,4879026,7
+1998,hockenheimring,ferrari,irvine,Finished,4879649,8
+1998,hockenheimring,williams,frentzen,Finished,4880784,9
+1998,hockenheimring,sauber,alesi,Finished,4896371,10
+1998,hockenheimring,benetton,wurz,Finished,4905994,11
+1998,hockenheimring,prost,trulli,+1 Lap,-1,12
+1998,hockenheimring,tyrrell,takagi,+1 Lap,-1,13
+1998,hockenheimring,arrows,salo,+1 Lap,-1,14
+1998,hockenheimring,prost,panis,+1 Lap,-1,15
+1998,hockenheimring,minardi,tuero,+2 Laps,-1,16
+1998,hockenheimring,sauber,herbert,Gearbox,-1,17
+1998,hockenheimring,minardi,nakano,Gearbox,-1,18
+1998,hockenheimring,stewart,barrichello,Gearbox,-1,19
+1998,hockenheimring,stewart,verstappen,Gearbox,-1,20
+1998,hockenheimring,arrows,diniz,Throttle,-1,21

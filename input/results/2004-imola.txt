@@ -1,0 +1,20 @@
+2004,imola,ferrari,michael_schumacher,Finished,5179670,1
+2004,imola,bar,button,Finished,5189372,2
+2004,imola,williams,montoya,Finished,5201287,3
+2004,imola,renault,alonso,Finished,5203324,4
+2004,imola,renault,trulli,Finished,5215886,5
+2004,imola,ferrari,barrichello,Finished,5216353,6
+2004,imola,williams,ralf_schumacher,Finished,5235400,7
+2004,imola,mclaren,raikkonen,+1 Lap,-1,8
+2004,imola,sauber,fisichella,+1 Lap,-1,9
+2004,imola,sauber,massa,+1 Lap,-1,10
+2004,imola,toyota,panis,+1 Lap,-1,11
+2004,imola,mclaren,coulthard,+1 Lap,-1,12
+2004,imola,jaguar,webber,+1 Lap,-1,13
+2004,imola,jaguar,klien,+2 Laps,-1,14
+2004,imola,minardi,baumgartner,+4 Laps,-1,15
+2004,imola,bar,sato,Engine,-1,16
+2004,imola,jordan,heidfeld,Driveshaft,-1,17
+2004,imola,toyota,matta,Accident,-1,18
+2004,imola,minardi,bruni,Brakes,-1,19
+2004,imola,jordan,pantano,Hydraulics,-1,20

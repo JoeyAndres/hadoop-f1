@@ -1,0 +1,20 @@
+1996,suzuka,williams,damon_hill,Finished,5553791,1
+1996,suzuka,ferrari,michael_schumacher,Finished,5555674,2
+1996,suzuka,mclaren,hakkinen,Finished,5557003,3
+1996,suzuka,benetton,berger,Finished,5580317,4
+1996,suzuka,jordan,brundle,Finished,5620911,5
+1996,suzuka,sauber,frentzen,Finished,5634977,6
+1996,suzuka,ligier,panis,Finished,5638301,7
+1996,suzuka,mclaren,coulthard,Finished,5639024,8
+1996,suzuka,jordan,barrichello,Finished,5654856,9
+1996,suzuka,sauber,herbert,Finished,5655590,10
+1996,suzuka,footwork,verstappen,+1 Lap,-1,11
+1996,suzuka,minardi,lamy,+2 Laps,-1,12
+1996,suzuka,footwork,rosset,+2 Laps,-1,13
+1996,suzuka,ferrari,irvine,Collision,-1,14
+1996,suzuka,tyrrell,katayama,Engine,-1,15
+1996,suzuka,williams,villeneuve,Wheel,-1,16
+1996,suzuka,tyrrell,salo,Engine,-1,17
+1996,suzuka,ligier,diniz,Spun off,-1,18
+1996,suzuka,benetton,alesi,Spun off,-1,19
+1996,suzuka,minardi,lavaggi,Did not qualify,-1,20

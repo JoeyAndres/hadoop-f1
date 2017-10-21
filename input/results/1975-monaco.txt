@@ -1,0 +1,26 @@
+1975,monaco,ferrari,lauda,Finished,7281310,1
+1975,monaco,mclaren,emerson_fittipaldi,Finished,7284090,2
+1975,monaco,brabham,pace,Finished,7299120,3
+1975,monaco,team_lotus,peterson,Finished,7319760,4
+1975,monaco,tyrrell,depailler,Finished,7322170,5
+1975,monaco,mclaren,mass,Finished,7323380,6
+1975,monaco,tyrrell,scheckter,+1 Lap,-1,7
+1975,monaco,team_lotus,ickx,+1 Lap,-1,8
+1975,monaco,brabham,reutemann,+2 Laps,-1,9
+1975,monaco,penske,donohue,Accident,-1,10
+1975,monaco,hesketh,hunt,Accident,-1,11
+1975,monaco,hesketh,jones,Wheel,-1,12
+1975,monaco,march,brambilla,Accident,-1,13
+1975,monaco,shadow-ford,pryce,Accident,-1,14
+1975,monaco,ferrari,regazzoni,Accident,-1,15
+1975,monaco,surtees,watson,Spun off,-1,16
+1975,monaco,parnelli,mario_andretti,Oil leak,-1,17
+1975,monaco,shadow-ford,jarier,Accident,-1,18
+1975,monaco,williams,laffite,Did not qualify,-1,19
+1975,monaco,williams,merzario,Did not qualify,-1,20
+1975,monaco,hill,hill,Did not qualify,-1,21
+1975,monaco,brm,evans,Did not qualify,-1,22
+1975,monaco,ensign,wunderink,Did not qualify,-1,23
+1975,monaco,hesketh,palm,Did not qualify,-1,24
+1975,monaco,march,lombardi,Did not qualify,-1,25
+1975,monaco,fittipaldi,wilson_fittipaldi,Did not qualify,-1,26

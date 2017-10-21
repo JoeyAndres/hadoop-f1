@@ -1,0 +1,18 @@
+1969,watkins_glen,lotus-ford,rindt,Finished,7076840,1
+1969,watkins_glen,brabham-ford,courage,Finished,7123830,2
+1969,watkins_glen,brm,surtees,+2 Laps,-1,3
+1969,watkins_glen,brabham-ford,jack_brabham,+2 Laps,-1,4
+1969,watkins_glen,ferrari,rodriguez,+7 Laps,-1,5
+1969,watkins_glen,brabham-ford,moser,+10 Laps,-1,6
+1969,watkins_glen,matra-ford,gavin,Not classified,-1,7
+1969,watkins_glen,lotus-ford,hill,Accident,-1,8
+1969,watkins_glen,brabham-ford,ickx,Engine,-1,9
+1969,watkins_glen,brm,eaton,Engine,-1,10
+1969,watkins_glen,matra-ford,beltoise,Engine,-1,11
+1969,watkins_glen,mclaren-ford,hulme,Gearbox,-1,12
+1969,watkins_glen,matra-ford,stewart,Engine,-1,13
+1969,watkins_glen,lotus-ford,lovely,Halfshaft,-1,14
+1969,watkins_glen,brm,oliver,Engine,-1,15
+1969,watkins_glen,lotus-ford,siffert,Fuel system,-1,16
+1969,watkins_glen,lotus-ford,mario_andretti,Suspension,-1,17
+1969,watkins_glen,mclaren-ford,mclaren,Engine,-1,18

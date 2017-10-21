@@ -1,0 +1,18 @@
+1967,watkins_glen,lotus-ford,clark,Finished,7393200,1
+1967,watkins_glen,lotus-ford,hill,Finished,7399500,2
+1967,watkins_glen,brabham-repco,hulme,+1 Lap,-1,3
+1967,watkins_glen,cooper-maserati,siffert,+2 Laps,-1,4
+1967,watkins_glen,brabham-repco,jack_brabham,+4 Laps,-1,5
+1967,watkins_glen,cooper-maserati,bonnier,+7 Laps,-1,6
+1967,watkins_glen,mclaren-ford,beltoise,+7 Laps,-1,7
+1967,watkins_glen,honda,surtees,Alternator,-1,8
+1967,watkins_glen,ferrari,amon,Engine,-1,9
+1967,watkins_glen,brm,stewart,Injection,-1,10
+1967,watkins_glen,cooper-maserati,ickx,Overheating,-1,11
+1967,watkins_glen,brabham-repco,ligier,Engine,-1,12
+1967,watkins_glen,brm,irwin,Engine,-1,13
+1967,watkins_glen,brm,spence,Engine,-1,14
+1967,watkins_glen,cooper-maserati,rindt,Engine,-1,15
+1967,watkins_glen,eagle-weslake,gurney,Suspension,-1,16
+1967,watkins_glen,mclaren-brm,mclaren,Water leak,-1,17
+1967,watkins_glen,lotus-ford,solana,Ignition,-1,18

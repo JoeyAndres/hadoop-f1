@@ -1,0 +1,22 @@
+1999,monza,jordan,frentzen,Finished,4622923,1
+1999,monza,williams,ralf_schumacher,Finished,4626195,2
+1999,monza,ferrari,salo,Finished,4634855,3
+1999,monza,stewart,barrichello,Finished,4640553,4
+1999,monza,mclaren,coulthard,Finished,4641065,5
+1999,monza,ferrari,irvine,Finished,4650325,6
+1999,monza,williams,zanardi,Finished,4650970,7
+1999,monza,bar,villeneuve,Finished,4664720,8
+1999,monza,sauber,alesi,Finished,4665121,9
+1999,monza,jordan,damon_hill,Finished,4679182,10
+1999,monza,prost,panis,Engine,-1,11
+1999,monza,stewart,herbert,Clutch,-1,12
+1999,monza,arrows,takagi,Spun off,-1,13
+1999,monza,arrows,rosa,Withdrew,-1,14
+1999,monza,mclaren,hakkinen,Spun off,-1,15
+1999,monza,prost,trulli,Overheating,-1,16
+1999,monza,bar,zonta,Wheel bearing,-1,17
+1999,monza,minardi,badoer,Collision,-1,18
+1999,monza,benetton,wurz,Electrical,-1,19
+1999,monza,sauber,diniz,Spun off,-1,20
+1999,monza,benetton,fisichella,Spun off,-1,21
+1999,monza,minardi,gene,Collision,-1,22

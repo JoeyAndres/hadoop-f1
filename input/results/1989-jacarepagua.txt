@@ -1,0 +1,30 @@
+1989,jacarepagua,ferrari,mansell,Finished,5938744,1
+1989,jacarepagua,mclaren,prost,Finished,5946553,2
+1989,jacarepagua,march,gugelmin,Finished,5948114,3
+1989,jacarepagua,benetton,herbert,Finished,5949237,4
+1989,jacarepagua,arrows,warwick,Finished,5956610,5
+1989,jacarepagua,benetton,nannini,Finished,5956985,6
+1989,jacarepagua,tyrrell,palmer,+1 Lap,-1,7
+1989,jacarepagua,team_lotus,satoru_nakajima,+1 Lap,-1,8
+1989,jacarepagua,ligier,grouillard,+1 Lap,-1,9
+1989,jacarepagua,tyrrell,alboreto,+2 Laps,-1,10
+1989,jacarepagua,mclaren,senna,+2 Laps,-1,11
+1989,jacarepagua,larrousse,alliot,+3 Laps,-1,12
+1989,jacarepagua,dallara,cesaris,+4 Laps,-1,13
+1989,jacarepagua,rial,danner,+5 Laps,-1,14
+1989,jacarepagua,williams,patrese,Alternator,-1,15
+1989,jacarepagua,arrows,cheever,Collision,-1,16
+1989,jacarepagua,zakspeed,schneider,Collision,-1,17
+1989,jacarepagua,brabham,brundle,Halfshaft,-1,18
+1989,jacarepagua,march,capelli,Suspension,-1,19
+1989,jacarepagua,team_lotus,piquet,Fuel system,-1,20
+1989,jacarepagua,osella,larini,Disqualified,-1,21
+1989,jacarepagua,brabham,modena,Halfshaft,-1,22
+1989,jacarepagua,williams,boutsen,Engine,-1,23
+1989,jacarepagua,minardi,martini,Chassis,-1,24
+1989,jacarepagua,ferrari,berger,Collision,-1,25
+1989,jacarepagua,minardi,sala,Collision,-1,26
+1989,jacarepagua,larrousse,dalmas,Did not qualify,-1,27
+1989,jacarepagua,ligier,arnoux,Did not qualify,-1,28
+1989,jacarepagua,eurobrun,foitek,Did not qualify,-1,29
+1989,jacarepagua,coloni,moreno,Did not qualify,-1,30

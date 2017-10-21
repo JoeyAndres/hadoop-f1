@@ -1,0 +1,22 @@
+2008,sepang,ferrari,raikkonen,Finished,5478555,1
+2008,sepang,bmw_sauber,kubica,Finished,5498125,2
+2008,sepang,mclaren,kovalainen,Finished,5517005,3
+2008,sepang,toyota,trulli,Finished,5524387,4
+2008,sepang,mclaren,hamilton,Finished,5525103,5
+2008,sepang,bmw_sauber,heidfeld,Finished,5528388,6
+2008,sepang,red_bull,webber,Finished,5546685,7
+2008,sepang,renault,alonso,Finished,5548596,8
+2008,sepang,red_bull,coulthard,Finished,5554775,9
+2008,sepang,honda,button,Finished,5564769,10
+2008,sepang,renault,piquet_jr,Finished,5570757,11
+2008,sepang,force_india,fisichella,+1 Lap,-1,12
+2008,sepang,honda,barrichello,+1 Lap,-1,13
+2008,sepang,williams,rosberg,+1 Lap,-1,14
+2008,sepang,super_aguri,davidson,+1 Lap,-1,15
+2008,sepang,super_aguri,sato,+2 Laps,-1,16
+2008,sepang,williams,nakajima,+2 Laps,-1,17
+2008,sepang,toro_rosso,vettel,Engine,-1,18
+2008,sepang,ferrari,massa,Spun off,-1,19
+2008,sepang,force_india,sutil,Hydraulics,-1,20
+2008,sepang,toyota,glock,Collision,-1,21
+2008,sepang,toro_rosso,bourdais,Spun off,-1,22

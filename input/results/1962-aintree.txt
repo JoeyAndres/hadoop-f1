@@ -1,0 +1,26 @@
+1962,aintree,lotus-climax,clark,Finished,8780800,1
+1962,aintree,lola,surtees,Finished,8830000,2
+1962,aintree,cooper-climax,mclaren,Finished,8885600,3
+1962,aintree,brm,hill,Finished,8897600,4
+1962,aintree,lotus-climax,jack_brabham,+1 Lap,-1,5
+1962,aintree,cooper-climax,maggs,+1 Lap,-1,6
+1962,aintree,lotus-climax,gregory,+1 Lap,-1,7
+1962,aintree,lotus-climax,trevor_taylor,+1 Lap,-1,8
+1962,aintree,porsche,gurney,+2 Laps,-1,9
+1962,aintree,cooper-climax,lewis,+3 Laps,-1,10
+1962,aintree,emeryson,settember,+4 Laps,-1,11
+1962,aintree,cooper-climax,burgess,+4 Laps,-1,12
+1962,aintree,brm,ginther,+5 Laps,-1,13
+1962,aintree,porsche,beaufort,+6 Laps,-1,14
+1962,aintree,lotus-climax,chamberlain,+11 Laps,-1,15
+1962,aintree,lotus-climax,ireland,+14 Laps,-1,16
+1962,aintree,ferrari,phil_hill,Engine,-1,17
+1962,aintree,lola,salvadori,Battery,-1,18
+1962,aintree,porsche,bonnier,Differential,-1,19
+1962,aintree,lotus-brm,seidel,Brakes,-1,20
+1962,aintree,lotus-climax,shelly,Engine,-1,21
+1962,aintree,lotus-climax,greene,Withdrew,-1,22
+1962,aintree,lotus-climax,trintignant,Withdrew,-1,23
+1962,aintree,emeryson,campbell-jones,Withdrew,-1,24
+1962,aintree,gilby,greene,Withdrew,-1,25
+1962,aintree,lotus-brm,siffert,Withdrew,-1,26

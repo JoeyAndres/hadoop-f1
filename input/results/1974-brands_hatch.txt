@@ -1,0 +1,30 @@
+1974,brands_hatch,tyrrell,scheckter,Finished,6182200,1
+1974,brands_hatch,mclaren,emerson_fittipaldi,Finished,6197500,2
+1974,brands_hatch,team_lotus,ickx,Finished,6243700,3
+1974,brands_hatch,ferrari,regazzoni,Finished,6249400,4
+1974,brands_hatch,ferrari,lauda,+1 Lap,-1,5
+1974,brands_hatch,brabham,reutemann,+1 Lap,-1,6
+1974,brands_hatch,mclaren,hulme,+1 Lap,-1,7
+1974,brands_hatch,shadow,pryce,+1 Lap,-1,8
+1974,brands_hatch,brabham,pace,+1 Lap,-1,9
+1974,brands_hatch,team_lotus,peterson,+2 Laps,-1,10
+1974,brands_hatch,brabham,watson,+2 Laps,-1,11
+1974,brands_hatch,brm,beltoise,+3 Laps,-1,12
+1974,brands_hatch,lola,hill,+6 Laps,-1,13
+1974,brands_hatch,surtees,mass,+7 Laps,-1,14
+1974,brands_hatch,brm,pescarolo,Engine,-1,15
+1974,brands_hatch,brm,migault,Not classified,-1,16
+1974,brands_hatch,mclaren,hailwood,Spun off,-1,17
+1974,brands_hatch,shadow,jarier,Suspension,-1,18
+1974,brands_hatch,march,stuck,Accident,-1,19
+1974,brands_hatch,tyrrell,depailler,Engine,-1,20
+1974,brands_hatch,iso_marlboro,merzario,Engine,-1,21
+1974,brands_hatch,march,brambilla,Fuel system,-1,22
+1974,brands_hatch,trojan,schenken,Suspension,-1,23
+1974,brands_hatch,hesketh,hunt,Suspension,-1,24
+1974,brands_hatch,lola,gethin,Physical,-1,25
+1974,brands_hatch,token,purley,Did not qualify,-1,26
+1974,brands_hatch,surtees,bell,Did not qualify,-1,27
+1974,brands_hatch,iso_marlboro,belso,Did not qualify,-1,28
+1974,brands_hatch,brabham,lombardi,Did not qualify,-1,29
+1974,brands_hatch,ensign,schuppan,Did not qualify,-1,30

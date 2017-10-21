@@ -1,0 +1,28 @@
+1980,imola,brabham,piquet,Finished,5887520,1
+1980,imola,williams,jones,Finished,5916450,2
+1980,imola,williams,reutemann,Finished,5961190,3
+1980,imola,team_lotus,angelis,+1 Lap,-1,4
+1980,imola,fittipaldi,keke_rosberg,+1 Lap,-1,5
+1980,imola,ligier,pironi,+1 Lap,-1,6
+1980,imola,mclaren,prost,+1 Lap,-1,7
+1980,imola,ferrari,scheckter,+1 Lap,-1,8
+1980,imola,ligier,laffite,+1 Lap,-1,9
+1980,imola,renault,arnoux,+2 Laps,-1,10
+1980,imola,williams,keegan,+2 Laps,-1,11
+1980,imola,osella,cheever,+3 Laps,-1,12
+1980,imola,tyrrell,jarier,Brakes,-1,13
+1980,imola,renault,jabouille,Gearbox,-1,14
+1980,imola,ats,surer,Engine,-1,15
+1980,imola,team_lotus,mario_andretti,Engine,-1,16
+1980,imola,arrows,patrese,Engine,-1,17
+1980,imola,tyrrell,daly,Accident,-1,18
+1980,imola,mclaren,watson,Wheel bearing,-1,19
+1980,imola,brabham,rebaque,Suspension,-1,20
+1980,imola,fittipaldi,emerson_fittipaldi,Accident,-1,21
+1980,imola,ferrari,gilles_villeneuve,Puncture,-1,22
+1980,imola,alfa,giacomelli,Puncture,-1,23
+1980,imola,alfa,brambilla,Spun off,-1,24
+1980,imola,team_lotus,mansell,Did not qualify,-1,25
+1980,imola,arrows,manfred_winkelhock,Did not qualify,-1,26
+1980,imola,ensign,lammers,Did not qualify,-1,27
+1980,imola,ensign,lees,Did not qualify,-1,28

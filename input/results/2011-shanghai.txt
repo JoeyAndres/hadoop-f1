@@ -1,0 +1,24 @@
+2011,shanghai,mclaren,hamilton,Finished,5818226,1
+2011,shanghai,red_bull,vettel,Finished,5823424,2
+2011,shanghai,red_bull,webber,Finished,5825781,3
+2011,shanghai,mclaren,button,Finished,5828226,4
+2011,shanghai,mercedes,rosberg,Finished,5831674,5
+2011,shanghai,ferrari,massa,Finished,5834066,6
+2011,shanghai,ferrari,alonso,Finished,5848848,7
+2011,shanghai,mercedes,michael_schumacher,Finished,5849252,8
+2011,shanghai,renault,petrov,Finished,5875630,9
+2011,shanghai,sauber,kobayashi,Finished,5881499,10
+2011,shanghai,force_india,resta,Finished,5886983,11
+2011,shanghai,renault,heidfeld,Finished,5890965,12
+2011,shanghai,williams,barrichello,Finished,5908415,13
+2011,shanghai,toro_rosso,buemi,Finished,5908897,14
+2011,shanghai,force_india,sutil,+1 Lap,-1,15
+2011,shanghai,lotus_racing,kovalainen,+1 Lap,-1,16
+2011,shanghai,sauber,perez,+1 Lap,-1,17
+2011,shanghai,williams,maldonado,+1 Lap,-1,18
+2011,shanghai,lotus_racing,trulli,+1 Lap,-1,19
+2011,shanghai,virgin,ambrosio,+2 Laps,-1,20
+2011,shanghai,virgin,glock,+2 Laps,-1,21
+2011,shanghai,hrt,liuzzi,+2 Laps,-1,22
+2011,shanghai,hrt,karthikeyan,+2 Laps,-1,23
+2011,shanghai,toro_rosso,alguersuari,Wheel,-1,24

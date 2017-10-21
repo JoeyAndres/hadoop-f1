@@ -1,0 +1,30 @@
+1955,galvez,mercedes,fangio,Finished,10838600,1
+1955,galvez,ferrari,gonzalez,Finished,10928200,2
+1955,galvez,ferrari,farina,Finished,10928200,2
+1955,galvez,ferrari,trintignant,Finished,10928200,2
+1955,galvez,ferrari,maglioli,+2 Laps,-1,3
+1955,galvez,ferrari,farina,+2 Laps,-1,3
+1955,galvez,ferrari,trintignant,+2 Laps,-1,3
+1955,galvez,mercedes,kling,+2 Laps,-1,4
+1955,galvez,mercedes,herrmann,+2 Laps,-1,4
+1955,galvez,mercedes,moss,+2 Laps,-1,4
+1955,galvez,maserati,mieres,+5 Laps,-1,5
+1955,galvez,maserati,behra,+8 Laps,-1,6
+1955,galvez,maserati,schell,+8 Laps,-1,6
+1955,galvez,maserati,mantovani,+13 Laps,-1,7
+1955,galvez,maserati,musso,+13 Laps,-1,7
+1955,galvez,maserati,schell,+13 Laps,-1,7
+1955,galvez,maserati,musso,Engine,-1,8
+1955,galvez,maserati,mantovani,Engine,-1,8
+1955,galvez,maserati,behra,Engine,-1,8
+1955,galvez,maserati,bucci,Fuel pressure,-1,9
+1955,galvez,maserati,schell,Fuel pressure,-1,9
+1955,galvez,maserati,menditeguy,Fuel pressure,-1,9
+1955,galvez,gordini,iglesias,Transmission,-1,10
+1955,galvez,ferrari,trintignant,Engine,-1,11
+1955,galvez,lancia,castellotti,Accident,-1,12
+1955,galvez,lancia,villoresi,Accident,-1,12
+1955,galvez,mercedes,moss,Fuel system,-1,13
+1955,galvez,maserati,uria,Out of fuel,-1,14
+1955,galvez,lancia,ascari,Accident,-1,15
+1955,galvez,gordini,bayol,Transmission,-1,16

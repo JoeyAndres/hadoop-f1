@@ -1,0 +1,22 @@
+1999,sepang,ferrari,irvine,Finished,5798494,1
+1999,sepang,ferrari,michael_schumacher,Finished,5799534,2
+1999,sepang,mclaren,hakkinen,Finished,5808237,3
+1999,sepang,stewart,herbert,Finished,5816032,4
+1999,sepang,stewart,barrichello,Finished,5830790,5
+1999,sepang,jordan,frentzen,Finished,5833378,6
+1999,sepang,sauber,alesi,Finished,5852902,7
+1999,sepang,benetton,wurz,Finished,5859428,8
+1999,sepang,minardi,gene,+1 Lap,-1,9
+1999,sepang,williams,zanardi,+1 Lap,-1,10
+1999,sepang,benetton,fisichella,+4 Laps,-1,11
+1999,sepang,bar,villeneuve,Hydraulics,-1,12
+1999,sepang,sauber,diniz,Spun off,-1,13
+1999,sepang,arrows,rosa,Engine,-1,14
+1999,sepang,minardi,badoer,Spun off,-1,15
+1999,sepang,mclaren,coulthard,Fuel pressure,-1,16
+1999,sepang,williams,ralf_schumacher,Spun off,-1,17
+1999,sepang,arrows,takagi,Transmission,-1,18
+1999,sepang,bar,zonta,Engine,-1,19
+1999,sepang,prost,panis,Engine,-1,20
+1999,sepang,jordan,damon_hill,Collision,-1,21
+1999,sepang,prost,trulli,Engine,-1,22

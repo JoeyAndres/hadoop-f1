@@ -1,0 +1,23 @@
+1960,riverside,team_lotus,moss,Finished,8932200,1
+1960,riverside,team_lotus,ireland,Finished,8970200,2
+1960,riverside,cooper-climax,mclaren,Finished,8984200,3
+1960,riverside,cooper-climax,jack_brabham,+1 Lap,-1,4
+1960,riverside,brm,bonnier,+1 Lap,-1,5
+1960,riverside,cooper-climax,phil_hill,+1 Lap,-1,6
+1960,riverside,team_lotus,hall,+1 Lap,-1,7
+1960,riverside,cooper-climax,salvadori,+2 Laps,-1,8
+1960,riverside,cooper-maserati,trips,+3 Laps,-1,9
+1960,riverside,scarab,daigh,+5 Laps,-1,10
+1960,riverside,cooper-castellotti,lovely,+6 Laps,-1,11
+1960,riverside,cooper-climax,gendebien,+6 Laps,-1,12
+1960,riverside,maserati,drake,+7 Laps,-1,13
+1960,riverside,cooper-climax,henry_taylor,+7 Laps,-1,14
+1960,riverside,cooper-maserati,trintignant,+9 Laps,-1,15
+1960,riverside,team_lotus,clark,+14 Laps,-1,16
+1960,riverside,brm,hill,Gearbox,-1,17
+1960,riverside,cooper-maserati,burgess,Ignition,-1,18
+1960,riverside,cooper-maserati,naylor,Engine,-1,19
+1960,riverside,brm,gurney,Engine,-1,20
+1960,riverside,cooper-climax,flockhart,Transmission,-1,21
+1960,riverside,cooper-climax,brooks,Spun off,-1,22
+1960,riverside,team_lotus,surtees,Accident,-1,23

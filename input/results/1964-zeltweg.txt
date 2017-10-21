@@ -1,0 +1,20 @@
+1964,zeltweg,ferrari,bandini,Finished,7578230,1
+1964,zeltweg,brm,ginther,Finished,7584410,2
+1964,zeltweg,brabham-climax,anderson,+3 Laps,-1,3
+1964,zeltweg,brm,maggs,+3 Laps,-1,4
+1964,zeltweg,brp,ireland,+3 Laps,-1,5
+1964,zeltweg,brabham-climax,bonnier,+4 Laps,-1,6
+1964,zeltweg,brm,baghetti,+9 Laps,-1,7
+1964,zeltweg,lotus-brm,hailwood,+10 Laps,-1,8
+1964,zeltweg,brabham-climax,jack_brabham,+29 Laps,-1,9
+1964,zeltweg,brabham-brm,rindt,Steering,-1,10
+1964,zeltweg,cooper-climax,phil_hill,Accident,-1,11
+1964,zeltweg,brabham-climax,gurney,Suspension,-1,12
+1964,zeltweg,cooper-climax,mclaren,Engine,-1,13
+1964,zeltweg,lotus-climax,spence,Halfshaft,-1,14
+1964,zeltweg,lotus-climax,clark,Halfshaft,-1,15
+1964,zeltweg,brp,trevor_taylor,Suspension,-1,16
+1964,zeltweg,brabham-brm,siffert,Accident,-1,17
+1964,zeltweg,ferrari,surtees,Suspension,-1,18
+1964,zeltweg,lotus-climax,amon,Engine,-1,19
+1964,zeltweg,brm,hill,Distributor,-1,20

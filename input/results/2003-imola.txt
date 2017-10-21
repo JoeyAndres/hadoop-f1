@@ -1,0 +1,20 @@
+2003,imola,ferrari,michael_schumacher,Finished,5292058,1
+2003,imola,mclaren,raikkonen,Finished,5293940,2
+2003,imola,ferrari,barrichello,Finished,5294349,3
+2003,imola,williams,ralf_schumacher,Finished,5300861,4
+2003,imola,mclaren,coulthard,Finished,5301469,5
+2003,imola,renault,alonso,Finished,5335747,6
+2003,imola,williams,montoya,Finished,5337329,7
+2003,imola,bar,button,+1 Lap,-1,8
+2003,imola,toyota,panis,+1 Lap,-1,9
+2003,imola,sauber,heidfeld,+1 Lap,-1,10
+2003,imola,sauber,frentzen,+1 Lap,-1,11
+2003,imola,toyota,matta,+1 Lap,-1,12
+2003,imola,renault,trulli,+1 Lap,-1,13
+2003,imola,jaguar,pizzonia,+2 Laps,-1,14
+2003,imola,jordan,fisichella,+5 Laps,-1,15
+2003,imola,jaguar,webber,Driveshaft,-1,16
+2003,imola,jordan,firman,Oil line,-1,17
+2003,imola,minardi,verstappen,Electrical,-1,18
+2003,imola,minardi,wilson,Fuel rig,-1,19
+2003,imola,bar,villeneuve,Engine,-1,20

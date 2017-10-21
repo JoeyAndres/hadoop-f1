@@ -1,0 +1,22 @@
+1999,albert_park,ferrari,irvine,Finished,5701659,1
+1999,albert_park,jordan,frentzen,Finished,5702686,2
+1999,albert_park,williams,ralf_schumacher,Finished,5708671,3
+1999,albert_park,benetton,fisichella,Finished,5735077,4
+1999,albert_park,stewart,barrichello,Finished,5756357,5
+1999,albert_park,arrows,rosa,Finished,5785976,6
+1999,albert_park,arrows,takagi,Finished,5787947,7
+1999,albert_park,ferrari,michael_schumacher,+1 Lap,-1,8
+1999,albert_park,bar,zonta,Gearbox,-1,9
+1999,albert_park,minardi,badoer,Gearbox,-1,10
+1999,albert_park,benetton,wurz,Suspension,-1,11
+1999,albert_park,sauber,diniz,Transmission,-1,12
+1999,albert_park,minardi,gene,Collision,-1,13
+1999,albert_park,prost,trulli,Collision,-1,14
+1999,albert_park,prost,panis,Wheel,-1,15
+1999,albert_park,mclaren,hakkinen,Throttle,-1,16
+1999,albert_park,williams,zanardi,Spun off,-1,17
+1999,albert_park,mclaren,coulthard,Hydraulics,-1,18
+1999,albert_park,bar,villeneuve,Rear wing,-1,19
+1999,albert_park,jordan,damon_hill,Collision,-1,20
+1999,albert_park,sauber,alesi,Gearbox,-1,21
+1999,albert_park,stewart,herbert,Fire,-1,22

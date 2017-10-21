@@ -1,0 +1,24 @@
+2010,shanghai,mclaren,button,Finished,6402163,1
+2010,shanghai,mclaren,hamilton,Finished,6403693,2
+2010,shanghai,mercedes,rosberg,Finished,6411647,3
+2010,shanghai,ferrari,alonso,Finished,6414032,4
+2010,shanghai,renault,kubica,Finished,6424376,5
+2010,shanghai,red_bull,vettel,Finished,6435473,6
+2010,shanghai,renault,petrov,Finished,6449763,7
+2010,shanghai,red_bull,webber,Finished,6454335,8
+2010,shanghai,ferrari,massa,Finished,6459959,9
+2010,shanghai,mercedes,michael_schumacher,Finished,6463912,10
+2010,shanghai,force_india,sutil,Finished,6465037,11
+2010,shanghai,williams,barrichello,Finished,6465828,12
+2010,shanghai,toro_rosso,alguersuari,Finished,6473579,13
+2010,shanghai,lotus_racing,kovalainen,+1 Lap,-1,14
+2010,shanghai,williams,hulkenberg,+1 Lap,-1,15
+2010,shanghai,hrt,bruno_senna,+2 Laps,-1,16
+2010,shanghai,hrt,chandhok,+4 Laps,-1,17
+2010,shanghai,lotus_racing,trulli,Hydraulics,-1,18
+2010,shanghai,virgin,grassi,Clutch,-1,19
+2010,shanghai,sauber,rosa,Technical,-1,20
+2010,shanghai,toro_rosso,buemi,Accident,-1,21
+2010,shanghai,sauber,kobayashi,Accident,-1,22
+2010,shanghai,force_india,liuzzi,Accident,-1,23
+2010,shanghai,virgin,glock,Engine,-1,24

@@ -1,0 +1,22 @@
+1996,interlagos,williams,damon_hill,Finished,6592976,1
+1996,interlagos,benetton,alesi,Finished,6610958,2
+1996,interlagos,ferrari,michael_schumacher,+1 Lap,-1,3
+1996,interlagos,mclaren,hakkinen,+1 Lap,-1,4
+1996,interlagos,tyrrell,salo,+1 Lap,-1,5
+1996,interlagos,ligier,panis,+1 Lap,-1,6
+1996,interlagos,ferrari,irvine,+1 Lap,-1,7
+1996,interlagos,ligier,diniz,+2 Laps,-1,8
+1996,interlagos,tyrrell,katayama,+2 Laps,-1,9
+1996,interlagos,minardi,lamy,+3 Laps,-1,10
+1996,interlagos,forti,badoer,+4 Laps,-1,11
+1996,interlagos,jordan,brundle,Spun off,-1,12
+1996,interlagos,jordan,barrichello,Spun off,-1,13
+1996,interlagos,sauber,frentzen,Engine,-1,14
+1996,interlagos,mclaren,coulthard,Spun off,-1,15
+1996,interlagos,sauber,herbert,Engine,-1,16
+1996,interlagos,williams,villeneuve,Spun off,-1,17
+1996,interlagos,benetton,berger,Hydraulics,-1,18
+1996,interlagos,forti,montermini,Spun off,-1,19
+1996,interlagos,footwork,rosset,Spun off,-1,20
+1996,interlagos,footwork,verstappen,Engine,-1,21
+1996,interlagos,minardi,marques,Spun off,-1,22

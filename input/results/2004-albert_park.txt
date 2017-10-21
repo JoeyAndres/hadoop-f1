@@ -1,0 +1,20 @@
+2004,albert_park,ferrari,michael_schumacher,Finished,5055757,1
+2004,albert_park,ferrari,barrichello,Finished,5069362,2
+2004,albert_park,renault,alonso,Finished,5090430,3
+2004,albert_park,williams,ralf_schumacher,Finished,5116180,4
+2004,albert_park,williams,montoya,Finished,5124293,5
+2004,albert_park,bar,button,Finished,5126355,6
+2004,albert_park,renault,trulli,+1 Lap,-1,7
+2004,albert_park,mclaren,coulthard,+1 Lap,-1,8
+2004,albert_park,bar,sato,+1 Lap,-1,9
+2004,albert_park,sauber,fisichella,+1 Lap,-1,10
+2004,albert_park,jaguar,klien,+2 Laps,-1,11
+2004,albert_park,toyota,matta,+2 Laps,-1,12
+2004,albert_park,toyota,panis,+2 Laps,-1,13
+2004,albert_park,jordan,pantano,+3 Laps,-1,14
+2004,albert_park,sauber,massa,Engine,-1,15
+2004,albert_park,jordan,heidfeld,Transmission,-1,16
+2004,albert_park,minardi,bruni,Not classified,-1,17
+2004,albert_park,jaguar,webber,Transmission,-1,18
+2004,albert_park,minardi,baumgartner,Electrical,-1,19
+2004,albert_park,mclaren,raikkonen,Engine,-1,20

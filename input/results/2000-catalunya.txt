@@ -1,0 +1,22 @@
+2000,catalunya,mclaren,hakkinen,Finished,5635390,1
+2000,catalunya,mclaren,coulthard,Finished,5651456,2
+2000,catalunya,ferrari,barrichello,Finished,5664502,3
+2000,catalunya,williams,ralf_schumacher,Finished,5672701,4
+2000,catalunya,ferrari,michael_schumacher,Finished,5683373,5
+2000,catalunya,jordan,frentzen,Finished,5717315,6
+2000,catalunya,sauber,salo,+1 Lap,-1,7
+2000,catalunya,bar,zonta,+1 Lap,-1,8
+2000,catalunya,benetton,fisichella,+1 Lap,-1,9
+2000,catalunya,benetton,wurz,+1 Lap,-1,10
+2000,catalunya,jaguar,irvine,+1 Lap,-1,11
+2000,catalunya,jordan,trulli,+1 Lap,-1,12
+2000,catalunya,jaguar,herbert,+1 Lap,-1,13
+2000,catalunya,minardi,gene,+2 Laps,-1,14
+2000,catalunya,minardi,mazzacane,+2 Laps,-1,15
+2000,catalunya,prost,heidfeld,+3 Laps,-1,16
+2000,catalunya,williams,button,Engine,-1,17
+2000,catalunya,arrows,verstappen,Gearbox,-1,18
+2000,catalunya,bar,villeneuve,Hydraulics,-1,19
+2000,catalunya,prost,alesi,Collision,-1,20
+2000,catalunya,arrows,rosa,Collision,-1,21
+2000,catalunya,sauber,diniz,Spun off,-1,22

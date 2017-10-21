@@ -1,0 +1,27 @@
+1979,jarama,ligier,depailler,Finished,5951840,1
+1979,jarama,team_lotus,reutemann,Finished,5972780,2
+1979,jarama,team_lotus,mario_andretti,Finished,5979150,3
+1979,jarama,ferrari,scheckter,Finished,5980520,4
+1979,jarama,tyrrell,jarier,Finished,5982230,5
+1979,jarama,tyrrell,pironi,Finished,6000270,6
+1979,jarama,ferrari,gilles_villeneuve,Finished,6004150,7
+1979,jarama,arrows,mass,Finished,6026680,8
+1979,jarama,renault,arnoux,+1 Lap,-1,9
+1979,jarama,arrows,patrese,+1 Lap,-1,10
+1979,jarama,fittipaldi,emerson_fittipaldi,+1 Lap,-1,11
+1979,jarama,shadow,lammers,+2 Laps,-1,12
+1979,jarama,mclaren,tambay,+3 Laps,-1,13
+1979,jarama,ats,stuck,+6 Laps,-1,14
+1979,jarama,brabham-alfa_romeo,lauda,Water leak,-1,15
+1979,jarama,team_lotus,rebaque,Engine,-1,16
+1979,jarama,williams,jones,Gearbox,-1,17
+1979,jarama,shadow,angelis,Engine,-1,18
+1979,jarama,williams,regazzoni,Engine,-1,19
+1979,jarama,wolf,hunt,Brakes,-1,20
+1979,jarama,renault,jabouille,Turbo,-1,21
+1979,jarama,mclaren,watson,Engine,-1,22
+1979,jarama,ligier,laffite,Engine,-1,23
+1979,jarama,brabham-alfa_romeo,piquet,Injection,-1,24
+1979,jarama,ensign,daly,Did not qualify,-1,25
+1979,jarama,merzario,merzario,Did not qualify,-1,26
+1979,jarama,kauhsen,brancatelli,Did not qualify,-1,27

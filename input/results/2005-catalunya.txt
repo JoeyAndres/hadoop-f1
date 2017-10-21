@@ -1,0 +1,18 @@
+2005,catalunya,mclaren,raikkonen,Finished,5236830,1
+2005,catalunya,renault,alonso,Finished,5264482,2
+2005,catalunya,toyota,trulli,Finished,5282777,3
+2005,catalunya,toyota,ralf_schumacher,Finished,5283549,4
+2005,catalunya,renault,fisichella,Finished,5294766,5
+2005,catalunya,williams,webber,Finished,5305372,6
+2005,catalunya,mclaren,montoya,+1 Lap,-1,7
+2005,catalunya,red_bull,coulthard,+1 Lap,-1,8
+2005,catalunya,ferrari,barrichello,+1 Lap,-1,9
+2005,catalunya,williams,heidfeld,+1 Lap,-1,10
+2005,catalunya,sauber,massa,Wheel rim,-1,11
+2005,catalunya,jordan,monteiro,+3 Laps,-1,12
+2005,catalunya,jordan,karthikeyan,+3 Laps,-1,13
+2005,catalunya,sauber,villeneuve,Engine,-1,14
+2005,catalunya,ferrari,michael_schumacher,Puncture,-1,15
+2005,catalunya,minardi,albers,Gearbox,-1,16
+2005,catalunya,minardi,friesacher,Spun off,-1,17
+2005,catalunya,red_bull,liuzzi,Spun off,-1,18

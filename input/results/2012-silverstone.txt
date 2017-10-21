@@ -1,0 +1,24 @@
+2012,silverstone,red_bull,webber,Finished,5111288,1
+2012,silverstone,ferrari,alonso,Finished,5114348,2
+2012,silverstone,red_bull,vettel,Finished,5116124,3
+2012,silverstone,ferrari,massa,Finished,5120807,4
+2012,silverstone,lotus_f1,raikkonen,Finished,5121602,5
+2012,silverstone,lotus_f1,grosjean,Finished,5128389,6
+2012,silverstone,mercedes,michael_schumacher,Finished,5140441,7
+2012,silverstone,mclaren,hamilton,Finished,5147751,8
+2012,silverstone,williams,bruno_senna,Finished,5154635,9
+2012,silverstone,mclaren,button,Finished,5155732,10
+2012,silverstone,sauber,kobayashi,Finished,5156658,11
+2012,silverstone,force_india,hulkenberg,Finished,5159144,12
+2012,silverstone,toro_rosso,ricciardo,Finished,5162529,13
+2012,silverstone,toro_rosso,vergne,Finished,5164601,14
+2012,silverstone,mercedes,rosberg,Finished,5168682,15
+2012,silverstone,williams,maldonado,+1 Lap,-1,16
+2012,silverstone,caterham,kovalainen,+1 Lap,-1,17
+2012,silverstone,marussia,glock,+1 Lap,-1,18
+2012,silverstone,marussia,pic,+1 Lap,-1,19
+2012,silverstone,hrt,rosa,+2 Laps,-1,20
+2012,silverstone,hrt,karthikeyan,+2 Laps,-1,21
+2012,silverstone,sauber,perez,Collision,-1,22
+2012,silverstone,force_india,resta,Collision,-1,23
+2012,silverstone,caterham,petrov,Engine,-1,24

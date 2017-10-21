@@ -1,0 +1,20 @@
+2003,suzuka,ferrari,barrichello,Finished,5111743,1
+2003,suzuka,mclaren,raikkonen,Finished,5122828,2
+2003,suzuka,mclaren,coulthard,Finished,5123357,3
+2003,suzuka,bar,button,Finished,5144849,4
+2003,suzuka,renault,trulli,Finished,5146012,5
+2003,suzuka,bar,sato,Finished,5163435,6
+2003,suzuka,toyota,matta,Finished,5168537,7
+2003,suzuka,ferrari,michael_schumacher,Finished,5171230,8
+2003,suzuka,sauber,heidfeld,Finished,5171902,9
+2003,suzuka,toyota,panis,Finished,5173587,10
+2003,suzuka,jaguar,webber,Finished,5182748,11
+2003,suzuka,williams,ralf_schumacher,+1 Lap,-1,12
+2003,suzuka,jaguar,wilson,+1 Lap,-1,13
+2003,suzuka,jordan,firman,+2 Laps,-1,14
+2003,suzuka,minardi,verstappen,+2 Laps,-1,15
+2003,suzuka,minardi,kiesa,+3 Laps,-1,16
+2003,suzuka,jordan,fisichella,Out of fuel,-1,17
+2003,suzuka,renault,alonso,Engine,-1,18
+2003,suzuka,sauber,frentzen,Engine,-1,19
+2003,suzuka,williams,montoya,Hydraulics,-1,20

@@ -1,0 +1,29 @@
+1983,ricard,renault,prost,Finished,5653913,1
+1983,ricard,brabham,piquet,Finished,5683633,2
+1983,ricard,renault,cheever,Finished,5694145,3
+1983,ricard,ferrari,tambay,Finished,5720793,4
+1983,ricard,williams,keke_rosberg,+1 Lap,-1,5
+1983,ricard,williams,laffite,+1 Lap,-1,6
+1983,ricard,ferrari,arnoux,+1 Lap,-1,7
+1983,ricard,tyrrell,alboreto,+1 Lap,-1,8
+1983,ricard,ligier,jarier,+1 Lap,-1,9
+1983,ricard,arrows,surer,+1 Lap,-1,10
+1983,ricard,theodore,cecotto,+2 Laps,-1,11
+1983,ricard,alfa,cesaris,+4 Laps,-1,12
+1983,ricard,toleman,giacomelli,Gearbox,-1,13
+1983,ricard,ligier,boesel,Engine,-1,14
+1983,ricard,osella,corrado_fabi,Engine,-1,15
+1983,ricard,ats,manfred_winkelhock,Turbo,-1,16
+1983,ricard,mclaren,lauda,Wheel bearing,-1,17
+1983,ricard,alfa,baldi,Spun off,-1,18
+1983,ricard,arrows,serra,Gearbox,-1,19
+1983,ricard,theodore,guerrero,Engine,-1,20
+1983,ricard,tyrrell,sullivan,Clutch,-1,21
+1983,ricard,team_lotus,angelis,Electrical,-1,22
+1983,ricard,brabham,patrese,Water leak,-1,23
+1983,ricard,toleman,warwick,Engine,-1,24
+1983,ricard,team_lotus,mansell,Physical,-1,25
+1983,ricard,mclaren,watson,Engine,-1,26
+1983,ricard,ram,salazar,Did not qualify,-1,27
+1983,ricard,osella,ghinzani,Did not qualify,-1,28
+1983,ricard,ram,schlesser,Did not qualify,-1,29

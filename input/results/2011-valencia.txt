@@ -1,0 +1,24 @@
+2011,valencia,red_bull,vettel,Finished,5976169,1
+2011,valencia,ferrari,alonso,Finished,5987060,2
+2011,valencia,red_bull,webber,Finished,6003424,3
+2011,valencia,mclaren,hamilton,Finished,6022359,4
+2011,valencia,ferrari,massa,Finished,6027874,5
+2011,valencia,mclaren,button,Finished,6036234,6
+2011,valencia,mercedes,rosberg,Finished,6074259,7
+2011,valencia,toro_rosso,alguersuari,+1 Lap,-1,8
+2011,valencia,force_india,sutil,+1 Lap,-1,9
+2011,valencia,renault,heidfeld,+1 Lap,-1,10
+2011,valencia,sauber,perez,+1 Lap,-1,11
+2011,valencia,williams,barrichello,+1 Lap,-1,12
+2011,valencia,toro_rosso,buemi,+1 Lap,-1,13
+2011,valencia,force_india,resta,+1 Lap,-1,14
+2011,valencia,renault,petrov,+1 Lap,-1,15
+2011,valencia,sauber,kobayashi,+1 Lap,-1,16
+2011,valencia,mercedes,michael_schumacher,+1 Lap,-1,17
+2011,valencia,williams,maldonado,+1 Lap,-1,18
+2011,valencia,lotus_racing,kovalainen,+2 Laps,-1,19
+2011,valencia,lotus_racing,trulli,+2 Laps,-1,20
+2011,valencia,virgin,glock,+2 Laps,-1,21
+2011,valencia,virgin,ambrosio,+2 Laps,-1,22
+2011,valencia,hrt,liuzzi,+3 Laps,-1,23
+2011,valencia,hrt,karthikeyan,+3 Laps,-1,24

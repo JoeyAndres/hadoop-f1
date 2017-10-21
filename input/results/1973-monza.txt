@@ -1,0 +1,25 @@
+1973,monza,team_lotus,peterson,Finished,5357000,1
+1973,monza,team_lotus,emerson_fittipaldi,Finished,5357800,2
+1973,monza,mclaren,revson,Finished,5385800,3
+1973,monza,tyrrell,stewart,Finished,5390200,4
+1973,monza,tyrrell,cevert,Finished,5403200,5
+1973,monza,brabham,reutemann,Finished,5416800,6
+1973,monza,surtees,hailwood,Finished,5445700,7
+1973,monza,ferrari,ickx,+1 Lap,-1,8
+1973,monza,march,purley,+1 Lap,-1,9
+1973,monza,shadow,follmer,+1 Lap,-1,10
+1973,monza,shadow,oliver,+1 Lap,-1,11
+1973,monza,brabham,stommelen,+1 Lap,-1,12
+1973,monza,brm,beltoise,+1 Lap,-1,13
+1973,monza,shadow,hill,+1 Lap,-1,14
+1973,monza,mclaren,hulme,+2 Laps,-1,15
+1973,monza,iso_marlboro,ganley,Not classified,-1,16
+1973,monza,march,beuttler,Gearbox,-1,17
+1973,monza,brm,lauda,Accident,-1,18
+1973,monza,brm,regazzoni,Ignition,-1,19
+1973,monza,surtees,pace,Tyre,-1,20
+1973,monza,iso_marlboro,lennep,Overheating,-1,21
+1973,monza,ensign,opel,Overheating,-1,22
+1973,monza,brabham,wilson_fittipaldi,Brakes,-1,23
+1973,monza,ferrari,merzario,Suspension,-1,24
+1973,monza,march,hunt,Accident,-1,25

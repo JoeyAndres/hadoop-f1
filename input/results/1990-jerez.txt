@@ -1,0 +1,30 @@
+1990,jerez,ferrari,prost,Finished,6481461,1
+1990,jerez,ferrari,mansell,Finished,6503525,2
+1990,jerez,benetton,nannini,Finished,6516335,3
+1990,jerez,williams,boutsen,Finished,6524757,4
+1990,jerez,williams,patrese,Finished,6538991,5
+1990,jerez,larrousse,suzuki,Finished,6545189,6
+1990,jerez,ligier,larini,+1 Lap,-1,7
+1990,jerez,leyton,gugelmin,+1 Lap,-1,8
+1990,jerez,ags,dalmas,+1 Lap,-1,9
+1990,jerez,arrows,alboreto,+2 Laps,-1,10
+1990,jerez,team_lotus,warwick,Gearbox,-1,11
+1990,jerez,leyton,capelli,Physical,-1,12
+1990,jerez,mclaren,berger,Collision,-1,13
+1990,jerez,mclaren,senna,Radiator,-1,14
+1990,jerez,benetton,piquet,Battery,-1,15
+1990,jerez,dallara,cesaris,Engine,-1,16
+1990,jerez,osella,grouillard,Wheel bearing,-1,17
+1990,jerez,minardi,martini,Spun off,-1,18
+1990,jerez,ligier,alliot,Spun off,-1,19
+1990,jerez,larrousse,bernard,Gearbox,-1,20
+1990,jerez,tyrrell,satoru_nakajima,Spun off,-1,21
+1990,jerez,ags,tarquini,Engine,-1,22
+1990,jerez,brabham,modena,Collision,-1,23
+1990,jerez,tyrrell,alesi,Spun off,-1,24
+1990,jerez,dallara,pirro,Throttle,-1,25
+1990,jerez,team_lotus,donnelly,Injured,-1,26
+1990,jerez,brabham,brabham,Did not qualify,-1,27
+1990,jerez,minardi,barilla,Did not qualify,-1,28
+1990,jerez,arrows,schneider,Did not qualify,-1,29
+1990,jerez,coloni,gachot,Did not qualify,-1,30

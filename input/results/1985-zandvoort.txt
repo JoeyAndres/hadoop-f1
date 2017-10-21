@@ -1,0 +1,26 @@
+1985,zandvoort,mclaren,lauda,Finished,5549263,1
+1985,zandvoort,mclaren,prost,Finished,5549495,2
+1985,zandvoort,team_lotus,senna,Finished,5597754,3
+1985,zandvoort,ferrari,alboreto,Finished,5598100,4
+1985,zandvoort,team_lotus,angelis,+1 Lap,-1,5
+1985,zandvoort,williams,mansell,+1 Lap,-1,6
+1985,zandvoort,tyrrell,brundle,+1 Lap,-1,7
+1985,zandvoort,brabham,piquet,+1 Lap,-1,8
+1985,zandvoort,arrows,berger,+2 Laps,-1,9
+1985,zandvoort,brabham,surer,Exhaust,-1,10
+1985,zandvoort,osella,rothengatter,Not classified,-1,11
+1985,zandvoort,arrows,boutsen,Suspension,-1,12
+1985,zandvoort,ram,alliot,Engine,-1,13
+1985,zandvoort,tyrrell,bellof,Engine,-1,14
+1985,zandvoort,renault,warwick,Gearbox,-1,15
+1985,zandvoort,ligier,cesaris,Turbo,-1,16
+1985,zandvoort,renault,tambay,Transmission,-1,17
+1985,zandvoort,williams,keke_rosberg,Engine,-1,18
+1985,zandvoort,toleman,fabi,Wheel bearing,-1,19
+1985,zandvoort,ligier,laffite,Electrical,-1,20
+1985,zandvoort,zakspeed,palmer,Oil pressure,-1,21
+1985,zandvoort,toleman,ghinzani,Engine,-1,22
+1985,zandvoort,ferrari,johansson,Engine,-1,23
+1985,zandvoort,minardi,martini,Accident,-1,24
+1985,zandvoort,alfa,cheever,Turbo,-1,25
+1985,zandvoort,alfa,patrese,Turbo,-1,26

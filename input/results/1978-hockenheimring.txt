@@ -1,0 +1,30 @@
+1978,hockenheimring,team_lotus,mario_andretti,Finished,5280900,1
+1978,hockenheimring,wolf,scheckter,Finished,5296250,2
+1978,hockenheimring,ligier,laffite,Finished,5308910,3
+1978,hockenheimring,fittipaldi,emerson_fittipaldi,Finished,5317780,4
+1978,hockenheimring,tyrrell,pironi,Finished,5338160,5
+1978,hockenheimring,team_lotus,rebaque,Finished,5378760,6
+1978,hockenheimring,brabham,watson,Finished,5380430,7
+1978,hockenheimring,ferrari,gilles_villeneuve,Finished,5397770,8
+1978,hockenheimring,arrows,patrese,+1 Lap,-1,9
+1978,hockenheimring,wolf,keke_rosberg,+3 Laps,-1,10
+1978,hockenheimring,ensign,ertl,Engine,-1,11
+1978,hockenheimring,arrows,stommelen,Disqualified,-1,12
+1978,hockenheimring,team_lotus,peterson,Gearbox,-1,13
+1978,hockenheimring,mclaren,hunt,Disqualified,-1,14
+1978,hockenheimring,williams,jones,Fuel system,-1,15
+1978,hockenheimring,ensign,piquet,Engine,-1,16
+1978,hockenheimring,surtees,brambilla,Fuel system,-1,17
+1978,hockenheimring,mclaren,tambay,Accident,-1,18
+1978,hockenheimring,ferrari,reutemann,Fuel system,-1,19
+1978,hockenheimring,brabham,lauda,Engine,-1,20
+1978,hockenheimring,renault,jabouille,Engine,-1,21
+1978,hockenheimring,ats,mass,Accident,-1,22
+1978,hockenheimring,shadow,stuck,Accident,-1,23
+1978,hockenheimring,tyrrell,depailler,Accident,-1,24
+1978,hockenheimring,shadow,regazzoni,Did not qualify,-1,25
+1978,hockenheimring,ats,jarier,Did not qualify,-1,26
+1978,hockenheimring,surtees,keegan,Did not qualify,-1,27
+1978,hockenheimring,merzario,merzario,Did not qualify,-1,28
+1978,hockenheimring,martini,arnoux,Did not prequalify,-1,29
+1978,hockenheimring,mclaren,lunger,Did not prequalify,-1,30

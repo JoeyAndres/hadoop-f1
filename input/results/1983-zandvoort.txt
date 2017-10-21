@@ -1,0 +1,29 @@
+1983,zandvoort,ferrari,arnoux,Finished,5921950,1
+1983,zandvoort,ferrari,tambay,Finished,5942789,2
+1983,zandvoort,mclaren,watson,Finished,5965691,3
+1983,zandvoort,toleman,warwick,Finished,5998789,4
+1983,zandvoort,alfa,baldi,Finished,6006242,5
+1983,zandvoort,tyrrell,alboreto,+1 Lap,-1,6
+1983,zandvoort,spirit,johansson,+2 Laps,-1,7
+1983,zandvoort,arrows,surer,+2 Laps,-1,8
+1983,zandvoort,brabham,patrese,+2 Laps,-1,9
+1983,zandvoort,ligier,boesel,+2 Laps,-1,10
+1983,zandvoort,osella,corrado_fabi,Engine,-1,11
+1983,zandvoort,theodore,guerrero,+4 Laps,-1,12
+1983,zandvoort,toleman,giacomelli,Spun off,-1,13
+1983,zandvoort,arrows,boutsen,Engine,-1,14
+1983,zandvoort,williams,keke_rosberg,Ignition,-1,15
+1983,zandvoort,ats,manfred_winkelhock,Disqualified,-1,16
+1983,zandvoort,brabham,piquet,Collision,-1,17
+1983,zandvoort,renault,prost,Spun off,-1,18
+1983,zandvoort,renault,cheever,Electrical,-1,19
+1983,zandvoort,williams,laffite,Handling,-1,20
+1983,zandvoort,team_lotus,mansell,Spun off,-1,21
+1983,zandvoort,mclaren,lauda,Brakes,-1,22
+1983,zandvoort,tyrrell,sullivan,Engine,-1,23
+1983,zandvoort,team_lotus,angelis,Electrical,-1,24
+1983,zandvoort,alfa,cesaris,Engine,-1,25
+1983,zandvoort,ligier,jarier,Suspension,-1,26
+1983,zandvoort,osella,ghinzani,Did not qualify,-1,27
+1983,zandvoort,theodore,cecotto,Did not qualify,-1,28
+1983,zandvoort,ram,acheson,Did not qualify,-1,29

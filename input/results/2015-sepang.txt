@@ -1,0 +1,20 @@
+2015,sepang,ferrari,vettel,Finished,6065793,1
+2015,sepang,mercedes,hamilton,Finished,6074362,2
+2015,sepang,mercedes,rosberg,Finished,6078103,3
+2015,sepang,ferrari,raikkonen,Finished,6119615,4
+2015,sepang,williams,bottas,Finished,6136202,5
+2015,sepang,williams,massa,Finished,6139379,6
+2015,sepang,toro_rosso,max_verstappen,Finished,6163555,7
+2015,sepang,toro_rosso,sainz,+1 Lap,-1,8
+2015,sepang,red_bull,kvyat,+1 Lap,-1,9
+2015,sepang,red_bull,ricciardo,+1 Lap,-1,10
+2015,sepang,lotus_f1,grosjean,+1 Lap,-1,11
+2015,sepang,sauber,nasr,+1 Lap,-1,12
+2015,sepang,force_india,perez,+1 Lap,-1,13
+2015,sepang,force_india,hulkenberg,+1 Lap,-1,14
+2015,sepang,manor,merhi,+3 Laps,-1,15
+2015,sepang,lotus_f1,maldonado,Retired,-1,16
+2015,sepang,mclaren,button,Turbo,-1,17
+2015,sepang,mclaren,alonso,ERS,-1,18
+2015,sepang,sauber,ericsson,Spun off,-1,19
+2015,sepang,manor,stevens,Fuel system,-1,20

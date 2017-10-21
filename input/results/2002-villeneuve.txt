@@ -1,0 +1,22 @@
+2002,villeneuve,ferrari,michael_schumacher,Finished,5616111,1
+2002,villeneuve,mclaren,coulthard,Finished,5617243,2
+2002,villeneuve,ferrari,barrichello,Finished,5623193,3
+2002,villeneuve,mclaren,raikkonen,Finished,5653674,4
+2002,villeneuve,jordan,fisichella,Finished,5658923,5
+2002,villeneuve,renault,trulli,Finished,5665058,6
+2002,villeneuve,williams,ralf_schumacher,Engine,-1,7
+2002,villeneuve,bar,panis,+1 Lap,-1,8
+2002,villeneuve,sauber,massa,+1 Lap,-1,9
+2002,villeneuve,jordan,sato,+1 Lap,-1,10
+2002,villeneuve,minardi,webber,+1 Lap,-1,11
+2002,villeneuve,sauber,heidfeld,+1 Lap,-1,12
+2002,villeneuve,arrows,frentzen,+1 Lap,-1,13
+2002,villeneuve,minardi,yoong,+2 Laps,-1,14
+2002,villeneuve,renault,button,Gearbox,-1,15
+2002,villeneuve,williams,montoya,Engine,-1,16
+2002,villeneuve,toyota,mcnish,Spun off,-1,17
+2002,villeneuve,jaguar,irvine,Overheating,-1,18
+2002,villeneuve,toyota,salo,Brakes,-1,19
+2002,villeneuve,jaguar,rosa,Gearbox,-1,20
+2002,villeneuve,arrows,bernoldi,Suspension,-1,21
+2002,villeneuve,bar,villeneuve,Oil pressure,-1,22

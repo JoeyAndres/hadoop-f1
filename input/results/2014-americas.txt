@@ -1,0 +1,18 @@
+2014,americas,mercedes,hamilton,Finished,6004785,1
+2014,americas,mercedes,rosberg,Finished,6009099,2
+2014,americas,red_bull,ricciardo,Finished,6030345,3
+2014,americas,williams,massa,Finished,6031709,4
+2014,americas,williams,bottas,Finished,6035777,5
+2014,americas,ferrari,alonso,Finished,6100016,6
+2014,americas,red_bull,vettel,Finished,6100519,7
+2014,americas,mclaren,kevin_magnussen,Finished,6105467,8
+2014,americas,lotus_f1,maldonado,Finished,6112655,9
+2014,americas,toro_rosso,vergne,Finished,6113648,10
+2014,americas,lotus_f1,grosjean,+1 Lap,-1,11
+2014,americas,mclaren,button,+1 Lap,-1,12
+2014,americas,ferrari,raikkonen,+1 Lap,-1,13
+2014,americas,sauber,gutierrez,+1 Lap,-1,14
+2014,americas,toro_rosso,kvyat,+1 Lap,-1,15
+2014,americas,force_india,hulkenberg,Engine,-1,16
+2014,americas,force_india,perez,Collision damage,-1,17
+2014,americas,sauber,sutil,Collision,-1,18

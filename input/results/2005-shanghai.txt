@@ -1,0 +1,20 @@
+2005,shanghai,renault,alonso,Finished,5993618,1
+2005,shanghai,mclaren,raikkonen,Finished,5997618,2
+2005,shanghai,toyota,ralf_schumacher,Finished,6018918,3
+2005,shanghai,renault,fisichella,Finished,6019718,4
+2005,shanghai,red_bull,klien,Finished,6025418,5
+2005,shanghai,sauber,massa,Finished,6030018,6
+2005,shanghai,williams,webber,Finished,6030418,7
+2005,shanghai,bar,button,Finished,6034818,8
+2005,shanghai,red_bull,coulthard,Finished,6037818,9
+2005,shanghai,sauber,villeneuve,Finished,6053518,10
+2005,shanghai,jordan,monteiro,Finished,6078218,11
+2005,shanghai,ferrari,barrichello,Finished,6086418,12
+2005,shanghai,williams,pizzonia,Tyre puncture,-1,13
+2005,shanghai,minardi,doornbos,Out of fuel,-1,14
+2005,shanghai,toyota,trulli,+1 Lap,-1,15
+2005,shanghai,minardi,albers,Wheel nut,-1,16
+2005,shanghai,bar,sato,Gearbox,-1,17
+2005,shanghai,jordan,karthikeyan,Accident,-1,18
+2005,shanghai,mclaren,montoya,Engine,-1,19
+2005,shanghai,ferrari,michael_schumacher,Spun off,-1,20

@@ -1,0 +1,23 @@
+1977,fuji,mclaren,hunt,Finished,5511680,1
+1977,fuji,ferrari,reutemann,Finished,5574130,2
+1977,fuji,tyrrell,depailler,Finished,5578070,3
+1977,fuji,shadow,jones,Finished,5578290,4
+1977,fuji,ligier,laffite,Out of fuel,-1,5
+1977,fuji,shadow,patrese,+1 Lap,-1,6
+1977,fuji,brabham,stuck,+1 Lap,-1,7
+1977,fuji,surtees,brambilla,+2 Laps,-1,8
+1977,fuji,tyrrell,takahashi,+2 Laps,-1,9
+1977,fuji,wolf,scheckter,+2 Laps,-1,10
+1977,fuji,kojima,hoshino,+2 Laps,-1,11
+1977,fuji,march,ribeiro,+4 Laps,-1,12
+1977,fuji,team_lotus,nilsson,Gearbox,-1,13
+1977,fuji,ensign,regazzoni,Engine,-1,14
+1977,fuji,brabham,watson,Gearbox,-1,15
+1977,fuji,mclaren,mass,Engine,-1,16
+1977,fuji,ensign,tambay,Engine,-1,17
+1977,fuji,tyrrell,peterson,Accident,-1,18
+1977,fuji,ferrari,gilles_villeneuve,Accident,-1,19
+1977,fuji,ligier,jarier,Engine,-1,20
+1977,fuji,team_lotus,mario_andretti,Collision,-1,21
+1977,fuji,kojima,takahara,Collision,-1,22
+1977,fuji,surtees,binder,Collision,-1,23

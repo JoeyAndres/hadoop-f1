@@ -1,0 +1,30 @@
+1988,jerez,mclaren,prost,Finished,6523851,1
+1988,jerez,williams,mansell,Finished,6550083,2
+1988,jerez,benetton,nannini,Finished,6559297,3
+1988,jerez,mclaren,senna,Finished,6570561,4
+1988,jerez,williams,patrese,Finished,6571281,5
+1988,jerez,ferrari,berger,Finished,6575664,6
+1988,jerez,march,gugelmin,Finished,6599815,7
+1988,jerez,team_lotus,piquet,Finished,6601160,8
+1988,jerez,benetton,boutsen,Finished,6601506,9
+1988,jerez,dallara,caffi,+1 Lap,-1,10
+1988,jerez,larrousse,dalmas,+1 Lap,-1,11
+1988,jerez,minardi,sala,+2 Laps,-1,12
+1988,jerez,eurobrun,modena,+2 Laps,-1,13
+1988,jerez,larrousse,alliot,+3 Laps,-1,14
+1988,jerez,ligier,johansson,Wheel,-1,15
+1988,jerez,arrows,cheever,Chassis,-1,16
+1988,jerez,march,capelli,Engine,-1,17
+1988,jerez,arrows,warwick,Chassis,-1,18
+1988,jerez,rial,cesaris,Engine,-1,19
+1988,jerez,ags,streiff,Engine,-1,20
+1988,jerez,ferrari,alboreto,Engine,-1,21
+1988,jerez,minardi,martini,Gearbox,-1,22
+1988,jerez,team_lotus,satoru_nakajima,Spun off,-1,23
+1988,jerez,osella,larini,Suspension,-1,24
+1988,jerez,tyrrell,palmer,Chassis,-1,25
+1988,jerez,ligier,arnoux,Throttle,-1,26
+1988,jerez,zakspeed,schneider,Did not qualify,-1,27
+1988,jerez,eurobrun,larrauri,Did not qualify,-1,28
+1988,jerez,tyrrell,bailey,Did not qualify,-1,29
+1988,jerez,zakspeed,ghinzani,Did not qualify,-1,30

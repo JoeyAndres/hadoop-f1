@@ -1,0 +1,24 @@
+2010,yeongam,ferrari,alonso,Finished,10100810,1
+2010,yeongam,mclaren,hamilton,Finished,10115809,2
+2010,yeongam,ferrari,massa,Finished,10131678,3
+2010,yeongam,mercedes,michael_schumacher,Finished,10140498,4
+2010,yeongam,renault,kubica,Finished,10148544,5
+2010,yeongam,force_india,liuzzi,Finished,10154381,6
+2010,yeongam,williams,barrichello,Finished,10170067,7
+2010,yeongam,sauber,kobayashi,Finished,10178699,8
+2010,yeongam,sauber,heidfeld,Finished,10180917,9
+2010,yeongam,williams,hulkenberg,Finished,10181661,10
+2010,yeongam,toro_rosso,alguersuari,Finished,10184956,11
+2010,yeongam,mclaren,button,Finished,10190749,12
+2010,yeongam,lotus_racing,kovalainen,+1 Lap,-1,13
+2010,yeongam,hrt,bruno_senna,+2 Laps,-1,14
+2010,yeongam,hrt,yamamoto,+2 Laps,-1,15
+2010,yeongam,force_india,sutil,Collision,-1,16
+2010,yeongam,red_bull,vettel,Engine,-1,17
+2010,yeongam,renault,petrov,Accident,-1,18
+2010,yeongam,virgin,glock,Collision,-1,19
+2010,yeongam,toro_rosso,buemi,Collision,-1,20
+2010,yeongam,virgin,grassi,Accident,-1,21
+2010,yeongam,lotus_racing,trulli,Hydraulics,-1,22
+2010,yeongam,red_bull,webber,Accident,-1,23
+2010,yeongam,mercedes,rosberg,Collision,-1,24

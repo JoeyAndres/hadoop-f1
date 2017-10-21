@@ -1,0 +1,26 @@
+1962,spa,lotus-climax,clark,Finished,7652300,1
+1962,spa,brm,hill,Finished,7696400,2
+1962,spa,ferrari,phil_hill,Finished,7778800,3
+1962,spa,ferrari,ricardo_rodriguez,Finished,7778900,4
+1962,spa,lola,surtees,+1 Lap,-1,5
+1962,spa,lotus-climax,jack_brabham,+2 Laps,-1,6
+1962,spa,porsche,beaufort,+2 Laps,-1,7
+1962,spa,lotus-climax,trintignant,+2 Laps,-1,8
+1962,spa,lotus-climax,bianchi,+3 Laps,-1,9
+1962,spa,lotus-climax,siffert,+3 Laps,-1,10
+1962,spa,lotus-climax,campbell-jones,+16 Laps,-1,11
+1962,spa,lotus-climax,trevor_taylor,Accident,-1,12
+1962,spa,ferrari,mairesse,Accident,-1,13
+1962,spa,brm,ginther,Gearbox,-1,14
+1962,spa,cooper-climax,maggs,Gearbox,-1,15
+1962,spa,cooper-climax,mclaren,Wheel bearing,-1,16
+1962,spa,lotus-brm,gregory,Withdrew,-1,17
+1962,spa,lotus-climax,ireland,Suspension,-1,18
+1962,spa,ferrari,baghetti,Ignition,-1,19
+1962,spa,lotus-brm,gurney,Withdrew,-1,20
+1962,spa,brm,marsh,Withdrew,-1,21
+1962,spa,brm,lewis,Withdrew,-1,22
+1962,spa,brm,ashmore,Withdrew,-1,23
+1962,spa,lola,salvadori,Withdrew,-1,24
+1962,spa,porsche,schiller,Withdrew,-1,25
+1962,spa,porsche,bonnier,Withdrew,-1,26

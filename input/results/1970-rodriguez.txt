@@ -1,0 +1,18 @@
+1970,rodriguez,ferrari,ickx,Finished,6808300,1
+1970,rodriguez,ferrari,regazzoni,Finished,6832940,2
+1970,rodriguez,mclaren-ford,hulme,Finished,6854270,3
+1970,rodriguez,march,amon,Finished,6855350,4
+1970,rodriguez,matra,beltoise,Finished,6858410,5
+1970,rodriguez,brm,rodriguez,Finished,6893060,6
+1970,rodriguez,brm,oliver,+1 Lap,-1,7
+1970,rodriguez,surtees,surtees,+1 Lap,-1,8
+1970,rodriguez,matra,pescarolo,+4 Laps,-1,9
+1970,rodriguez,team_lotus,wisell,Not classified,-1,10
+1970,rodriguez,brabham,jack_brabham,Engine,-1,11
+1970,rodriguez,tyrrell,stewart,Suspension,-1,12
+1970,rodriguez,mclaren-ford,gethin,Engine,-1,13
+1970,rodriguez,brabham,stommelen,Fuel system,-1,14
+1970,rodriguez,march,cevert,Engine,-1,15
+1970,rodriguez,team_lotus,hill,Overheating,-1,16
+1970,rodriguez,march,siffert,Engine,-1,17
+1970,rodriguez,team_lotus,emerson_fittipaldi,Engine,-1,18

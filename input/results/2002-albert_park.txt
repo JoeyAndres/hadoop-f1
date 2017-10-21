@@ -1,0 +1,22 @@
+2002,albert_park,ferrari,michael_schumacher,Finished,5736792,1
+2002,albert_park,williams,montoya,Finished,5755420,2
+2002,albert_park,mclaren,raikkonen,Finished,5761859,3
+2002,albert_park,jaguar,irvine,+1 Lap,-1,4
+2002,albert_park,minardi,webber,+2 Laps,-1,5
+2002,albert_park,toyota,salo,+2 Laps,-1,6
+2002,albert_park,minardi,yoong,+3 Laps,-1,7
+2002,albert_park,jaguar,rosa,+5 Laps,-1,8
+2002,albert_park,mclaren,coulthard,Gearbox,-1,9
+2002,albert_park,bar,villeneuve,Broken wing,-1,10
+2002,albert_park,arrows,frentzen,Disqualified,-1,11
+2002,albert_park,arrows,bernoldi,Disqualified,-1,12
+2002,albert_park,jordan,sato,Electrical,-1,13
+2002,albert_park,renault,trulli,Spun off,-1,14
+2002,albert_park,ferrari,barrichello,Collision,-1,15
+2002,albert_park,williams,ralf_schumacher,Collision,-1,16
+2002,albert_park,jordan,fisichella,Collision,-1,17
+2002,albert_park,sauber,massa,Collision,-1,18
+2002,albert_park,sauber,heidfeld,Collision,-1,19
+2002,albert_park,renault,button,Collision,-1,20
+2002,albert_park,bar,panis,Collision,-1,21
+2002,albert_park,toyota,mcnish,Collision,-1,22

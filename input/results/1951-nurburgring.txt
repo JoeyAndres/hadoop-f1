@@ -1,0 +1,22 @@
+1951,nurburgring,ferrari,ascari,Finished,12183300,1
+1951,nurburgring,alfa,fangio,Finished,12213800,2
+1951,nurburgring,ferrari,gonzalez,Finished,12462300,3
+1951,nurburgring,ferrari,villoresi,Finished,12533500,4
+1951,nurburgring,ferrari,taruffi,Finished,12652400,5
+1951,nurburgring,ferrari,fischer,+1 Lap,-1,6
+1951,nurburgring,simca,manzon,+1 Lap,-1,7
+1951,nurburgring,lago,rosier,+1 Lap,-1,8
+1951,nurburgring,lago,levegh,+2 Laps,-1,9
+1951,nurburgring,lago,swaters,+2 Laps,-1,10
+1951,nurburgring,lago,claes,+3 Laps,-1,11
+1951,nurburgring,lago,cabantous,Accident,-1,12
+1951,nurburgring,simca,trintignant,Engine,-1,13
+1951,nurburgring,alfa,bonetto,Magneto,-1,14
+1951,nurburgring,lago,duncan_hamilton,Oil pressure,-1,15
+1951,nurburgring,alfa,pietsch,Accident,-1,16
+1951,nurburgring,simca,simon,Engine,-1,17
+1951,nurburgring,alfa,farina,Overheating,-1,18
+1951,nurburgring,lago,etancelin,Gearbox,-1,19
+1951,nurburgring,lago,chiron,Ignition,-1,20
+1951,nurburgring,maserati,branca,Engine,-1,21
+1951,nurburgring,maserati,graffenried,Engine,-1,22

@@ -1,0 +1,24 @@
+2010,valencia,red_bull,vettel,Finished,6029571,1
+2010,valencia,mclaren,hamilton,Finished,6034613,2
+2010,valencia,mclaren,button,Finished,6042229,3
+2010,valencia,williams,barrichello,Finished,6055198,4
+2010,valencia,renault,kubica,Finished,6056693,5
+2010,valencia,force_india,sutil,Finished,6059739,6
+2010,valencia,sauber,kobayashi,Finished,6060536,7
+2010,valencia,ferrari,alonso,Finished,6062380,8
+2010,valencia,toro_rosso,buemi,Finished,6065870,9
+2010,valencia,mercedes,rosberg,Finished,6073953,10
+2010,valencia,ferrari,massa,Finished,6076192,11
+2010,valencia,sauber,rosa,Finished,6076985,12
+2010,valencia,toro_rosso,alguersuari,Finished,6077810,13
+2010,valencia,renault,petrov,Finished,6077858,14
+2010,valencia,mercedes,michael_schumacher,Finished,6078397,15
+2010,valencia,force_india,liuzzi,Finished,6080461,16
+2010,valencia,virgin,grassi,+1 Lap,-1,17
+2010,valencia,hrt,chandhok,+2 Laps,-1,18
+2010,valencia,virgin,glock,+2 Laps,-1,19
+2010,valencia,hrt,bruno_senna,+2 Laps,-1,20
+2010,valencia,lotus_racing,trulli,+4 Laps,-1,21
+2010,valencia,williams,hulkenberg,Exhaust,-1,22
+2010,valencia,lotus_racing,kovalainen,Collision,-1,23
+2010,valencia,red_bull,webber,Collision,-1,24

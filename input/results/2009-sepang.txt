@@ -1,0 +1,20 @@
+2009,sepang,brawn,button,Finished,4252092,1
+2009,sepang,bmw_sauber,heidfeld,Finished,4274814,2
+2009,sepang,toyota,glock,Finished,4275605,3
+2009,sepang,toyota,trulli,Finished,4298265,4
+2009,sepang,brawn,barrichello,Finished,4299452,5
+2009,sepang,red_bull,webber,Finished,4304425,6
+2009,sepang,mclaren,hamilton,Finished,4312825,7
+2009,sepang,williams,rosberg,Finished,4323668,8
+2009,sepang,ferrari,massa,Finished,4329024,9
+2009,sepang,toro_rosso,bourdais,Finished,4354256,10
+2009,sepang,renault,alonso,+1 Lap,-1,11
+2009,sepang,williams,nakajima,+1 Lap,-1,12
+2009,sepang,renault,piquet_jr,+1 Lap,-1,13
+2009,sepang,ferrari,raikkonen,+1 Lap,-1,14
+2009,sepang,red_bull,vettel,Spun off,-1,15
+2009,sepang,toro_rosso,buemi,Spun off,-1,16
+2009,sepang,force_india,sutil,+1 Lap,-1,17
+2009,sepang,force_india,fisichella,Spun off,-1,18
+2009,sepang,bmw_sauber,kubica,Engine,-1,19
+2009,sepang,mclaren,kovalainen,Spun off,-1,20

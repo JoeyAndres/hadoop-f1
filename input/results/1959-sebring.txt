@@ -1,0 +1,19 @@
+1959,sebring,cooper-climax,mclaren,Finished,7955700,1
+1959,sebring,cooper-climax,trintignant,Finished,7956300,2
+1959,sebring,ferrari,brooks,Finished,8136600,3
+1959,sebring,cooper-climax,jack_brabham,Finished,8253000,4
+1959,sebring,team_lotus,ireland,+3 Laps,-1,5
+1959,sebring,ferrari,trips,Engine,-1,6
+1959,sebring,porsche,blanchard,+4 Laps,-1,7
+1959,sebring,ferrari,allison,Transmission,-1,8
+1959,sebring,cooper-maserati,salvadori,Transmission,-1,9
+1959,sebring,kurtis_kraft,ward,Clutch,-1,10
+1959,sebring,cooper-osca,tomaso,Brakes,-1,11
+1959,sebring,ferrari,phil_hill,Clutch,-1,12
+1959,sebring,tec-mec,orey,Oil leak,-1,13
+1959,sebring,cooper-climax,moss,Transmission,-1,14
+1959,sebring,cooper-climax,schell,Clutch,-1,15
+1959,sebring,cooper-borgward,constantine,Overheating,-1,16
+1959,sebring,team_lotus,stacey,Clutch,-1,17
+1959,sebring,connaught,said,Accident,-1,18
+1959,sebring,maserati,cade,Withdrew,-1,19

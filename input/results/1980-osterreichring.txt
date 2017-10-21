@@ -1,0 +1,26 @@
+1980,osterreichring,renault,jabouille,Finished,5175730,1
+1980,osterreichring,williams,jones,Finished,5176550,2
+1980,osterreichring,williams,reutemann,Finished,5195090,3
+1980,osterreichring,ligier,laffite,Finished,5217750,4
+1980,osterreichring,brabham,piquet,Finished,5238540,5
+1980,osterreichring,team_lotus,angelis,Finished,5238540,6
+1980,osterreichring,mclaren,prost,Finished,5269140,7
+1980,osterreichring,ferrari,gilles_villeneuve,+1 Lap,-1,8
+1980,osterreichring,renault,arnoux,+1 Lap,-1,9
+1980,osterreichring,brabham,rebaque,+1 Lap,-1,10
+1980,osterreichring,fittipaldi,emerson_fittipaldi,+1 Lap,-1,11
+1980,osterreichring,ats,surer,+1 Lap,-1,12
+1980,osterreichring,ferrari,scheckter,+1 Lap,-1,13
+1980,osterreichring,arrows,patrese,+1 Lap,-1,14
+1980,osterreichring,williams,keegan,+2 Laps,-1,15
+1980,osterreichring,fittipaldi,keke_rosberg,+2 Laps,-1,16
+1980,osterreichring,team_lotus,mansell,Engine,-1,17
+1980,osterreichring,mclaren,watson,Engine,-1,18
+1980,osterreichring,alfa,giacomelli,Wheel,-1,19
+1980,osterreichring,ligier,pironi,Handling,-1,20
+1980,osterreichring,tyrrell,jarier,Electrical,-1,21
+1980,osterreichring,osella,cheever,Wheel bearing,-1,22
+1980,osterreichring,tyrrell,daly,Brakes,-1,23
+1980,osterreichring,team_lotus,mario_andretti,Engine,-1,24
+1980,osterreichring,ensign,lammers,Did not qualify,-1,25
+1980,osterreichring,arrows,mass,Did not qualify,-1,26

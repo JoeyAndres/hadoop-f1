@@ -1,0 +1,24 @@
+2011,suzuka,mclaren,button,Finished,5453427,1
+2011,suzuka,ferrari,alonso,Finished,5454587,2
+2011,suzuka,red_bull,vettel,Finished,5455433,3
+2011,suzuka,red_bull,webber,Finished,5461498,4
+2011,suzuka,mclaren,hamilton,Finished,5477695,5
+2011,suzuka,mercedes,michael_schumacher,Finished,5480547,6
+2011,suzuka,ferrari,massa,Finished,5481667,7
+2011,suzuka,sauber,perez,Finished,5492804,8
+2011,suzuka,renault,petrov,Finished,5496034,9
+2011,suzuka,mercedes,rosberg,Finished,5497749,10
+2011,suzuka,force_india,sutil,Finished,5507874,11
+2011,suzuka,force_india,resta,Finished,5515753,12
+2011,suzuka,sauber,kobayashi,Finished,5517132,13
+2011,suzuka,williams,maldonado,Finished,5517621,14
+2011,suzuka,toro_rosso,alguersuari,Finished,5520050,15
+2011,suzuka,renault,bruno_senna,Finished,5526055,16
+2011,suzuka,williams,barrichello,Finished,5527618,17
+2011,suzuka,lotus_racing,kovalainen,Finished,5541251,18
+2011,suzuka,lotus_racing,trulli,Finished,5549567,19
+2011,suzuka,virgin,glock,+2 Laps,-1,20
+2011,suzuka,virgin,ambrosio,+2 Laps,-1,21
+2011,suzuka,hrt,ricciardo,+2 Laps,-1,22
+2011,suzuka,hrt,liuzzi,+3 Laps,-1,23
+2011,suzuka,toro_rosso,buemi,Wheel,-1,24

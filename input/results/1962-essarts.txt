@@ -1,0 +1,22 @@
+1962,essarts,porsche,gurney,Finished,7625500,1
+1962,essarts,cooper-climax,maggs,+1 Lap,-1,2
+1962,essarts,brm,ginther,+2 Laps,-1,3
+1962,essarts,cooper-climax,mclaren,+3 Laps,-1,4
+1962,essarts,lola,surtees,+3 Laps,-1,5
+1962,essarts,porsche,beaufort,+3 Laps,-1,6
+1962,essarts,lotus-climax,trintignant,+4 Laps,-1,7
+1962,essarts,lotus-climax,trevor_taylor,+6 Laps,-1,8
+1962,essarts,brm,hill,+10 Laps,-1,9
+1962,essarts,porsche,bonnier,Fuel system,-1,10
+1962,essarts,lotus-climax,clark,Suspension,-1,11
+1962,essarts,cooper,lewis,Accident,-1,12
+1962,essarts,lola,salvadori,Oil pressure,-1,13
+1962,essarts,lotus-brm,gregory,Overheating,-1,14
+1962,essarts,lotus-climax,jack_brabham,Suspension,-1,15
+1962,essarts,lotus-brm,siffert,Clutch,-1,16
+1962,essarts,lotus-climax,ireland,Puncture,-1,17
+1962,essarts,team_lotus,arundell,Withdrew,-1,18
+1962,essarts,brm,marsh,Withdrew,-1,19
+1962,essarts,porsche,davis,Withdrew,-1,20
+1962,essarts,lotus-climax,abate,Withdrew,-1,21
+1962,essarts,cooper-climax,burgess,Withdrew,-1,22

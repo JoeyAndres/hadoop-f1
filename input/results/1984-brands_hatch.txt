@@ -1,0 +1,28 @@
+1984,brands_hatch,mclaren,lauda,Finished,5368532,1
+1984,brands_hatch,renault,warwick,Finished,5410655,2
+1984,brands_hatch,toleman,senna,Finished,5431860,3
+1984,brands_hatch,team_lotus,angelis,+1 Lap,-1,4
+1984,brands_hatch,ferrari,alboreto,+1 Lap,-1,5
+1984,brands_hatch,ferrari,arnoux,+1 Lap,-1,6
+1984,brands_hatch,brabham,piquet,+1 Lap,-1,7
+1984,brands_hatch,renault,tambay,Turbo,-1,8
+1984,brands_hatch,osella,ghinzani,+3 Laps,-1,9
+1984,brands_hatch,ligier,cesaris,+3 Laps,-1,10
+1984,brands_hatch,arrows,surer,+4 Laps,-1,11
+1984,brands_hatch,alfa,patrese,+5 Laps,-1,12
+1984,brands_hatch,tyrrell,bellof,Disqualified,-1,13
+1984,brands_hatch,spirit,rothengatter,Not classified,-1,14
+1984,brands_hatch,ligier,hesnault,Electrical,-1,15
+1984,brands_hatch,mclaren,prost,Gearbox,-1,16
+1984,brands_hatch,team_lotus,mansell,Gearbox,-1,17
+1984,brands_hatch,arrows,boutsen,Electrical,-1,18
+1984,brands_hatch,williams,laffite,Water pump,-1,19
+1984,brands_hatch,ram,palmer,Accident,-1,20
+1984,brands_hatch,brabham,corrado_fabi,Electrical,-1,21
+1984,brands_hatch,ats,manfred_winkelhock,Spun off,-1,22
+1984,brands_hatch,williams,keke_rosberg,Engine,-1,23
+1984,brands_hatch,tyrrell,johansson,Disqualified,-1,24
+1984,brands_hatch,alfa,cheever,Accident,-1,25
+1984,brands_hatch,ram,alliot,Accident,-1,26
+1984,brands_hatch,osella,gartner,Accident,-1,27
+1984,brands_hatch,toleman,cecotto,Did not qualify,-1,28

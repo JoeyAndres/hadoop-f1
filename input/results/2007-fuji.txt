@@ -1,0 +1,22 @@
+2007,fuji,mclaren,hamilton,Finished,7234579,1
+2007,fuji,renault,kovalainen,Finished,7242956,2
+2007,fuji,ferrari,raikkonen,Finished,7244057,3
+2007,fuji,red_bull,coulthard,Finished,7254876,4
+2007,fuji,renault,fisichella,Finished,7273443,5
+2007,fuji,ferrari,massa,Finished,7283621,6
+2007,fuji,bmw_sauber,kubica,Finished,7283864,7
+2007,fuji,spyker,sutil,Finished,7294708,8
+2007,fuji,toro_rosso,liuzzi,Finished,7315201,9
+2007,fuji,honda,barrichello,Finished,7322921,10
+2007,fuji,honda,button,Suspension,-1,11
+2007,fuji,spyker,yamamoto,+1 Lap,-1,12
+2007,fuji,toyota,trulli,+1 Lap,-1,13
+2007,fuji,bmw_sauber,heidfeld,Technical,-1,14
+2007,fuji,super_aguri,sato,Collision,-1,15
+2007,fuji,toyota,ralf_schumacher,Puncture,-1,16
+2007,fuji,super_aguri,davidson,Throttle,-1,17
+2007,fuji,williams,rosberg,Electronics,-1,18
+2007,fuji,toro_rosso,vettel,Collision,-1,19
+2007,fuji,red_bull,webber,Collision,-1,20
+2007,fuji,mclaren,alonso,Accident,-1,21
+2007,fuji,williams,wurz,Collision,-1,22

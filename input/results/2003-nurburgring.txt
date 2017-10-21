@@ -1,0 +1,20 @@
+2003,nurburgring,williams,ralf_schumacher,Finished,5683622,1
+2003,nurburgring,williams,montoya,Finished,5700443,2
+2003,nurburgring,ferrari,barrichello,Finished,5723295,3
+2003,nurburgring,renault,alonso,Finished,5749353,4
+2003,nurburgring,ferrari,michael_schumacher,Finished,5749784,5
+2003,nurburgring,jaguar,webber,+1 Lap,-1,6
+2003,nurburgring,bar,button,+1 Lap,-1,7
+2003,nurburgring,sauber,heidfeld,+1 Lap,-1,8
+2003,nurburgring,sauber,frentzen,+1 Lap,-1,9
+2003,nurburgring,jaguar,pizzonia,+1 Lap,-1,10
+2003,nurburgring,jordan,firman,+2 Laps,-1,11
+2003,nurburgring,jordan,fisichella,+2 Laps,-1,12
+2003,nurburgring,minardi,wilson,+2 Laps,-1,13
+2003,nurburgring,minardi,verstappen,+3 Laps,-1,14
+2003,nurburgring,mclaren,coulthard,+4 Laps,-1,15
+2003,nurburgring,toyota,matta,Engine,-1,16
+2003,nurburgring,bar,villeneuve,Gearbox,-1,17
+2003,nurburgring,renault,trulli,Fuel pressure,-1,18
+2003,nurburgring,toyota,panis,Spun off,-1,19
+2003,nurburgring,mclaren,raikkonen,Engine,-1,20

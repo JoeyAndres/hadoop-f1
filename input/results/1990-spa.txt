@@ -1,0 +1,30 @@
+1990,spa,mclaren,senna,Finished,5191997,1
+1990,spa,ferrari,prost,Finished,5195547,2
+1990,spa,mclaren,berger,Finished,5220459,3
+1990,spa,benetton,nannini,Finished,5241334,4
+1990,spa,benetton,piquet,Finished,5281647,5
+1990,spa,leyton,gugelmin,Finished,5300848,6
+1990,spa,leyton,capelli,+1 Lap,-1,7
+1990,spa,tyrrell,alesi,+1 Lap,-1,8
+1990,spa,larrousse,bernard,+1 Lap,-1,9
+1990,spa,arrows,caffi,+1 Lap,-1,10
+1990,spa,team_lotus,warwick,+1 Lap,-1,11
+1990,spa,team_lotus,donnelly,+1 Lap,-1,12
+1990,spa,arrows,alboreto,+1 Lap,-1,13
+1990,spa,ligier,larini,+2 Laps,-1,14
+1990,spa,minardi,martini,+2 Laps,-1,15
+1990,spa,osella,grouillard,+2 Laps,-1,16
+1990,spa,brabham,modena,Engine,-1,17
+1990,spa,brabham,brabham,Electrical,-1,18
+1990,spa,dallara,cesaris,Engine,-1,19
+1990,spa,williams,boutsen,Transmission,-1,20
+1990,spa,ferrari,mansell,Handling,-1,21
+1990,spa,williams,patrese,Gearbox,-1,22
+1990,spa,dallara,pirro,Water leak,-1,23
+1990,spa,tyrrell,satoru_nakajima,Engine,-1,24
+1990,spa,larrousse,suzuki,Accident,-1,25
+1990,spa,minardi,barilla,Accident,-1,26
+1990,spa,ligier,alliot,Did not qualify,-1,27
+1990,spa,ags,tarquini,Did not qualify,-1,28
+1990,spa,ags,dalmas,Did not qualify,-1,29
+1990,spa,coloni,gachot,Did not qualify,-1,30

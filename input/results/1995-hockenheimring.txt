@@ -1,0 +1,24 @@
+1995,hockenheimring,benetton,michael_schumacher,Finished,4976043,1
+1995,hockenheimring,williams,coulthard,Finished,4982031,2
+1995,hockenheimring,ferrari,berger,Finished,5044140,3
+1995,hockenheimring,benetton,herbert,Finished,5059479,4
+1995,hockenheimring,sauber,boullion,+1 Lap,-1,5
+1995,hockenheimring,ligier,suzuki,+1 Lap,-1,6
+1995,hockenheimring,tyrrell,katayama,+1 Lap,-1,7
+1995,hockenheimring,pacific,montermini,+3 Laps,-1,8
+1995,hockenheimring,jordan,irvine,+4 Laps,-1,9
+1995,hockenheimring,mclaren,hakkinen,Engine,-1,10
+1995,hockenheimring,sauber,frentzen,Engine,-1,11
+1995,hockenheimring,minardi,badoer,Oil leak,-1,12
+1995,hockenheimring,pacific,lavaggi,Gearbox,-1,13
+1995,hockenheimring,forti,moreno,Halfshaft,-1,14
+1995,hockenheimring,jordan,barrichello,Engine,-1,15
+1995,hockenheimring,mclaren,blundell,Engine,-1,16
+1995,hockenheimring,ligier,panis,Water leak,-1,17
+1995,hockenheimring,ferrari,alesi,Engine,-1,18
+1995,hockenheimring,minardi,martini,Engine,-1,19
+1995,hockenheimring,footwork,inoue,Gearbox,-1,20
+1995,hockenheimring,forti,diniz,Brakes,-1,21
+1995,hockenheimring,williams,damon_hill,Spun off,-1,22
+1995,hockenheimring,tyrrell,salo,Clutch,-1,23
+1995,hockenheimring,footwork,papis,Gearbox,-1,24

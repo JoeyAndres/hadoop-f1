@@ -1,0 +1,22 @@
+2007,shanghai,ferrari,raikkonen,Finished,5878395,1
+2007,shanghai,mclaren,alonso,Finished,5888201,2
+2007,shanghai,ferrari,massa,Finished,5891286,3
+2007,shanghai,toro_rosso,vettel,Finished,5931904,4
+2007,shanghai,honda,button,Finished,5947061,5
+2007,shanghai,toro_rosso,liuzzi,Finished,5952068,6
+2007,shanghai,bmw_sauber,heidfeld,Finished,5952619,7
+2007,shanghai,red_bull,coulthard,Finished,5959145,8
+2007,shanghai,renault,kovalainen,Finished,5959581,9
+2007,shanghai,red_bull,webber,Finished,5963080,10
+2007,shanghai,renault,fisichella,Finished,5965078,11
+2007,shanghai,williams,wurz,+1 Lap,-1,12
+2007,shanghai,toyota,trulli,+1 Lap,-1,13
+2007,shanghai,super_aguri,sato,+1 Lap,-1,14
+2007,shanghai,honda,barrichello,+1 Lap,-1,15
+2007,shanghai,williams,rosberg,+2 Laps,-1,16
+2007,shanghai,spyker,yamamoto,+3 Laps,-1,17
+2007,shanghai,bmw_sauber,kubica,Hydraulics,-1,18
+2007,shanghai,mclaren,hamilton,Spun off,-1,19
+2007,shanghai,toyota,ralf_schumacher,Spun off,-1,20
+2007,shanghai,spyker,sutil,Accident,-1,21
+2007,shanghai,super_aguri,davidson,Brakes,-1,22

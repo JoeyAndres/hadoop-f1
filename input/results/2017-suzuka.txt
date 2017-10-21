@@ -1,0 +1,20 @@
+2017,suzuka,mercedes,hamilton,Finished,5251194,1
+2017,suzuka,red_bull,max_verstappen,Finished,5252405,2
+2017,suzuka,red_bull,ricciardo,Finished,5260873,3
+2017,suzuka,mercedes,bottas,Finished,5261774,4
+2017,suzuka,ferrari,raikkonen,Finished,5283816,5
+2017,suzuka,force_india,ocon,Finished,5318982,6
+2017,suzuka,force_india,perez,Finished,5322618,7
+2017,suzuka,haas,kevin_magnussen,Finished,5340147,8
+2017,suzuka,haas,grosjean,Finished,5341077,9
+2017,suzuka,williams,massa,+1 Lap,-1,10
+2017,suzuka,mclaren,alonso,+1 Lap,-1,11
+2017,suzuka,renault,jolyon_palmer,+1 Lap,-1,12
+2017,suzuka,toro_rosso,gasly,+1 Lap,-1,13
+2017,suzuka,mclaren,vandoorne,+1 Lap,-1,14
+2017,suzuka,sauber,wehrlein,+2 Laps,-1,15
+2017,suzuka,williams,stroll,Wheel,-1,16
+2017,suzuka,renault,hulkenberg,Front wing,-1,17
+2017,suzuka,sauber,ericsson,Accident,-1,18
+2017,suzuka,ferrari,vettel,Spark plugs,-1,19
+2017,suzuka,toro_rosso,sainz,Accident,-1,20

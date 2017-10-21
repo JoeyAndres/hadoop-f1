@@ -1,0 +1,30 @@
+1990,monaco,mclaren,senna,Finished,6766982,1
+1990,monaco,tyrrell,alesi,Finished,6768069,2
+1990,monaco,mclaren,berger,Finished,6769055,3
+1990,monaco,williams,boutsen,+1 Lap,-1,4
+1990,monaco,arrows,caffi,+2 Laps,-1,5
+1990,monaco,larrousse,bernard,+2 Laps,-1,6
+1990,monaco,onyx,foitek,Collision,-1,7
+1990,monaco,team_lotus,warwick,Spun off,-1,8
+1990,monaco,ferrari,mansell,Battery,-1,9
+1990,monaco,minardi,barilla,Gearbox,-1,10
+1990,monaco,onyx,lehto,Gearbox,-1,11
+1990,monaco,ligier,alliot,Gearbox,-1,12
+1990,monaco,williams,patrese,Distributor,-1,13
+1990,monaco,dallara,cesaris,Engine,-1,14
+1990,monaco,tyrrell,satoru_nakajima,Spun off,-1,15
+1990,monaco,ferrari,prost,Battery,-1,16
+1990,monaco,benetton,nannini,Gearbox,-1,17
+1990,monaco,brabham,brabham,Transmission,-1,18
+1990,monaco,leyton,capelli,Brakes,-1,19
+1990,monaco,ligier,larini,Differential,-1,20
+1990,monaco,larrousse,suzuki,Steering,-1,21
+1990,monaco,minardi,martini,Electrical,-1,22
+1990,monaco,team_lotus,donnelly,Gearbox,-1,23
+1990,monaco,brabham,modena,Transmission,-1,24
+1990,monaco,dallara,pirro,Engine,-1,25
+1990,monaco,benetton,piquet,Disqualified,-1,26
+1990,monaco,arrows,alboreto,Did not qualify,-1,27
+1990,monaco,osella,grouillard,Did not qualify,-1,28
+1990,monaco,leyton,gugelmin,Did not qualify,-1,29
+1990,monaco,eurobrun,moreno,Did not qualify,-1,30

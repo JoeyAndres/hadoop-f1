@@ -1,0 +1,25 @@
+1986,spa,williams,mansell,Finished,5277925,1
+1986,spa,team_lotus,senna,Finished,5297752,2
+1986,spa,ferrari,johansson,Finished,5301517,3
+1986,spa,ferrari,alboreto,Finished,5307559,4
+1986,spa,ligier,laffite,Finished,5348615,5
+1986,spa,mclaren,prost,Finished,5415697,6
+1986,spa,benetton,fabi,+1 Lap,-1,7
+1986,spa,brabham,patrese,+1 Lap,-1,8
+1986,spa,arrows,surer,+2 Laps,-1,9
+1986,spa,benetton,berger,+2 Laps,-1,10
+1986,spa,lola,jones,Out of fuel,-1,11
+1986,spa,tyrrell,streiff,+3 Laps,-1,12
+1986,spa,zakspeed,palmer,+6 Laps,-1,13
+1986,spa,minardi,cesaris,Out of fuel,-1,14
+1986,spa,zakspeed,rothengatter,Electrical,-1,15
+1986,spa,tyrrell,brundle,Gearbox,-1,16
+1986,spa,minardi,nannini,Gearbox,-1,17
+1986,spa,ligier,arnoux,Engine,-1,18
+1986,spa,williams,piquet,Turbo,-1,19
+1986,spa,arrows,boutsen,Electrical,-1,20
+1986,spa,team_lotus,dumfries,Spun off,-1,21
+1986,spa,mclaren,keke_rosberg,Engine,-1,22
+1986,spa,osella,ghinzani,Engine,-1,23
+1986,spa,osella,danner,Engine,-1,24
+1986,spa,lola,tambay,Accident,-1,25

@@ -1,0 +1,14 @@
+1950,spa,alfa,fangio,Finished,10046000,1
+1950,spa,alfa,fagioli,Finished,10060000,2
+1950,spa,lago,rosier,Finished,10185000,3
+1950,spa,alfa,farina,Finished,10291000,4
+1950,spa,ferrari,ascari,+1 Lap,-1,5
+1950,spa,ferrari,villoresi,+2 Laps,-1,6
+1950,spa,lago,levegh,+2 Laps,-1,7
+1950,spa,lago,claes,+3 Laps,-1,8
+1950,spa,alta,crossley,+5 Laps,-1,9
+1950,spa,maserati,branca,+6 Laps,-1,10
+1950,spa,lago,chaboud,Oil pipe,-1,11
+1950,spa,lago,sommer,Oil pressure,-1,12
+1950,spa,lago,etancelin,Overheating,-1,13
+1950,spa,lago,cabantous,Oil pipe,-1,14

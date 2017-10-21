@@ -1,0 +1,26 @@
+1979,interlagos,ligier,laffite,Finished,6009640,1
+1979,interlagos,ligier,depailler,Finished,6014920,2
+1979,interlagos,team_lotus,reutemann,Finished,6053780,3
+1979,interlagos,tyrrell,pironi,Finished,6095520,4
+1979,interlagos,ferrari,gilles_villeneuve,+1 Lap,-1,5
+1979,interlagos,ferrari,scheckter,+1 Lap,-1,6
+1979,interlagos,arrows,mass,+1 Lap,-1,7
+1979,interlagos,mclaren,watson,+1 Lap,-1,8
+1979,interlagos,arrows,patrese,+1 Lap,-1,9
+1979,interlagos,renault,jabouille,+1 Lap,-1,10
+1979,interlagos,fittipaldi,emerson_fittipaldi,+1 Lap,-1,11
+1979,interlagos,shadow,angelis,+1 Lap,-1,12
+1979,interlagos,ensign,daly,+1 Lap,-1,13
+1979,interlagos,shadow,lammers,+1 Lap,-1,14
+1979,interlagos,williams,regazzoni,+2 Laps,-1,15
+1979,interlagos,williams,jones,Fuel system,-1,16
+1979,interlagos,ats,stuck,Steering,-1,17
+1979,interlagos,renault,arnoux,Spun off,-1,18
+1979,interlagos,wolf,hunt,Steering,-1,19
+1979,interlagos,mclaren,tambay,Collision,-1,20
+1979,interlagos,brabham-alfa_romeo,lauda,Gearbox,-1,21
+1979,interlagos,brabham-alfa_romeo,piquet,Accident,-1,22
+1979,interlagos,team_lotus,mario_andretti,Fuel leak,-1,23
+1979,interlagos,tyrrell,jarier,Electrical,-1,24
+1979,interlagos,team_lotus,rebaque,Did not qualify,-1,25
+1979,interlagos,merzario,merzario,Did not qualify,-1,26

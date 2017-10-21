@@ -1,0 +1,26 @@
+1987,detroit,team_lotus,senna,Finished,6616358,1
+1987,detroit,williams,piquet,Finished,6650177,2
+1987,detroit,mclaren,prost,Finished,6661685,3
+1987,detroit,ferrari,berger,Finished,6678959,4
+1987,detroit,williams,mansell,+1 Lap,-1,5
+1987,detroit,arrows,cheever,+3 Laps,-1,6
+1987,detroit,mclaren,johansson,+3 Laps,-1,7
+1987,detroit,zakspeed,danner,+3 Laps,-1,8
+1987,detroit,brabham,patrese,+3 Laps,-1,9
+1987,detroit,ligier,arnoux,+3 Laps,-1,10
+1987,detroit,tyrrell,palmer,+3 Laps,-1,11
+1987,detroit,ags,fabre,+5 Laps,-1,12
+1987,detroit,benetton,boutsen,Brakes,-1,13
+1987,detroit,ligier,ghinzani,Clutch,-1,14
+1987,detroit,tyrrell,streiff,Wheel,-1,15
+1987,detroit,larrousse,alliot,Accident,-1,16
+1987,detroit,ferrari,alboreto,Gearbox,-1,17
+1987,detroit,minardi,nannini,Gearbox,-1,18
+1987,detroit,zakspeed,brundle,Turbo,-1,19
+1987,detroit,arrows,warwick,Accident,-1,20
+1987,detroit,march,capelli,Electrical,-1,21
+1987,detroit,benetton,fabi,Accident,-1,22
+1987,detroit,osella,caffi,Transmission,-1,23
+1987,detroit,brabham,cesaris,Gearbox,-1,24
+1987,detroit,minardi,campos,Accident,-1,25
+1987,detroit,team_lotus,satoru_nakajima,Accident,-1,26

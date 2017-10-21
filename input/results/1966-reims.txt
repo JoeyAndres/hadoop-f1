@@ -1,0 +1,17 @@
+1966,reims,brabham-repco,jack_brabham,Finished,6511300,1
+1966,reims,ferrari,parkes,Finished,6520800,2
+1966,reims,brabham-repco,hulme,+2 Laps,-1,3
+1966,reims,cooper-maserati,rindt,+2 Laps,-1,4
+1966,reims,eagle-climax,gurney,+3 Laps,-1,5
+1966,reims,brabham-brm,taylor,+3 Laps,-1,6
+1966,reims,brabham-climax,anderson,+4 Laps,-1,7
+1966,reims,cooper-maserati,amon,+4 Laps,-1,8
+1966,reims,cooper-maserati,ligier,Not classified,-1,9
+1966,reims,lotus-climax,rodriguez,Oil leak,-1,10
+1966,reims,ferrari,bandini,Not classified,-1,11
+1966,reims,brabham-climax,bonnier,Not classified,-1,12
+1966,reims,brm,hill,Engine,-1,13
+1966,reims,cooper-maserati,siffert,Fuel system,-1,14
+1966,reims,lotus-brm,spence,Clutch,-1,15
+1966,reims,cooper-maserati,surtees,Fuel system,-1,16
+1966,reims,lotus-brm,arundell,Gearbox,-1,17

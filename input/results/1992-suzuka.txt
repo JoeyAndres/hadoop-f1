@@ -1,0 +1,26 @@
+1992,suzuka,williams,patrese,Finished,5589533,1
+1992,suzuka,mclaren,berger,Finished,5603262,2
+1992,suzuka,benetton,brundle,Finished,5665036,3
+1992,suzuka,tyrrell,cesaris,+1 Lap,-1,4
+1992,suzuka,ferrari,alesi,+1 Lap,-1,5
+1992,suzuka,minardi,fittipaldi,+1 Lap,-1,6
+1992,suzuka,jordan,modena,+1 Lap,-1,7
+1992,suzuka,footwork,suzuki,+1 Lap,-1,8
+1992,suzuka,dallara,lehto,+1 Lap,-1,9
+1992,suzuka,dallara,martini,+1 Lap,-1,10
+1992,suzuka,larrousse,katayama,+1 Lap,-1,11
+1992,suzuka,ferrari,larini,+1 Lap,-1,12
+1992,suzuka,march,naspetti,+2 Laps,-1,13
+1992,suzuka,minardi,morbidelli,+2 Laps,-1,14
+1992,suzuka,footwork,alboreto,+2 Laps,-1,15
+1992,suzuka,williams,mansell,Engine,-1,16
+1992,suzuka,team_lotus,hakkinen,Engine,-1,17
+1992,suzuka,larrousse,gachot,Collision,-1,18
+1992,suzuka,ligier,comas,Engine,-1,19
+1992,suzuka,march,lammers,Clutch,-1,20
+1992,suzuka,jordan,gugelmin,Spun off,-1,21
+1992,suzuka,team_lotus,herbert,Gearbox,-1,22
+1992,suzuka,benetton,michael_schumacher,Gearbox,-1,23
+1992,suzuka,tyrrell,grouillard,Spun off,-1,24
+1992,suzuka,ligier,boutsen,Gearbox,-1,25
+1992,suzuka,mclaren,senna,Engine,-1,26

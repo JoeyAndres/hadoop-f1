@@ -1,0 +1,18 @@
+1968,spa,mclaren-ford,mclaren,Finished,6002100,1
+1968,spa,brm,rodriguez,Finished,6014200,2
+1968,spa,ferrari,ickx,Finished,6041700,3
+1968,spa,matra-ford,stewart,Out of fuel,-1,4
+1968,spa,lotus-ford,oliver,Transmission,-1,5
+1968,spa,cooper-brm,bianchi,+2 Laps,-1,6
+1968,spa,lotus-ford,siffert,Oil pressure,-1,7
+1968,spa,matra,beltoise,+3 Laps,-1,8
+1968,spa,brm,courage,Engine,-1,9
+1968,spa,mclaren-ford,hulme,Halfshaft,-1,10
+1968,spa,honda,surtees,Suspension,-1,11
+1968,spa,ferrari,amon,Radiator,-1,12
+1968,spa,cooper-brm,redman,Spun off,-1,13
+1968,spa,brm,attwood,Oil pipe,-1,14
+1968,spa,brabham-repco,jack_brabham,Throttle,-1,15
+1968,spa,lotus-ford,hill,Halfshaft,-1,16
+1968,spa,brabham-repco,rindt,Engine,-1,17
+1968,spa,mclaren-brm,bonnier,Wheel,-1,18

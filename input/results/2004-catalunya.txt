@@ -1,0 +1,20 @@
+2004,catalunya,ferrari,michael_schumacher,Finished,5252841,1
+2004,catalunya,ferrari,barrichello,Finished,5266131,2
+2004,catalunya,renault,trulli,Finished,5285135,3
+2004,catalunya,renault,alonso,Finished,5285793,4
+2004,catalunya,bar,sato,Finished,5295168,5
+2004,catalunya,williams,ralf_schumacher,Finished,5326645,6
+2004,catalunya,sauber,fisichella,Finished,5329949,7
+2004,catalunya,bar,button,+1 Lap,-1,8
+2004,catalunya,sauber,massa,+1 Lap,-1,9
+2004,catalunya,mclaren,coulthard,+1 Lap,-1,10
+2004,catalunya,mclaren,raikkonen,+1 Lap,-1,11
+2004,catalunya,jaguar,webber,+1 Lap,-1,12
+2004,catalunya,toyota,matta,+1 Lap,-1,13
+2004,catalunya,jordan,pantano,Steering,-1,14
+2004,catalunya,williams,montoya,Brakes,-1,15
+2004,catalunya,jaguar,klien,Throttle,-1,16
+2004,catalunya,toyota,panis,Hydraulics,-1,17
+2004,catalunya,jordan,heidfeld,Hydraulics,-1,18
+2004,catalunya,minardi,bruni,Spun off,-1,19
+2004,catalunya,minardi,baumgartner,Spun off,-1,20

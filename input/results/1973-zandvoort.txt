@@ -1,0 +1,24 @@
+1973,zandvoort,tyrrell,stewart,Finished,5952450,1
+1973,zandvoort,tyrrell,cevert,Finished,5968280,2
+1973,zandvoort,march,hunt,Finished,6015460,3
+1973,zandvoort,mclaren,revson,Finished,6021580,4
+1973,zandvoort,brm,beltoise,Finished,6025820,5
+1973,zandvoort,iso_marlboro,lennep,+2 Laps,-1,6
+1973,zandvoort,surtees,pace,+3 Laps,-1,7
+1973,zandvoort,brm,regazzoni,+4 Laps,-1,8
+1973,zandvoort,iso_marlboro,ganley,+4 Laps,-1,9
+1973,zandvoort,shadow,follmer,+5 Laps,-1,10
+1973,zandvoort,team_lotus,peterson,Engine,-1,11
+1973,zandvoort,shadow,hill,Not classified,-1,12
+1973,zandvoort,brm,lauda,Fuel pump,-1,13
+1973,zandvoort,surtees,hailwood,Electrical,-1,14
+1973,zandvoort,mclaren,hulme,Engine,-1,15
+1973,zandvoort,brabham,wilson_fittipaldi,Accident,-1,16
+1973,zandvoort,tecno,amon,Fuel system,-1,17
+1973,zandvoort,brabham,reutemann,Tyre,-1,18
+1973,zandvoort,march,purley,Withdrew,-1,19
+1973,zandvoort,march,williamson,Accident,-1,20
+1973,zandvoort,team_lotus,emerson_fittipaldi,Physical,-1,21
+1973,zandvoort,march,beuttler,Electrical,-1,22
+1973,zandvoort,shadow,oliver,Accident,-1,23
+1973,zandvoort,ensign,opel,Withdrew,-1,24
