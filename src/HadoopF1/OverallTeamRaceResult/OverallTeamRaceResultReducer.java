@@ -1,4 +1,4 @@
-package HadoopF1.MostTeamFinished;
+package HadoopF1.OverallTeamRaceResult;
 
 import java.io.IOException;
 
@@ -6,7 +6,7 @@ import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
 
-public class MostTeamFinishedReducer extends Reducer<Text, IntWritable, Text, IntWritable> {
+public class OverallTeamRaceResultReducer extends Reducer<Text, IntWritable, Text, IntWritable> {
 
 	@Override
 	public void reduce(Text key, Iterable<IntWritable> values, Context context)

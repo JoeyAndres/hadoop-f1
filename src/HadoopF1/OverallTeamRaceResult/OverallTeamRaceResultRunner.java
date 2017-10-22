@@ -1,4 +1,4 @@
-package HadoopF1.MostTeamFinished;
+package HadoopF1.OverallTeamRaceResult;
 
 import org.apache.hadoop.conf.Configured;
 import org.apache.hadoop.fs.Path;
@@ -10,7 +10,7 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
 
-public class MostTeamFinishedRunner extends Configured implements Tool {
+public class OverallTeamRaceResultRunner extends Configured implements Tool {
 	
 	@Override
 	public int run(String[] args) throws Exception {
@@ -20,14 +20,14 @@ public class MostTeamFinishedRunner extends Configured implements Tool {
 		}
 
 		Job job = new Job();
-		job.setJarByClass(MostTeamFinishedRunner.class);
+		job.setJarByClass(OverallTeamRaceResultRunner.class);
 		job.setJobName("Max temperature");
 
 		FileInputFormat.addInputPath(job, new Path(args[0]));
 		FileOutputFormat.setOutputPath(job, new Path(args[1]));
 
-		job.setMapperClass(MostTeamFinishedMapper.class);
-		job.setReducerClass(MostTeamFinishedReducer.class);
+		job.setMapperClass(OverallTeamRaceResultMapper.class);
+		job.setReducerClass(OverallTeamRaceResultReducer.class);
 
 		job.setOutputKeyClass(Text.class);
 		job.setOutputValueClass(IntWritable.class);
@@ -36,7 +36,7 @@ public class MostTeamFinishedRunner extends Configured implements Tool {
 	}
 	
 	public static void main(String[] args) throws Exception {
-	    int exitCode = ToolRunner.run(new MostTeamFinishedRunner(), args);
+	    int exitCode = ToolRunner.run(new OverallTeamRaceResultRunner(), args);
 	    System.exit(exitCode);
 	}
 }
